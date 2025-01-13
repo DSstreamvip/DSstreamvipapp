@@ -8428,13 +8428,13 @@ https://keralamaxtv.com/sliv/stream.php?id=75&e=.m3u8|Referer=https://keralamaxt
 https://keralamaxtv.com/sliv/stream.php?id=1378&e=.m3u8|Referer=https://keralamaxtv.com//&key=Cikwoilah
 
 #EXTINF:-1 group-title="[DS] MOVIES" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png",Sony Pix
-https://keralamaxtv.com/sliv/stream.php?id=785&e=.m3u8|Referer=https://keralamaxtv.com//&key=Cikwoilah
+http://megaott.live:8080/5Bjh2qUxwXhz/sMH6SaRG72HT/104670
 
 #EXTINF:-1 group-title="[DS] MOVIES" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png",Sony Yay
 https://keralamaxtv.com/sliv/stream.php?id=168569&e=.m3u8|Referer=https://keralamaxtv.com//&key=Cikwoilah
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="[DS] MOVIES",SONY PIX
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115705
+http://megaott.live:8080/5Bjh2qUxwXhz/sMH6SaRG72HT/104670
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="[DS] MOVIES",SONY PIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
