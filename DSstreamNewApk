@@ -617,7 +617,7 @@ https://why.biz.id/Iptv/rooid.php/stream.mpd?id=17622
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e664e18c789acf018b8e2153336781d1:090c081c13d7811a8e147797c54a9b43
-https://why.biz.id/Iptv/rooid.php/stream.mpd?id=17623  
+https://tvpull.careryun.com/live/ballbar_16680.m3u8  
 
 #EXTINF:-1 tvg-id="13318476" tvg-name="3783" tvg-logo="https://api.sofascore.app/api/v1/event/13318476/share-image/16x9" group-title="[LIVE EVENT]",REAL MADRID VS BARCELONA [SUPERCOPA DE ESPAñA] - 02:00 - (13/01/2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
