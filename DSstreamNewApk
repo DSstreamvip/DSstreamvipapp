@@ -601,13 +601,23 @@ Tidak Ada File
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzfK0nlOpc8ADUaom1Kh8poh2qgaB6XH3XomTujBIKMTVWRpFYzl6ZIcQVRSD6OE2XKVjdawI6F4hWm_TVKyuj0SdLaDy7BZQf6aRaqmAJQJR4rAuFtk-ORBlyPtfrvRsbNLJRimOFXuM0q7EJ1vhyphenhyphen4PPuJrE4tu83WPlOQTn5KQFLk-_I1QY6PWSbVDQ/s640/1000027562.jpg", group-title="[LIVE EVENT]", BALI UNITED🆚PERSIK KEDIRI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiefk_IAvgtw3-ZfM99B1-ZL_cdZBUZPjmfJIC0qyJuvQVnCGHIt1kTQMV361_dp6qDIgxuGSfj7VkF0yBmWzHK0_M6g_f8Osxpoqr3sVHqLSygj3QlFM8jUmGdt0E-J-7M34AOwl5e4C1_VYV8PDpz2t9WSnlrSj_ByPa4oX29ZbRdGQx0WnqgnIqfc0U/s275/1000028164.jpg", group-title="[LIVE EVENT]",Persis Solo🆚PSM Makasar - 7.00Pm_#1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
+https://why.biz.id/Iptv/rooid3.php/stream.mpd?id=205
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiefk_IAvgtw3-ZfM99B1-ZL_cdZBUZPjmfJIC0qyJuvQVnCGHIt1kTQMV361_dp6qDIgxuGSfj7VkF0yBmWzHK0_M6g_f8Osxpoqr3sVHqLSygj3QlFM8jUmGdt0E-J-7M34AOwl5e4C1_VYV8PDpz2t9WSnlrSj_ByPa4oX29ZbRdGQx0WnqgnIqfc0U/s275/1000028164.jpg", group-title="[LIVE EVENT]",Persis Solo🆚PSM Makasar - 7.00Pm_#2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c63ef11648fcdd4ad4ea91c1effa91ba:8ecf85e6b1c663162e3f584d111ea30e
 https://why.biz.id/Iptv/rooid.php/stream.mpd?id=17622
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiefk_IAvgtw3-ZfM99B1-ZL_cdZBUZPjmfJIC0qyJuvQVnCGHIt1kTQMV361_dp6qDIgxuGSfj7VkF0yBmWzHK0_M6g_f8Osxpoqr3sVHqLSygj3QlFM8jUmGdt0E-J-7M34AOwl5e4C1_VYV8PDpz2t9WSnlrSj_ByPa4oX29ZbRdGQx0WnqgnIqfc0U/s275/1000028164.jpg", group-title="[LIVE EVENT]",Persis Solo🆚PSM Makasar - 7.00Pm_#3  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e664e18c789acf018b8e2153336781d1:090c081c13d7811a8e147797c54a9b43
+https://why.biz.id/Iptv/rooid.php/stream.mpd?id=17623  
 
 #EXTINF:-1 tvg-id="13318476" tvg-name="3783" tvg-logo="https://api.sofascore.app/api/v1/event/13318476/share-image/16x9" group-title="[LIVE EVENT]",REAL MADRID VS BARCELONA [SUPERCOPA DE ESPAñA] - 02:00 - (13/01/2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
