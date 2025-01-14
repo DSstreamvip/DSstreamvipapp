@@ -714,7 +714,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/o
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5269ab07e6a6db7585324ae20542f191:dba0dccffba1b26f658ec85a616102e8
-https://strm.yandex.ru/kal/match_football1_hd/manifest.mpd
+https://play1nm.hnyongshun.cn/live/ballbar_19900.m3u8
 
 #EXTINF:-1 tvg-id="12504624" tvg-name="424" tvg-logo="https://api.sofascore.app/api/v1/event/12504624/share-image/16x9" group-title="[LIVE EVENT]",ATALANTA VS JUVENTUS [SERIE A] - 02:45 - (15/01/2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
