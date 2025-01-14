@@ -598,57 +598,154 @@
 Tidak Ada File
 
 
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYP-MedUE-nLlrUrq-yps6w3ztNkKT8Ch1tOAD8rejDga2de4Jrkvxa-udmCgUYOMGxIDO5lEoeBui_IuZA_B2XA6DHJAnczSWOVlxDH-vb7d1sXwf6GjObnGOdGz95JSlt4eq1o9lrlGCPFBUT8wMRtxMBdbBFwPveVAZpTMH67vLU0VczhSBrz6O64o/s300/1000029480.jpg" group-title="[🔴LIVE 14/15 JANUARI]",🏐 VOLLEYBALL KOREA (PRIA)-17:00 WIB
-https://thedream.biz.id/southkoreanbyfufufafa/naver.php/stream.m3u8?id=20250114021M139
 
 
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis8omh92VEglE7KsEeu10qnd3Ef1BvH05p_7OqtEzNk_udsP2ovOsJGGQuaIZhURaO5Ol7u_31FBU3ywlTX6jBo2M6NkXEva5pJFl2JP0L7P3jF30_tIU4Drbb6N9iNAG5I3lgRRRfDba1OYF7OQUNFnpS97iWgXI1mMSqbkaFU8HpexxMmiWmDt343qY/s712/1000029481.jpg" group-title="[🔴LIVE 14/15 JANUARI]",🏐 VOLLEYBALL KOREA (WANITA)-17:00 WIB
-https://thedream.biz.id/southkoreanbyfufufafa/naver.php/stream.m3u8?id=20250114021F140
+#EXTM3U
 
 
 
 
-
-#EXTINF:-1 tvg-id="13318476" tvg-name="3783" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEaV7cxpc8SvWIAVI22TAre1Hky6spiNOAsEDCDrZpBK9gFnK86AEnU6eqU7iVyR0CgVXm1meKX8oUhozrx8rhKeemaXLYOFLcqay4GElsCxAw7N98n1i3ZLV2g-5zFcAXdMo3C7pRZbiuivWwgVvAfMZZj4ot1uRkbDZGIPBRC-RwM4QLHqMbQNCGqKE/s290/1000028170.jpg" group-title="[🔴LIVE 14/15 JANUARI]",BORNEO🆚SEMEN PADANG - 7.00PM #1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 group-logo="https://www.otaro.co.th/assets/img/live_streaming_1.png"
+#EXTINF:-1 tvg-id="12436436" tvg-name="129" tvg-logo="https://api.sofascore.app/api/v1/event/12436436/share-image/16x9" group-title="[LIVE EVENT]",BRENTFORD VS MAN CITY [PREMIER LEAGUE] - 02:30 - (15/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://why.biz.id/Iptv/rooid3.php/stream.mpd?id=205
-
-#EXTINF:-1 tvg-id="13318476" tvg-name="3507" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1RhS5hdsnbe6qJP9F1HzoZIQLeYUum6Nna1wq-FfhSXUG8qIK89soQb1KMp3eXfOMYqHwFW0Atkwf4VuVueC71Jlhv2ohBhHbyE0H7ertCTBXxvDpTnmsCLFxLu2XZPtJfisyQGg22VrR9VLVYSUQVNMvzzL1fc_tPWiJcwNRKSCA9RybPZRNh9tPVRA/s299/1000028171.jpg" group-title="[🔴LIVE 14/15 JANUARI]",PERTH GLORY🆚WESTERN SYDNEY - 5.45PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0be3d503dba13fc9a9c8ad4b89f599e6:578c2231c526c5e9eb415411e36871bf
-http://vipdikili.top:8080/VIP01745172330867393/953b13b15263/1687
-
-
-#EXTINF:-1 group-title="[🔴LIVE 14/15 JANUARI]" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1P8aZ34t15Az7K6KyAF1d8HWSYCP-yIB89Rg-dzNjbsqFoHHbmJ1qQ9Mo38Ib0u-5hOICApRAF0U8RuaUPGbgK73CNVjLo33DtAQdYOC18jZ9F-YNSzIgXgvBXK0feSwRaZ5USjmPi3VE07RQr4LQrAVYJL-rVbeBexhtv4aJmYo8WnEQfxQMvDI-t7U/s299/1000028167.jpg",BRENTFORD🆚MAN CITY - 2.30PM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNDU4MTczMDYiLCJyZWZyZXNoX3Rva2VuIjoiU0ZOUnA3U0pGV1BtWVVLdnRWcE9VQWJBQm5Nc1M2WTZoUnl3VERKY2hWXC9zVHlabFl5UWxlWXJsM3BYUUFvZWt1UGM5T0hrMVRaTmxUOFhuUzg0QVpEeEV1REFnbFwvT0hzSXNpckxONnJiOXZ5MDNNQjdiVGtWUG1EYU5SYWpDV1d4Q3hNQkc5N094SHFDWVJnbE1ONWJCT3FQQ0xCd0dOdWZJd1hCbXlGSlo5cXlRd05CS3hOZ2txd2JsTXlBOXg3Sk1oZGd6cEhJRDFYUTVKenBhS2lsY3VSQVVuQTRUWG41NmxFaU9tMkNlXC9hN3JIUTJwQk5jZzdkaitwYmNyUzBxSCtsaXJTaFNnSnNTSHZBR0c5TzFGUkdTek9NY2MwRTk1RTdyZVZQN2JDK0pvKzREZ0Z6OFg2aWRyVHhcL05aIn0=
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-052/stream.mpd
 
+#EXTINF:-1 tvg-id="12436436" tvg-name="6079" tvg-logo="https://api.sofascore.app/api/v1/event/12436436/share-image/16x9" group-title="[LIVE EVENT]",BRENTFORD VS MAN CITY [PREMIER LEAGUE] - 02:30 - (15/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-054/stream.mpd
 
-#EXTINF:-1 tvg-id="12437823" tvg-name="3785" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyQdDowjJHD6AJ3GX_nrGGuVXkleANnYT0gxUe_8yDp6bDu9nQocZHqO5J4EOhtL8UuuZIE2v03peI1qs0Gu3W4gMBZN5YWyhcLIE7_X8bjKTz7PALlDwg4CaPgU769R9rMFEqhu12lDa2Ix0ZgTD1XVQ9Ljrc_XxQxMQKdrQ0_Qur-pA7njK3ZxAdJxA/s290/1000028168.jpg" group-title="[🔴LIVE 14/15 JANUARI]",ATALANTA🆚JUVENTUS - 2.45AM
+#EXTINF:-1 tvg-id="12436436" tvg-name="430" tvg-logo="https://api.sofascore.app/api/v1/event/12436436/share-image/16x9" group-title="[LIVE EVENT]",BRENTFORD VS MAN CITY [PREMIER LEAGUE] - 02:30 - (15/01/2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-http://vipdikili.top:8080/VIP01745172330867393/953b13b15263/2992
+https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
 
-
-#EXTINF:-1 group-title="[🔴LIVE 14/15 JANUARI]" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqdD63iqSaTGqP1MuJqxJFxwKuDAVb8ovdipjbI4g3Wy5nNJE77f54t3k5GK1Zq7m_7bJGcCh8-kMIOQ4GTaYwCXdoTsvaBQAamxleplQVyXjHc8bYQd4bMSb3yCwXRtpXb37ylgnBdLbD9SqxkL_ADOA1n_u1amZnEqDz8tJ-IV5_aQ8ZX_qZAybRm_I/s290/1000028169.jpg",COMO🆚MILAN - 12.30AM
+#EXTINF:-1 tvg-id="12436436" tvg-name="3247" tvg-logo="https://api.sofascore.app/api/v1/event/12436436/share-image/16x9" group-title="[LIVE EVENT]",BRENTFORD VS MAN CITY [PREMIER LEAGUE] - 02:30 - (15/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yhjkrf.site/chunklist/hlsch5.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDI1IDk6MTcKCjo1MwoKIEFNJmhhc2hfdmFsdWU9aUYxWTV4TFhIYzVjOTZiUVFmNlkvdz09JnZhbGlkbWludXRlcz03MjAmaWQ9MzYuNzkuMjE4LjE5MyZzdHJtX2xlbj01
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-038/stream.mpd
 
-
-#EXTINF:-1 tvg-id="WELINGTON PHOENIK🆚SYDNEY FC - 1.00PM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEib1DGEa8nVCvXTyxz7n_oZ7UxU_z6KxoXtkVRZEHL_qY72jYqL4HVeSZUXPK7K3HWq2Xzu2dHOBlnLBXk6t98Wi2yC8Wqd9cqWqM4ICoXzUPeO5_K2VPx3YEhBD2pGEu8DgeX33S14bweutS-CyrCloNMGGsNLD7ioTyDPHtVTknAHXvYFB0rd8nIQOTc/s299/1000028165.png" group-title="[🔴LIVE 14/15 JANUARI]",WELINGTON PHOENIK🆚SYDNEY FC - 1.00PM
+#EXTINF:-1 tvg-id="12436436" tvg-name="5439" tvg-logo="https://api.sofascore.app/api/v1/event/12436436/share-image/16x9" group-title="[LIVE EVENT]",BRENTFORD VS MAN CITY [PREMIER LEAGUE] - 02:30 - (15/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMjk1Mzc0MDgiLCJyZWZyZXNoX3Rva2VuIjoielkyWExcL1dBTDNSQU1uUXl2a0NqcEtnRmVXMEk0QklVY0paXC93c2hWQTBPSXJ2UFBSZDJcL3hcL0JFMVFFNEpudUpzNnhNdnpJbmxrVlZYOXlMRDhlS0NJVzRydjJRS2J0T1l2ZnUxQkxvNlNIWXdaMTVGbFZhZXlicFBUNkJrWDZUVzVVdmtrbGdvU2UzdFpObjJGUXJkNStsTktUd09zcElLTXdkVGlIeUpwaElUSW0yTG1ZSnVoVzVUS0ZMekVpYUxLXC91bkl4Y1FBeGNKQUJDU1VDQ2c5M3ZHMGFzWWtYZm1EaFVPaHRzNFd1OEsyMVV6SWdXbGhBc1JcL2xQY25tZVNWZlwvRTQ5bWdsK3NTdXY1bHFmdTk2ZFZWQ3JaT3ZcL1wvam9pa0tQMVBmMGg2Rm5pWGQ1K2NIXC9leXpYaUZlZFF4In0=
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 tvg-id="12436531" tvg-name="6080" tvg-logo="https://api.sofascore.app/api/v1/event/12436531/share-image/16x9" group-title="[LIVE EVENT]",CHELSEA VS BOURNEMOUTH [PREMIER LEAGUE] - 02:30 - (15/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-056/stream.mpd
+
+#EXTINF:-1 tvg-id="12436531" tvg-name="432" tvg-logo="https://api.sofascore.app/api/v1/event/12436531/share-image/16x9" group-title="[LIVE EVENT]",CHELSEA VS BOURNEMOUTH [PREMIER LEAGUE] - 02:30 - (15/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
+
+#EXTINF:-1 tvg-id="12436531" tvg-name="3340" tvg-logo="https://api.sofascore.app/api/v1/event/12436531/share-image/16x9" group-title="[LIVE EVENT]",CHELSEA VS BOURNEMOUTH [PREMIER LEAGUE] - 02:30 - (15/01/2025)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
+
+#EXTINF:-1 tvg-id="12436531" tvg-name="5441" tvg-logo="https://api.sofascore.app/api/v1/event/12436531/share-image/16x9" group-title="[LIVE EVENT]",CHELSEA VS BOURNEMOUTH [PREMIER LEAGUE] - 02:30 - (15/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 tvg-id="12436509" tvg-name="6081" tvg-logo="https://api.sofascore.app/api/v1/event/12436509/share-image/16x9" group-title="[LIVE EVENT]",WEST HAM VS FULHAM [PREMIER LEAGUE] - 02:30 - (15/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-057/stream.mpd
+
+#EXTINF:-1 tvg-id="12436509" tvg-name="433" tvg-logo="https://api.sofascore.app/api/v1/event/12436509/share-image/16x9" group-title="[LIVE EVENT]",WEST HAM VS FULHAM [PREMIER LEAGUE] - 02:30 - (15/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
+
+#EXTINF:-1 tvg-id="12436509" tvg-name="3342" tvg-logo="https://api.sofascore.app/api/v1/event/12436509/share-image/16x9" group-title="[LIVE EVENT]",WEST HAM VS FULHAM [PREMIER LEAGUE] - 02:30 - (15/01/2025)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
+
+#EXTINF:-1 tvg-id="12436526" tvg-name="128" tvg-logo="https://api.sofascore.app/api/v1/event/12436526/share-image/16x9" group-title="[LIVE EVENT]",FOREST VS LIVERPOOL [PREMIER LEAGUE] - 03:00 - (15/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-051/stream.mpd
+
+#EXTINF:-1 tvg-id="12436526" tvg-name="6078" tvg-logo="https://api.sofascore.app/api/v1/event/12436526/share-image/16x9" group-title="[LIVE EVENT]",FOREST VS LIVERPOOL [PREMIER LEAGUE] - 03:00 - (15/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-054/stream.mpd
+
+#EXTINF:-1 tvg-id="12436526" tvg-name="3248" tvg-logo="https://api.sofascore.app/api/v1/event/12436526/share-image/16x9" group-title="[LIVE EVENT]",FOREST VS LIVERPOOL [PREMIER LEAGUE] - 03:00 - (15/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-037/stream.mpd
+
+#EXTINF:-1 tvg-id="12436526" tvg-name="5430" tvg-logo="https://api.sofascore.app/api/v1/event/12436526/share-image/16x9" group-title="[LIVE EVENT]",FOREST VS LIVERPOOL [PREMIER LEAGUE] - 03:00 - (15/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="novasports4.gr" tvg-name="novasport.gr" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPk5XsKKOJEZCM0dB5vR6WbqCkgl9WpFsq53cqDrAhF79v0oITPp8I3BuHgSroDokV5tgOwPd9zyKxMOcD8rFTrUWrJLjidCFJCpZbKLJkzvf6XsGMj-AD4ph_qxptEhlz1Jp79K5C73VhxbIP1Gn75MZ_igEbqNxtBLVnjYRKlLv5JgNtzqmTg-3EZ0U/s299/1000028172.jpg" group-title="[🔴LIVE 14/15 JANUARI]",LEVERKUSEN🆚MAINZ - 2.30AM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.onlinehdhls.ru/lb/premium634/index.m3u8|Origin=https://lewblivehdplay.ru
+#EXTINF:-1 tvg-id="12504625" tvg-name="424" tvg-logo="https://api.sofascore.app/api/v1/event/12504625/share-image/16x9" group-title="[LIVE EVENT]",COMO VS MILAN [SERIE A] - 00:30 - (15/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5269ab07e6a6db7585324ae20542f191:dba0dccffba1b26f658ec85a616102e8
+https://strm.yandex.ru/kal/match_football1_hd/manifest.mpd
+
+#EXTINF:-1 tvg-id="12504624" tvg-name="424" tvg-logo="https://api.sofascore.app/api/v1/event/12504624/share-image/16x9" group-title="[LIVE EVENT]",ATALANTA VS JUVENTUS [SERIE A] - 02:45 - (15/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5269ab07e6a6db7585324ae20542f191:dba0dccffba1b26f658ec85a616102e8
+https://strm.yandex.ru/kal/match_football1_hd/manifest.mpd
+
+#EXTINF:-1 tvg-id="12499682" tvg-name="6078" tvg-logo="https://api.sofascore.app/api/v1/event/12499682/share-image/16x9" group-title="[LIVE EVENT]",KIEL VS DORTMUND [BUNDESLIGA] - 00:30 - (15/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-054/stream.mpd
+
+#EXTINF:-1 tvg-id="12499653" tvg-name="6082" tvg-logo="https://api.sofascore.app/api/v1/event/12499653/share-image/16x9" group-title="[LIVE EVENT]",LEVERKUSEN VS MAINZ 05 [BUNDESLIGA] - 02:30 - (15/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-058/stream.mpd
+
+#EXTINF:-1 tvg-id="13315899" tvg-name="425" tvg-logo="https://api.sofascore.app/api/v1/event/13315899/share-image/16x9" group-title="[LIVE EVENT]",OURENSE VS VALENCIA [COPA DEL REY] - 03:00 - (15/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56f7dcb5d20eeed212ff58620acb8931:76e139c0676ed2d7ae46392ce6fd9e89
+https://strm.yandex.ru/kal/match_football2_hd/manifest.mpd
+
 
 
 
