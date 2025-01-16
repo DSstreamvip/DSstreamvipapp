@@ -685,7 +685,13 @@ https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
 
 
 
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfk7LneNbxXXtSfOGblh1XKWxJonCR1bzcWg&amp;usqp=CAU" group-title="[🔴LIVE EVENT 16 JAN]",🏐AI Chili Peppers Gwangju 🆚 Heungkuk Pink Spiders Co-Women (16-1-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://why.biz.id/Iptv/naver.php/stream.m3u8?id=20250116021F144
 
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfk7LneNbxXXtSfOGblh1XKWxJonCR1bzcWg&amp;usqp=CAU" group-title="[🔴LIVE EVENT 16 JAN]",🏐KB Stars 🆚Ansan OK저축은행 - Men (16-1-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://why.biz.id/Iptv/naver.php/stream.m3u8?id=20250116021M143
 
 
 
