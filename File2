@@ -685,24 +685,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
 
 
 
-#EXTINF:-1 tvg-id="TV KveG" group-title="🔴LIVE HARI INI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMlYmm1Lg2nAwBkXqB2PgwhMesoGWAPcgAkaNYtSpUh5t_kzU21j5i65kC&amp;s=10" group-logo="",Margaret Court Arena - 15:00 WIB 16-01-2025
-#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mastertv.tech/towels.m3u8?id=1629421895
 
-#EXTINF:-1 tvg-id="TV KING" group-title="🔴LIVE HARI INI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMlYmm1Lg2nAwBkXqB2PgwhMesoGWAPcgAkaNYtSpUh5t_kzU21j5i65kC&amp;s=10" group-logo="",Court 2 - 10:30 WIB 16-01-2025
-#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mastertv.tech/towels.m3u8?id=1629421883
-#EXTINF:-1 tvg-id="TV KING" group-title="🔴LIVE HARI INI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMlYmm1Lg2nAwBkXqB2PgwhMesoGWAPcgAkaNYtSpUh5t_kzU21j5i65kC&amp;s=10" group-logo="",Court 3 - 10:30 WIB 16-01-2025
-#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mastertv.tech/towels.m3u8?id=1629421884
-
-#EXTINF:-1 tvg-id="TV KING" group-title="🔴LIVE HARI INI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMlYmm1Lg2nAwBkXqB2PgwhMesoGWAPcgAkaNYtSpUh5t_kzU21j5i65kC&amp;s=10" group-logo="",UAE WARRIORS 56 - 22:00 WIB 16-01-2025
-#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mastertv.tech/towels.m3u8?id=1629421897
 
 
 
@@ -13947,3 +13930,29 @@ https://thedream.biz.id/gevolmagtigdes/prokci.php/https://live-dash-cdn7-vp.cdn.
 #KODIPROP:inputstream.adaptive.license_key=ed13357e76665e68ba3e7a7486b1d84c:6811b7141d9712bf9a07685a6a9f71fd
 #EXTINF:-1 group-title="[DS] SPORT-VIP👑" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", Viaplay Extra 101
 https://thedream.biz.id/gevolmagtigdes/prokci.php/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra101/xtra101.isml/index.mpd|X-Forwarded-For=13.106.174.0
+
+
+
+
+
+
+
+
+===================================================DS MOVIE================================
+
+
+
+
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-NNainm0PaOY0hjI_iByNQ3bXiUO8t4pb3A&amp;usqp=CAU" group-title="[🎬DS-MOVIE]",Sekawan Limo
+https://be4235.rcr32.ams02.cdn255.com/hls2/02/07302/1s09unccm96b_h/master.m3u8?t=XzJ7m-5trTNNqKiTR7dx9v1e9Rei1X634wSJrItu2j4&s=1737047469&e=10800&f=37084017&srv=27&asn=7713&sp=4000&p=
+
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5GLyLygLUhyDE6G_562nxd_jKy7IvCakKhQ&amp;usqp=CAU" group-title="[🎬DS-MOVIE]",Rumah Dinas Bapak
+https://be4235.rcr32.ams02.cdn255.com/hls2/01/07556/34ob0fuo3pgm_h/master.m3u8?t=LwbK5JK1S5o3Kdjp6sTdsUU-SQFQP-g8Tx_PRxgRQOk&s=1737046801&e=10800&f=37939458&srv=44&asn=7713&sp=4000&p=
+
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlIVebIz9mbXQfJHoNNspz2TnVa1XiuQoHUu-G1MolJNO9QPUywK1EBRRA&amp;s=10" group-title="[🎬DS-MOVIE]",Ipar Adalah Maut
+https://be4235.rcr32.ams02.cdn255.com/hls2/02/07259/dh24qdcvm8f8_h/master.m3u8?t=uvz5sDxb4YR-XHpdJQR1WL-wldVtwZDH7-eNcz3UInY&s=1737047912&e=10800&f=37256847&srv=28&asn=7713&sp=4000&p=
+
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOj828Pj2AKNTAUHKcUNqMz25Yl2pTDkpS2KeqoKj3LTowf_T4eq2pSl28&amp;s=10" group-title="[🎬DS-MOVIE]",Kungfu Panda 4
+https://be4235.rcr32.ams02.cdn255.com/hls2/01/07428/nd1keka72ng2_h/master.m3u8?t=bO0EcLOmR1Qffx-mS7UuH18kaKN3qtyNoYlJzSBQVaA&s=1737048084&e=10800&f=37143196&srv=20&asn=7713&sp=4000&p=
+
+
