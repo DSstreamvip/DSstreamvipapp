@@ -602,94 +602,86 @@ Tidak Ada File
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://thumb.viva.id/vivamindset/1265x711/2023/11/03/6544fdc3e50ab-link-live-streaming-al-fateh-vs-al-hilal-jumat-311_mindset.jpg" group-title="[🔴DS LIVE 16/17 JANUARI]",Al Hilal Vs Al Fateh | 10.05pm (16-1-2025).
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-https://ssc-extra-1-enc.edgenextcdn.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvg4THlO1kAg6wYYeZ5TlgxtvXsUwBWhqV0axRYJLDgyjQWd3IlX38h3E&amp;s=10" group-title="[🔴LIVE 16/17 JANUARI]",Persebaya Vs Malut United | 3.30pm (17-1-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_27130.m3u8
 
 
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://thumb.viva.id/vivamindset/1265x711/2023/11/03/6544fdc3e50ab-link-live-streaming-al-fateh-vs-al-hilal-jumat-311_mindset.jpg" group-title="[🔴DS LIVE 16/17 JANUARI]",Al Hilal Vs Al Fateh | 10.05pm (16-1-2025)
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/7425
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVdLFF84pAI47nR2JOwaoZlKGvfjdfdog1jr7Z3I-n9I7Io1Lkz8ieKxk&amp;s=10" group-title="[🔴LIVE 16/17 JANUARI]",Persib Vs Dewa United | 7.00pm (17-1-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_26660.m3u8
 
 
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNbvb7GtprEN8CiNo2YmmvO7a0laGZVRELyBpT3Yk-QER1svbXezXLZteV&amp;s=10" group-title="[🔴DS LIVE 16/17 JANUARI]",NEWCASTLE VS WOLVES | 2.30am (16-1-2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://thumbor.prod.vidiocdn.com/DPxVexGIgqMhlkc5Nc0N_bfhbww=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28161/ipswich-vs-brighton-f6ec85.jpg" group-title="[🔴LIVE 16/17 JANUARI]", Ipswich Vs Brighton | 2.30am (17-1-2025)
+http://extraott.com:80/live/3969424152/3723991250/191773.m3u8 
 
 
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNbvb7GtprEN8CiNo2YmmvO7a0laGZVRELyBpT3Yk-QER1svbXezXLZteV&amp;s=10" group-title="[🔴DS LIVE 16/17 JANUARI]",NEWCASTLE VS WOLVES | 2.30am (16-1-2025)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://thumbor.prod.vidiocdn.com/DPxVexGIgqMhlkc5Nc0N_bfhbww=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28161/ipswich-vs-brighton-f6ec85.jpg" group-title="[🔴LIVE 16/17 JANUARI]", Ipswich Vs Brighton | 2.30am (17-1-2025).
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122344
 
 
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNbvb7GtprEN8CiNo2YmmvO7a0laGZVRELyBpT3Yk-QER1svbXezXLZteV&amp;s=10" group-title="[🔴DS LIVE 16/17 JANUARI]",NEWCASTLE VS WOLVES | 2.30am (16-1-2025)...
-http://dragone-2876.dyndns.biz:80/live/grado1/280922/200992.ts
-
-
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4QlHvvi5XkaY9z0k13jUYDTXNDJdQy5ZmLXmrzdbjdLWUtkmM8y3A4_HH&amp;s=10" group-title="[🔴DS LIVE 16/17 JANUARI]", Almeria Vs Leganes | 1.30am (16-1-2025).
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
-
-
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://thumbor.prod.vidiocdn.com/OD32g4wcRwRIzmg7mCejNCOGsJQ=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28156/arsenal-vs-tottenham-338e02.jpg" group-title="[🔴DS LIVE 16/17 JANUARI]",Arsenal Vs Tottenham | 3.30am (16-1-2025)
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://thumbor.prod.vidiocdn.com/DPxVexGIgqMhlkc5Nc0N_bfhbww=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28161/ipswich-vs-brighton-f6ec85.jpg" group-title="[🔴LIVE 16/17 JANUARI]", Ipswich Vs Brighton | 2.30am (17-1-2025)..
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-051/stream.mpd
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-052/stream.mpd
 
 
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://thumbor.prod.vidiocdn.com/OD32g4wcRwRIzmg7mCejNCOGsJQ=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28156/arsenal-vs-tottenham-338e02.jpg" group-title="[🔴DS LIVE 16/17 JANUARI]",Arsenal Vs Tottenham | 3.30am (16-1-2025).
-http://defaultgen.com:3050/philiplprice@icloud.com/jutDDyJJQC/669677
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9vKwF3_jfuTo5X1aHS0ZVnGBUaGK0uPwcYFQr3PKh0Cna0bQNnjRFMvT&amp;s=10" group-title="[🔴LIVE 16/17 JANUARI]",Man United Vs Southampton | 3.30am (17-1-2025)
+https://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8|user-agent=Mozilla/5.0
 
 
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://thumbor.prod.vidiocdn.com/OD32g4wcRwRIzmg7mCejNCOGsJQ=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28156/arsenal-vs-tottenham-338e02.jpg" group-title="[🔴DS LIVE 16/17 JANUARI]",Arsenal Vs Tottenham | 3.30am (16-1-2025).
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9vKwF3_jfuTo5X1aHS0ZVnGBUaGK0uPwcYFQr3PKh0Cna0bQNnjRFMvT&amp;s=10" group-title="[🔴LIVE 16/17 JANUARI]",Man United Vs Southampton | 3.30am (17-1-2025).
+http://extraott.com:80/live/3969424152/3723991250/401457562.m3u8 
+
+
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9vKwF3_jfuTo5X1aHS0ZVnGBUaGK0uPwcYFQr3PKh0Cna0bQNnjRFMvT&amp;s=10" group-title="[🔴LIVE 16/17 JANUARI]",Man United Vs Southampton | 3.30am (17-1-2025)..
+http://ktv.im:8080/fullpack15months354/213907856/429315
+
+
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9vKwF3_jfuTo5X1aHS0ZVnGBUaGK0uPwcYFQr3PKh0Cna0bQNnjRFMvT&amp;s=10" group-title="[🔴LIVE 16/17 JANUARI]",Man United Vs Southampton | 3.30am (17-1-2025)...
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
+https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://thumbor.prod.vidiocdn.com/OD32g4wcRwRIzmg7mCejNCOGsJQ=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28156/arsenal-vs-tottenham-338e02.jpg" group-title="[🔴DS LIVE 16/17 JANUARI]",Arsenal Vs Tottenham | 3.30am (16-1-2025)..
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaSDylsXrSnUjKP2hfPEvUJhaxfrGwqWfFkL1ItUPwK2dRmw-5WK3Ldck&amp;s=10" group-title="[🔴LIVE 16/17 JANUARI]",Real Madrid Vs Celta Vigo | 3.30am (17-1-2025)
+http://extraott.com:80/live/3969424152/3723991250/191512.m3u8
 
 
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://thumbor.prod.vidiocdn.com/yyqsUV6UOpEhkccz2Ku1CMFNawo=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/27988/inter-vs-bologna-a59ef1.jpg" group-title="[🔴DS LIVE 16/17 JANUARI]",Inter Vs Bologna | 2.45am (16-1-2025)
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaSDylsXrSnUjKP2hfPEvUJhaxfrGwqWfFkL1ItUPwK2dRmw-5WK3Ldck&amp;s=10" group-title="[🔴LIVE 16/17 JANUARI]",Real Madrid Vs Celta Vigo | 3.30am (17-1-2025).
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiODE3MDU0MjkiLCJyZWZyZXNoX3Rva2VuIjoiMDNjUHAxOThSaXhWV29QUWZkaVkyV2R3OU1xUU9mbFwvSkZ2WW5KRWVKRGNiRU1DdDFmOTZRejNRQ3dSamZRNU4wTVQxNTk1NTZ4ZzBXNkdqaG9LNzlGRk9tTDByWFwvdjZqcHVoQjNOTGgwNmZaTTM3cVVtKzZKTDlRZlNBQWdzK1RZaHVNeFwvUSswOVQrWGlvYndcLzRlcWFudXY5TGttSkpDazR1VHBuTVFmdG11K2VqMWt1eWRUYUI5bStIbURFVTdQSXZIYzczY3hpVjFEdko5Mkhza0oxR2JHNG5XTFUxOHVHNFVjRU85WnRoOVR2NXhlb3k2R1NkT1piZGVhenc0cDFBYVVVNXBjb2tNR1FFMEIzaldQVzA1akR0TnN5aTJhall0ZVFlN1JHSW5nV2NjSUxidmQxbERJSkVveThuIn0=
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiODkyNjA1NzEiLCJyZWZyZXNoX3Rva2VuIjoiWXVIN3dSYjdSSE9iT0NWb25PeFwvVUIyWE1NR1VyU0VcL0lUeFQrOEJEXC8zUTcwam0yY3N4b2dyVDRWVGxJdnd2cEo2SERaWXFOSEpWZkZEODdYU280SlVMZWhFd3pUV0dSVGw0dzN6WVpGdlhlR0N5VnVpSm1CMFYwWEFXVWVqY1VlNVFHVHcxaG9xN3R6YmhaWXoybFRuTXl5TU1CN0ZCTkVLZ2tNSlwvWDg2R2ZjXC9LZXR6UndJTTZLclR1ZVlNQ09taVQ1akltWFk2ajdpUkRmeVY4bmFud2NoNG1XXC9pZTF6U3luWE1pT2xLRUVmVnN1b0xQYXVOOE5tbXZcL3IyOEM4M2gzWEg1SUl6S1VvVXVVdVdxZGMrdkxcL2QzeW9EUDUrK1RHbjdnY0RBbWVUVDQ1WUxZYWpWT0N0XC9XOEpMN0ZSYjJBN2xvUTdcL1RnUFNDYkFlczRRQT09In0=
+#KODIPROP:inputstream.adaptive.license_key=3fc5ce88ae24460bafa447b53ab5f548:476a55ef72c5e27e310668b1667da615
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport2_HD_HVC.mpd
 
 
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://thumbor.prod.vidiocdn.com/yyqsUV6UOpEhkccz2Ku1CMFNawo=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/27988/inter-vs-bologna-a59ef1.jpg" group-title="[🔴DS LIVE 16/17 JANUARI]",Inter Vs Bologna | 2.45am (16-1-2025).
-http://extraott.com:80/live/3969424152/3723991250/36712.m3u8
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaSDylsXrSnUjKP2hfPEvUJhaxfrGwqWfFkL1ItUPwK2dRmw-5WK3Ldck&amp;s=10" group-title="[🔴LIVE 16/17 JANUARI]",Real Madrid Vs Celta Vigo | 3.30am (17-1-2025)..
 
 
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=7z5iz07sdp1pjxq3vrzga3fmq_image-header_pCa_1733219998000&amp;quality=70" group-title="[🔴DS LIVE 16/17 JANUARI]",Bochum Vs St.Pauli | 12.30am (16-1-2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.onlinehdhls.ru/lb/premium633/index.m3u8|Origin=https://lewblivehdplay.ru
+
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK_blveL6kZiLFpe_jMkucuy5DW7YQch8zN1YdYy1ms6X9VdAKfFMDDdE&amp;s=10" group-title="[🔴LIVE 16/17 JANUARI]", Atletic Club Vs Osasuna | 1.30am (17-1-2025)
+http://extraott.com:80/live/3969424152/3723991250/191513.m3u8 
 
 
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=7z5iz07sdp1pjxq3vrzga3fmq_image-header_pCa_1733219998000&amp;quality=70" group-title="[🔴DS LIVE 16/17 JANUARI]",Bochum Vs St.Pauli | 12.30am (16-1-2025).
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122085
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK_blveL6kZiLFpe_jMkucuy5DW7YQch8zN1YdYy1ms6X9VdAKfFMDDdE&amp;s=10" group-title="[🔴LIVE 16/17 JANUARI]", Atletic Club Vs Osasuna | 1.30am (17-1-2025).
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd
 
 
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpI0gFn3diwIRrVBMR_adpJZbGtxPYtD9TcS1YFFjN40DYuUvgFAVCcyFh&amp;s=10" group-title="[🔴DS LIVE 16/17 JANUARI]",Bayern Munchen Vs Hoffenheim | 2.30am (16-1-2025)
-http://vipdikili.top:8080/VIP01745172330867393/953b13b15263/97136
-
-
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FZnOHLZg4ECq6IkcKsHmrCTxGVHtT53Kq8HHx91V9OJbWlDIROtOQXPn&amp;s=10" group-title="[🔴DS LIVE 16/17 JANUARI]",Barcelona Vs Real Betis | 3.00am (16-1-2025)
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK_blveL6kZiLFpe_jMkucuy5DW7YQch8zN1YdYy1ms6X9VdAKfFMDDdE&amp;s=10" group-title="[🔴LIVE 16/17 JANUARI]", Atletic Club Vs Osasuna | 1.30am (17-1-2025)..
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
+https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
 
 
 
