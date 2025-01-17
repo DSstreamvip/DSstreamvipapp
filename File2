@@ -605,12 +605,18 @@ Tidak Ada File
 #EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvg4THlO1kAg6wYYeZ5TlgxtvXsUwBWhqV0axRYJLDgyjQWd3IlX38h3E&amp;s=10" group-title="[🔴LIVE 16/17 JANUARI]",Persebaya Vs Malut United | 3.30pm (17-1-2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_27130.m3u8
-
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvg4THlO1kAg6wYYeZ5TlgxtvXsUwBWhqV0axRYJLDgyjQWd3IlX38h3E&amp;s=10" group-title="[🔴LIVE 16/17 JANUARI]",Persebaya Vs Malut United | 3.30pm (17-1-2025).
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_27130.m3u8
 
 #EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVdLFF84pAI47nR2JOwaoZlKGvfjdfdog1jr7Z3I-n9I7Io1Lkz8ieKxk&amp;s=10" group-title="[🔴LIVE 16/17 JANUARI]",Persib Vs Dewa United | 7.00pm (17-1-2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_26660.m3u8
+https://tvpull.careryun.com/live/ballbar_33130.m3u8
 
+
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVdLFF84pAI47nR2JOwaoZlKGvfjdfdog1jr7Z3I-n9I7Io1Lkz8ieKxk&amp;s=10" group-title="[🔴LIVE 16/17 JANUARI]",Persib Vs Dewa United | 7.00pm (17-1-2025).
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_26660.m3u8
 
 
 
