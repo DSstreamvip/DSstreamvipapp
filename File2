@@ -602,28 +602,309 @@ Tidak Ada File
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvg4THlO1kAg6wYYeZ5TlgxtvXsUwBWhqV0axRYJLDgyjQWd3IlX38h3E&amp;s=10" group-title="[🔴LIVE 16/17 JANUARI]",Persebaya Vs Malut United | 3.30pm (17-1-2025)
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://thumb.viva.id/vivamindset/1265x711/2023/11/03/6544fdc3e50ab-link-live-streaming-al-fateh-vs-al-hilal-jumat-311_mindset.jpg" group-title="[🔴LIVE 18/19 JANUARI]",PSM MAKASAR 🆚 PSBS BIAK 3.30pm (18-1-2025).
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+https://ssc-extra-1-enc.edgenextcdn.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
+
+
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNbvb7GtprEN8CiNo2YmmvO7a0laGZVRELyBpT3Yk-QER1svbXezXLZteV&amp;s=10" group-title="[🔴LIVE 18/19 JANUARI]", MADURA UNITED 🆚 BARITO PUTERA 7.00pm (18-1-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNbvb7GtprEN8CiNo2YmmvO7a0laGZVRELyBpT3Yk-QER1svbXezXLZteV&amp;s=10" group-title="[🔴LIVE 18/19 JANUARI]", Newcastle Vs Bournemouth - 7.30pm
+http://extraott.com:80/live/3969424152/3723991250/159896.m3u8 
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNbvb7GtprEN8CiNo2YmmvO7a0laGZVRELyBpT3Yk-QER1svbXezXLZteV&amp;s=10" group-title="[🔴LIVE 18/19 JANUARI]", Newcastle Vs Bournemouth - 7.30pm.
+http://extraott.com:80/live/3969424152/3723991250/401457562.m3u8 
+
+
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNbvb7GtprEN8CiNo2YmmvO7a0laGZVRELyBpT3Yk-QER1svbXezXLZteV&amp;s=10" group-title="[🔴LIVE 18/19 JANUARI]", Brentford Vs Liverpool - 10.00pm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-051/stream.mpd
+
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNbvb7GtprEN8CiNo2YmmvO7a0laGZVRELyBpT3Yk-QER1svbXezXLZteV&amp;s=10" group-title="[🔴LIVE 18/19 JANUARI]", Brentford Vs Liverpool - 10.00pm.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium124/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNbvb7GtprEN8CiNo2YmmvO7a0laGZVRELyBpT3Yk-QER1svbXezXLZteV&amp;s=10" group-title="[🔴LIVE 18/19 JANUARI]", Leicester Vs Fulham - 10.00pm
+http://extraott.com:80/live/3969424152/3723991250/159896.m3u8 
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNbvb7GtprEN8CiNo2YmmvO7a0laGZVRELyBpT3Yk-QER1svbXezXLZteV&amp;s=10" group-title="[🔴LIVE 18/19 JANUARI]", Leicester Vs Fulham - 10.00pm.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
+
+
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNbvb7GtprEN8CiNo2YmmvO7a0laGZVRELyBpT3Yk-QER1svbXezXLZteV&amp;s=10" group-title="[🔴LIVE 18/19 JANUARI]",West Ham Vs Crystal Palace - 10.00pm
+http://extraott.com:80/live/3969424152/3723991250/401457562.m3u8 
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNbvb7GtprEN8CiNo2YmmvO7a0laGZVRELyBpT3Yk-QER1svbXezXLZteV&amp;s=10" group-title="[🔴LIVE 18/19 JANUARI]",West Ham Vs Crystal Palace - 10.00pm.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
+
+
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNbvb7GtprEN8CiNo2YmmvO7a0laGZVRELyBpT3Yk-QER1svbXezXLZteV&amp;s=10" group-title="[🔴LIVE 18/19 JANUARI]", Espanyol Vs Real Valladolid - 03.00pm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNbvb7GtprEN8CiNo2YmmvO7a0laGZVRELyBpT3Yk-QER1svbXezXLZteV&amp;s=10" group-title="[🔴LIVE 18/19 JANUARI]", Espanyol Vs Real Valladolid - 03.00pm.
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122027
+
+
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNbvb7GtprEN8CiNo2YmmvO7a0laGZVRELyBpT3Yk-QER1svbXezXLZteV&amp;s=10" group-title="[🔴LIVE 18/19 JANUARI]",Girona Vs Sevilla - 08.00pm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.onlinehdhls.ru/lb/premium634/index.m3u8|Origin=https://lewblivehdplay.ru
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNbvb7GtprEN8CiNo2YmmvO7a0laGZVRELyBpT3Yk-QER1svbXezXLZteV&amp;s=10" group-title="[🔴LIVE 18/19 JANUARI]",Girona Vs Sevilla - 08.00pm.
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNzYwODQxMjUiLCJyZWZyZXNoX3Rva2VuIjoieU5uQW5BMXptYzh2em9SYUFhR043dUVabURVOFZtQ2RsTUJyOGNnU0dVcUtiQjhSWVh5U0NpSmoybE1HcU54ZUl3WitXaWhkVmpYSEZYR1p2cHFackE4SW5vZmIzTnpIS1dLNXcra1FcL2VWRzJUVEpia1p4Z3dyXC9sTkFrMWRCTGNhajlWdWkyNHdVZ1dOSXI5SkdiRDlGR0lqdlhTRWNIU1FTcnZ6SUFHWDBWMEZYR1VUNlBBekJIXC9PRm40QVFLMHdnQVNIc0tVYmJsWGVNMzZwZEc3ZmZzaCtyTVAzMnRiVlhKejJjdFJ1VmNKOFN2UWdmbHJ0VXVTdURheGJXOW82U1wvbUJvRjkzK1hob1lyRzI1bG5Bc2x3ZVg1WUt3RkpROExNM0laV1ZYYzZTbFVvOXlZd3lvSUVTczRjZFQ4In0=
+https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMDQyNzM5ODUiLCJyZWZyZXNoX3Rva2VuIjoicmpoTllwV0M5RnFoQ3JtaFcxOVV5OUVtMjg4SnY3bU9LWEY4NTNONFZwQ3RTUHR6cHFOMW9OempIV0daaktpNHgxQXlBeUdKbFoxVFpGVFp6Yk4zRGNEKzVqNWlRK3VuRjNSVjB5VGM1eUYzYmpMcjQ5TGh1ZXh2XC93VEF4eGtnajlxVXo2MXl0OFV3MjBXejlNMWlacXlOMkZBZDVLcDA4QXRtOUtLR21ER0pjMElSN2d5TncrVE81SGRjb1htWFNlZnU2dEduSlNjQk9vbk9XXC94QnJzNlE1OE5vOXR4TWZxNHA0UW5MWGVFQUN3NjdQdEZtQzQ0QjBBblRcL1VBbEUzYXNwUDN6Vk12b0JLaEdKSFE2bWFqWVk3UWdVTGQzWm5taGY5eWRUOU00a2NxK2E5UkpQMkR4QXMrckNZMzFBTWZiYWU1d01md1wvYTg2SXJtOHdLMFd6dFZyTjNZXC9BdmpiSXdxS25EZmRBN1h6VitiRXNJYWJ3ZW83VlpDaTE1YnNPazBTXC9IcVBGaDFlXC9VczdldUpjVWtkdzFiekZZTVRkZlY1NGFEeXlERkFOQnpoYzdLSE1CNVUxVnFzbDBVTFNPTTNMWXBBWUsrXC8rUDhTa0NXczBOMUY2YWtFd1hpU21laldCRUlnejhVSGdsWVF5QklmNFlhYlZlTDBGbnArSWpNdHdLZWNqaE1pa3VrTWZ1UUMrTWpqK3RndFdOVGwwQ0hlaDk5alE9In0=
+
+
+
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNbvb7GtprEN8CiNo2YmmvO7a0laGZVRELyBpT3Yk-QER1svbXezXLZteV&amp;s=10" group-title="[🔴LIVE 18/19 JANUARI]",Leganes Vs Atletico Madrid - 10.15pm
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122027
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNbvb7GtprEN8CiNo2YmmvO7a0laGZVRELyBpT3Yk-QER1svbXezXLZteV&amp;s=10" group-title="[🔴LIVE 18/19 JANUARI]",Leganes Vs Atletico Madrid - 10.15pm.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.onlinehdhls.ru/lb/premium634/index.m3u8|Origin=https://lewblivehdplay.ru
+
+
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNbvb7GtprEN8CiNo2YmmvO7a0laGZVRELyBpT3Yk-QER1svbXezXLZteV&amp;s=10" group-title="[🔴LIVE 18/19 JANUARI]",Roma Vs Genoa - 2.45am
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNbvb7GtprEN8CiNo2YmmvO7a0laGZVRELyBpT3Yk-QER1svbXezXLZteV&amp;s=10" group-title="[🔴LIVE 18/19 JANUARI]",Roma Vs Genoa - 2.45am.
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122085
+
+
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNbvb7GtprEN8CiNo2YmmvO7a0laGZVRELyBpT3Yk-QER1svbXezXLZteV&amp;s=10" group-title="[🔴LIVE 18/19 JANUARI]", Frankfurt Vs Dortmund - 2.30am
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/9179
+
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNbvb7GtprEN8CiNo2YmmvO7a0laGZVRELyBpT3Yk-QER1svbXezXLZteV&amp;s=10" group-title="[🔴LIVE 18/19 JANUARI]", Frankfurt Vs Dortmund - 2.30am.
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122026
+
+
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNbvb7GtprEN8CiNo2YmmvO7a0laGZVRELyBpT3Yk-QER1svbXezXLZteV&amp;s=10" group-title="[🔴LIVE 18/19 JANUARI]",Bayern Munchen Vs Wolfsburg - 9.00pm
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/9179
+
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNbvb7GtprEN8CiNo2YmmvO7a0laGZVRELyBpT3Yk-QER1svbXezXLZteV&amp;s=10" group-title="[🔴LIVE 18/19 JANUARI]",Bayern Munchen Vs Wolfsburg - 9.00pm
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122026
+
+
+
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNbvb7GtprEN8CiNo2YmmvO7a0laGZVRELyBpT3Yk-QER1svbXezXLZteV&amp;s=10" group-title="[🔴LIVE 18/19 JANUARI]", Montpellier Vs Monaco - 1.00am
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.onlinehdhls.ru/lb/premium633/index.m3u8|Origin=https://lewblivehdplay.ru
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNbvb7GtprEN8CiNo2YmmvO7a0laGZVRELyBpT3Yk-QER1svbXezXLZteV&amp;s=10" group-title="[🔴LIVE 18/19 JANUARI]", Montpellier Vs Monaco - 1.00am.
+http://185.236.229.62:9981/play/a04c
+
+
+
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNbvb7GtprEN8CiNo2YmmvO7a0laGZVRELyBpT3Yk-QER1svbXezXLZteV&amp;s=10" group-title="[🔴LIVE 18/19 JANUARI]",Lens Vs PSG - 11.00pm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
+
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNbvb7GtprEN8CiNo2YmmvO7a0laGZVRELyBpT3Yk-QER1svbXezXLZteV&amp;s=10" group-title="[🔴LIVE 18/19 JANUARI]",Lens Vs PSG - 11.00pm.
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122025
+
+
+
+
+
+#EXTINF:-1 tvg-id="28900" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Newcastle United VS AFC Bournemouth - 19:30 WIB 18-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_27130.m3u8
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvg4THlO1kAg6wYYeZ5TlgxtvXsUwBWhqV0axRYJLDgyjQWd3IlX38h3E&amp;s=10" group-title="[🔴LIVE 16/17 JANUARI]",Persebaya Vs Malut United | 3.30pm (17-1-2025).
+https://tvpull.careryun.com/live/ballbar_28900.m3u8
+#EXTINF:-1 tvg-id="26270" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Newcastle United VS AFC Bournemouth - 19:30 WIB 18-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_27130.m3u8
-
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVdLFF84pAI47nR2JOwaoZlKGvfjdfdog1jr7Z3I-n9I7Io1Lkz8ieKxk&amp;s=10" group-title="[🔴LIVE 16/17 JANUARI]",Persib Vs Dewa United | 7.00pm (17-1-2025)
+https://tvpull.careryun.com/live/ballbar_26270.m3u8
+#EXTINF:-1 tvg-id="18900" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Newcastle United VS AFC Bournemouth - 19:30 WIB 18-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_33130.m3u8
+https://tvpull.careryun.com/live/ballbar_18900.m3u8
 
-
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVdLFF84pAI47nR2JOwaoZlKGvfjdfdog1jr7Z3I-n9I7Io1Lkz8ieKxk&amp;s=10" group-title="[🔴LIVE 16/17 JANUARI]",Persib Vs Dewa United | 7.00pm (17-1-2025).
+#EXTINF:-1 tvg-id="33510" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Brentford VS Liverpool - 22:00 WIB 18-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_26660.m3u8
+https://tvpull.careryun.com/live/ballbar_33510.m3u8
+#EXTINF:-1 tvg-id="31700" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Brentford VS Liverpool - 22:00 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_31700.m3u8
+#EXTINF:-1 tvg-id="24190" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Brentford VS Liverpool - 22:00 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_24190.m3u8
+#EXTINF:-1 tvg-id="17590" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Brentford VS Liverpool - 22:00 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_17590.m3u8
+
+#EXTINF:-1 tvg-id="36920" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Leicester City VS Fulham - 22:00 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_36920.m3u8
+#EXTINF:-1 tvg-id="09650" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Leicester City VS Fulham - 22:00 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_09650.m3u8
+
+#EXTINF:-1 tvg-id="38710" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", West Ham United VS Crystal Palace - 22:00 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_38710.m3u8
+#EXTINF:-1 tvg-id="08830" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", West Ham United VS Crystal Palace - 22:00 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_08830.m3u8
+
+#EXTINF:-1 tvg-id="29760" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", RCD Espanyol VS Real Valladolid - 03:00 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_29760.m3u8
+#EXTINF:-1 tvg-id="28000" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", RCD Espanyol VS Real Valladolid - 03:00 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_28000.m3u8
+#EXTINF:-1 tvg-id="19970" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", RCD Espanyol VS Real Valladolid - 03:00 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_19970.m3u8
+#EXTINF:-1 tvg-id="23190" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", RCD Espanyol VS Real Valladolid - 03:00 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_23190.m3u8
+#EXTINF:-1 tvg-id="36750" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", RCD Espanyol VS Real Valladolid - 03:00 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_36750.m3u8
+
+#EXTINF:-1 tvg-id="36210" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Girona VS Sevilla - 20:00 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_36210.m3u8
+#EXTINF:-1 tvg-id="31320" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Girona VS Sevilla - 20:00 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_31320.m3u8
+#EXTINF:-1 tvg-id="16810" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Girona VS Sevilla - 20:00 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_16810.m3u8
+#EXTINF:-1 tvg-id="18330" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Girona VS Sevilla - 20:00 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_18330.m3u8
+#EXTINF:-1 tvg-id="17470" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Girona VS Sevilla - 20:00 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_17470.m3u8
+
+#EXTINF:-1 tvg-id="08630" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Leganes VS Atletico Madrid - 22:15 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_08630.m3u8
+#EXTINF:-1 tvg-id="09790" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Leganes VS Atletico Madrid - 22:15 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_09790.m3u8
+#EXTINF:-1 tvg-id="09700" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Leganes VS Atletico Madrid - 22:15 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_09700.m3u8
+#EXTINF:-1 tvg-id="05660" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Leganes VS Atletico Madrid - 22:15 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_05660.m3u8
+#EXTINF:-1 tvg-id="26390" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Leganes VS Atletico Madrid - 22:15 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_26390.m3u8
 
 
+#EXTINF:-1 tvg-id="14830" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", AS Roma VS Genoa - 02:45 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_14830.m3u8
+#EXTINF:-1 tvg-id="18990" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", AS Roma VS Genoa - 02:45 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_18990.m3u8
 
+#EXTINF:-1 tvg-id="31020" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Bologna VS Monza - 21:00 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_31020.m3u8
+#EXTINF:-1 tvg-id="17240" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Bologna VS Monza - 21:00 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_17240.m3u8
+#EXTINF:-1 tvg-id="33850" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Bologna VS Monza - 21:00 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_33850.m3u8
+#EXTINF:-1 tvg-id="19250" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Bologna VS Monza - 21:00 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_19250.m3u8
 
+#EXTINF:-1 tvg-id="33500" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Eintracht Frankfurt VS Borussia Dortmund - 02:30 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_33500.m3u8
+#EXTINF:-1 tvg-id="17990" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Eintracht Frankfurt VS Borussia Dortmund - 02:30 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_17990.m3u8
+#EXTINF:-1 tvg-id="24960" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Eintracht Frankfurt VS Borussia Dortmund - 02:30 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_24960.m3u8
+#EXTINF:-1 tvg-id="39450" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Eintracht Frankfurt VS Borussia Dortmund - 02:30 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_39450.m3u8
+#EXTINF:-1 tvg-id="28490" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Eintracht Frankfurt VS Borussia Dortmund - 02:30 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_28490.m3u8
 
+#EXTINF:-1 tvg-id="29980" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Bayern Munchen VS VfL Wolfsburg - 21:30 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_29980.m3u8
+#EXTINF:-1 tvg-id="08870" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Bayern Munchen VS VfL Wolfsburg - 21:30 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_08870.m3u8
+#EXTINF:-1 tvg-id="39650" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Bayern Munchen VS VfL Wolfsburg - 21:30 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_39650.m3u8
+#EXTINF:-1 tvg-id="08770" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Bayern Munchen VS VfL Wolfsburg - 21:30 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_08770.m3u8
 
+#EXTINF:-1 tvg-id="29640" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Heidenheimer VS St. Pauli - 21:30 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_29640.m3u8
+#EXTINF:-1 tvg-id="09270" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Heidenheimer VS St. Pauli - 21:30 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_09270.m3u8
+#EXTINF:-1 tvg-id="16360" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Heidenheimer VS St. Pauli - 21:30 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_16360.m3u8
 
+#EXTINF:-1 tvg-id="32250" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Montpellier VS Monaco - 01:00 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_32250.m3u8
+#EXTINF:-1 tvg-id="10060" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Montpellier VS Monaco - 01:00 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_10060.m3u8
+#EXTINF:-1 tvg-id="38800" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Montpellier VS Monaco - 01:00 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_38800.m3u8
+#EXTINF:-1 tvg-id="30260" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Montpellier VS Monaco - 01:00 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_30260.m3u8
+
+#EXTINF:-1 tvg-id="31530" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Lens VS Paris Saint Germain (PSG) - 23:00 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_31530.m3u8
+#EXTINF:-1 tvg-id="17560" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Lens VS Paris Saint Germain (PSG) - 23:00 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_17560.m3u8
+#EXTINF:-1 tvg-id="28960" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Lens VS Paris Saint Germain (PSG) - 23:00 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_28960.m3u8
+
+#EXTINF:-1 tvg-id="36160" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Al-Taawoun VS Al-Nassr - 00:00 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_36160.m3u8
+#EXTINF:-1 tvg-id="22320" group-title="⚽EVENT 18/19 (UJICOBA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPWLqYKfDPWBw2zymCa9A4Wf22jVq-LPisQ&amp;usqp=CAU", Al-Taawoun VS Al-Nassr - 00:00 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_22320.m3u8
 
 
 
