@@ -612,77 +612,6 @@ https://tvpull.careryun.com/live/ballbar_27130.m3u8
 https://tvpull.careryun.com/live/ballbar_26660.m3u8
 
 
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://thumbor.prod.vidiocdn.com/DPxVexGIgqMhlkc5Nc0N_bfhbww=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28161/ipswich-vs-brighton-f6ec85.jpg" group-title="[🔴LIVE 16/17 JANUARI]", Ipswich Vs Brighton | 2.30am (17-1-2025)
-http://extraott.com:80/live/3969424152/3723991250/191773.m3u8 
-
-
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://thumbor.prod.vidiocdn.com/DPxVexGIgqMhlkc5Nc0N_bfhbww=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28161/ipswich-vs-brighton-f6ec85.jpg" group-title="[🔴LIVE 16/17 JANUARI]", Ipswich Vs Brighton | 2.30am (17-1-2025).
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122344
-
-
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://thumbor.prod.vidiocdn.com/DPxVexGIgqMhlkc5Nc0N_bfhbww=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28161/ipswich-vs-brighton-f6ec85.jpg" group-title="[🔴LIVE 16/17 JANUARI]", Ipswich Vs Brighton | 2.30am (17-1-2025)..
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-052/stream.mpd
-
-
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9vKwF3_jfuTo5X1aHS0ZVnGBUaGK0uPwcYFQr3PKh0Cna0bQNnjRFMvT&amp;s=10" group-title="[🔴LIVE 16/17 JANUARI]",Man United Vs Southampton | 3.30am (17-1-2025)
-https://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8|user-agent=Mozilla/5.0
-
-
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9vKwF3_jfuTo5X1aHS0ZVnGBUaGK0uPwcYFQr3PKh0Cna0bQNnjRFMvT&amp;s=10" group-title="[🔴LIVE 16/17 JANUARI]",Man United Vs Southampton | 3.30am (17-1-2025).
-http://extraott.com:80/live/3969424152/3723991250/401457562.m3u8 
-
-
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9vKwF3_jfuTo5X1aHS0ZVnGBUaGK0uPwcYFQr3PKh0Cna0bQNnjRFMvT&amp;s=10" group-title="[🔴LIVE 16/17 JANUARI]",Man United Vs Southampton | 3.30am (17-1-2025)..
-http://ktv.im:8080/fullpack15months354/213907856/429315
-
-
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9vKwF3_jfuTo5X1aHS0ZVnGBUaGK0uPwcYFQr3PKh0Cna0bQNnjRFMvT&amp;s=10" group-title="[🔴LIVE 16/17 JANUARI]",Man United Vs Southampton | 3.30am (17-1-2025)...
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
-https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
-
-
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaSDylsXrSnUjKP2hfPEvUJhaxfrGwqWfFkL1ItUPwK2dRmw-5WK3Ldck&amp;s=10" group-title="[🔴LIVE 16/17 JANUARI]",Real Madrid Vs Celta Vigo | 3.30am (17-1-2025)
-http://extraott.com:80/live/3969424152/3723991250/191512.m3u8
-
-
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaSDylsXrSnUjKP2hfPEvUJhaxfrGwqWfFkL1ItUPwK2dRmw-5WK3Ldck&amp;s=10" group-title="[🔴LIVE 16/17 JANUARI]",Real Madrid Vs Celta Vigo | 3.30am (17-1-2025).
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fc5ce88ae24460bafa447b53ab5f548:476a55ef72c5e27e310668b1667da615
-https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport2_HD_HVC.mpd
-
-
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaSDylsXrSnUjKP2hfPEvUJhaxfrGwqWfFkL1ItUPwK2dRmw-5WK3Ldck&amp;s=10" group-title="[🔴LIVE 16/17 JANUARI]",Real Madrid Vs Celta Vigo | 3.30am (17-1-2025)..
-
-
-
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK_blveL6kZiLFpe_jMkucuy5DW7YQch8zN1YdYy1ms6X9VdAKfFMDDdE&amp;s=10" group-title="[🔴LIVE 16/17 JANUARI]", Atletic Club Vs Osasuna | 1.30am (17-1-2025)
-http://extraott.com:80/live/3969424152/3723991250/191513.m3u8 
-
-
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK_blveL6kZiLFpe_jMkucuy5DW7YQch8zN1YdYy1ms6X9VdAKfFMDDdE&amp;s=10" group-title="[🔴LIVE 16/17 JANUARI]", Atletic Club Vs Osasuna | 1.30am (17-1-2025).
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5
-https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd
-
-
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK_blveL6kZiLFpe_jMkucuy5DW7YQch8zN1YdYy1ms6X9VdAKfFMDDdE&amp;s=10" group-title="[🔴LIVE 16/17 JANUARI]", Atletic Club Vs Osasuna | 1.30am (17-1-2025)..
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
-
 
 
 
@@ -4498,7 +4427,6 @@ Tidak Ada File
 
 
 ====================DS INDONESIA CH====================
-
 
 
 
@@ -8756,6 +8684,1005 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
 
 
+
+
+
+
+
+
+
+
+
+=====================================DS FILM=====================================
+
+
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/10/film-look-back-2024-lk21-d21.jpg",Look Back (2024)
+https://cdn2.turboviplay.com/data/671c534d5ef1d/671c534d5ef1d.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/10/film-survive-survivre-2024-lk21-d21.jpg",Survive (Survivre) (2024)
+https://cdn2.turboviplay.com/data1/671b085cba331/671b085cba331.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/10/film-venom-the-last-dance-2024-lk21-d21.jpg",Venom: The Last Dance (2024)
+https://cdn2.turboviplay.com/data1/671bede74462d/671bede74462d.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/10/film-caught-by-the-tides-2024-lk21-d21.jpg",Caught by the Tides (2024)
+https://cdn2.turboviplay.com/data1/671be46a80be7/671be46a80be7.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/10/film-hijack-93-2024-lk21-d21.jpg",Hijack ’93 (2024)
+https://cdn2.turboviplay.com/data1/671bdc3329813/671bdc3329813.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/10/film-dont-move-2024-lk21-d21.jpg",Don’t Move (2024)
+https://cdn2.turboviplay.com/data1/671bd2c37ca5d/671bd2c37ca5d.m3u8
+=========================
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/04/film-immaculate-2024-lk21-d21.jpg",Immaculate (2024)
+https://cdn2.turboviplay.com/data1/666eb6db6684a/666eb6db6684a.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/06/film-big-city-greens-the-movie-spacecation-2024-lk21-d21.jpg",Big City Greens the Movie: Spacecation (2024)
+https://cdn2.turboviplay.com/data1/666cf0452e9aa/666cf0452e9aa.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/03/film-alienoid-the-return-to-the-future-2024-lk21-d21.jpg",Alienoid: The Return to the Future (2024)
+https://cdn2.turboviplay.com/data1/666ce96204dcc/666ce96204dcc.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2017/04/film-attraction-2017.jpg",Attraction (2017)
+https://cdn2.turboviplay.com/data1/666c028f4b47e/666c028f4b47e.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/06/film-the-victims-2024-lk21-d21.jpg",The Victims (2024)
+https://cdn2.turboviplay.com/data1/666b1ef8e6d5f/666b1ef8e6d5f.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-pileckis-report-2023-lk21-d21.jpg",Pilecki’s Report (2023)
+https://cdn2.turboviplay.com/data1/666b159833310/666b159833310.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/06/film-the-beast-in-the-jungle-2023-lk21-d21.jpg",The Beast in the Jungle (2023)
+https://cdn2.turboviplay.com/data1/666b0c5e4a998/666b0c5e4a998.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-lumberjack-the-monster-2023-lk21-d21.jpg",Lumberjack the Monster (2023)
+https://cdn2.turboviplay.com/data1/666b0190027fa/666b0190027fa.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/06/film-chaalbaaz-1989-lk21-d21.jpg",Chaalbaaz (1989)
+https://cdn2.turboviplay.com/data1/666af7e150ba2/666af7e150ba2.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/06/film-ship-of-the-damned-2024-lk21-d21.jpg",Ship of the Damned (2024)
+https://cdn2.turboviplay.com/data1/666aa61146d12/666aa61146d12.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/06/film-the-hangman-2024-lk21-d21.jpg",The Hangman (2024)
+https://cdn2.turboviplay.com/data1/666a9f1c078b2/666a9f1c078b2.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-hovering-blade-2024-lk21-d21.jpg",Hovering Blade (2024)
+https://cdn2.turboviplay.com/data1/666a9830abcf4/666a9830abcf4.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/06/film-life-after-fighting-2024-lk21-d21.jpg",Life After Fighting (2024)
+https://cdn2.turboviplay.com/data1/666a901eb6ec6/666a901eb6ec6.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/06/film-mysteries-of-the-terracotta-warriors-2024-lk21-d21.jpg",Mysteries of the Terracotta Warriors (2024)
+https://cdn2.turboviplay.com/data1/666a842ebbdc3/666a842ebbdc3.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/06/film-wedding-high-2022-lk21-d21.jpg",Wedding High (2022)
+https://cdn2.turboviplay.com/data1/666a7d4f4d357/666a7d4f4d357.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-wild-eyed-and-wicked-2024-lk21-d21.jpg",Wild Eyed and Wicked (2024)
+https://cdn2.turboviplay.com/data1/666a73d108dd0/666a73d108dd0.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/06/film-tenant-2024-lk21-d21.jpg",Tenant (2024)
+https://cdn2.turboviplay.com/data1/666a6a63f2c60/666a6a63f2c60.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/06/film-daimyo-tousan-2023-lk21-d21.jpg",Daimyo-Tousan (2023)
+https://cdn.turboviplay.com/data1/666a639e097a8/666a639e097a8.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/03/film-i-did-it-my-way-2023-lk21-d21.jpg",I Did It My Way (2023)
+https://cdn2.turboviplay.com/data1/666a57bff2f7c/666a57bff2f7c.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/06/film-trim-season-2023-lk21-d21.jpg",Trim Season (2023)
+https://cdn2.turboviplay.com/data/666814fa0edd3/666814fa0edd3.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/06/film-kill-craft-2024-lk21-d21.jpg",Kill Craft (2024)
+https://cdn2.turboviplay.com/data/66680a5a0bfc0/66680a5a0bfc0.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-jackdaw-2024-lk21-d21.jpg",Jackdaw (2024)
+https://cdn2.turboviplay.com/data/666801f319c86/666801f319c86.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/06/film-jesus-lopez-2022-lk21-d21.jpg",Jesus Lopez (2022)
+https://cdn2.turboviplay.com/data/6667d8fed4344/6667d8fed4344.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/06/film-under-paris-2024-lk21-d21.jpg",Under Paris (2024)
+https://cdn2.turboviplay.com/data/6666e94b317fa/6666e94b317fa.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-julia-2023-lk21-d21.jpg",Julia (2023)
+https://cdn.turboviplay.com/data/66653f2b46052/66653f2b46052.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-hit-man-2024-lk21-d21.jpg",Hit Man (2024)
+https://cdn2.turboviplay.com/data/6663dfdcecd6e/6663dfdcecd6e.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/06/film-the-strangers-chapter-1-2024-lk21-d21.jpg",The Strangers: Chapter 1 (2024)
+https://cdn2.turboviplay.com/data/6663d53b8c7bf/6663d53b8c7bf.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-penduko-2023-lk21-d21.jpg",Penduko (2023)
+https://cdn2.turboviplay.com/data/6663ce486771e/6663ce486771e.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/06/film-the-zen-diary-2022-lk21-d21.jpg",The Zen Diary (2022)
+https://cdn2.turboviplay.com/data/6663c63c31d61/6663c63c31d61.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/04/film-godzilla-x-kong-the-new-empire-2024-lk21-d21.jpg",Godzilla x Kong: The New Empire (2024)
+https://cdn2.turboviplay.com/data/6663bbd7b707f/6663bbd7b707f.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/06/film-shadow-land-2024-lk21-d21.jpg",Shadow Land (2024)
+https://cdn2.turboviplay.com/data/6663ae965cf3a/6663ae965cf3a.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-doleira-a-historia-de-nelma-kodama-2024-lk21-d21.jpg",Doleira: A Historia de Nelma Kodama (2024)
+https://cdn2.turboviplay.com/data/666270d98878a/666270d98878a.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/06/film-secret-love-triangle-2023-lk21-d21.jpg",Secret Love Triangle (2023)
+https://cdn2.turboviplay.com/data/66626d8b14e2a/66626d8b14e2a.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/06/film-basma-2024-lk21-d21.jpg",Basma (2024)
+https://cdn2.turboviplay.com/data/66626401a611f/66626401a611f.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-bade-miyan-chote-miyan-2024-lk21-d21.jpg",Bade Miyan Chote Miyan (2024)
+https://cdn2.turboviplay.com/data/66623f406695e/66623f406695e.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/06/film-rafa-marquez-el-capitan-2024-lk21-d21.jpg",Rafa Marquez: El capitan (2024)
+https://cdn2.turboviplay.com/data/66622017acbd6/66622017acbd6.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/06/film-baki-hanma-vs-kengan-ashura-2024-lk21-d21.jpg",Baki Hanma VS Kengan Ashura (2024)
+https://cdn2.turboviplay.com/data/6661ec795627c/6661ec795627c.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/06/film-mr-and-mrs-stodola-2023-lk21-d21.jpg",Mr. and Mrs. Stodola (2023)
+https://cdn2.turboviplay.com/data/6661e6e8a61ac/6661e6e8a61ac.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-miss-viborg-2022-lk21-d21.jpg",Miss Viborg (2022)
+https://cdn2.turboviplay.com/data/666112a6af4f0/666112a6af4f0.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-bring-it-on-cheer-or-die-2022-lk21-d21.jpg",Bring It On: Cheer or Die (2022)
+https://cdn2.turboviplay.com/data/6661096fb1577/6661096fb1577.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/06/film-how-to-rob-a-bank-2024-lk21-d21.jpg",How to Rob a Bank (2024)
+https://cdn2.turboviplay.com/data/6660e29c27c90/6660e29c27c90.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/06/film-what-you-wish-for-2023-lk21-d21.jpg",What You Wish For (2023)
+https://cdn2.turboviplay.com/data/6660b88a734c7/6660b88a734c7.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/06/film-jo-koy-live-from-brooklyn-2024-lk21-d21.jpg",Jo Koy: Live from Brooklyn (2024)
+https://cdn2.turboviplay.com/data/6660b0201837f/6660b0201837f.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-the-price-of-nonnas-inheritance-2024-lk21-d21.jpg",The Price of Nonna’s Inheritance (2024)
+https://cdn2.turboviplay.com/data/6660a9318ed57/6660a9318ed57.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/06/film-poolman-2024-lk21-d21.jpg",Poolman (2024)
+https://cdn2.turboviplay.com/data/665ddadf867a8/665ddadf867a8.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2023/09/film-perpetrator-2023-lk21-d21.jpg",Perpetrator (2023)
+https://cdn2.turboviplay.com/data/665ba39c7cbdc/665ba39c7cbdc.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-northeast-folktales-2024-lk21-d21.jpg",Northeast Folktales (2024)
+https://cdn1.turboviplay.com/data1/6673ab48e5a06/6673ab48e5a06.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/06/film-i-am-what-i-am-2022-lk21-d21.jpg",I Am What I Am (2022)
+https://cdn1.turboviplay.com/data1/6673325337b0a/6673325337b0a.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/06/film-anime-supremacy-2022-lk21-d21.jpg",Anime Supremacy! (2022)
+https://cdn1.turboviplay.com/data1/667327adc0b1e/667327adc0b1e.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/06/film-school-meals-time-graduation-2022-lk21-d21.jpg",School Meals Time Graduation (2022)
+https://cdn1.turboviplay.com/data1/66731d2e84c87/66731d2e84c87.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-invitation-2022-lk21-d21.jpg",Invitation (2022)
+https://cdn1.turboviplay.com/data1/66731225e3cc5/66731225e3cc5.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/06/film-karakasa-2023-lk21-d21.jpg",Karakasa (2023)
+https://cdn1.turboviplay.com/data1/66730fe1037dd/66730fe1037dd.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/06/film-were-broke-my-lord-2023-lk21-d21.jpg",We’re Broke, My Lord! (2023)
+https://cdn1.turboviplay.com/data1/66730cfa80bb8/66730cfa80bb8.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/06/film-roop-ki-rani-choron-ka-raja-1993-lk21-d21.jpg",Roop Ki Rani Choron Ka Raja (1993)
+https://cdn1.turboviplay.com/data1/667302fc1b8cf/667302fc1b8cf.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/06/film-late-bloomers-2024-lk21-d21.jpg",Late Bloomers (2024)
+https://cdn1.turboviplay.com/data1/6672839b9ac2c/6672839b9ac2c.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/06/film-the-thundermans-return-2024-lk21-d21.jpg",The Thundermans Return (2024)
+https://cdn1.turboviplay.com/data1/6672757998676/6672757998676.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/06/film-outstanding-a-comedy-revolution-2024-lk21-d21.jpg",Outstanding: A Comedy Revolution (2024)
+https://cdn1.turboviplay.com/data1/6672364d58fa6/6672364d58fa6.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/06/film-handling-the-undead-2024-lk21-d21.jpg",Handling the Undead (2024)
+https://cdn1.turboviplay.com/data1/6671b525a30f4/6671b525a30f4.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2023/11/film-creation-of-the-gods-i-kingdom-of-storms-2023-lk21-d21.jpg",Creation of the Gods I: Kingdom of Storms (2023)
+https://cdn1.turboviplay.com/data1/6670f11a69d37/6670f11a69d37.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-single8-2023-lk21-d21.jpg",Single8 (2023)
+https://cdn1.turboviplay.com/data1/667055e340296/667055e340296.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/04/film-bag-of-lies-2024-lk21-d21.jpg",Bag of Lies (2024)
+https://cdn1.turboviplay.com/data1/667048a270195/667048a270195.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/06/film-taz-quest-for-burger-2023-lk21-d21.jpg",Taz: Quest for Burger (2023)
+https://cdn1.turboviplay.com/data1/66704099bab86/66704099bab86.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/06/film-in-a-fishbowl-2023-lk21-d21.jpg",In a Fishbowl (2023)
+https://cdn1.turboviplay.com/data1/6670324e0e899/6670324e0e899.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-po-ke-wang-zhe-2024-lk21-d21.jpg",Po ke wang zhe (2024)
+https://cdn1.turboviplay.com/data1/6670280ad7fb9/6670280ad7fb9.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/04/film-immaculate-2024-lk21-d21.jpg",Immaculate (2024)
+https://cdn1.turboviplay.com/data1/666eb6db6684a/666eb6db6684a.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/06/film-big-city-greens-the-movie-spacecation-2024-lk21-d21.jpg",Big City Greens the Movie: Spacecation (2024)
+https://cdn1.turboviplay.com/data1/666cf0452e9aa/666cf0452e9aa.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/03/film-alienoid-the-return-to-the-future-2024-lk21-d21.jpg",Alienoid: The Return to the Future (2024)
+https://cdn1.turboviplay.com/data1/666ce96204dcc/666ce96204dcc.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2017/04/film-attraction-2017.jpg",Attraction (2017)
+https://cdn1.turboviplay.com/data1/666c028f4b47e/666c028f4b47e.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/06/film-the-victims-2024-lk21-d21.jpg",The Victims (2024)
+https://cdn1.turboviplay.com/data1/666b1ef8e6d5f/666b1ef8e6d5f.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-pileckis-report-2023-lk21-d21.jpg",Pilecki’s Report (2023)
+https://cdn1.turboviplay.com/data1/666b159833310/666b159833310.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/06/film-the-beast-in-the-jungle-2023-lk21-d21.jpg",The Beast in the Jungle (2023)
+https://cdn1.turboviplay.com/data1/666b0c5e4a998/666b0c5e4a998.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-lumberjack-the-monster-2023-lk21-d21.jpg",Lumberjack the Monster (2023)
+https://cdn1.turboviplay.com/data1/666b0190027fa/666b0190027fa.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/06/film-chaalbaaz-1989-lk21-d21.jpg",Chaalbaaz (1989)
+https://cdn1.turboviplay.com/data1/666af7e150ba2/666af7e150ba2.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/06/film-ship-of-the-damned-2024-lk21-d21.jpg",Ship of the Damned (2024)
+https://cdn1.turboviplay.com/data1/666aa61146d12/666aa61146d12.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-natural-selection-2016-lk21-d21.jpg",Natural Selection (2016)
+https://cdn.turboviplay.com/data1/6676a35889b43/6676a35889b43.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/06/film-my-oni-girl-2024-lk21-d21.jpg",My Oni Girl (2024)
+https://cdn.turboviplay.com/data1/66769b429c402/66769b429c402.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/06/film-ashes-2024-lk21-d21.jpg",Ashes (2024)
+https://cdn.turboviplay.com/data1/667691ce8fb1a/667691ce8fb1a.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/06/film-maharaj-2024-lk21-d21.jpg",Maharaj (2024)
+https://cdn.turboviplay.com/data1/667687936784a/667687936784a.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/04/film-monkey-man-2024-lk21-d21.jpg",Monkey Man (2024)
+https://cdn.turboviplay.com/data1/66767bc9e8169/66767bc9e8169.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-we-grown-now-2024-lk21-d21.jpg",We Grown Now (2024)
+https://cdn.turboviplay.com/data1/667670f8b8b50/667670f8b8b50.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/06/film-trigger-warning-2024-lk21-d21.jpg",Trigger Warning (2024)
+https://cdn.turboviplay.com/data1/6676679846f5b/6676679846f5b.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2023/12/film-fast-charlie-2023-lk21-d21.jpg",Fast Charlie (2023)
+https://cdn.turboviplay.com/data1/66765f64332c6/66765f64332c6.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/04/film-ghostbusters-frozen-empire-2024-lk21-d21.jpg",Ghostbusters: Frozen Empire (2024)
+https://cdn.turboviplay.com/data1/66764f1d46f7c/66764f1d46f7c.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-digimon-adventure-02-the-beginning-2023-lk21-d21.jpg",Digimon Adventure 02: The Beginning (2023)
+https://cdn.turboviplay.com/data1/66764470da17c/66764470da17c.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/06/film-federer-twelve-final-days-2024-lk21-d21.jpg",Federer: Twelve Final Days (2024)
+https://cdn.turboviplay.com/data1/66763d80e8976/66763d80e8976.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/06/film-the-accidental-twins-2024-lk21-d21.jpg",The Accidental Twins (2024)
+https://cdn.turboviplay.com/data1/6676340b89d94/6676340b89d94.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/06/film-legend-of-the-muse-2020-lk21-d21.jpg",Legend of the Muse (2020)
+https://cdn.turboviplay.com/data1/66762d079c5a7/66762d079c5a7.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-the-forger-2011-lk21-d21.jpg",The Forger (2011)
+https://cdn.turboviplay.com/data1/667622825a693/667622825a693.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-nowhere-girl-2014-lk21-d21.jpg",Nowhere Girl (2014)
+https://cdn.turboviplay.com/data1/6675c5d1d41c8/6675c5d1d41c8.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/06/film-mallari-2023-lk21-d21.jpg",Mallari (2023)
+https://cdn.turboviplay.com/data1/6675bdd9383cf/6675bdd9383cf.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/06/film-dearly-beloved-2024-lk21-d21.jpg",Dearly Beloved (2024)
+https://cdn.turboviplay.com/data1/6675b33109b36/6675b33109b36.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-inheritance-2024-lk21-d21.jpg",Inheritance (2024)
+https://cdn.turboviplay.com/data1/66746b008ca97/66746b008ca97.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/06/film-black-barbie-a-documentary-2023-lk21-d21.jpg",Black Barbie: A Documentary (2023)
+https://cdn.turboviplay.com/data1/667461a57d652/667461a57d652.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/06/film-doll-bride-2024-lk21-d21.jpg",Doll Bride (2024)
+https://cdn.turboviplay.com/data1/66745a20509b8/66745a20509b8.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/06/film-the-bride-and-the-beast-2024-lk21-d21.jpg",The Bride and The Beast (2024)
+https://cdn.turboviplay.com/data1/66743f04b4e73/66743f04b4e73.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-northeast-folktales-2024-lk21-d21.jpg",Northeast Folktales (2024)
+https://cdn.turboviplay.com/data1/6673ab48e5a06/6673ab48e5a06.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/06/film-i-am-what-i-am-2022-lk21-d21.jpg",I Am What I Am (2022)
+https://cdn.turboviplay.com/data1/6673325337b0a/6673325337b0a.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/06/film-anime-supremacy-2022-lk21-d21.jpg",Anime Supremacy! (2022)
+https://cdn.turboviplay.com/data1/667327adc0b1e/667327adc0b1e.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/06/film-school-meals-time-graduation-2022-lk21-d21.jpg",School Meals Time Graduation (2022)
+https://cdn.turboviplay.com/data1/66731d2e84c87/66731d2e84c87.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-invitation-2022-lk21-d21.jpg",Invitation (2022)
+https://cdn.turboviplay.com/data1/66731225e3cc5/66731225e3cc5.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/06/film-karakasa-2023-lk21-d21.jpg",Karakasa (2023)
+https://cdn.turboviplay.com/data1/66730fe1037dd/66730fe1037dd.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/06/film-were-broke-my-lord-2023-lk21-d21.jpg",We’re Broke, My Lord! (2023)
+https://cdn.turboviplay.com/data1/66730cfa80bb8/66730cfa80bb8.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/06/film-roop-ki-rani-choron-ka-raja-1993-lk21-d21.jpg",Roop Ki Rani Choron Ka Raja (1993)
+https://cdn.turboviplay.com/data1/667302fc1b8cf/667302fc1b8cf.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/06/film-late-bloomers-2024-lk21-d21.jpg",Late Bloomers (2024)
+https://cdn.turboviplay.com/data1/6672839b9ac2c/6672839b9ac2c.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/06/film-the-thundermans-return-2024-lk21-d21.jpg",The Thundermans Return (2024)
+https://cdn.turboviplay.com/data1/6672757998676/6672757998676.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/06/film-outstanding-a-comedy-revolution-2024-lk21-d21.jpg",Outstanding: A Comedy Revolution (2024)
+https://cdn.turboviplay.com/data1/6672364d58fa6/6672364d58fa6.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/06/film-handling-the-undead-2024-lk21-d21.jpg",Handling the Undead (2024)
+https://cdn.turboviplay.com/data1/6671b525a30f4/6671b525a30f4.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2023/11/film-creation-of-the-gods-i-kingdom-of-storms-2023-lk21-d21.jpg",Creation of the Gods I: Kingdom of Storms (2023)
+https://cdn.turboviplay.com/data1/6670f11a69d37/6670f11a69d37.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-single8-2023-lk21-d21.jpg",Single8 (2023)
+https://cdn.turboviplay.com/data1/667055e340296/667055e340296.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/04/film-bag-of-lies-2024-lk21-d21.jpg",Bag of Lies (2024)
+https://cdn2.turboviplay.com/data1/667048a270195/667048a270195.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/06/film-taz-quest-for-burger-2023-lk21-d21.jpg",Taz: Quest for Burger (2023)
+https://cdn.turboviplay.com/data1/66704099bab86/66704099bab86.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/06/film-in-a-fishbowl-2023-lk21-d21.jpg",In a Fishbowl (2023)
+https://cdn.turboviplay.com/data1/6670324e0e899/6670324e0e899.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-po-ke-wang-zhe-2024-lk21-d21.jpg",Po ke wang zhe (2024)
+https://cdn.turboviplay.com/data1/6670280ad7fb9/6670280ad7fb9.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/04/film-immaculate-2024-lk21-d21.jpg",Immaculate (2024)
+https://cdn.turboviplay.com/data1/666eb6db6684a/666eb6db6684a.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/06/film-big-city-greens-the-movie-spacecation-2024-lk21-d21.jpg",Big City Greens the Movie: Spacecation (2024)
+https://cdn.turboviplay.com/data1/666cf0452e9aa/666cf0452e9aa.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/03/film-alienoid-the-return-to-the-future-2024-lk21-d21.jpg",Alienoid: The Return to the Future (2024)
+https://cdn.turboviplay.com/data1/666ce96204dcc/666ce96204dcc.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2017/04/film-attraction-2017.jpg",Attraction (2017)
+https://cdn2.turboviplay.com/data1/666c028f4b47e/666c028f4b47e.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/06/film-the-victims-2024-lk21-d21.jpg",The Victims (2024)
+https://cdn.turboviplay.com/data1/666b1ef8e6d5f/666b1ef8e6d5f.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-pileckis-report-2023-lk21-d21.jpg",Pilecki’s Report (2023)
+https://cdn.turboviplay.com/data1/666b159833310/666b159833310.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/06/film-the-beast-in-the-jungle-2023-lk21-d21.jpg",The Beast in the Jungle (2023)
+https://cdn.turboviplay.com/data1/666b0c5e4a998/666b0c5e4a998.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-lumberjack-the-monster-2023-lk21-d21.jpg",Lumberjack the Monster (2023)
+https://cdn.turboviplay.com/data1/666b0190027fa/666b0190027fa.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/06/film-chaalbaaz-1989-lk21-d21.jpg",Chaalbaaz (1989)
+https://cdn.turboviplay.com/data1/666af7e150ba2/666af7e150ba2.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/06/film-ship-of-the-damned-2024-lk21-d21.jpg",Ship of the Damned (2024)
+https://cdn.turboviplay.com/data1/666aa61146d12/666aa61146d12.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/06/film-the-hangman-2024-lk21-d21.jpg",The Hangman (2024)
+https://cdn.turboviplay.com/data1/666a9f1c078b2/666a9f1c078b2.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-hovering-blade-2024-lk21-d21.jpg",Hovering Blade (2024)
+https://cdn.turboviplay.com/data1/666a9830abcf4/666a9830abcf4.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/06/film-life-after-fighting-2024-lk21-d21.jpg",Life After Fighting (2024)
+https://cdn.turboviplay.com/data1/666a901eb6ec6/666a901eb6ec6.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/06/film-mysteries-of-the-terracotta-warriors-2024-lk21-d21.jpg",Mysteries of the Terracotta Warriors (2024)
+https://cdn.turboviplay.com/data1/666a842ebbdc3/666a842ebbdc3.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/06/film-wedding-high-2022-lk21-d21.jpg",Wedding High (2022)
+https://cdn.turboviplay.com/data1/666a7d4f4d357/666a7d4f4d357.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-wild-eyed-and-wicked-2024-lk21-d21.jpg",Wild Eyed and Wicked (2024)
+https://cdn.turboviplay.com/data1/666a73d108dd0/666a73d108dd0.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/06/film-tenant-2024-lk21-d21.jpg",Tenant (2024)
+https://cdn.turboviplay.com/data1/666a6a63f2c60/666a6a63f2c60.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/06/film-daimyo-tousan-2023-lk21-d21.jpg",Daimyo-Tousan (2023)
+https://cdn.turboviplay.com/data1/666a639e097a8/666a639e097a8.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/03/film-i-did-it-my-way-2023-lk21-d21.jpg",I Did It My Way (2023)
+https://cdn.turboviplay.com/data1/666a57bff2f7c/666a57bff2f7c.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/06/film-trim-season-2023-lk21-d21.jpg",Trim Season (2023)
+https://cdn.turboviplay.com/data/666814fa0edd3/666814fa0edd3.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/06/film-kill-craft-2024-lk21-d21.jpg",Kill Craft (2024)
+https://cdn.turboviplay.com/data/66680a5a0bfc0/66680a5a0bfc0.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-jackdaw-2024-lk21-d21.jpg",Jackdaw (2024)
+https://cdn.turboviplay.com/data/666801f319c86/666801f319c86.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/06/film-jesus-lopez-2022-lk21-d21.jpg",Jesus Lopez (2022)
+https://cdn.turboviplay.com/data/6667d8fed4344/6667d8fed4344.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/06/film-under-paris-2024-lk21-d21.jpg",Under Paris (2024)
+https://cdn.turboviplay.com/data/6666e94b317fa/6666e94b317fa.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-julia-2023-lk21-d21.jpg",Julia (2023)
+https://cdn.turboviplay.com/data/66653f2b46052/66653f2b46052.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-hit-man-2024-lk21-d21.jpg",Hit Man (2024)
+https://cdn.turboviplay.com/data/6663dfdcecd6e/6663dfdcecd6e.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/06/film-the-strangers-chapter-1-2024-lk21-d21.jpg",The Strangers: Chapter 1 (2024)
+https://cdn.turboviplay.com/data/6663d53b8c7bf/6663d53b8c7bf.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-penduko-2023-lk21-d21.jpg",Penduko (2023)
+https://cdn.turboviplay.com/data/6663ce486771e/6663ce486771e.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/06/film-the-zen-diary-2022-lk21-d21.jpg",The Zen Diary (2022)
+https://cdn.turboviplay.com/data/6663c63c31d61/6663c63c31d61.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/04/film-godzilla-x-kong-the-new-empire-2024-lk21-d21.jpg",Godzilla x Kong: The New Empire (2024)
+https://cdn.turboviplay.com/data/6663bbd7b707f/6663bbd7b707f.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/06/film-shadow-land-2024-lk21-d21.jpg",Shadow Land (2024)
+https://cdn.turboviplay.com/data/6663ae965cf3a/6663ae965cf3a.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-doleira-a-historia-de-nelma-kodama-2024-lk21-d21.jpg",Doleira: A Historia de Nelma Kodama (2024)
+https://cdn.turboviplay.com/data/666270d98878a/666270d98878a.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/06/film-secret-love-triangle-2023-lk21-d21.jpg",Secret Love Triangle (2023)
+https://cdn.turboviplay.com/data/66626d8b14e2a/66626d8b14e2a.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/06/film-basma-2024-lk21-d21.jpg",Basma (2024)
+https://cdn.turboviplay.com/data/66626401a611f/66626401a611f.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-bade-miyan-chote-miyan-2024-lk21-d21.jpg",Bade Miyan Chote Miyan (2024)
+https://cdn.turboviplay.com/data/66623f406695e/66623f406695e.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/06/film-rafa-marquez-el-capitan-2024-lk21-d21.jpg",Rafa Marquez: El capitan (2024)
+https://cdn.turboviplay.com/data/66622017acbd6/66622017acbd6.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/06/film-baki-hanma-vs-kengan-ashura-2024-lk21-d21.jpg",Baki Hanma VS Kengan Ashura (2024)
+https://cdn.turboviplay.com/data/6661ec795627c/6661ec795627c.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/06/film-mr-and-mrs-stodola-2023-lk21-d21.jpg",Mr. and Mrs. Stodola (2023)
+https://cdn2.turboviplay.com/data/6661e6e8a61ac/6661e6e8a61ac.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-miss-viborg-2022-lk21-d21.jpg",Miss Viborg (2022)
+https://cdn.turboviplay.com/data/666112a6af4f0/666112a6af4f0.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-bring-it-on-cheer-or-die-2022-lk21-d21.jpg",Bring It On: Cheer or Die (2022)
+https://cdn.turboviplay.com/data/6661096fb1577/6661096fb1577.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/06/film-how-to-rob-a-bank-2024-lk21-d21.jpg",How to Rob a Bank (2024)
+https://cdn.turboviplay.com/data/6660e29c27c90/6660e29c27c90.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/06/film-what-you-wish-for-2023-lk21-d21.jpg",What You Wish For (2023)
+https://cdn.turboviplay.com/data/6660b88a734c7/6660b88a734c7.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/06/film-jo-koy-live-from-brooklyn-2024-lk21-d21.jpg",Jo Koy: Live from Brooklyn (2024)
+https://cdn.turboviplay.com/data/6660b0201837f/6660b0201837f.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-the-price-of-nonnas-inheritance-2024-lk21-d21.jpg",The Price of Nonna’s Inheritance (2024)
+https://cdn2.turboviplay.com/data/6660a9318ed57/6660a9318ed57.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/06/film-poolman-2024-lk21-d21.jpg",Poolman (2024)
+https://cdn.turboviplay.com/data/665ddadf867a8/665ddadf867a8.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2023/09/film-perpetrator-2023-lk21-d21.jpg",Perpetrator (2023)
+https://cdn2.turboviplay.com/data/665ba39c7cbdc/665ba39c7cbdc.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/06/film-if-these-walls-could-sing-2022-lk21-d21.jpg",If These Walls Could Sing (2022)
+https://cdn.turboviplay.com/data/665c760e003a8/665c760e003a8.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/06/film-jim-henson-idea-man-2024-lk21-d21.jpg",Jim Henson: Idea Man (2024)
+https://cdn.turboviplay.com/data/665b9a94020cc/665b9a94020cc.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/06/film-us-or-them-2023-lk21-d21.jpg",Us or Them (2023)
+https://cdn.turboviplay.com/data/665c5701b9bd6/665c5701b9bd6.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-mary-had-a-little-lamb-2023-lk21-d21.jpg",Mary Had a Little Lamb (2023)
+https://cdn.turboviplay.com/data/665b8d3f68d3a/665b8d3f68d3a.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/06/film-a-part-of-you-2024-lk21-d21.jpg",A Part of You (2024)
+https://cdn.turboviplay.com/data/665b87a1b9299/665b87a1b9299.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2016/01/film-brush-with-danger-2014.jpg",Brush with Danger (2014)
+https://cdn.turboviplay.com/data/665b7bd937123/665b7bd937123.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/06/film-misfortune-2016-lk21-d21.jpg",Misfortune (2016)
+https://cdn.turboviplay.com/data/665b726c1576f/665b726c1576f.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-kingdom-of-gladiators-the-tournament-2017-lk21-d21.jpg",Kingdom of Gladiators: The Tournament (2017)
+https://cdn.turboviplay.com/data/665b6a3b758c3/665b6a3b758c3.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/06/film-straight-outta-oakland-2014-lk21-d21.jpg",Straight Outta Oakland (2014)
+https://cdn.turboviplay.com/data/665ae294219ff/665ae294219ff.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/06/film-at-the-jersey-shore-2011-lk21-d21.jpg",At the Jersey Shore (2011)
+https://cdn.turboviplay.com/data/665ad698cdfcd/665ad698cdfcd.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/06/film-family-of-two-a-mother-and-son-story-2023-lk21-d21.jpg",Family of Two (A Mother and Son Story) (2023)
+https://cdn.turboviplay.com/data/665e5dfea26a3/665e5dfea26a3.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2022/07/film-death-hunt-2022-lk21-d21.jpg",Death Hunt (2022)
+https://cdn.turboviplay.com/data/665dc95b73c30/665dc95b73c30.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-easter-bloody-easter-2024-lk21-d21.jpg",Easter Bloody Easter (2024)
+https://cdn.turboviplay.com/data/665d80ea08a14/665d80ea08a14.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/06/film-il-piu-bel-secolo-della-mia-vita-2023-lk21-d21.jpg",Il piu bel secolo della mia vita (2023)
+https://cdn.turboviplay.com/data/665d727b1f4da/665d727b1f4da.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/06/film-paradox-effect-2024-lk21-d21.jpg",Paradox Effect (2024)
+https://cdn.turboviplay.com/data/665d6b70a8a33/665d6b70a8a33.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/06/film-old-fox-2023-lk21-d21.jpg",Old Fox (2023)
+https://cdn.turboviplay.com/data/665d6488a5678/665d6488a5678.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/06/film-the-last-kumite-2024-lk21-d21.jpg",The Last Kumite (2024)
+https://cdn.turboviplay.com/data/665bb0d960cef/665bb0d960cef.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-die-hart-2-die-harter-2024-lk21-d21.jpg",Die Hart 2: Die Harter (2024)
+https://cdn.turboviplay.com/data/665dd2a25ff42/665dd2a25ff42.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-binary-samurai-2023-lk21-d21.jpg",Binary Samurai (2023)
+https://cdn.turboviplay.com/data/665df5db3a280/665df5db3a280.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/06/film-cinderellas-revenge-2024-lk21-d21.jpg",Cinderella’s Revenge (2024)
+https://cdn.turboviplay.com/data/665dec7c023bb/665dec7c023bb.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/06/film-troll-factory-2024-lk21-d21.jpg",Troll Factory (2024)
+https://cdn.turboviplay.com/data/665de43ee65ee/665de43ee65ee.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/06/film-the-last-wife-2023-lk21-d21.jpg",The Last Wife (2023)
+https://cdn.turboviplay.com/data/66600d7cda547/66600d7cda547.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-rewind-2023-lk21-d21.jpg",Rewind (2023)
+https://cdn.turboviplay.com/data/666002d762b73/666002d762b73.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/06/film-5-ghantey-mien-5-crore-2012-lk21-d21.jpg",5 Ghantey Mien 5 Crore (2012)
+https://cdn.turboviplay.com/data/665ff96fa0b2b/665ff96fa0b2b.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/06/film-judaai-1997-lk21-d21.jpg",Judaai (1997)
+https://cdn.turboviplay.com/data/665fdb71c6d4c/665fdb71c6d4c.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/05/film-golden-kamuy-2024-lk21-d21.jpg",Golden Kamuy (2024)
+https://cdn.turboviplay.com/data/665f963b0a4a7/665f963b0a4a7.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/05/film-civil-war-2024-lk21-d21.jpg",Civil War (2024)
+https://cdn.turboviplay.com/data/665f86c513c94/665f86c513c94.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-teddiscare-2024-lk21-d21.jpg",Teddiscare (2024)
+https://cdn.turboviplay.com/data/6658f40f4c4be/6658f40f4c4be.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2023/12/film-may-december-2023-lk21-d21.jpg",May December (2023)
+https://cdn.turboviplay.com/data/6658dc676fc35/6658dc676fc35.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/05/film-article-370-2024-lk21-d21.jpg",Article 370 (2024)
+https://cdn.turboviplay.com/data/6658cadee588a/6658cadee588a.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/05/film-chief-of-station-2024-lk21-d21.jpg",Chief of Station (2024)
+https://cdn.turboviplay.com/data/6658bdcc38d05/6658bdcc38d05.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/05/film-bionic-2024-lk21-d21.jpg",Bionic (2024)
+https://cdn.turboviplay.com/data/6658b5f6322ed/6658b5f6322ed.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/05/film-colors-of-evil-red-2024-lk21-d21.jpg",Colors of Evil: Red (2024)
+https://cdn2.turboviplay.com/data/66589aceef3ec/66589aceef3ec.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-blood-thirst-2023-lk21-d21.jpg",Blood Thirst (2023)
+https://cdn.turboviplay.com/data/66588dc7e45ae/66588dc7e45ae.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/05/film-shes-from-another-planet-2023-lk21-d21.jpg",She’s from Another Planet (2023)
+https://cdn.turboviplay.com/data/6657c6867020b/6657c6867020b.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/04/film-love-lies-bleeding-2024-lk21-d21.jpg",Love Lies Bleeding (2024)
+https://cdn.turboviplay.com/data/66562d9bc4777/66562d9bc4777.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/05/film-back-to-black-2024-lk21-d21.jpg",Back to Black (2024)
+https://cdn.turboviplay.com/data/66562588ddf48/66562588ddf48.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/05/film-tarot-2024-lk21-d21.jpg",Tarot (2024)
+https://cdn.turboviplay.com/data/665608022c955/665608022c955.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/05/film-the-roast-of-tom-brady-2024-lk21-d21.jpg",The Roast of Tom Brady (2024)
+https://cdn.turboviplay.com/data/66551fb6cf3ff/66551fb6cf3ff.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/05/film-adagio-2023-lk21-d21.jpg",Adagio (2023)
+https://cdn.turboviplay.com/data/6654dfb5122e7/6654dfb5122e7.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/04/film-asphalt-city-2024-lk21-d21.jpg",Asphalt City (2024)
+https://cdn.turboviplay.com/data/6654d67892254/6654d67892254.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-vallavan-vaguthadhada-2024-lk21-d21.jpg",Vallavan Vaguthadhada (2024)
+https://cdn.turboviplay.com/data/6654bee70ac81/6654bee70ac81.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/05/film-across-the-furious-sea-2023-lk21-d21.jpg",Across the Furious Sea (2023)
+https://cdn.turboviplay.com/data/6654b6f733f0b/6654b6f733f0b.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/05/film-gaga-chromatica-ball-2024-lk21-d21.jpg",Gaga Chromatica Ball (2024)
+https://cdn.turboviplay.com/data/6654a91638bf9/6654a91638bf9.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/05/film-the-beach-boys-2024-lk21-d21.jpg",The Beach Boys (2024)
+https://cdn2.turboviplay.com/data/66549c0a3053a/66549c0a3053a.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/04/film-knox-goes-away-2024-lk21-d21.jpg",Knox Goes Away (2024)
+https://cdn.turboviplay.com/data/66548ff0bcfd1/66548ff0bcfd1.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2023/10/film-after-everything-2023-lk21-d21.jpg",After Everything (2023)
+https://cdn.turboviplay.com/data/6654857467ac1/6654857467ac1.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/05/film-atlas-2024-lk21-d21.jpg",Atlas (2024)
+https://cdn.turboviplay.com/data/6650ea180e892/6650ea180e892.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/01/film-american-star-2024-lk21-d21.jpg",American Star (2024)
+https://cdn.turboviplay.com/data/6650c931133c3/6650c931133c3.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/05/film-alice-in-terrorland-2024-lk21-d21.jpg",Alice in Terrorland (2024)
+https://cdn.turboviplay.com/data/6650bfa086300/6650bfa086300.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/05/film-nigahen-nagina-part-ii-1989-lk21-d21.jpg",Nigahen: Nagina Part II (1989)
+https://cdn.turboviplay.com/data/6650bbc23564d/6650bbc23564d.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/05/film-in-good-hands-2-2024-lk21-d21.jpg",In Good Hands 2 (2024)
+https://cdn.turboviplay.com/data/66509dd5269b6/66509dd5269b6.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/05/film-force-of-nature-the-dry-2-2024-lk21-d21.jpg",Force of Nature: The Dry 2 (2024)
+https://cdn.turboviplay.com/data/66504f516fb51/66504f516fb51.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/05/film-call-me-country-beyonce-nashvilles-renaissance-2024-lk21-d21.jpg",Call Me Country: Beyonce & Nashville’s Renaissance (2024)
+https://cdn.turboviplay.com/data/665045becf94d/665045becf94d.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/05/film-crew-2024-lk21-d21.jpg",Crew (2024)
+https://cdn.turboviplay.com/data/6650415e7fa91/6650415e7fa91.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-blackbird-blackbird-blackberry-2023-lk21-d21.jpg",Blackbird Blackbird Blackberry (2023)
+https://cdn.turboviplay.com/data/66503c959dcb1/66503c959dcb1.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/05/film-the-blackwell-ghost-8-2024-lk21-d21.jpg",The Blackwell Ghost 8 (2024)
+https://cdn.turboviplay.com/data/664e6ed281ef9/664e6ed281ef9.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/05/film-amanda-2022-lk21-d21.jpg",Amanda (2022)
+https://cdn.turboviplay.com/data/664ef209cf54f/664ef209cf54f.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/05/film-hachiko-2023-lk21-d21.jpg",Hachiko (2023)
+https://cdn.turboviplay.com/data/664e3a44d399d/664e3a44d399d.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/05/film-mothers-instinct-2024-lk21-d21.jpg",Mothers’ Instinct (2024)
+https://cdn.turboviplay.com/data/664e30a945b5f/664e30a945b5f.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/05/film-miss-fortune-2023-lk21-d21.jpg",Miss Fortune (2023)
+https://cdn.turboviplay.com/data/664e28b1a93da/664e28b1a93da.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/05/film-beautiful-rebel-2024-lk21-d21.jpg",Beautiful Rebel (2024)
+https://cdn.turboviplay.com/data/664e1ce4ccaa2/664e1ce4ccaa2.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/05/film-love-without-permission-2024-lk21-d21.jpg",Love Without Permission (2024)
+https://cdn.turboviplay.com/data/664e10fee0a88/664e10fee0a88.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg",The Fall Guy (2024)
+https://cdn.turboviplay.com/data/664d9162b354a/664d9162b354a.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/05/film-4-kings-2-2023-lk21-d21.jpg",4 Kings 2 (2023)
+https://cdn.turboviplay.com/data/664cfbc97d5f7/664cfbc97d5f7.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/05/film-mo-mamma-2023-lk21-d21.jpg",Mo Mamma (2023)
+https://cdn.turboviplay.com/data/664cee7453d22/664cee7453d22.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/05/film-pandemonium-2023-lk21-d21.jpg",Pandemonium (2023)
+https://cdn.turboviplay.com/data/664ce6344c9cd/664ce6344c9cd.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-you-cant-run-forever-2024-lk21-d21.jpg",You Can’t Run Forever (2024)
+https://cdn.turboviplay.com/data/664cde3d92882/664cde3d92882.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/05/film-madurai-veeran-2018-lk21-d21.jpg",Madurai Veeran (2018)
+https://cdn2.turboviplay.com/data/664cd4f70d84b/664cd4f70d84b.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2017/12/film-christmas-prince-2017.jpg",A Christmas Prince (2017)
+https://cdn.turboviplay.com/data/664c5f543056d/664c5f543056d.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2015/12/film-kick-ass-2010.jpg",Kick-Ass (2010)
+https://cdn.turboviplay.com/data/664b361b5611f/664b361b5611f.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/02/film-millers-girl-2024-lk21-d21.jpg",Miller’s Girl (2024)
+https://cdn.turboviplay.com/data/664af8b9c4fe0/664af8b9c4fe0.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2015/12/film-5050-2011.jpg",50/50 (2011)
+https://cdn.turboviplay.com/data/664af0a3e0fce/664af0a3e0fce.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2015/12/film-welcome-to-sarajevo-1997.jpg",Welcome to Sarajevo (1997)
+https://cdn.turboviplay.com/data/664ae62b785e0/664ae62b785e0.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-american-2023-lk21-d21.jpg",The American (2023)
+https://cdn.turboviplay.com/data/664adb68ac840/664adb68ac840.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/05/film-unpredictable-2024-lk21-d21.jpg",Unpredictable (2024)
+https://cdn.turboviplay.com/data/664ad0dcc76fe/664ad0dcc76fe.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2015/12/film-star-wars-the-force-awakens-2015.jpg",Star Wars: Episode VII – The Force Awakens (2015)
+https://cdn.turboviplay.com/data/664b5f23ae501/664b5f23ae501.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2023/09/film-satyaprem-ki-katha-2023-lk21-d21.jpg",Satyaprem Ki Katha (2023)
+https://cdn.turboviplay.com/data/664ac573404c9/664ac573404c9.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/05/film-dark-obsession-2023-lk21-d21.jpg",Dark Obsession (2023)
+https://cdn.turboviplay.com/data/6649be9d91213/6649be9d91213.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/05/film-mai-2024-lk21-d21.jpg",Mai (2024)
+https://cdn.turboviplay.com/data/6649bb5b28ac9/6649bb5b28ac9.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/05/film-zara-hatke-zara-bachke-2023-lk21-d21.jpg",Zara Hatke Zara Bachke (2023)
+https://cdn.turboviplay.com/data/6649b0f2575da/6649b0f2575da.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2023/11/film-ransomed-2023-lk21-d21.jpg",Ransomed (2023)
+https://cdn.turboviplay.com/data/6648562e849c8/6648562e849c8.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/05/film-faceless-after-dark-2023-lk21-d21.jpg",Faceless After Dark (2023)
+https://cdn.turboviplay.com/data/6648f07260dbd/6648f07260dbd.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/05/film-ruthless-2023-lk21-d21.jpg",Ruthless (2023)
+https://cdn.turboviplay.com/data/6648cfae8d05b/6648cfae8d05b.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/05/film-thelma-the-unicorn-2024-lk21-d21.jpg",Thelma the Unicorn (2024)
+https://cdn.turboviplay.com/data/6648c7cd0d1ed/6648c7cd0d1ed.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/05/film-challengers-2024-lk21-d21.jpg",Challengers (2024)
+https://cdn.turboviplay.com/data/6648be7eb9f7c/6648be7eb9f7c.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/05/film-power-2024-lk21-d21.jpg",Power (2024)
+https://cdn.turboviplay.com/data/6648b03431c26/6648b03431c26.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/05/film-the-last-stop-in-yuma-county-2024-lk21-d21.jpg",The Last Stop in Yuma County (2024)
+https://cdn2.turboviplay.com/data/6648a6b40b10b/6648a6b40b10b.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/05/film-laadla-1994-lk21-d21.jpg",Laadla (1994)
+https://cdn.turboviplay.com/data/664894e18f89c/664894e18f89c.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/04/film-baghead-2023-lk21-d21.jpg",Baghead (2023)
+https://cdn.turboviplay.com/data/664810a23b0dd/664810a23b0dd.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-revolver-lily-2023-lk21-d21.jpg",Revolver Lily (2023)
+https://cdn.turboviplay.com/data/66481dae4d45a/66481dae4d45a.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/05/film-mars-express-2023-lk21-d21.jpg",Mars Express (2023)
+https://cdn2.turboviplay.com/data/664790ee39558/664790ee39558.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/02/film-lisa-frankenstein-2024-lk21-d21.jpg",Lisa Frankenstein (2024)
+https://cdn.turboviplay.com/data/6645eff2b9054/6645eff2b9054.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-sting-2024-lk21-d21.jpg",Sting (2024)
+https://cdn.turboviplay.com/data/6645e54c9fa9b/6645e54c9fa9b.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/05/film-founders-day-2024-lk21-d21.jpg",Founders Day (2024)
+https://cdn.turboviplay.com/data/6645dbe65146c/6645dbe65146c.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/05/film-the-soul-reaper-2023-lk21-d21.jpg",The Soul Reaper (2023)
+https://cdn.turboviplay.com/data/663dc62f33799/663dc62f33799.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/05/film-minority-opinion-2015-lk21-d21.jpg",Minority Opinion (2015)
+https://cdn.turboviplay.com/data/664263b9e1e78/664263b9e1e78.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/05/film-darkness-of-man-2024-lk21-d21.jpg",Darkness of Man (2024)
+https://cdn2.turboviplay.com/data/664329a62a36a/664329a62a36a.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/05/film-kitty-the-killer-2023-lk21-d21.jpg",Kitty the Killer (2023)
+https://cdn.turboviplay.com/data/66428eee56d81/66428eee56d81.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/05/film-mashaarojinn-2024-lk21-d21.jpg",Mashaarojinn (2024)
+https://cdn.turboviplay.com/data/664285b95088c/664285b95088c.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/05/film-turtles-all-the-way-down-2024-lk21-d21.jpg",Turtles All the Way Down (2024)
+https://cdn.turboviplay.com/data/66427b293793a/66427b293793a.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/05/film-vantas-2018-lk21-d21.jpg",Vantas (2018)
+https://cdn.turboviplay.com/data/66426f8ed91c0/66426f8ed91c0.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/05/film-sa-haba-ng-gabi-2021-lk21-d21.jpg",Sa haba ng gabi (2021)
+https://cdn.turboviplay.com/data/664256b3e17a1/664256b3e17a1.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/05/film-aavesham-2024-lk21-d21.jpg",Aavesham (2024)
+https://cdn.turboviplay.com/data/6640279118298/6640279118298.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/05/film-laroy-texas-2024-lk21-d21.jpg",LaRoy, Texas (2024)
+https://cdn.turboviplay.com/data/664152dc89c00/664152dc89c00.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/05/film-the-ministry-of-ungentlemanly-warfare-2024-lk21-d21.jpg",The Ministry of Ungentlemanly Warfare (2024)
+https://cdn.turboviplay.com/data/66400a8d31861/66400a8d31861.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-river-2023-lk21-d21.jpg",River (2023)
+https://cdn.turboviplay.com/data/663ebe59b5baa/663ebe59b5baa.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/05/film-rampok-2024-lk21-d21.jpg",Rampok (2024)
+https://cdn.turboviplay.com/data/663ade013dc35/663ade013dc35.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/05/film-lazareth-2024-lk21-d21.jpg",Lazareth (2024)
+https://cdn.turboviplay.com/data/663f26fa25224/663f26fa25224.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/05/film-mother-of-the-bride-2024-lk21-d21.jpg",Mother of the Bride (2024)
+https://cdn.turboviplay.com/data/663dbb179cf3a/663dbb179cf3a.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/05/film-slyth-the-hunt-saga-2023-lk21-d21.jpg",Slyth: The Hunt Saga (2023)
+https://cdn.turboviplay.com/data/663dd118c0ab5/663dd118c0ab5.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-possessions-2024-lk21-d21.jpg",Possessions (2024)
+https://cdn.turboviplay.com/data/663db1b58b2fd/663db1b58b2fd.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/05/film-house-on-rockingham-2024-lk21-d21.jpg",House on Rockingham (2024)
+https://cdn.turboviplay.com/data/663daaedb872e/663daaedb872e.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/03/film-madame-web-2024-lk21-d21.jpg",Madame Web (2024)
+https://cdn.turboviplay.com/data/663ceef43f5fe/663ceef43f5fe.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/05/film-light-2024-lk21-d21.jpg",Light (2024)
+https://cdn.turboviplay.com/data/663ce01d1c6ac/663ce01d1c6ac.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/05/film-abigail-2024-lk21-d21.jpg",Abigail (2024)
+https://cdn.turboviplay.com/data/663cde3518ed7/663cde3518ed7.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/05/film-that-thing-called-tadhana-2015-lk21-d21.jpg",That Thing Called Tadhana (2015)
+https://cdn.turboviplay.com/data/663cb8df9d8fb/663cb8df9d8fb.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-crakk-jeetega-toh-jiyegaa-2024-lk21-d21.jpg",Crakk: Jeetega… Toh Jiyegaa (2024)
+https://cdn.turboviplay.com/data/663aee4aebd44/663aee4aebd44.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/05/film-rajdhani-express-2013-lk21-d21.jpg",Rajdhani Express (2013)
+https://cdn.turboviplay.com/data/66398784c4d3f/66398784c4d3f.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/02/film-the-piper-2023-lk21-d21.jpg",The Piper (2023)
+https://cdn.turboviplay.com/data/6638b274cd235/6638b274cd235.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-something-in-the-water-2024-lk21-d21.jpg",Something in the Water (2024)
+https://cdn.turboviplay.com/data/6638aec51bd0b/6638aec51bd0b.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-akelli-2023-lk21-d21.jpg",Akelli (2023)
+https://cdn.turboviplay.com/data/663763a6a45f0/663763a6a45f0.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/05/film-pula-2024-lk21-d21.jpg",Pula (2024)
+https://cdn.turboviplay.com/data/663756d9ac500/663756d9ac500.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/05/film-shaitaan-2024-lk21-d21.jpg",Shaitaan (2024)
+https://cdn.turboviplay.com/data/66374d775a656/66374d775a656.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/04/film-blood-for-dust-2024-lk21-d21.jpg",Blood for Dust (2024)
+https://cdn.turboviplay.com/data/66373fb1b3cbc/66373fb1b3cbc.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2023/09/film-all-fun-and-games-2023-lk21-d21.jpg",All Fun and Games (2023)
+https://cdn.turboviplay.com/data/663738f8b741c/663738f8b741c.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/05/film-humane-2024-lk21-d21.jpg",Humane (2024)
+https://cdn.turboviplay.com/data/6636e6f8f3e64/6636e6f8f3e64.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2017/05/film-house-haunted-hill-1959.jpg",House on Haunted Hill (1959)
+https://cdn.turboviplay.com/data/66373df48d3dd/66373df48d3dd.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/05/film-new-life-2024-lk21-d21.jpg",New Life (2024)
+https://cdn.turboviplay.com/data/6635ffcc78da6/6635ffcc78da6.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/05/film-phuntroo-2016-lk21-d21.jpg",Phuntroo (2016)
+https://cdn.turboviplay.com/data/6634fe6686083/6634fe6686083.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/05/film-a-million-days-2023-lk21-d21.jpg",A Million Days (2023)
+https://cdn2.turboviplay.com/data/6634e79fc4c47/6634e79fc4c47.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/05/film-the-idea-of-you-2024-lk21-d21.jpg",The Idea of You (2024)
+https://cdn.turboviplay.com/data/6634271ce60a1/6634271ce60a1.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/05/film-mermaids-1990-lk21-d21.jpg",Mermaids (1990)
+https://cdn.turboviplay.com/data/6634132565d59/6634132565d59.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-bad-hombres-2023-lk21-d21.jpg",Bad Hombres (2023)
+https://cdn.turboviplay.com/data/663404d280e62/663404d280e62.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/05/film-infested-2023-lk21-d21.jpg",Infested (2023)
+https://cdn.turboviplay.com/data/6633fcc7de86b/6633fcc7de86b.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/05/film-down-the-rabbit-hole-2024-lk21-d21.jpg",Down the Rabbit Hole (2024)
+https://cdn.turboviplay.com/data/6633f2ec76192/6633f2ec76192.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/04/film-arcadian-2024-lk21-d21.jpg",Arcadian (2024)
+https://cdn.turboviplay.com/data/6633efe4119e4/6633efe4119e4.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/05/film-bangkitkan-aku-kembali-2023-lk21-d21.jpg",Bangkitkan Aku Kembali (2023)
+https://cdn.turboviplay.com/data/6633b840bb1bf/6633b840bb1bf.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/05/film-marguerites-theorem-2023-lk21-d21.jpg",Marguerite’s Theorem (2023)
+https://cdn.turboviplay.com/data/6633ae582570f/6633ae582570f.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/05/film-model-house-2024-lk21-d21.jpg",Model House (2024)
+https://cdn2.turboviplay.com/data/66339ea73ccbb/66339ea73ccbb.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/05/film-a-chefs-deadly-revenge-2024-lk21-d21.jpg",A Chef’s Deadly Revenge (2024)
+https://cdn.turboviplay.com/data/6633982461ae1/6633982461ae1.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-6-hours-away-2024-lk21-d21.jpg",6 Hours Away (2024)
+https://cdn.turboviplay.com/data/66338d8f6620e/66338d8f6620e.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/05/film-honeymoonish-2024-lk21-d21.jpg",Honeymoonish (2024)
+https://cdn.turboviplay.com/data/66314f8375d49/66314f8375d49.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/03/film-godzilla-minus-one-2023-lk21-d21.jpg",Godzilla Minus One (2023)
+https://cdn.turboviplay.com/data/66341ed69fafe/66341ed69fafe.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/05/film-firefly-2024-lk21-d21.jpg",Firefly (2024)
+https://cdn.turboviplay.com/data/663144c7141fc/663144c7141fc.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/05/film-bungalow-section-12-2024-lk21-d21.jpg",Bungalow Section 12 (2024)
+https://cdn.turboviplay.com/data/66313af016ac9/66313af016ac9.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/05/film-numb-2023-lk21-d21.jpg",Numb (2023)
+https://cdn.turboviplay.com/data/663133e70a716/663133e70a716.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/05/film-fukrey-3-2023-lk21-d21.jpg",Fukrey 3 (2023)
+https://cdn.turboviplay.com/data/66312656ccc77/66312656ccc77.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-stockholm-bloodbath-2024-lk21-d21.jpg",Stockholm Bloodbath (2024)
+https://cdn.turboviplay.com/data/662fc6f4ccf4a/662fc6f4ccf4a.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/05/film-lil-rel-howery-i-said-it-yall-thinking-it-2022-lk21-d21.jpg",Lil Rel Howery: I said it. Y’all thinking it (2022)
+https://cdn.turboviplay.com/data/662fcc5917fda/662fcc5917fda.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/04/film-siren-2024-lk21-d21.jpg",Siren (2024)
+https://cdn.turboviplay.com/data/662fba511655b/662fba511655b.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/04/film-dusk-for-a-hitman-2023-lk21-d21.jpg",Dusk for a Hitman (2023)
+https://cdn.turboviplay.com/data/6630e06b2e36f/6630e06b2e36f.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/04/film-the-dawning-of-the-day-2021-lk21-d21.jpg",The Dawning of the Day (2021)
+https://cdn2.turboviplay.com/data/662f4b940f5f2/662f4b940f5f2.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/04/film-undercover-carp-2019-lk21-d21.jpg",Undercover Carp (2019)
+https://cdn.turboviplay.com/data/662f42390e2e6/662f42390e2e6.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/04/film-the-doomsday-cult-of-antares-de-la-luz-2024-lk21-d21.jpg",The Doomsday Cult of Antares De La Luz (2024)
+https://cdn.turboviplay.com/data/662f1ba0eea51/662f1ba0eea51.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/04/film-sayen-the-huntress-2024-lk21-d21.jpg",Sayen: The Huntress (2024)
+https://cdn.turboviplay.com/data/662cdd5795e22/662cdd5795e22.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/04/film-hack-your-health-the-secrets-of-your-gut-2024-lk21-d21.jpg",Hack Your Health: The Secrets of Your Gut (2024)
+https://cdn.turboviplay.com/data/662cd3383ad28/662cd3383ad28.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/04/film-justice-league-x-rwby-super-heroes-and-huntsmen-part-one-2023-lk21-d21.jpg",Justice League x RWBY: Super Heroes and Huntsmen Part One (2023)
+https://cdn.turboviplay.com/data/662ccf67acd37/662ccf67acd37.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/04/film-glass-curtain-cam-perde-2023-lk21-d21.jpg",Glass Curtain (Cam Perde) (2023)
+https://cdn.turboviplay.com/data/662cc6ac4be7d/662cc6ac4be7d.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2022/09/film-emily-the-criminal-2022-lk21-d21.jpg",Emily the Criminal (2022)
+https://cdn.turboviplay.com/data/662cbeafe69ee/662cbeafe69ee.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/04/film-mr-9-do-or-die-2023-lk21-d21.jpg",MR-9: Do or Die (2023)
+https://cdn.turboviplay.com/data/662cb69b91f20/662cb69b91f20.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="🎬DS FILM" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2023/09/film-the-pod-generation-2023-lk21-d21.jpg",The Pod Generation (2023)
+https://cdn2.turboviplay.com/data/662b4fdf7007d/662b4fdf7007d.m3u8
 
 
 
@@ -13930,29 +14857,3 @@ https://thedream.biz.id/gevolmagtigdes/prokci.php/https://live-dash-cdn7-vp.cdn.
 #KODIPROP:inputstream.adaptive.license_key=ed13357e76665e68ba3e7a7486b1d84c:6811b7141d9712bf9a07685a6a9f71fd
 #EXTINF:-1 group-title="[DS] SPORT-VIP👑" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", Viaplay Extra 101
 https://thedream.biz.id/gevolmagtigdes/prokci.php/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra101/xtra101.isml/index.mpd|X-Forwarded-For=13.106.174.0
-
-
-
-
-
-
-
-
-===================================================DS MOVIE================================
-
-
-
-
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-NNainm0PaOY0hjI_iByNQ3bXiUO8t4pb3A&amp;usqp=CAU" group-title="[🎬DS-MOVIE]",Sekawan Limo
-https://be4235.rcr32.ams02.cdn255.com/hls2/02/07302/1s09unccm96b_h/master.m3u8?t=XzJ7m-5trTNNqKiTR7dx9v1e9Rei1X634wSJrItu2j4&s=1737047469&e=10800&f=37084017&srv=27&asn=7713&sp=4000&p=
-
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5GLyLygLUhyDE6G_562nxd_jKy7IvCakKhQ&amp;usqp=CAU" group-title="[🎬DS-MOVIE]",Rumah Dinas Bapak
-https://be4235.rcr32.ams02.cdn255.com/hls2/01/07556/34ob0fuo3pgm_h/master.m3u8?t=LwbK5JK1S5o3Kdjp6sTdsUU-SQFQP-g8Tx_PRxgRQOk&s=1737046801&e=10800&f=37939458&srv=44&asn=7713&sp=4000&p=
-
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlIVebIz9mbXQfJHoNNspz2TnVa1XiuQoHUu-G1MolJNO9QPUywK1EBRRA&amp;s=10" group-title="[🎬DS-MOVIE]",Ipar Adalah Maut
-https://be4235.rcr32.ams02.cdn255.com/hls2/02/07259/dh24qdcvm8f8_h/master.m3u8?t=uvz5sDxb4YR-XHpdJQR1WL-wldVtwZDH7-eNcz3UInY&s=1737047912&e=10800&f=37256847&srv=28&asn=7713&sp=4000&p=
-
-#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOj828Pj2AKNTAUHKcUNqMz25Yl2pTDkpS2KeqoKj3LTowf_T4eq2pSl28&amp;s=10" group-title="[🎬DS-MOVIE]",Kungfu Panda 4
-https://be4235.rcr32.ams02.cdn255.com/hls2/01/07428/nd1keka72ng2_h/master.m3u8?t=bO0EcLOmR1Qffx-mS7UuH18kaKN3qtyNoYlJzSBQVaA&s=1737048084&e=10800&f=37143196&srv=20&asn=7713&sp=4000&p=
-
-
