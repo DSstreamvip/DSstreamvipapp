@@ -729,18 +729,11 @@ https://tvpull.careryun.com/live/ballbar_26390.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7IgIQEFgvsjTn6Pe1Hw2bXU2Ft6fyajKz-yWXpxkMSPvvNzF50kp5uRM&amp;s=10" group-title="🏐LIVE EVENT 18 JANUARI",Proliga1
-http://xtv.ooo:8080/30912088/60996054/350997
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7IgIQEFgvsjTn6Pe1Hw2bXU2Ft6fyajKz-yWXpxkMSPvvNzF50kp5uRM&amp;s=10" group-title="🏐LIVE EVENT 18 JANUARI", Proliga2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://kametv.my.id/pdx/play.m3u8?id=206
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7IgIQEFgvsjTn6Pe1Hw2bXU2Ft6fyajKz-yWXpxkMSPvvNzF50kp5uRM&amp;s=10" group-title="🏐LIVE EVENT 18 JANUARI", Proliga3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f168568bfe5e5458106b6f4376a259aa:caca968e078f9c11b3ce58407a2b4dda
-https://kametv.my.id/pdx/play.mpd?id=17994
-
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240610 ExoPlayerLib/2.19.1
+##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+##KODIPROP:inputstream.adaptive.license_key=https://pidio.kinoz.biz.id/drm?id=17852
+https://free.biz.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiMjgwNzQ1OTYiLCJyZWZyZXNoX3Rva2VuIjoid2dXNWU2eDIzRHJcL3dnOTVsQVRhM2tvT0FSMkMxUWRRdmpaNTdRNDE5NVJ3VW9tMXc1STlOYXFwMXNlXC9JREZCeUF3QjFUV1dFRGszRFlsUjlFM2EzQWs1RmVNNnFDXC8wRzFXQlwvVWJHYmZ3eGFLWWttUEZ5XC9cLzh4WlVld1BaVGJneWVBc2FSS0E5WldudVJPWnhWWmZuOTVFXC9cL2NWZHFWbUdLYmJ4ZHA2VTFQTnhZTlJnZGhMQzlxR0JQeWgzNTR1bTMxTnRGZHNCNUF6cnVUXC9iRkRYMDJxZDhjc2RCZzF1ZXZVNzNqcG5kNXZBNnNKVlA1TnQ5Z0pYcDhcL0dqd2xVTTNDeVowUjN5bHhJZXpRNUZKUk9tMG9CaTZ1UnJtK3dhb0NYakZXRlBYWFhzZW0wdlliXC9ia1lzejdsYWRHWGVGaVlKVytDNWxGV2xkZUJsS2F1cmc9PSJ9
+##https://pidio.kinoz.biz.id/master.m3u8?id=206
 
 #EXTINF:-1 tvg-id="34130" group-title="🏐LIVE EVENT 18 JANUARI" tvg-logo="https://img.sofascore.com/api/v1/event/12912819/share-image/16x9", 12:00 WIB 18-01-2025 - Woori Card Vs Daejeon Bluefangs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
