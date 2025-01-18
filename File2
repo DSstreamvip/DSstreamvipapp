@@ -602,253 +602,128 @@ Tidak Ada File
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="16330" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", 15:30 WIB 18-01-2025 - PSM Makassar VS PSBS Biak
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_16330.m3u8
-#EXTINF:-1 tvg-id="27480" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", 15:30 WIB 18-01-2025 - PSM Makassar VS PSBS Biak
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_27480.m3u8
-
-#EXTINF:-1 tvg-id="40600" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", 19:00 WIB 18-01-2025 - Madura United VS Barito Putera
+#EXTINF:-1 tvg-id="40600" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7dZxptUf2AKMLy84hlVng-LUEEY63xg5afR2k4LvWdu0xJIjodDUgxgZe&amp;s=10", 19:00 WIB 18-01-2025 - Madura United VS Barito Putera
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_40600.m3u8
-#EXTINF:-1 tvg-id="28090" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", 19:00 WIB 18-01-2025 - Madura United VS Barito Putera
+#EXTINF:-1 tvg-id="28090" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7dZxptUf2AKMLy84hlVng-LUEEY63xg5afR2k4LvWdu0xJIjodDUgxgZe&amp;s=10", 19:00 WIB 18-01-2025 - Madura United VS Barito Putera
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_28090.m3u8
 
-#EXTINF:-1 tvg-id="28900" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", Newcastle United VS AFC Bournemouth - 19:30 WIB 18-01-2025
+#EXTINF:-1 tvg-id="28900" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX33N7vr4AaGSNXU3P2M3-R5rlhSzittCceMx46oiYeDAPEPTYrazynOF7&amp;s=10", 19:30 WIB 18-01-2025 - Newcastle United VS AFC Bournemouth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_28900.m3u8
-#EXTINF:-1 tvg-id="26270" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", Newcastle United VS AFC Bournemouth - 19:30 WIB 18-01-2025
+#EXTINF:-1 tvg-id="26270" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX33N7vr4AaGSNXU3P2M3-R5rlhSzittCceMx46oiYeDAPEPTYrazynOF7&amp;s=10", 19:30 WIB 18-01-2025 - Newcastle United VS AFC Bournemouth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_26270.m3u8
-#EXTINF:-1 tvg-id="18900" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", Newcastle United VS AFC Bournemouth - 19:30 WIB 18-01-2025
+#EXTINF:-1 tvg-id="18900" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX33N7vr4AaGSNXU3P2M3-R5rlhSzittCceMx46oiYeDAPEPTYrazynOF7&amp;s=10", 19:30 WIB 18-01-2025 - Newcastle United VS AFC Bournemouth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_18900.m3u8
 
-#EXTINF:-1 tvg-id="36790" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", Brentford VS Liverpool - 22:00 WIB 18-01-2025
+#EXTINF:-1 tvg-id="36790" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_256SCMaBmFcJ1RlruOx-YF94oLnvU4YQZA&amp;usqp=CAU", Brentford VS Liverpool - 22:00 WIB 18-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_36790.m3u8
-#EXTINF:-1 tvg-id="33510" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", Brentford VS Liverpool - 22:00 WIB 18-01-2025
+#EXTINF:-1 tvg-id="33510" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_256SCMaBmFcJ1RlruOx-YF94oLnvU4YQZA&amp;usqp=CAU", Brentford VS Liverpool - 22:00 WIB 18-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_33510.m3u8
-#EXTINF:-1 tvg-id="31700" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", Brentford VS Liverpool - 22:00 WIB 18-01-2025
+#EXTINF:-1 tvg-id="31700" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_256SCMaBmFcJ1RlruOx-YF94oLnvU4YQZA&amp;usqp=CAU", Brentford VS Liverpool - 22:00 WIB 18-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_31700.m3u8
-#EXTINF:-1 tvg-id="24190" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", Brentford VS Liverpool - 22:00 WIB 18-01-2025
+#EXTINF:-1 tvg-id="24190" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_256SCMaBmFcJ1RlruOx-YF94oLnvU4YQZA&amp;usqp=CAU", Brentford VS Liverpool - 22:00 WIB 18-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_24190.m3u8
-#EXTINF:-1 tvg-id="17590" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", Brentford VS Liverpool - 22:00 WIB 18-01-2025
+#EXTINF:-1 tvg-id="17590" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_256SCMaBmFcJ1RlruOx-YF94oLnvU4YQZA&amp;usqp=CAU", Brentford VS Liverpool - 22:00 WIB 18-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_17590.m3u8
 
-#EXTINF:-1 tvg-id="36920" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", Leicester City VS Fulham - 22:00 WIB 18-01-2025
+#EXTINF:-1 tvg-id="36920" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK7GxhKkOZ71-hqzmlc1o3oR789kpD9cSwyq5B32uyuvjPTIe3MWEHy1s&amp;s=10", Leicester City VS Fulham - 22:00 WIB 18-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_36920.m3u8
-#EXTINF:-1 tvg-id="09650" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", Leicester City VS Fulham - 22:00 WIB 18-01-2025
+#EXTINF:-1 tvg-id="09650" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK7GxhKkOZ71-hqzmlc1o3oR789kpD9cSwyq5B32uyuvjPTIe3MWEHy1s&amp;s=10", Leicester City VS Fulham - 22:00 WIB 18-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_09650.m3u8
 
-#EXTINF:-1 tvg-id="31020" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", Bologna VS Monza - 21:00 WIB 18-01-2025
+#EXTINF:-1 tvg-id="31020" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/60FupwF6bIMiccuIDV2-eE8OhtY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4009770/01a507.jpg", Bologna VS Monza - 21:00 WIB 18-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_31020.m3u8
-#EXTINF:-1 tvg-id="17240" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", Bologna VS Monza - 21:00 WIB 18-01-2025
+#EXTINF:-1 tvg-id="17240" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/60FupwF6bIMiccuIDV2-eE8OhtY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4009770/01a507.jpg", Bologna VS Monza - 21:00 WIB 18-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_17240.m3u8
-#EXTINF:-1 tvg-id="33850" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", Bologna VS Monza - 21:00 WIB 18-01-2025
+#EXTINF:-1 tvg-id="33850" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/60FupwF6bIMiccuIDV2-eE8OhtY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4009770/01a507.jpg", Bologna VS Monza - 21:00 WIB 18-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_33850.m3u8
-#EXTINF:-1 tvg-id="19250" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", Bologna VS Monza - 21:00 WIB 18-01-2025
+#EXTINF:-1 tvg-id="19250" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/60FupwF6bIMiccuIDV2-eE8OhtY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4009770/01a507.jpg", Bologna VS Monza - 21:00 WIB 18-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_19250.m3u8
 
-#EXTINF:-1 tvg-id="29980" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", Bayern Munchen VS VfL Wolfsburg - 21:30 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_29980.m3u8
-#EXTINF:-1 tvg-id="08870" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", Bayern Munchen VS VfL Wolfsburg - 21:30 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_08870.m3u8
-#EXTINF:-1 tvg-id="39650" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", Bayern Munchen VS VfL Wolfsburg - 21:30 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_39650.m3u8
-#EXTINF:-1 tvg-id="08770" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", Bayern Munchen VS VfL Wolfsburg - 21:30 WIB 18-01-2025
+#EXTINF:-1 tvg-id="08770" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG-A5XqPU0m7wFgSpJgoa_h2b8X2BGgiq-jKMiX9C94QDkAdkJVP6idfhI&amp;s=10", Bayern Munchen VS VfL Wolfsburg - 21:30 WIB 18-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_08770.m3u8
+#EXTINF:-1 tvg-id="39650" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG-A5XqPU0m7wFgSpJgoa_h2b8X2BGgiq-jKMiX9C94QDkAdkJVP6idfhI&amp;s=10", Bayern Munchen VS VfL Wolfsburg - 21:30 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_39650.m3u8
+#EXTINF:-1 tvg-id="29980" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG-A5XqPU0m7wFgSpJgoa_h2b8X2BGgiq-jKMiX9C94QDkAdkJVP6idfhI&amp;s=10", Bayern Munchen VS VfL Wolfsburg - 21:30 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_29980.m3u8
+#EXTINF:-1 tvg-id="08870" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG-A5XqPU0m7wFgSpJgoa_h2b8X2BGgiq-jKMiX9C94QDkAdkJVP6idfhI&amp;s=10", Bayern Munchen VS VfL Wolfsburg - 21:30 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_08870.m3u8
 
-#EXTINF:-1 tvg-id="29270" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", Holstein Kiel VS TSG Hoffenheim - 21:30 WIB 18-01-2025
+#EXTINF:-1 tvg-id="29270" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgiJVs3EfS-0TIb8Adcoubw5u8H99zMDbMXhMSUMDABMALkXd_Gg1eoOx4&amp;s=10", Holstein Kiel VS TSG Hoffenheim - 21:30 WIB 18-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_29270.m3u8
-#EXTINF:-1 tvg-id="15600" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", Holstein Kiel VS TSG Hoffenheim - 21:30 WIB 18-01-2025
+#EXTINF:-1 tvg-id="15600" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgiJVs3EfS-0TIb8Adcoubw5u8H99zMDbMXhMSUMDABMALkXd_Gg1eoOx4&amp;s=10", Holstein Kiel VS TSG Hoffenheim - 21:30 WIB 18-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_15600.m3u8
-#EXTINF:-1 tvg-id="23570" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", Holstein Kiel VS TSG Hoffenheim - 21:30 WIB 18-01-2025
+#EXTINF:-1 tvg-id="23570" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgiJVs3EfS-0TIb8Adcoubw5u8H99zMDbMXhMSUMDABMALkXd_Gg1eoOx4&amp;s=10", Holstein Kiel VS TSG Hoffenheim - 21:30 WIB 18-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_23570.m3u8
 
-#EXTINF:-1 tvg-id="31530" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", Lens VS Paris Saint Germain (PSG) - 23:00 WIB 18-01-2025
+
+#EXTINF:-1 tvg-id="36730" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmsR3yo-8urefjmhyZOxHgqfYWusnsGLAJrYtzvB81DtGhDykbAIUBH3j3&amp;s=10", Lens VS Paris Saint Germain (PSG) - 23:00 WIB 18-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_36730.m3u8
+#EXTINF:-1 tvg-id="31530" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmsR3yo-8urefjmhyZOxHgqfYWusnsGLAJrYtzvB81DtGhDykbAIUBH3j3&amp;s=10", Lens VS Paris Saint Germain (PSG) - 23:00 WIB 18-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_31530.m3u8
-#EXTINF:-1 tvg-id="17560" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", Lens VS Paris Saint Germain (PSG) - 23:00 WIB 18-01-2025
+#EXTINF:-1 tvg-id="17560" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmsR3yo-8urefjmhyZOxHgqfYWusnsGLAJrYtzvB81DtGhDykbAIUBH3j3&amp;s=10", Lens VS Paris Saint Germain (PSG) - 23:00 WIB 18-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_17560.m3u8
-#EXTINF:-1 tvg-id="28960" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", Lens VS Paris Saint Germain (PSG) - 23:00 WIB 18-01-2025
+#EXTINF:-1 tvg-id="28960" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmsR3yo-8urefjmhyZOxHgqfYWusnsGLAJrYtzvB81DtGhDykbAIUBH3j3&amp;s=10", Lens VS Paris Saint Germain (PSG) - 23:00 WIB 18-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_28960.m3u8
 
-#EXTINF:-1 tvg-id="36210" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", Girona VS Sevilla - 20:00 WIB 18-01-2025
+#EXTINF:-1 tvg-id="36210" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/Qo_6CkHPR78ebgdaAzNvo_i8F60=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28189/girona-vs-sevilla-d19755.jpg", Girona VS Sevilla - 20:00 WIB 18-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_36210.m3u8
-#EXTINF:-1 tvg-id="31320" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", Girona VS Sevilla - 20:00 WIB 18-01-2025
+#EXTINF:-1 tvg-id="31320" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/Qo_6CkHPR78ebgdaAzNvo_i8F60=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28189/girona-vs-sevilla-d19755.jpg", Girona VS Sevilla - 20:00 WIB 18-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_31320.m3u8
-#EXTINF:-1 tvg-id="16810" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", Girona VS Sevilla - 20:00 WIB 18-01-2025
+#EXTINF:-1 tvg-id="16810" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/Qo_6CkHPR78ebgdaAzNvo_i8F60=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28189/girona-vs-sevilla-d19755.jpg", Girona VS Sevilla - 20:00 WIB 18-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_16810.m3u8
-#EXTINF:-1 tvg-id="18330" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", Girona VS Sevilla - 20:00 WIB 18-01-2025
+#EXTINF:-1 tvg-id="18330" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/Qo_6CkHPR78ebgdaAzNvo_i8F60=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28189/girona-vs-sevilla-d19755.jpg", Girona VS Sevilla - 20:00 WIB 18-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_18330.m3u8
-#EXTINF:-1 tvg-id="17470" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", Girona VS Sevilla - 20:00 WIB 18-01-2025
+#EXTINF:-1 tvg-id="17470" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/Qo_6CkHPR78ebgdaAzNvo_i8F60=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28189/girona-vs-sevilla-d19755.jpg", Girona VS Sevilla - 20:00 WIB 18-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_17470.m3u8
 
-#EXTINF:-1 tvg-id="08630" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", Leganes VS Atletico Madrid - 22:15 WIB 18-01-2025
+#EXTINF:-1 tvg-id="08630" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzIqgZnhPh59InndcqZkohvGIriU_0EQmjTz-Bz0aq34LmECQsoZIBvMU&amp;s=10", Leganes VS Atletico Madrid - 22:15 WIB 18-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_08630.m3u8
-#EXTINF:-1 tvg-id="09790" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", Leganes VS Atletico Madrid - 22:15 WIB 18-01-2025
+#EXTINF:-1 tvg-id="09790" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzIqgZnhPh59InndcqZkohvGIriU_0EQmjTz-Bz0aq34LmECQsoZIBvMU&amp;s=10", Leganes VS Atletico Madrid - 22:15 WIB 18-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_09790.m3u8
-#EXTINF:-1 tvg-id="09700" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", Leganes VS Atletico Madrid - 22:15 WIB 18-01-2025
+#EXTINF:-1 tvg-id="09700" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzIqgZnhPh59InndcqZkohvGIriU_0EQmjTz-Bz0aq34LmECQsoZIBvMU&amp;s=10", Leganes VS Atletico Madrid - 22:15 WIB 18-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_09700.m3u8
-#EXTINF:-1 tvg-id="05660" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", Leganes VS Atletico Madrid - 22:15 WIB 18-01-2025
+#EXTINF:-1 tvg-id="05660" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzIqgZnhPh59InndcqZkohvGIriU_0EQmjTz-Bz0aq34LmECQsoZIBvMU&amp;s=10", Leganes VS Atletico Madrid - 22:15 WIB 18-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_05660.m3u8
-#EXTINF:-1 tvg-id="26390" group-title="⚽LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDLsJKTYFnoFopQkXjUQROB_yptBFmjdRyA&amp;usqp=CAU", Leganes VS Atletico Madrid - 22:15 WIB 18-01-2025
+#EXTINF:-1 tvg-id="26390" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzIqgZnhPh59InndcqZkohvGIriU_0EQmjTz-Bz0aq34LmECQsoZIBvMU&amp;s=10", Leganes VS Atletico Madrid - 22:15 WIB 18-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_26390.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7IgIQEFgvsjTn6Pe1Hw2bXU2Ft6fyajKz-yWXpxkMSPvvNzF50kp5uRM&amp;s=10" group-title="🏐LIVE EVENT 18 JANUARI",Proliga1
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240610 ExoPlayerLib/2.19.1
-##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-##KODIPROP:inputstream.adaptive.license_key=https://pidio.kinoz.biz.id/drm?id=17852
-https://free.biz.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiMjgwNzQ1OTYiLCJyZWZyZXNoX3Rva2VuIjoid2dXNWU2eDIzRHJcL3dnOTVsQVRhM2tvT0FSMkMxUWRRdmpaNTdRNDE5NVJ3VW9tMXc1STlOYXFwMXNlXC9JREZCeUF3QjFUV1dFRGszRFlsUjlFM2EzQWs1RmVNNnFDXC8wRzFXQlwvVWJHYmZ3eGFLWWttUEZ5XC9cLzh4WlVld1BaVGJneWVBc2FSS0E5WldudVJPWnhWWmZuOTVFXC9cL2NWZHFWbUdLYmJ4ZHA2VTFQTnhZTlJnZGhMQzlxR0JQeWgzNTR1bTMxTnRGZHNCNUF6cnVUXC9iRkRYMDJxZDhjc2RCZzF1ZXZVNzNqcG5kNXZBNnNKVlA1TnQ5Z0pYcDhcL0dqd2xVTTNDeVowUjN5bHhJZXpRNUZKUk9tMG9CaTZ1UnJtK3dhb0NYakZXRlBYWFhzZW0wdlliXC9ia1lzejdsYWRHWGVGaVlKVytDNWxGV2xkZUJsS2F1cmc9PSJ9
-##https://pidio.kinoz.biz.id/master.m3u8?id=206
-
-#EXTINF:-1 tvg-id="34130" group-title="🏐LIVE EVENT 18 JANUARI" tvg-logo="https://img.sofascore.com/api/v1/event/12912819/share-image/16x9", 12:00 WIB 18-01-2025 - Woori Card Vs Daejeon Bluefangs
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_34130.m3u8
-
-#EXTINF:-1 tvg-id="29500" group-title="🏐LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-kckeq65r8C9zOArOeixyCUQQJn9hazbjG1GEMFFBjSXuVDotKzgQnz_2&amp;s=10", 14:00 WIB 18-01-2025 - Daejeon Red Sparks Vs Expressway Co
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_29500.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="26530" group-title="🏀LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbJUZqzO4Cl3ZhaRqQmbLwSop3r5euyAruPBQHG8F_9E_DRmvl0TnGWE&amp;s=10", Milwaukee Bucks VS Toronto Raptors - 08:00 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_26530.m3u8
-#EXTINF:-1 tvg-id="27950" group-title="🏀LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbJUZqzO4Cl3ZhaRqQmbLwSop3r5euyAruPBQHG8F_9E_DRmvl0TnGWE&amp;s=10", Milwaukee Bucks VS Toronto Raptors - 08:00 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_27950.m3u8
-#EXTINF:-1 tvg-id="18370" group-title="🏀LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbJUZqzO4Cl3ZhaRqQmbLwSop3r5euyAruPBQHG8F_9E_DRmvl0TnGWE&amp;s=10", Milwaukee Bucks VS Toronto Raptors - 08:00 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_18370.m3u8
-#EXTINF:-1 tvg-id="09660" group-title="🏀LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbJUZqzO4Cl3ZhaRqQmbLwSop3r5euyAruPBQHG8F_9E_DRmvl0TnGWE&amp;s=10", Milwaukee Bucks VS Toronto Raptors - 08:00 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_09660.m3u8
-#EXTINF:-1 tvg-id="37760" group-title="🏀LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbJUZqzO4Cl3ZhaRqQmbLwSop3r5euyAruPBQHG8F_9E_DRmvl0TnGWE&amp;s=10", Milwaukee Bucks VS Toronto Raptors - 08:00 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_37760.m3u8
-
-#EXTINF:-1 tvg-id="32870" group-title="🏀LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbJUZqzO4Cl3ZhaRqQmbLwSop3r5euyAruPBQHG8F_9E_DRmvl0TnGWE&amp;s=10", Miami Heat VS Denver Nuggets - 08:00 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_32870.m3u8
-#EXTINF:-1 tvg-id="40640" group-title="🏀LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbJUZqzO4Cl3ZhaRqQmbLwSop3r5euyAruPBQHG8F_9E_DRmvl0TnGWE&amp;s=10", Miami Heat VS Denver Nuggets - 08:00 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_40640.m3u8
-#EXTINF:-1 tvg-id="32080" group-title="🏀LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbJUZqzO4Cl3ZhaRqQmbLwSop3r5euyAruPBQHG8F_9E_DRmvl0TnGWE&amp;s=10", Miami Heat VS Denver Nuggets - 08:00 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_32080.m3u8
-#EXTINF:-1 tvg-id="17070" group-title="🏀LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbJUZqzO4Cl3ZhaRqQmbLwSop3r5euyAruPBQHG8F_9E_DRmvl0TnGWE&amp;s=10", Miami Heat VS Denver Nuggets - 08:00 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_17070.m3u8
-#EXTINF:-1 tvg-id="37970" group-title="🏀LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbJUZqzO4Cl3ZhaRqQmbLwSop3r5euyAruPBQHG8F_9E_DRmvl0TnGWE&amp;s=10", Miami Heat VS Denver Nuggets - 08:00 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="34870" group-title="🏀LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbJUZqzO4Cl3ZhaRqQmbLwSop3r5euyAruPBQHG8F_9E_DRmvl0TnGWE&amp;s=10", Dallas Mavericks VS Oklahoma City Thunder - 08:30 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_34870.m3u8
-#EXTINF:-1 tvg-id="28300" group-title="🏀LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbJUZqzO4Cl3ZhaRqQmbLwSop3r5euyAruPBQHG8F_9E_DRmvl0TnGWE&amp;s=10", Dallas Mavericks VS Oklahoma City Thunder - 08:30 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_28300.m3u8
-#EXTINF:-1 tvg-id="19630" group-title="🏀LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbJUZqzO4Cl3ZhaRqQmbLwSop3r5euyAruPBQHG8F_9E_DRmvl0TnGWE&amp;s=10", Dallas Mavericks VS Oklahoma City Thunder - 08:30 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_19630.m3u8
-#EXTINF:-1 tvg-id="12140" group-title="🏀LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbJUZqzO4Cl3ZhaRqQmbLwSop3r5euyAruPBQHG8F_9E_DRmvl0TnGWE&amp;s=10", Dallas Mavericks VS Oklahoma City Thunder - 08:30 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_12140.m3u8
-#EXTINF:-1 tvg-id="05960" group-title="🏀LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbJUZqzO4Cl3ZhaRqQmbLwSop3r5euyAruPBQHG8F_9E_DRmvl0TnGWE&amp;s=10", Dallas Mavericks VS Oklahoma City Thunder - 08:30 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_05960.m3u8
-#EXTINF:-1 tvg-id="24410" group-title="🏀LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbJUZqzO4Cl3ZhaRqQmbLwSop3r5euyAruPBQHG8F_9E_DRmvl0TnGWE&amp;s=10", Dallas Mavericks VS Oklahoma City Thunder - 08:30 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_24410.m3u8
-#EXTINF:-1 tvg-id="35010" group-title="🏀LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbJUZqzO4Cl3ZhaRqQmbLwSop3r5euyAruPBQHG8F_9E_DRmvl0TnGWE&amp;s=10", Dallas Mavericks VS Oklahoma City Thunder - 08:30 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_35010.m3u8
-
-#EXTINF:-1 tvg-id="38760" group-title="🏀LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbJUZqzO4Cl3ZhaRqQmbLwSop3r5euyAruPBQHG8F_9E_DRmvl0TnGWE&amp;s=10", San Antonio Spurs VS Memphis Grizzlies - 09:30 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_38760.m3u8
-#EXTINF:-1 tvg-id="14500" group-title="🏀LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbJUZqzO4Cl3ZhaRqQmbLwSop3r5euyAruPBQHG8F_9E_DRmvl0TnGWE&amp;s=10", San Antonio Spurs VS Memphis Grizzlies - 09:30 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_14500.m3u8
-#EXTINF:-1 tvg-id="38040" group-title="🏀LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbJUZqzO4Cl3ZhaRqQmbLwSop3r5euyAruPBQHG8F_9E_DRmvl0TnGWE&amp;s=10", San Antonio Spurs VS Memphis Grizzlies - 09:30 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_38040.m3u8
-#EXTINF:-1 tvg-id="19160" group-title="🏀LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbJUZqzO4Cl3ZhaRqQmbLwSop3r5euyAruPBQHG8F_9E_DRmvl0TnGWE&amp;s=10", San Antonio Spurs VS Memphis Grizzlies - 09:30 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_19160.m3u8
-#EXTINF:-1 tvg-id="35270" group-title="🏀LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbJUZqzO4Cl3ZhaRqQmbLwSop3r5euyAruPBQHG8F_9E_DRmvl0TnGWE&amp;s=10", San Antonio Spurs VS Memphis Grizzlies - 09:30 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_35270.m3u8
-#EXTINF:-1 tvg-id="35320" group-title="🏀LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbJUZqzO4Cl3ZhaRqQmbLwSop3r5euyAruPBQHG8F_9E_DRmvl0TnGWE&amp;s=10", San Antonio Spurs VS Memphis Grizzlies - 09:30 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_35320.m3u8
-
-#EXTINF:-1 tvg-id="34050" group-title="🏀LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbJUZqzO4Cl3ZhaRqQmbLwSop3r5euyAruPBQHG8F_9E_DRmvl0TnGWE&amp;s=10", Los Angeles Lakers VS Brooklyn Nets - 10:30 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_34050.m3u8
-#EXTINF:-1 tvg-id="34350" group-title="🏀LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbJUZqzO4Cl3ZhaRqQmbLwSop3r5euyAruPBQHG8F_9E_DRmvl0TnGWE&amp;s=10", Los Angeles Lakers VS Brooklyn Nets - 10:30 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_34350.m3u8
-#EXTINF:-1 tvg-id="38940" group-title="🏀LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbJUZqzO4Cl3ZhaRqQmbLwSop3r5euyAruPBQHG8F_9E_DRmvl0TnGWE&amp;s=10", Los Angeles Lakers VS Brooklyn Nets - 10:30 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_38940.m3u8
-#EXTINF:-1 tvg-id="19980" group-title="🏀LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbJUZqzO4Cl3ZhaRqQmbLwSop3r5euyAruPBQHG8F_9E_DRmvl0TnGWE&amp;s=10", Los Angeles Lakers VS Brooklyn Nets - 10:30 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_19980.m3u8
-#EXTINF:-1 tvg-id="30790" group-title="🏀LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbJUZqzO4Cl3ZhaRqQmbLwSop3r5euyAruPBQHG8F_9E_DRmvl0TnGWE&amp;s=10", Los Angeles Lakers VS Brooklyn Nets - 10:30 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_30790.m3u8
-
-#EXTINF:-1 tvg-id="29320" group-title="🏀LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbJUZqzO4Cl3ZhaRqQmbLwSop3r5euyAruPBQHG8F_9E_DRmvl0TnGWE&amp;s=10", New York Knicks VS Minnesota Timberwolves - 07:30 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_29320.m3u8
-#EXTINF:-1 tvg-id="37890" group-title="🏀LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbJUZqzO4Cl3ZhaRqQmbLwSop3r5euyAruPBQHG8F_9E_DRmvl0TnGWE&amp;s=10", New York Knicks VS Minnesota Timberwolves - 07:30 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_37890.m3u8
-#EXTINF:-1 tvg-id="24070" group-title="🏀LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbJUZqzO4Cl3ZhaRqQmbLwSop3r5euyAruPBQHG8F_9E_DRmvl0TnGWE&amp;s=10", New York Knicks VS Minnesota Timberwolves - 07:30 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_24070.m3u8
-#EXTINF:-1 tvg-id="34310" group-title="🏀LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbJUZqzO4Cl3ZhaRqQmbLwSop3r5euyAruPBQHG8F_9E_DRmvl0TnGWE&amp;s=10", New York Knicks VS Minnesota Timberwolves - 07:30 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_34310.m3u8
-#EXTINF:-1 tvg-id="38460" group-title="🏀LIVE EVENT 18 JANUARI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbJUZqzO4Cl3ZhaRqQmbLwSop3r5euyAruPBQHG8F_9E_DRmvl0TnGWE&amp;s=10", New York Knicks VS Minnesota Timberwolves - 07:30 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_38460.m3u8
 
 
 
