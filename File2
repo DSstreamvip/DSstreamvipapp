@@ -601,218 +601,119 @@ Tidak Ada File
 
 #EXTM3U
 
+#EXTINF:-1 tvg-id="10590" group-title="⚽DS-SPORT EVENT 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzH1TDjOQqn3zn4WLnYPn_ss82ncL1oWMR1QqJhU7aDpKUIVQ2EZuW2wg&amp;s=10", 15:30 WIB 19-01-2025 - Borneo FC VS Arema FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_10590.m3u8
 
-#EXTINF:-1 tvg-id="40600" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7dZxptUf2AKMLy84hlVng-LUEEY63xg5afR2k4LvWdu0xJIjodDUgxgZe&amp;s=10", 19:00 WIB 18-01-2025 - Madura United VS Barito Putera
+#EXTINF:-1 tvg-id="32850" group-title="⚽DS-SPORT EVENT 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReIAzteDwp5IcbiAMrepZLV1eU1FqIY39L1nJkJZdgKY5RYPGpgPijogiS&amp;s=10", 15:30 WIB 19-01-2025 - Persik Kediri VS PSS Sleman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_40600.m3u8
-#EXTINF:-1 tvg-id="28090" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7dZxptUf2AKMLy84hlVng-LUEEY63xg5afR2k4LvWdu0xJIjodDUgxgZe&amp;s=10", 19:00 WIB 18-01-2025 - Madura United VS Barito Putera
+https://tvpull.careryun.com/live/ballbar_32850.m3u8
+#EXTINF:-1 tvg-id="07750" group-title="⚽DS-SPORT EVENT 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReIAzteDwp5IcbiAMrepZLV1eU1FqIY39L1nJkJZdgKY5RYPGpgPijogiS&amp;s=10", 15:30 WIB 19-01-2025 - Persik Kediri VS PSS Sleman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_28090.m3u8
+https://tvpull.careryun.com/live/ballbar_07750.m3u8
 
-#EXTINF:-1 tvg-id="28900" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX33N7vr4AaGSNXU3P2M3-R5rlhSzittCceMx46oiYeDAPEPTYrazynOF7&amp;s=10", 19:30 WIB 18-01-2025 - Newcastle United VS AFC Bournemouth
+#EXTINF:-1 tvg-id="10640" group-title="⚽DS-SPORT EVENT 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3RJuYC0BcbG9DtpZ3-7rf0k22w1cX2KThugERjUwBY_opMPYJiNt9lV0&amp;s=10", 19:00 WIB 19-01-2025 - Persija Jakarta VS Persita Tangerang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_28900.m3u8
-#EXTINF:-1 tvg-id="26270" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX33N7vr4AaGSNXU3P2M3-R5rlhSzittCceMx46oiYeDAPEPTYrazynOF7&amp;s=10", 19:30 WIB 18-01-2025 - Newcastle United VS AFC Bournemouth
+https://tvpull.careryun.com/live/ballbar_10640.m3u8
+#EXTINF:-1 tvg-id="18220" group-title="⚽DS-SPORT EVENT 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3RJuYC0BcbG9DtpZ3-7rf0k22w1cX2KThugERjUwBY_opMPYJiNt9lV0&amp;s=10", 19:00 WIB 19-01-2025 - Persija Jakarta VS Persita Tangerang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_26270.m3u8
-#EXTINF:-1 tvg-id="18900" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX33N7vr4AaGSNXU3P2M3-R5rlhSzittCceMx46oiYeDAPEPTYrazynOF7&amp;s=10", 19:30 WIB 18-01-2025 - Newcastle United VS AFC Bournemouth
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_18900.m3u8
+https://tvpull.careryun.com/live/ballbar_18220.m3u8
 
-#EXTINF:-1 tvg-id="36790" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_256SCMaBmFcJ1RlruOx-YF94oLnvU4YQZA&amp;usqp=CAU", Brentford VS Liverpool - 22:00 WIB 18-01-2025
+#EXTINF:-1 tvg-id="24390" group-title="⚽DS-SPORT EVENT 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRghfjUgBK_9t_DjYpbRoH19n1uY-QVFHRlWuNlMxk8gB8X5qeRwcGY7AH4&amp;s=10", Everton VS Tottenham Hotspur - 21:00 WIB 19-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_36790.m3u8
-#EXTINF:-1 tvg-id="33510" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_256SCMaBmFcJ1RlruOx-YF94oLnvU4YQZA&amp;usqp=CAU", Brentford VS Liverpool - 22:00 WIB 18-01-2025
+https://tvpull.careryun.com/live/ballbar_24390.m3u8
+#EXTINF:-1 tvg-id="29570" group-title="⚽DS-SPORT EVENT 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRghfjUgBK_9t_DjYpbRoH19n1uY-QVFHRlWuNlMxk8gB8X5qeRwcGY7AH4&amp;s=10", Everton VS Tottenham Hotspur - 21:00 WIB 19-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_33510.m3u8
-#EXTINF:-1 tvg-id="31700" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_256SCMaBmFcJ1RlruOx-YF94oLnvU4YQZA&amp;usqp=CAU", Brentford VS Liverpool - 22:00 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_31700.m3u8
-#EXTINF:-1 tvg-id="24190" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_256SCMaBmFcJ1RlruOx-YF94oLnvU4YQZA&amp;usqp=CAU", Brentford VS Liverpool - 22:00 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_24190.m3u8
-#EXTINF:-1 tvg-id="17590" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_256SCMaBmFcJ1RlruOx-YF94oLnvU4YQZA&amp;usqp=CAU", Brentford VS Liverpool - 22:00 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_17590.m3u8
+https://tvpull.careryun.com/live/ballbar_29570.m3u8
 
-#EXTINF:-1 tvg-id="36920" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK7GxhKkOZ71-hqzmlc1o3oR789kpD9cSwyq5B32uyuvjPTIe3MWEHy1s&amp;s=10", Leicester City VS Fulham - 22:00 WIB 18-01-2025
+#EXTINF:-1 tvg-id="16630" group-title="⚽DS-SPORT EVENT 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKUe7tUIwMdH8xS5LaqR93lOG7C3YX2DVsg5HSOR2dppa9LZFbcD5Mq98&amp;s=10", Manchester United VS Brighton Hove Albion - 21:00 WIB 19-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_36920.m3u8
-#EXTINF:-1 tvg-id="09650" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK7GxhKkOZ71-hqzmlc1o3oR789kpD9cSwyq5B32uyuvjPTIe3MWEHy1s&amp;s=10", Leicester City VS Fulham - 22:00 WIB 18-01-2025
+https://tvpull.careryun.com/live/ballbar_16630.m3u8
+#EXTINF:-1 tvg-id="34720" group-title="⚽DS-SPORT EVENT 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKUe7tUIwMdH8xS5LaqR93lOG7C3YX2DVsg5HSOR2dppa9LZFbcD5Mq98&amp;s=10", Manchester United VS Brighton Hove Albion - 21:00 WIB 19-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_09650.m3u8
+https://tvpull.careryun.com/live/ballbar_34720.m3u8
+#EXTINF:-1 tvg-id="40790" group-title="⚽DS-SPORT EVENT 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKUe7tUIwMdH8xS5LaqR93lOG7C3YX2DVsg5HSOR2dppa9LZFbcD5Mq98&amp;s=10", Manchester United VS Brighton Hove Albion - 21:00 WIB 19-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_40790.m3u8
+#EXTINF:-1 tvg-id="31060" group-title="⚽DS-SPORT EVENT 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKUe7tUIwMdH8xS5LaqR93lOG7C3YX2DVsg5HSOR2dppa9LZFbcD5Mq98&amp;s=10", Manchester United VS Brighton Hove Albion - 21:00 WIB 19-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_31060.m3u8
+#EXTINF:-1 tvg-id="31310" group-title="⚽DS-SPORT EVENT 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKUe7tUIwMdH8xS5LaqR93lOG7C3YX2DVsg5HSOR2dppa9LZFbcD5Mq98&amp;s=10", Manchester United VS Brighton Hove Albion - 21:00 WIB 19-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_31310.m3u8
 
-#EXTINF:-1 tvg-id="31020" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/60FupwF6bIMiccuIDV2-eE8OhtY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4009770/01a507.jpg", Bologna VS Monza - 21:00 WIB 18-01-2025
+#EXTINF:-1 tvg-id="35260" group-title="⚽DS-SPORT EVENT 19 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/MGsnLek5EsxELL3R28eANArTM-o=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28213/ipswich-vs-man-city-fe737d.jpg", Ipswich Town VS Manchester City - 23:30 WIB 19-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_31020.m3u8
-#EXTINF:-1 tvg-id="17240" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/60FupwF6bIMiccuIDV2-eE8OhtY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4009770/01a507.jpg", Bologna VS Monza - 21:00 WIB 18-01-2025
+https://tvpull.careryun.com/live/ballbar_35260.m3u8
+#EXTINF:-1 tvg-id="30030" group-title="⚽DS-SPORT EVENT 19 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/MGsnLek5EsxELL3R28eANArTM-o=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28213/ipswich-vs-man-city-fe737d.jpg", Ipswich Town VS Manchester City - 23:30 WIB 19-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_17240.m3u8
-#EXTINF:-1 tvg-id="33850" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/60FupwF6bIMiccuIDV2-eE8OhtY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4009770/01a507.jpg", Bologna VS Monza - 21:00 WIB 18-01-2025
+https://tvpull.careryun.com/live/ballbar_30030.m3u8
+#EXTINF:-1 tvg-id="19660" group-title="⚽DS-SPORT EVENT 19 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/MGsnLek5EsxELL3R28eANArTM-o=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28213/ipswich-vs-man-city-fe737d.jpg", Ipswich Town VS Manchester City - 23:30 WIB 19-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_33850.m3u8
-#EXTINF:-1 tvg-id="19250" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/60FupwF6bIMiccuIDV2-eE8OhtY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4009770/01a507.jpg", Bologna VS Monza - 21:00 WIB 18-01-2025
+https://tvpull.careryun.com/live/ballbar_19660.m3u8
+#EXTINF:-1 tvg-id="19680" group-title="⚽DS-SPORT EVENT 19 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/MGsnLek5EsxELL3R28eANArTM-o=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28213/ipswich-vs-man-city-fe737d.jpg", Ipswich Town VS Manchester City - 23:30 WIB 19-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_19250.m3u8
+https://tvpull.careryun.com/live/ballbar_19680.m3u8
 
-#EXTINF:-1 tvg-id="08770" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG-A5XqPU0m7wFgSpJgoa_h2b8X2BGgiq-jKMiX9C94QDkAdkJVP6idfhI&amp;s=10", Bayern Munchen VS VfL Wolfsburg - 21:30 WIB 18-01-2025
+#EXTINF:-1 tvg-id="18160" group-title="⚽DS-SPORT EVENT 19 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/5CSN3ABFohf9bjlR96z5Y-M4HHE=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/27974/real-madrid-vs-las-palmas-0db32a.jpg", Celta Vigo VS Athletic Bilbao - 20:00 WIB 19-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_08770.m3u8
-#EXTINF:-1 tvg-id="39650" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG-A5XqPU0m7wFgSpJgoa_h2b8X2BGgiq-jKMiX9C94QDkAdkJVP6idfhI&amp;s=10", Bayern Munchen VS VfL Wolfsburg - 21:30 WIB 18-01-2025
+https://tvpull.careryun.com/live/ballbar_18160.m3u8
+#EXTINF:-1 tvg-id="31610" group-title="⚽DS-SPORT EVENT 19 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/5CSN3ABFohf9bjlR96z5Y-M4HHE=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/27974/real-madrid-vs-las-palmas-0db32a.jpg", Celta Vigo VS Athletic Bilbao - 20:00 WIB 19-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_39650.m3u8
-#EXTINF:-1 tvg-id="29980" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG-A5XqPU0m7wFgSpJgoa_h2b8X2BGgiq-jKMiX9C94QDkAdkJVP6idfhI&amp;s=10", Bayern Munchen VS VfL Wolfsburg - 21:30 WIB 18-01-2025
+https://tvpull.careryun.com/live/ballbar_31610.m3u8
+#EXTINF:-1 tvg-id="16030" group-title="⚽DS-SPORT EVENT 19 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/5CSN3ABFohf9bjlR96z5Y-M4HHE=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/27974/real-madrid-vs-las-palmas-0db32a.jpg", Celta Vigo VS Athletic Bilbao - 20:00 WIB 19-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_29980.m3u8
-#EXTINF:-1 tvg-id="08870" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG-A5XqPU0m7wFgSpJgoa_h2b8X2BGgiq-jKMiX9C94QDkAdkJVP6idfhI&amp;s=10", Bayern Munchen VS VfL Wolfsburg - 21:30 WIB 18-01-2025
+https://tvpull.careryun.com/live/ballbar_16030.m3u8
+#EXTINF:-1 tvg-id="37090" group-title="⚽DS-SPORT EVENT 19 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/5CSN3ABFohf9bjlR96z5Y-M4HHE=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/27974/real-madrid-vs-las-palmas-0db32a.jpg", Celta Vigo VS Athletic Bilbao - 20:00 WIB 19-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_08870.m3u8
+https://tvpull.careryun.com/live/ballbar_37090.m3u8
 
-#EXTINF:-1 tvg-id="29270" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgiJVs3EfS-0TIb8Adcoubw5u8H99zMDbMXhMSUMDABMALkXd_Gg1eoOx4&amp;s=10", Holstein Kiel VS TSG Hoffenheim - 21:30 WIB 18-01-2025
+#EXTINF:-1 tvg-id="24600" group-title="⚽DS-SPORT EVENT 19 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/5CSN3ABFohf9bjlR96z5Y-M4HHE=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/27974/real-madrid-vs-las-palmas-0db32a.jpg", Real Madrid VS Las Palmas - 22:15 WIB 19-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_29270.m3u8
-#EXTINF:-1 tvg-id="15600" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgiJVs3EfS-0TIb8Adcoubw5u8H99zMDbMXhMSUMDABMALkXd_Gg1eoOx4&amp;s=10", Holstein Kiel VS TSG Hoffenheim - 21:30 WIB 18-01-2025
+https://tvpull.careryun.com/live/ballbar_24600.m3u8
+#EXTINF:-1 tvg-id="10770" group-title="⚽DS-SPORT EVENT 19 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/5CSN3ABFohf9bjlR96z5Y-M4HHE=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/27974/real-madrid-vs-las-palmas-0db32a.jpg", Real Madrid VS Las Palmas - 22:15 WIB 19-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_15600.m3u8
-#EXTINF:-1 tvg-id="23570" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgiJVs3EfS-0TIb8Adcoubw5u8H99zMDbMXhMSUMDABMALkXd_Gg1eoOx4&amp;s=10", Holstein Kiel VS TSG Hoffenheim - 21:30 WIB 18-01-2025
+https://tvpull.careryun.com/live/ballbar_10770.m3u8
+#EXTINF:-1 tvg-id="23840" group-title="⚽DS-SPORT EVENT 19 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/5CSN3ABFohf9bjlR96z5Y-M4HHE=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/27974/real-madrid-vs-las-palmas-0db32a.jpg", Real Madrid VS Las Palmas - 22:15 WIB 19-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_23570.m3u8
+https://tvpull.careryun.com/live/ballbar_23840.m3u8
+#EXTINF:-1 tvg-id="24870" group-title="⚽DS-SPORT EVENT 19 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/5CSN3ABFohf9bjlR96z5Y-M4HHE=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/27974/real-madrid-vs-las-palmas-0db32a.jpg", Real Madrid VS Las Palmas - 22:15 WIB 19-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_24870.m3u8
 
+#EXTINF:-1 tvg-id="18810" group-title="⚽DS-SPORT EVENT 19 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/JdB-oOaErGexrMvB-Doi-bevbNA=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28219/fiorentina-vs-torino-ef3265.jpg", Fiorentina VS Torino - 18:30 WIB 19-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_18810.m3u8
+#EXTINF:-1 tvg-id="24820" group-title="⚽DS-SPORT EVENT 19 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/JdB-oOaErGexrMvB-Doi-bevbNA=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28219/fiorentina-vs-torino-ef3265.jpg", Fiorentina VS Torino - 18:30 WIB 19-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_24820.m3u8
+#EXTINF:-1 tvg-id="37450" group-title="⚽DS-SPORT EVENT 19 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/JdB-oOaErGexrMvB-Doi-bevbNA=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28219/fiorentina-vs-torino-ef3265.jpg", Fiorentina VS Torino - 18:30 WIB 19-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_37450.m3u8
+#EXTINF:-1 tvg-id="25650" group-title="⚽DS-SPORT EVENT 19 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/JdB-oOaErGexrMvB-Doi-bevbNA=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28219/fiorentina-vs-torino-ef3265.jpg", Fiorentina VS Torino - 18:30 WIB 19-01-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_25650.m3u8
 
-#EXTINF:-1 tvg-id="36730" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmsR3yo-8urefjmhyZOxHgqfYWusnsGLAJrYtzvB81DtGhDykbAIUBH3j3&amp;s=10", Lens VS Paris Saint Germain (PSG) - 23:00 WIB 18-01-2025
+#EXTINF:-1 tvg-id="19120" group-title="⚽DS-SPORT EVENT 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfvWQR04aCujcExbrMYTPJywAIeAJtPy5G61wJHbMLYRPmfT5qo7Ng6TVN&amp;s=10", Reims VS Le Havre - 23:15 WIB 19-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_36730.m3u8
-#EXTINF:-1 tvg-id="31530" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmsR3yo-8urefjmhyZOxHgqfYWusnsGLAJrYtzvB81DtGhDykbAIUBH3j3&amp;s=10", Lens VS Paris Saint Germain (PSG) - 23:00 WIB 18-01-2025
+https://tvpull.careryun.com/live/ballbar_19120.m3u8
+#EXTINF:-1 tvg-id="07240" group-title="⚽DS-SPORT EVENT 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfvWQR04aCujcExbrMYTPJywAIeAJtPy5G61wJHbMLYRPmfT5qo7Ng6TVN&amp;s=10", Reims VS Le Havre - 23:15 WIB 19-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_31530.m3u8
-#EXTINF:-1 tvg-id="17560" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmsR3yo-8urefjmhyZOxHgqfYWusnsGLAJrYtzvB81DtGhDykbAIUBH3j3&amp;s=10", Lens VS Paris Saint Germain (PSG) - 23:00 WIB 18-01-2025
+https://tvpull.careryun.com/live/ballbar_07240.m3u8
+#EXTINF:-1 tvg-id="27940" group-title="⚽DS-SPORT EVENT 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfvWQR04aCujcExbrMYTPJywAIeAJtPy5G61wJHbMLYRPmfT5qo7Ng6TVN&amp;s=10", Reims VS Le Havre - 23:15 WIB 19-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_17560.m3u8
-#EXTINF:-1 tvg-id="28960" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmsR3yo-8urefjmhyZOxHgqfYWusnsGLAJrYtzvB81DtGhDykbAIUBH3j3&amp;s=10", Lens VS Paris Saint Germain (PSG) - 23:00 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_28960.m3u8
-
-#EXTINF:-1 tvg-id="36210" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/Qo_6CkHPR78ebgdaAzNvo_i8F60=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28189/girona-vs-sevilla-d19755.jpg", Girona VS Sevilla - 20:00 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_36210.m3u8
-#EXTINF:-1 tvg-id="31320" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/Qo_6CkHPR78ebgdaAzNvo_i8F60=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28189/girona-vs-sevilla-d19755.jpg", Girona VS Sevilla - 20:00 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_31320.m3u8
-#EXTINF:-1 tvg-id="16810" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/Qo_6CkHPR78ebgdaAzNvo_i8F60=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28189/girona-vs-sevilla-d19755.jpg", Girona VS Sevilla - 20:00 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_16810.m3u8
-#EXTINF:-1 tvg-id="18330" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/Qo_6CkHPR78ebgdaAzNvo_i8F60=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28189/girona-vs-sevilla-d19755.jpg", Girona VS Sevilla - 20:00 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_18330.m3u8
-#EXTINF:-1 tvg-id="17470" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/Qo_6CkHPR78ebgdaAzNvo_i8F60=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28189/girona-vs-sevilla-d19755.jpg", Girona VS Sevilla - 20:00 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_17470.m3u8
-
-#EXTINF:-1 tvg-id="08630" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzIqgZnhPh59InndcqZkohvGIriU_0EQmjTz-Bz0aq34LmECQsoZIBvMU&amp;s=10", Leganes VS Atletico Madrid - 22:15 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_08630.m3u8
-#EXTINF:-1 tvg-id="09790" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzIqgZnhPh59InndcqZkohvGIriU_0EQmjTz-Bz0aq34LmECQsoZIBvMU&amp;s=10", Leganes VS Atletico Madrid - 22:15 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_09790.m3u8
-#EXTINF:-1 tvg-id="09700" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzIqgZnhPh59InndcqZkohvGIriU_0EQmjTz-Bz0aq34LmECQsoZIBvMU&amp;s=10", Leganes VS Atletico Madrid - 22:15 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_09700.m3u8
-#EXTINF:-1 tvg-id="05660" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzIqgZnhPh59InndcqZkohvGIriU_0EQmjTz-Bz0aq34LmECQsoZIBvMU&amp;s=10", Leganes VS Atletico Madrid - 22:15 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_05660.m3u8
-#EXTINF:-1 tvg-id="26390" group-title="⚽DS-SPORT LIVE 18 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzIqgZnhPh59InndcqZkohvGIriU_0EQmjTz-Bz0aq34LmECQsoZIBvMU&amp;s=10", Leganes VS Atletico Madrid - 22:15 WIB 18-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_26390.m3u8
+https://tvpull.careryun.com/live/ballbar_27940.m3u8
 
 
 
-#EXTINF:-1 tvg-id="34550" group-title="⚽DS-SPORT LIVE 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShEjUrlcOr0pV2f-Y6C2VmRp3MAWd8G9fZV5DvrCRoLVuIQysNgSjV7No&amp;s=10", Arsenal VS Aston Villa - 00:30 WIB 19-01-2025
+#EXTINF:-1 tvg-id="10530" group-title="🏐DS-SPORT EVENT 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLpNCBArMBi8hzEkmUUsV45_CJ3jbjvmpeNw&amp;usqp=CAU", 14:00 WIB GS CALTEX VS PEPPERS SAVING BANK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_34550.m3u8
-#EXTINF:-1 tvg-id="35870" group-title="⚽DS-SPORT LIVE 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShEjUrlcOr0pV2f-Y6C2VmRp3MAWd8G9fZV5DvrCRoLVuIQysNgSjV7No&amp;s=10", Arsenal VS Aston Villa - 00:30 WIB 19-01-2025
+https://tvpull.careryun.com/live/ballbar_10530.m3u8
+#EXTINF:-1 tvg-id="26710" group-title="🏐DS-SPORT EVENT 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38OyBGg-Lb4B5QjneZCG2Bw0HZQ9BpVPXvTQnv4hIIcQLhR797_PvVWQ&amp;s=10",Cheonan Skywalkers Vs Kb Stars - 12:00 WIB 19-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_35870.m3u8
-#EXTINF:-1 tvg-id="18430" group-title="⚽DS-SPORT LIVE 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShEjUrlcOr0pV2f-Y6C2VmRp3MAWd8G9fZV5DvrCRoLVuIQysNgSjV7No&amp;s=10", Arsenal VS Aston Villa - 00:30 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_18430.m3u8
-#EXTINF:-1 tvg-id="36480" group-title="⚽DS-SPORT LIVE 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShEjUrlcOr0pV2f-Y6C2VmRp3MAWd8G9fZV5DvrCRoLVuIQysNgSjV7No&amp;s=10", Arsenal VS Aston Villa - 00:30 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_36480.m3u8
-#EXTINF:-1 tvg-id="37300" group-title="⚽DS-SPORT LIVE 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShEjUrlcOr0pV2f-Y6C2VmRp3MAWd8G9fZV5DvrCRoLVuIQysNgSjV7No&amp;s=10", Arsenal VS Aston Villa - 00:30 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_37300.m3u8
-
-#EXTINF:-1 tvg-id="30940" group-title="⚽DS-SPORT LIVE 19 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/0nEXOAYzFUdjAFBwY8fQMG5La18=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3998486/02b692.jpg", Quilmes VS Deportivo Viedma - 07:00 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_30940.m3u8
-#EXTINF:-1 tvg-id="19700" group-title="⚽DS-SPORT LIVE 19 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/0nEXOAYzFUdjAFBwY8fQMG5La18=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3998486/02b692.jpg", Burgos CF VS Deportivo La Coruna - 20:00 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_19700.m3u8
-
-#EXTINF:-1 tvg-id="33760" group-title="⚽DS-SPORT LIVE 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuvoqpEmMnGW2hS19tLA5BHCNshSOg8SsIb7pm5ZpHJACkLIuV-V0K-ss&amp;s=10", Getafe VS FC Barcelona - 03:00 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_33760.m3u8
-#EXTINF:-1 tvg-id="19610" group-title="⚽DS-SPORT LIVE 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuvoqpEmMnGW2hS19tLA5BHCNshSOg8SsIb7pm5ZpHJACkLIuV-V0K-ss&amp;s=10", Getafe VS FC Barcelona - 03:00 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_19610.m3u8
-#EXTINF:-1 tvg-id="31690" group-title="⚽DS-SPORT LIVE 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuvoqpEmMnGW2hS19tLA5BHCNshSOg8SsIb7pm5ZpHJACkLIuV-V0K-ss&amp;s=10", Getafe VS FC Barcelona - 03:00 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_31690.m3u8
-#EXTINF:-1 tvg-id="33610" group-title="⚽DS-SPORT LIVE 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuvoqpEmMnGW2hS19tLA5BHCNshSOg8SsIb7pm5ZpHJACkLIuV-V0K-ss&amp;s=10", Getafe VS FC Barcelona - 03:00 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_33610.m3u8
-#EXTINF:-1 tvg-id="36460" group-title="⚽DS-SPORT LIVE 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuvoqpEmMnGW2hS19tLA5BHCNshSOg8SsIb7pm5ZpHJACkLIuV-V0K-ss&amp;s=10", Getafe VS FC Barcelona - 03:00 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_36460.m3u8
-
-#EXTINF:-1 tvg-id="25900" group-title="⚽DS-SPORT LIVE 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5UtFJGBLKug-ITd05VWpi6ZC7A5o-OpKI3ukMeXSwo7PddwRPHRD3d28&amp;s=10", Juventus VS AC Milan - 00:00 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_25900.m3u8
-#EXTINF:-1 tvg-id="21420" group-title="⚽DS-SPORT LIVE 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5UtFJGBLKug-ITd05VWpi6ZC7A5o-OpKI3ukMeXSwo7PddwRPHRD3d28&amp;s=10", Juventus VS AC Milan - 00:00 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_21420.m3u8
-#EXTINF:-1 tvg-id="37360" group-title="⚽DS-SPORT LIVE 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5UtFJGBLKug-ITd05VWpi6ZC7A5o-OpKI3ukMeXSwo7PddwRPHRD3d28&amp;s=10", Juventus VS AC Milan - 00:00 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_37360.m3u8
-
-#EXTINF:-1 tvg-id="18910" group-title="⚽DS-SPORT LIVE 19 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/k6JZ1fNyiEmOC7HMOtogceLvpO0=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28220/atalanta-vs-napoli-4bdf2f.jpg", Atalanta VS Napoli - 02:45 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_18910.m3u8
-#EXTINF:-1 tvg-id="21660" group-title="⚽DS-SPORT LIVE 19 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/k6JZ1fNyiEmOC7HMOtogceLvpO0=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28220/atalanta-vs-napoli-4bdf2f.jpg", Atalanta VS Napoli - 02:45 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_21660.m3u8
-#EXTINF:-1 tvg-id="11760" group-title="⚽DS-SPORT LIVE 19 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/k6JZ1fNyiEmOC7HMOtogceLvpO0=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28220/atalanta-vs-napoli-4bdf2f.jpg", Atalanta VS Napoli - 02:45 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_11760.m3u8
-#EXTINF:-1 tvg-id="33060" group-title="⚽DS-SPORT LIVE 19 JAN" tvg-logo="https://thumbor.prod.vidiocdn.com/k6JZ1fNyiEmOC7HMOtogceLvpO0=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28220/atalanta-vs-napoli-4bdf2f.jpg", Atalanta VS Napoli - 02:45 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_33060.m3u8
-
-#EXTINF:-1 tvg-id="33740" group-title="⚽DS-SPORT LIVE 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCDORi3Z1ciXJ46PjjAmvZRFa3vyVLV_UxM_PQbs3zxIHH_VeybXND6Ekz&amp;s=10", Bayer Leverkusen VS Borussia Monchengladbach - 00:30 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_33740.m3u8
-#EXTINF:-1 tvg-id="39870" group-title="⚽DS-SPORT LIVE 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCDORi3Z1ciXJ46PjjAmvZRFa3vyVLV_UxM_PQbs3zxIHH_VeybXND6Ekz&amp;s=10", Bayer Leverkusen VS Borussia Monchengladbach - 00:30 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_39870.m3u8
-#EXTINF:-1 tvg-id="22300" group-title="⚽DS-SPORT LIVE 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCDORi3Z1ciXJ46PjjAmvZRFa3vyVLV_UxM_PQbs3zxIHH_VeybXND6Ekz&amp;s=10", Bayer Leverkusen VS Borussia Monchengladbach - 00:30 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_22300.m3u8
-#EXTINF:-1 tvg-id="35280" group-title="⚽DS-SPORT LIVE 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCDORi3Z1ciXJ46PjjAmvZRFa3vyVLV_UxM_PQbs3zxIHH_VeybXND6Ekz&amp;s=10", Bayer Leverkusen VS Borussia Monchengladbach - 00:30 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_35280.m3u8
-
-#EXTINF:-1 tvg-id="30340" group-title="⚽DS-SPORT LIVE 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmfmXUr84SHZZ1_yvYNYDZEDzEBBEhIS3d2pwReykA5bDtN17FN4oWDTA&amp;s=10", Rennes VS Stade Brestois - 01:00 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_30340.m3u8
-#EXTINF:-1 tvg-id="34270" group-title="⚽DS-SPORT LIVE 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmfmXUr84SHZZ1_yvYNYDZEDzEBBEhIS3d2pwReykA5bDtN17FN4oWDTA&amp;s=10", Rennes VS Stade Brestois - 01:00 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_34270.m3u8
-#EXTINF:-1 tvg-id="25150" group-title="⚽DS-SPORT LIVE 19 JAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmfmXUr84SHZZ1_yvYNYDZEDzEBBEhIS3d2pwReykA5bDtN17FN4oWDTA&amp;s=10", Rennes VS Stade Brestois - 01:00 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_25150.m3u8
-
-
-
+https://tvpull.careryun.com/live/ballbar_26710.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Moji" tvg-logo="https://go.erabaru.my.id/live/moji.png" group-title="🏐DS-SPORT EVENT 19 JAN",Liga Pro Indonesia (ujicoba)
+http://tv.kudigital.pw:8080/28122024KM/28122024/30
 
 
 
@@ -5539,6 +5440,323 @@ https://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.m
 
 
 
+
+
+
+=========================HBO=======================
+
+
+#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.imgur.com/XU2Ms72.jpeg" group-title="[DS] HBO",HBO (TRANSCORP)
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.imgur.com/4CcHBED.jpeg" group-title="[DS] HBO",HBO Hits (TRANSCORP)
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.imgur.com/s9u5yfA.jpeg" group-title="[DS] HBO",HBO Family (TRANSCORP)
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.imgur.com/vEv1cH4.jpegg" group-title="[DS] HBO",HBO Signature (TRANSCORP)
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.imgur.com/H1kvDAR.jpeg" group-title="[DS] HBO",Cinemax (TRANSCORP)
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
+
+===EDT [11/12/2024] HBO CT
+
+
+===EDT [22/11/2024] HBO MULTI
+#EXTINF:-1 tvg-id="" tvg-name="HBO SD" tvg-logo="https://i.imgur.com/XU2Ms72.jpeg" group-title="[DS] HBO",HBO SD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26595.m3u8
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/XU2Ms72.jpeg" group-title="[DS] HBO",HBO HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO FHD" tvg-logo="https://i.imgur.com/XU2Ms72.jpeg" group-title="[DS] HBO",HBO FHD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1496.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits SD" tvg-logo="https://i.imgur.com/4CcHBED.jpeg" group-title="[DS] HBO",HBO Hits SD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26596.m3u8
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits HD" tvg-logo="https://i.imgur.com/4CcHBED.jpeg" group-title="[DS] HBO",HBO Hits HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits FHD" tvg-logo="https://i.imgur.com/4CcHBED.jpeg" group-title="[DS] HBO",HBO Hits FHD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/11492.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature SD" tvg-logo="https://i.imgur.com/vEv1cH4.jpeg" group-title="[DS] HBO",HBO Signature SD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26597.m3u8
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature FHD" tvg-logo="https://i.imgur.com/vEv1cH4.jpeg" group-title="[DS] HBO",HBO Signature FHD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1498.m3u8
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature HD" tvg-logo="https://i.imgur.com/vEv1cH4.jpeg" group-title="[DS] HBO",HBO Signature HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/873.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family SD" tvg-logo="https://i.imgur.com/s9u5yfA.jpeg" group-title="[DS] HBO",HBO Family SD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26598.m3u8
+#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO Family HD" tvg-logo="https://i.imgur.com/s9u5yfA.jpeg" group-title="[DS] HBO",HBO Family HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/592.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family FHD" tvg-logo="https://i.imgur.com/s9u5yfA.jpeg" group-title="[DS] HBO",HBO Family FHD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/30184.m3u8
+
+#EXTINF:-1 tvg-id="CineMax.id" tvg-name="Cinemax ID" tvg-logo="https://i.imgur.com/H1kvDAR.jpeg" group-title="[DS] HBO",Cinemax HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37375.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="https://i.imgur.com/H1kvDAR.jpeg" group-title="[DS] HBO",Cinemax FHD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/30185.m3u8
+
+
+
+===EDT [22/11/2024]
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xOVZ5cz.jpeg" group-title="[DS] HBO",HBO HD NON SUB
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/U4lscew.jpeg" group-title="[DS] HBO",HBO FAMILY NON SUB
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5sJrz8R.jpeg" group-title="[DS] HBO",CINEMAX NON SUB
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aTqOJyJ.jpeg" group-title="[DS] HBO",HBO SIGNATURE NON SUB
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/V9WrhPQ.jpeg" group-title="[DS] HBO",HBO HITS NON SUB
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
+
+===EDT
+
+====EDT 2 [17/11/2024]
+
+
+
+<===================================== HBO FMX =================================>
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.imgur.com/xOVZ5cz.jpeg" group-title="[DS] HBO",HBO SUB INDO 1 ON
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/HBO.m3u8
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.imgur.com/V9WrhPQ.jpeg" group-title="[DS] HBO",HBO Hits SUB INDO 1 ON
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/HBOHits.m3u8
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.imgur.com/U4lscew.jpeg" group-title="[DS] HBO",HBO Family SUB INDO 1 ON
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/HBOFamily.m3u8
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.imgur.com/aTqOJyJ.jpeg" group-title="[DS] HBO",HBO Signature SUB INDO 1 ON
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/HBOSignature.m3u8
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://i.imgur.com/5sJrz8R.jpeg" tvg-logo="https://i.imgur.com/5sJrz8R.jpeg" group-title="[DS] HBO",Cinemax SUB INDO 1 ON
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/Cinemax.m3u8
+
+<=============================================== HBO Transcorp =============================================>
+
+
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.trenztv.workers.dev
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.imgur.com/xOVZ5cz.jpeg" group-title="[DS] HBO",HBO (CT) SUB INDO 2 ON
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.trenztv.workers.dev
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.imgur.com/V9WrhPQ.jpeg" group-title="[DS] HBO",HBO Hits (CT) SUB INDO 2 ON
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.trenztv.workers.dev
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.imgur.com/U4lscew.jpeg" group-title="[DS] HBO",HBO Family (CT) SUB INDO 2 ON
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.trenztv.workers.dev
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.imgur.com/aTqOJyJ.jpeg" group-title="[DS] HBO",HBO Signature (CT) SUB INDO 2 ON
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.trenztv.workers.dev
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.imgur.com/5sJrz8R.jpeg" group-title="[DS] HBO",Cinemax (CT) SUB INDO 2 ON
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+=============================================================SPORT LOKAL===========================================================================================
+
+
+
+#EXTINF:-1 group-logo="https://i.imgur.com/IQkwAXJ.jpeg",[DS] SPORT-LOKAL
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://i.imgur.com/K3FXClz.jpeg " group-title="[DS] SPORT-LOKAL",NBA TV (Indi)
+https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
+
+
+==EDT
+
+#EXTINF:-1   tvg-logo="https://i.imgur.com/dWS3vWU.jpeg" group-title="[DS] SPORT-LOKAL",WWE NETWORK 1 ON
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="WWE Network" tvg-logo="https://i.imgur.com/dWS3vWU.jpeg" group-title="[DS] SPORT-LOKAL",WWE NETWORK 2 ON
+https://webhdrunns.mizhls.ru/lb/premium376/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+==EDT
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tiC7ACR.jpeg" group-title="[DS] SPORT-LOKAL", TENNIS CHANNEL HD
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uh5diMN.jpeg" group-title="[DS] SPORT-LOKAL",PSJ TV_🇲🇨
+https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="[DS] SPORT-LOKAL"  tvg-logo="https://i.imgur.com/mbW2EWt.jpeg",FIGHT SPORTS 1 ON
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
+
+#EXTINF:-1 tvg-id="60" tvg-logo="https://i.imgur.com/mbW2EWt.jpeg" group-title="[DS] SPORT-LOKAL", FIGHT SPORTS 2 ON
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=FIGHT_SPORTS_HD
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/P9z1xHl.jpeg" group-title="[DS] SPORT-LOKAL ",MNC Sports (Sportstars)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/bmY7G2P.jpeg" group-title="[DS] SPORT-LOKAL",MNC Sports 2 (Sportstars 2)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://i.imgur.com/WoZKvR1.jpeg" group-title="[DS] SPORT-LOKAL ", SOCCER CHANNEL
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd  
+
+#EXTINF:-1 tvg-id="SPOTV HD - [Channel 427].id" tvg-name="" group-title="[DS] SPORT-LOKAL" tvg-logo="https://i.imgur.com/cot18OJ.jpeg",SPO TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+
+#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id" tvg-name="" group-title="[DS] SPORT-LOKAL" tvg-logo="https://i.imgur.com/C2mSfor.jpeg",SPO TV 2
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+
+
+
+
+
 ============================================================DS SPORT============================================================
 
 
@@ -5716,6 +5934,5 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 
 
 
-===================DS VOD=================
 
 
