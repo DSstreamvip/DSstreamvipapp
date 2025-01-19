@@ -4579,7 +4579,7 @@ Tidak Ada File
 
 
 
-#EXTINF:-1 tvg-logo="https://rckfamily.my.id/logo/indosiar.png" group-title="[DS] LOKAL INDONESIA",INDOSIAR
+#EXTINF:-1 tvg-id="Lokal" group-title="[DS] LOKAL INDONESIA" tvg-logo="https://rckfamily.my.id/logo/indosiar.png" ch-number="92" group-logo="",INDOSIAR
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; ZUPAMNZVUB) ExoPlayerLib/2.15.1
 https://ktvindonesia.my.id/live/42AE3BEB79C56924BB3FB477777A9F40/585.m3u8
 
