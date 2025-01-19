@@ -5273,73 +5273,328 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1
 
 
 
-#EXTINF:-1 tvg-id="TVAlhijrah.my" group-title="[DS] Religi" tvg-logo="https://i.ibb.co.com/chKvKMt/alhijrah.png",Al-Hijrah
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:0 tvg-url="" group-title="[DS] Religi" tvg-logo="https://www.lyngsat.com/logo/tv/rr/reformed_21_id.png",Reformed 21
+https://cempedak-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:0 tvg-id="Khazanah.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI4r55BIHXyWylWiP8gERS8N05bJ5Q2u63s2Rkkbmk0wvtxGDpIhM8EHfb&s=10" group-title="[DS] Religi",Khazanah TV
+https://cdnjkt4.transvision.co.id:1001/live/master/2/4028c6856f08326c016f557be28131b9/manifest.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:0 tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" tvg-logo="https://www.lyngsat.com/logo/tv/ll/life_id.png" group-title="[DS] Religi",LIFE
+https://cempedak-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
+
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ee/ewtn_us.png" group-title="[DS] Religi",EWTN
+https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ee/ewtn_us.png" group-title="[DS] Religi",EWTN
+https://cempedak-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ee/ewtn_us.png" group-title="[DS] Religi",EWTN ES (SN)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
+#http://csc-nod-edge01.sensa.com.ar/live/eds/EWTN/live_dash_cld/EWTN.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/U-Channel_id.png" group-title="[DS] Religi",U Channel
+https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0gKy97clJrSGBIgrzMu45fXU6tjkbq_Dv5g&usqp=CAU" group-title="[DS] Religi",Kairos TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMDg1NzYyNDEiLCJyZWZyZXNoX3Rva2VuIjoibnpxWEdXNkpRTFwvTDF1eHZ6S2UzS3VKUHNsVFwvdkJpMmc4VFNmSFpDeHpTWnZ0eGlUMzl6clRSRit6WTloZjlZN3JaNkZkaVJyOWpiR2JPTWtpOVRcL3NaTiszQ2w4b0VYZFMzc0FFQm80RjdENXlaNDUyU2I2VlwvWkQ4cmN5RTVrVWJJellQREJGOFJHOHM1b05iYTIwS2wwTEZUZXROV3NnZWw3amhiVlwvUDlTTFFxQXJoa0dkZFl1SVgycnZrUzBBWlZ2TkZocTU1Y0xYNGdGbTI0bWZGWDByamdsZzQrbkhiOFJiSWsra0kySGM0QU9mcjFpUkxidmlNZERtaTJwa21IWTRKN2o1QVgrSHh5S09zVVwvN1wvTGJhOG9xRWxXXC9Tb2JFd1dJS1R2cDZYN2dFYUxjb1dnXC9zV3B0T2RVU2UifQ==
+#KODIPROP:inputstream.adaptive.license_key=4e59e1e60b92407c972178c7959ec340:cdfcef62ac2b749f3e0d95c135647bac
+https://atemecdnbalancer-voe.sysln.id/live/eds/Kairos/mpd/Kairos.mpd
 
-#EXTINF:-1 group-title="[DS] Religi" tvg-logo="https://i.ibb.co.com/85p2J36/rtbgo.png",RTB Go
-https://free.biz.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiNTcxMjg5NjQiLCJyZWZyZXNoX3Rva2VuIjoidjgxaUdaTTQ5MHV1TXhUaHBhKzVcLzBpN0lGdVhvd0FiYUhiRHo1WUZsbWNcL0pjREh4bXprMm5DeTg0bUsrNXFxSVpUTkhxdVBXeEd0Q3ZCdzJ5MVg0dnJLOW9mUllFaEt0YWtISHVDR2NxZ3BBcEM2VjJxMitJMkdcLzNSamdiNUprZU55dFVVK2lvNUFTa0ltMjlVUkFDNW1aVmtFWEg2cjNFelFHXC9iQUdlVklaS0JrTnBQa0kxREVtVjZQeVYxWjhFc3M1Uk54Mm1OQ3dQVk91WVorYmk2S3k4aG9OaG5TYkEyUzg0cktiaDFNQThIVldGYzhWakNDVXdFOEVBZ0lDZnpJQUg4b3J2SUJMQ3lyWUVVM3dIa0FITnFcL0hlY2laUTIzbzl2RmVNRkQ1Y2ppSEpWbzEzZHg2ZEhmMERQQ3BOeXppdDJwNDVwdHg5TnErQTZkbWRwcTFPUkVkXC8rNWZcL0Y1YVRacnhSZz0ifQ==
 
-#EXTINF:-1 group-title="[DS] Religi" tvg-logo="https://i.ibb.co.com/FDNhM59/ashiltv.png",Ashiil TV
-
-#EXTINF:-101 group-title="[DS] Religi" tvg-logo="https://i.ibb.co.com/9TBJN9F/cm.png",Citra Muslim
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmmsXzo9Xqz-XYwUiTAcDlQzCZFUFrX6f8ra9cULnTElDNOBoWO9nTxCw&s=10" group-title="[DS] Religi",GMS FM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMjE0Mzc5NjAiLCJyZWZyZXNoX3Rva2VuIjoianBYQTM3d2VyYWNXYnY2MUVqVWNhVWJuSzF0MEZTbUk5STNxTWhFTnpHbDdkUFpwUUgwTG5wNkZaQlBzTktCdjBNbU5YWkxlajNVVGhIZ3pyaittczRQbHdTelZcLzMyczB4NTFXbFpjdTFXeU56ZzNxVWpTbklqSUUraUZadnA1K0lmV1lZc0hFZHIwU0dNUnFEbUw3eGNZUGNyNXFISDhzZkFueFpzY0R0UW4yb0xNV3BxWHFBOTRqRUZXeU8zV0N1dFRDV2MzRVN3eW44UVlia2JOeVBJV0dsTWhmUGY1RmtcL0laZEZ5SHJYUTVkTm9aTENCTENWemhMT3pyN2lyUFJJQndOVHlJOGt1K1NtMk9Hb1lsS1wvbENmRTAyeW8rbHBFN1ZnUDRWelFXUHdvOXlmVmM2OUJIcmt2TENFdlEifQ==
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDUwOTczMTYiLCJyZWZyZXNoX3Rva2VuIjoiM2Z3SFQzRExoUHk4cFJZWXNDV0MxbUFMT09SdGdvcWFoU3lWbEozcVpCbHBrb1E1bHR0SUwwcnZrS0JrNG1WSGpWT1NpM1RSV1JCemhNYzFQdjZLRU9rdkdWTnQrbTE1XC8xRDR0ekN2djVTWWpJYk5zUUVURCtpZHBrMWNXSjRBbHd1cmY0dVE1Mm1qeGs4ZlE2aitLQVR1OHcwSEM0R1g3VGJodDlOVmI3dWZwMmp2SDVzbUE4TXljaVFkK2pZXC9YOElSajVHZ1JKUFN0R25qVUZIT0V4VDRld1B1NmVabUtRSWh6WWpCWW04U2Q2R2o2RUp6RmZYNlNVclwvb012WG1tY0hpTWQ3cGhqQ2E3K1IydVZudFVMV0dnQ1ZkWk03a3Z0dE14a3BcL2VmaGZhd095NStRanQ4UTE5bjdERnZZTXNuZWxvajk3cEdaNXdXMU1LcDZENElzMkNGTHM4K1RcL3hrSU9WYlQrWXlUdWszTnpoNzJHdVFWU3h6cFgrU2EifQ==
+#KODIPROP:inputstream.adaptive.license_key=848dfd2cd72b42baad634ea61a3b0285:42e281d95bdd33b0f0f206a9ff393011
+https://atemeshield1-voe.sysln.id/live/eds/GMSChannelHD/mpd/GMSChannelHD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n34sJmW/mqtv.png" group-title="[DS] Religi",MQTV
-https://free.biz.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiNjIxNTkzMDgiLCJyZWZyZXNoX3Rva2VuIjoiQ1o4ZmlBdjIzT3duRVg0UHZadEpzbzZGYkhLdmphbW10aWF0cjlWSnY4dWUzOTFWdG9DdklLNzFnZGd6UnNGZnZUWXFwVTM1WmswM25sbjFwRE5OS3owSlwveTdGOTlES0ErV21UUXJqaDg0eUptQ2ZcLzBuWWZ4TVVsMkhaZHFZYmhkbTZnMFB2NlZTbjN3b1ZpQnpqUHBpUFZQNDFqVlU4a0xiUGs1QkJHWUtDaURqSHJZQ2NCUmFnaHcyelwvT2plMUF1VUMzR2U0cW8xdDRFQTF1N1Jjd1BDeXV0SWcwWGY0WFFtcTE3Q1wvZW9cL0luZHFIRHJzV0R4SVRCd285bUl0QkZuRlNuaCs1V2F4ZGFyazNvWTBpRDd2eUN4ZEhrbjFwVUtEeGsyRHVnTjkxcVFvYXFNUW1QWk12UHEzRmNiWWlLNm11ZUhaVmFcL1VTVGVuXC92SUc0RE12XC94NU4wM0ZQbXVFVmdjQlNrNms9In0=
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYKESgsxl5Qr99OJIzhO5TLn0IS5EtA93S3kPHtdiyBVh4iuh1XzGjBFrP&s=10" group-title="[DS] Religi",Pijar TV
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685730a4243017321f355172d0c/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5Kcn5dV/TvMu.png" group-title="[DS] Religi",Muhammadiyah TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://reformed21.tv/images/logo.png" group-title="[DS] Religi",Reformed 21
+https://cempedak-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mVGk1-dnl_KcPcPtEkAVGfwasoYkZ8VFgXQwUAje7zFA=s900-c-k-c0x00ffffff-no-rj" group-title="[DS] Religi",Catholic TV
+https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/260px-Logo_tv2000_2015.svg.png" group-title="[DS] Religi",TV2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/hls_1_600/chunklist.m3u8
+
+#EXTINF:-1 group-title="[DS] Religi" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",Rodja TV
+#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+https://rodjatv.com/rodjatv/live.m3u8
+
+#EXTINF:-1 group-title="[DS] Religi" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",Rodja TV DZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RodjaTV
+
+#EXTINF:-1 group-title="[DS] Religi" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",Rodja TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMzI4OTcwMTQiLCJyZWZyZXNoX3Rva2VuIjoicytZRFdmUWo2c1VWWHVYVUx3MHA0cUZlN0VpenR4REZhU2ZERzhpSGxzb0xGYTRkbzR6eHJ2bUtPYlpFN1NOOWJQaHBweHJ2V0w0MXRmekZUSmdPcUhucVwvRVZsSVdlWWtRakhnU3NZNno4cUdoVzl6UjVtUWtGYmduMmdvRVFkNkt2YjNXbXJENjgzbnRSSGY1VFI4b1MrQkI5c0VHQXJLNzJ2MTVoWTN0MVJIdGxvSTFFYXR1TjBxVnNmT1pSK2dCbTBxa210ajVJNG01R3BTUVVYOGJ1QmxNczBlRVZ2NnBFZFdtS2F5enVyek0xa1JQQlo0TnNVWUdqQnRyb0NHZGVkdWRsZlhHaWt6amtGRkxoUXpONnhOdHpDQmRIXC9mbDNrRlFFcThxWWlXUSt2MEEwU0Mwc1dEalpicUVFUyJ9
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+https://cdn09jtedge.indihometv.com/joss/130/rodjatv/index.m3u8?c
 
-#EXTINF:-1 group-title="[DS] Religi" tvg-logo="https://i.ibb.co.com/FBDmjKv/tv9.png",TV 9 Nusantara
+#EXTINF:-1 group-title="[DS] Religi"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0d/TV_MUI.png",TV MUI 
+https://mui.siar.us/mui/live/playlist.m3u8
+
+#EXTINF:-1 group-title="[DS] Religi"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0d/TV_MUI.png",TV MUI ID
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMTk2NzQyMDUiLCJyZWZyZXNoX3Rva2VuIjoiZk5uWE1GdEd2MjR4STdWejYzcDNHOTRCMWM3NzVPbjhOQm12WmxkeFNrdWVEUTRMdnRKTEZWRU9MeTZTSXEramtUWCsrV1ZLQUdsTkkzZGQzZE8wdXBMVE5hNGp3ZW94Y1EyclNRcWhvOHZDeHpEZXFZdVE0WFIzemlXVmgyZ2VIV2plRno3WmVmQVB6Q1luNW50QWN4bnduRDExeEV1RE5MNmo4cFYrK1o0TDJCZTlNbU9kSDRHU0ZOd01RTDNZWHlXT3N3RllraXBaZUJyRUR0enVJcGpXeE0rM1hHU29aR0NzeDlcL3gwWjlHVDJNWnptbUk5clwvT2xsYzZ2bG92emFiZ1I2TlZ6M0Q0d1FWZkVUaWdRQ0pEYzllanUrVXNUdm8xbWQyRU1QbUNXdFNQRnpLTDlhdUdzZ1Q4RjVSNSJ9
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNzAxMjkzNDgiLCJyZWZyZXNoX3Rva2VuIjoiNlp2bndBVDBhNWFHMFprQ2NSSCtmTEF0MkxOa2FXRmNGS2wyS3Q3MGhoVmJWSDMyZ0dzUTdPT3l3cGloT01xQ2Jhb3RJcWdHUGJRQkgyRFg4ZUZtK1VlWWhtcVJcL3ZWUTB5czQ4bmluRStqTTdmK3ZndDN0SkZaRlwvMGNiRTE4bFwvbGZxZUJhRkxnR0c1YVwvaVQ2TTZ3M2J3Y0d3a1hsTjc1WVRxRHgyOStvYUNUSURLZUhWdHpEUnV0MjlJMHZ6dzV6aFp6KzZxOVkwZ2tLZkZIZVZsVWRvcmRwSEFlOG8wc1VEdjRHUDdSR3kyMFU0ZWFSZlkrY0RCTmZFYnVMb0ZqVFZUTGtGRUlRUGtwa0llMDl1VnpPUDVxaDEwTklMd2hKQ1FqMm1OV1cwYzJFSFhnMkZqV09OMDNaUk1vYkpDRnR5NzE2QXJkNHpkcnZwajFONWd4c0pvbWkxNWRJbFVYWVBXXC8zYVBuQjlHT1Y5UFA1cEZkVU1pZ01WR003Z3kifQ==
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+https://cdn09jtedge.indihometv.com/joss/130/muitv/index.m3u8?c
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zSLhSFm/rodja.png" group-title="[DS] Religi",Rodja TV
-https://free.biz.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiODUzMTI0NzYiLCJyZWZyZXNoX3Rva2VuIjoicFwvYmhUcWZ2V3JZZ1loWXI2OUdQcFJNOU9lNktpVUlcLzlzSkUxZVBac2ZHSXhGWm9BNG1TUUJqTk1QZGRpaUtYQ0RcL21rTnVkU283YmE3QUtxZG1tdk9JR1BBZkk1VnhlbHNzM3JWZ0E4YlZadVlUUXRGNUw3UkNpY2V5OWhncENjWGJ2ZWNiXC90dUtWaTdUbkRXK2pzYlFBTVZ3U1lwMjJVK3JOOVRkcU1HeVJycXh0dkVwMlwvTEEyckthejNpMDlucWp1V3piNGNtdXpOUzZCZHJrQk4zR1VQK3FiZlRXR3I5bDFnSFpvc0NzcEJobTQ3dkpHdlBuS2kyWUNBZ3dPbDd3RzdkMG0yVmpiSW5nZlloM2ZVdW5FTGZzcHg5b0Mra0RKWWZsOWxWZ2R1bDE4ZXh6SmFGdkVobW5NUkRqQ0tJa2lpTTZXUk54aTl1a1liTEpxZnpnbzBwdjdpVkwxVGxHWStHWWZHSms9In0=
-
-#EXTINF:-1 group-title="[DS] Religi" tvg-logo="https://i.ibb.co.com/RhrPYjv/tarim.png",Al Wafa Tarim
-https://free.biz.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiMzI3NDY4MDEiLCJyZWZyZXNoX3Rva2VuIjoiVFUyNzBhd0hEMFwveEd1b0FUUmd2aktNWms1REl5NmJ2ZDdCTDVIV3RXT0prczREN0tqZjRKVDdNeFhUeEMzMmlpNzhhbWxhbEFjRTZNeEF0eU9za1JlUlpBYTBYa01DcDhVUzYxaHB3aXpIUHJoNXVscUZOeElORTF1N1wvM2k4Qk1UZ0dMOUxFQXFrYzh5cldtZEFvckxrdFd2WXZ5UTJSNld0YUxiNytubWdmUCtXVmZxQXBUOFlqd0FadmtSUTJTNUplTnVsWmduRUJrZDcxNlE1eTlUK1lycGtLbVY2XC9xckxnTlEyNGlNemlZZHZDMlRJa3BiU1Fkc2o5UGxlN0kyUXJQeWVtMWtWVnFJeXpwMExNQUR5d0hKdGw2Skk1TUJIQ3kySTArWHlNeTlIS2lNRkx6ZFdYd1JDYzJaaTBIVUcxT1NrMG0wVGxWcVdSZmtueFAxeFJTaUZDQXRWanRqdDQxZnJkQ3JFPSJ9
-
-#EXTINF:-1 group-title="[DS] Religi" tvg-logo="https://i.ibb.co.com/NVK63Gs/muslimtv.png",Muslim TV
+#EXTINF:-1 group-title="[DS] Religi"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0d/TV_MUI.png",TV MUI ID
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNDg3MzU2MDkiLCJyZWZyZXNoX3Rva2VuIjoiWXA5Y3pmUkxOaFNMaStHRUIrODZRempZSU1GamdhcGExYnJVZWVkbWlHckw1VHprNzRcL0g5ZUlCeFpETkRYMzgxMmw0S1RSbmlVMWdPOHBLVHk2TTE2bjFtWElkSVwvUDdhbDN0U3BYcURQV2VGc0RVZzhVQkdxK05kd1ZHQ1JcL2N4VzVXejZiMHg5NmJrXC81QnppbUlNZEI1eUtHWEtBeEVIMzlDTkFUSHRCa21WcWF2dmpxSXlMREZOV1FOSnZWbmt2dkVhSHVaNFEyQWx1d011ZGZJT1J0XC9oK3pvMW1jNU9DUmlaeGpFYnpMOVlTK0FYZVJXWTZ6ZEZqSlEyWjRUTk4yWHQ2RFlJa2V2TkdRNkY4TFdJeVF4T3NmMzFVZUdQR3hmUVdhZGl2OXpWT1JldUZHZDdwOW8wcHBXWDZiSiJ9
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDY1MzE5ODAiLCJyZWZyZXNoX3Rva2VuIjoidGxpWGVcL2cyMWdWdEltblMwdDJoRzJYTUtJenplb1poWFVsZlBWNFdIUUFTNTRxRzVTNmpZM2tXOTdoV3hua2thWXZsUmdTXC9yT3F5TnVoUVBHemdobXppMEwyWDNFR2p2SHBjQURTeDM4aVlobE13eVRXWWNHSTRlOElcL3lSbnBjU25jZWtRRnNCSGVYYWsyTkIxQ2FKY09YcTVaSGNnc1wvWHNVbDQ1UWMyOSt3V3Q5eitYOHpNM25IaThYdDErMzllRDlzZHBNZml3UmZWUHpqN3ZMMUUyV0pabzRHRk5hZVB6Q0YzVlpGV2tGZFVzektnTnQrOTRyZ2N3WjU1blhLSjVqcTZNMkV2UExGOEpZSEpWUDBhR2phZ2d1SGxqT0lIcVZzbENxR2h2djBmREVMeWdjNkFMQ05ZdEdldTBcL09wNVU5XC9sQ2pPcUh4VEVNZXRibTROdFpWTlwvaURGcXIxd1FNd2I0aDVOWGZFc2FRMDJKUklUenVYSXRSMXRlZiJ9
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/muitv/manifest.mpd
 
-#EXTINF:-1 group-title="[DS] Religi" tvg-logo="https://i.ibb.co.com/1nPYJN1/alqr.png"group-title="[DS] Religi",Al Quran Al Kareem TV
+#EXTINF:0 group-title="[DS] Religi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Inspira_TV.png/400px-Inspira_TV.png",Inspira TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/DAAITV.png" group-title="[DS] Religi",DAAI TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/DAAITV.png" group-title="[DS] Religi",DAAI TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNTk0MDI2MTgiLCJyZWZyZXNoX3Rva2VuIjoiNURUak84WkVWTXRhbERHQlRObk93S01WQmxqeXJLMys5XC9KcjhEc1wvOWViWW1MTFZ1XC90UVN2YTFlOTdcL1wvTUprWE9PWmVzV1E2MENEcDdBdytTbUU4dU51cE9QZmF6aXZMR1lGYUFhZDkrdjRqZk1VR3ZNbDFhY0JKV1ErU1Vha0d0WDhPU1hNTjB5VVlwbmREUGNqUzBmaElvYWpYWDlja3NvbG9DRUk0T0Rrdnd1QThpWENjaXhnVWExSk5OeEJNcGVSNmZWZml4M2lEdG95cHFjcnNEcWVqZnllRUxHcThUbzRQaHZEckxCcnVwck5sUzYwNHQyYzZuTEZveTA3TFZcL1NnQktub1lvOHYrVGlXaXJya2s4RkV5YXBwdXRBcUJYd1FqdFdtYU41MTZpM2NMZzd6QnZUNGJNd1l4M0EifQ==
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMTY3NTQyOTMiLCJyZWZyZXNoX3Rva2VuIjoiOEFRWCsrbW96aG5rZGZSZlgrR29POGZlYzdcL3lmUDZLZDIxQ3pHVkhsaFlpSGU3dG1KRU9LbVphdG9EcFwvR296bE96ZmYrWVJDYnZLbVkyMVlJdGxJMkhEdUcxR1V0SDlFZkVTUE96MUcxM1Y4OWpoZFVDdTZuUXQwRUc2M1ZaMU5FMkphTlptdnRTMDJDbEo5dUtsM0JnTlgxR3BZRlRKZEVkcFBrZ2pGY29VRmQxRFwveGs0dVFSeVdyU1wvdmdrMnJRQ3FncDgyZWtXNXdtMjJqRFlGUzN3VHhmYXMweGhRY0JqZzFpM21YOVljemprUitsTzNVNWNMYkU5dFAwOVd4cFdSbFhlaXFkeXBXeDhlMU1jYnRmQXZxcnQzcU5QaHNPQk5KREx3OUFZbnhQR2c2dWtjQ2lyNGJqS2tXSlcwcGw5SEVRNXFMcklSaVF1XC9SQndOUGVQQUIwVzBvMWNXdGJabXIrc1dscmlMK3hTMENDZHR4TzNSM1JhcVNhUFwvXC9INUxKdEJXOUlWcUhOelp3XC9oSkZ3PT0ifQ==
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+https://cdn09jtedge.indihometv.com/joss/134/daaitv/index.m3u8?c
 
-#EXTINF:-1 group-title="[DS] Religi" tvg-logo="https://i.ibb.co.com/jH4W7VK/alqr.png",Makkah TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="[DS] Religi" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-mu-id.png",TV Mu
+https://cempedak-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
+
+#EXTINF:-1 group-title="[DS] Religi" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-mu-id.png",TVMU
+https://e.siar.us/live/tvmu.m3u8
+
+#EXTINF:-1 tvg-id="MuslimTV.id" tvg-name="Muslim TV" group-title="[DS] Religi" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_92.png",Muslim TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+
+#EXTINF:-1 tvg-id="MuslimTV.id" tvg-name="Muslim TV" group-title="[DS] Religi" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_92.png",Muslim TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNjM1OTAxNzQiLCJyZWZyZXNoX3Rva2VuIjoiVGNxcURZRTAwQm9GRFhBcjRXeEFmWUtsRU1iSFgzcXNaXC9RaVhrcDhMOHByNFJueEhyV0Z6NUNsUXNqbUpQd1wvVVdicG4rOWxJMmtIaGhBRjdOZ09CM0J5N085MDBjNUVwbjdXTEtRakhoQ25CZ1JPZmZGblliaTBqc3diVGhjaXpuREZkM2FYZ3hoVG5Hb0xvWllFMVhzeDhaY3Q1bkxhclwvU0k4b1FpNTFTUW96R002cndLVElveGpBZmNqck1SbkttajNvcHZZOGxUUEQzQlFOWU9qNVU4anNlQ01sVk9IVWZab2s5V0REbzMxcFwvTFhOSTVSbjMxcUdSV05cL1N2UXNJQkd0cDd2dncyeGNjVGNwXC9vYU9uWjNXNFRaRHJEdVJHY01jemwzV0VhWXFwM1FuK1U1NTdcL3N6NmhJXC9JZiJ9
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiODk0NTA3NjIiLCJyZWZyZXNoX3Rva2VuIjoiZ3BOQjBXNHlyUkoyMjRrUEJOY2h2UVViOVwvcEVwZEFnR2xIQkJicWFza2lTV2EzdlJnRXlSYVwvSVExUENwWmRLQW5SVW9NNFRpV21STm55RWYxMHVHWXl4cjNqNjdoenNEOFpsNmVla0srT1BjQjRwNEoxWlBhYU9hQWlpQWFnXC9VZzIyZGRRUytUQ3N4UnJlZkVMeVNKVjhMZDdNbGZYK2JicGRxSWROVmg3cjQzMDdkS3FzcW5FanppZlBXOVFlbUFNM1IwdjZiUzhxOTY5Z3N1blpFOSt1c09lTWY2VE9wb1dzbnRxYm5FUm5YaWhlV01cL2xwMWpEaVVTK05iQmdJYlA1MlwvRHUrYjZJREpYUVFhbExtY1wvUVRaNjdmMHRGZVRqSzdPM3EwQnBYY0pzRHB2VTBCQXBYeUwyd3Z0Q3ZYXC9kSTlUSWd2UkN6Vkg0Tm1WS3RreTczVTFaK1l3Q2EwU0JMV0xod3NkQVRReWtHNG4rQmowU2t5WGtvTkxWcDRWYjVvTjV0cUtpb1RLV2pNeVg2WFE9PSJ9
+#KODIPROP:inputstream.adaptive.license_key=eefa1c34afba72f8fe902b061632528f:334cde07f6ebe092c0ae0521591d73cf
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
-#EXTINF:-1 group-title="[DS] Religi" tvg-logo="https://i.ibb.co.com/njxy4yD/madinahtv.png",Madinah TV
+#EXTINF:-1 tvg-id="AlQuranKareem.id" tvg-name="AlQuran Kareem" group-title="[DS] Religi" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_93.png",AlQuran Kareem
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+
+#EXTINF:-1 tvg-id="AlQuranKareem.id" tvg-name="AlQuran Kareem" group-title="[DS] Religi" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_93.png",AlQuran Kareem
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNTIzMDE0NjciLCJyZWZyZXNoX3Rva2VuIjoiaCtxK2VKa0paU0ZWMjZpdTRVVURpbG9rS2llVUI0NFdhdEhSMUdGcnBWUk40djRKZ1VwejFHcVNwUHdSbGNVMVdVZnBiR0VZQ1pkb2grZGk2YzZIdWxIeEhWbGFEbHkyVDNReWpmVFhFTWg0N0Zia0VUZ21oT29VR1d4RndINkI1YlNtM013YzY5YjJmZVZJYTFOQjlDb0NWdTQyQUFcL2Z4bW5lV05Ma3B1Y1JsbHpSbGVlOURDbnRXK3oxdnBSR29xQ3JCR1VmRjZJSVRCeEpzVjd2eXl6S1pVVzhPSVwvTmVXVjZJMjlZSStidk5wNFwvbW16VHlwMThyUEh3M3pcL1dpaGUrRTJWajU2NG1uRHZDOWRITG5RcUFTN1wvRGQ5M3lTWHVYdUxwQm5rRHIxR2J4cmNyUnRtV1lkV0xzcG0ydiJ9
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjk4NDEzNTciLCJyZWZyZXNoX3Rva2VuIjoiSndwMWRZcWFZSlM3XC94WlNIN3c1MmxRcW9lQnZ4WDBEOURMVHJsRVBsODhlY2JZQ1ZKcnFERmluYXEwNWVNQVFxSUtGVUpxZFZ1RjNKeVFpM1wva3BqVmJjTytIOTVQbzY0Q3U5bGJPS0lSRVRkb0JpQmdTdkZFUno2YVRpZEZrV0VTd3ozeklYNHc4Q3NpdFQ2V0FIaHhFK3VYU0s1WUt4d0RyaytyUzRJXC9HXC93ZUEyb0t5cm15M3hCXC9pQllwTUhETVwvQXZnejl2ZXFERmltdDlvY1krZE5IZHBBTllVcVF3XC81K3JTN0lkOGowKzNSdUR6R2drNjJkWW1NaVBaOUEydnZxMUlXbmJHMkxkNUYxMEMwQjF5SUFKWVdqeGtFNWJjUzc4QzNtVmVERFZRODhFMWlhRXU4cjNuNUQ4R0NzQ25qTVpjQXR2MUI3Z215SjBBcnZlZkVXMWZad1hBeExnYjBjRkNPSmhVaWttSlpxbDFPeXV4QVlPRXRqdWNpNiJ9
+#KODIPROP:inputstream.adaptive.license_key=67fe3ac3ca111c9bdd6e8480091dc13c:7d05fb1ff7705c1e452ff7e1b841a1b8
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 
-#EXTINF:-1 group-title="[DS] Religi" tvg-logo="https://i.ibb.co.com/8czQ2zX/tawaf.png"group-title="[DS] Religi",Tawaf TV
+#EXTINF:-1 group-title="[DS] Religi" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_93.png",AlQuran Kareem
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMDE5NzUyNDgiLCJyZWZyZXNoX3Rva2VuIjoiSzRFa0wyZXlTaWNLYUw3aFNaekxqcEhxdHd1dEVlQ3hHNWN3aDAxMXdXaCtVU0JndlZkd1ZkVVZhNmdGbHRWdGtZS0l6YzMyY01ZYXppUTdwTzQwZVVkWisxQlhXV1UyWjMzQ25NTENRRjgwa0tjS2tXTTZrXC9PRW1MbW5VODdXWmtGY1Y1TlVDZnBqZWFkQ2JNNjZRVkgrall6NWJnYXR2MlpyemtMem1BRmJTamlENkxYaUwrOXNzMWdjZWo5b0QyRGxlaTgyVkp4RVFGdE16cXhucnRlekhMcUpvUUpZMFkwS3YzV2R1TFgzNmJlS0RQdldsU040ZVhCR0JCdzFTa3lYNHhMSWR5RU5HMTJZTjVrYkJNZ0d4N1dSMjJaT0JQRGc3RGxXWjd6VjZkTncwamlieVhnb2REZDlcL2t0KyJ9
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMTA4NDU3OTYiLCJyZWZyZXNoX3Rva2VuIjoiSzE1VVJTdW1melc3aVZHNjVpNTdFeDFKZ0pIaXNmODJtaEpTVEVabjJcL2tPc3ppV2R0Y2VWT0xDT3JHOE1sOTJwcUNxdFhIWkx1SnlodHJsamp1XC96NktoaWVPTVNrNEdUZE9cLzM5d2ZYbnh6R1E4RXJuaDVrMUpHaTl5QkphbTF4R3A4SVNaaCt4ckVzVXhHc0V4YTkwNzRNM3lpQ0VOTUlzWGJxOTBNdzc3dkQ2WHNVazRjZzJ6d2lCMXJjVEF3RUpnRzl1TUNaakJ0RWVDdE8rUzlmNTFDSUZEbnBBR0VrUjVsaWpWbW5uN3dWY1VpQTV0NVwvcEZtU3hFM25JeGpKWUdTdlwvV1NiaXdicmtSMm5KNFdETlRhY0o0WHVuc2VIeEU5cFpFU1p1TXhGelJRcFwvUXRpVXRqdzFBMnJrQ0FOZlREUUszT3htOXMyS1E2UXZQdnRtZnFKSzFcL3BjUGJXNkwrRWJBWVwvT095Wm5pSU1XdUo3ZGducWc1ejdwT1kifQ==
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+https://cdn09jtedge.indihometv.com/joss/130/alquran/index.m3u8?c
 
+#EXTINF:-1 group-title="[DS] Religi" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_93.png",AlQuran Kareem DZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
 
-#EXTINF:-1 group-title="[DS] Religi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkVO5D0l1yWsw8L8M1rHTe-1GQnezRHGEqaQLQFRNIQJGmeX1TBkQ-uyU&amp;s=10",Wesal TV
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="[DS] Religi" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_93.png",AlQuran Kareem FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2b87b73266741bc9e82b6296f732cd6:acc999bccde4bcdb93a00c5058a2def5
+https://atemeshield1-voe.sysln.id/live/eds/ALQuranAlKareem/mpd/ALQuranAlKareem.mpd
+
+#EXTINF:-1 tvg-id="88" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy6HkVCbffvJBQ0Yxsdor45vsqrrchk9nsMTgMOSpuquj_jWmuhDfhZcpf&s=10" group-title="[DS] Religi", Sunna TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="[DS] Religi" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_105.png",Tawaf TV
+https://cempedak-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+
+#EXTINF:-1 group-title="[DS] Religi" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_105.png",Tawaf TV
+https://sg1.agromegamedia.com/memfs/4715f8bf-19a0-4aea-ad0c-7b8ec8d5df43.m3u8
+
+#EXTINF:-1 group-title="[DS] Religi" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png",TV 9 Nusantara
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+https://cdn09jtedge.indihometv.com/joss/130/tv9/index.m3u8?c
+#EXTINF:-1 group-title="[DS] Religi" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png",TV 9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae21f8dbfe264f7ca52245ac5db9191d:5c7d955344f05e32f3c0899a3baacfaf
+https://atemecdnbalancer-voe.sysln.id/live/eds/TV9/mpd/TV9.mpd
+
+#EXTINF:-1 group-title="[DS] Religi" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png",TV 9 NU
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJx4X26mXdToQeu4oQFjz5325ybANcdmvEfMkg=s900-c-k-c0xffffffff-no-rj-mo" group-title="[DS] Religi",Saling Sapa TV
+https:/play.accolamedia.id/accola/salingsapatv-rtmp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="[DS] Religi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn96XMFHcAHXLJkBBYHyGWqWU7M_7EO5QSAg&usqp=CAU",Al Wafa Tarim
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
+
+#EXTINF:-1 group-title="[DS] Religi" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXWckSEKhmdQTtfZm4IOdAE6iv_tRN53p66jaa9=s900-c-k-c0x00ffffff-no-rj",Artvisi
+https://streaming.yufid.com/hls/artvisi.m3u8
+
+#EXTINF:-1 group-title="[DS] Religi" tvg-logo="https://wesaltv.id/wp-content/uploads/2019/08/Logo-Wesal-TV-Keluarga-2021-v1-768x278.png",Wesal TV 
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
-#EXTINF:-1 group-title="[DS] Religi" tvg-id="salamtv.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdaK51A2F6X1grkCHAgTWQI2RrYG9DdD1IhW_bthqODc6NtBpPWSBA5Hlf&amp;s=10",Salam TV
-#EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-115 group-title="[DS] Religi" tvg-logo="https://live.artvisi.or.id/logo/mgitv.png",MGI TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch25.m3u8
+
+#EXTINF:-101 group-title="[DS] Religi" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH TV
+http://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8
+
+#EXTINF:-101 group-title="[DS] Religi" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH TV
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+
+#EXTINF:-102 group-title="[DS] Religi" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medina.png",MADINAH TV
+https://op-group1-swiftservesd-1.dens.tv/s/s27/01.m3u8
+
+#EXTINF:-114 group-title="[DS] Religi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPcajU9iYgsbRrD2U0qCeZneIpyZaaEWAgmdn3ohNDQlRU9LXtPWFRLI4&s=10",Insan TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch1.m3u8
+
+#EXTINF:-114 group-title="[DS] Religi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Ashiil_TV.png/revision/latest?cb=20180922125304",Ashiil TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch2.m3u8
+
+#EXTINF:-114 group-title="[DS] Religi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Ashiil_TV.png/revision/latest?cb=20180922125304",Ashiil TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
+
+#EXTINF:-103 group-title="[DS] Religi" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
+
+#EXTINF:-103 group-title="[DS] Religi" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch3.m3u8
+
+#EXTINF:-103 group-title="[DS] Religi" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0c/Logo_Ahsan_TV.png",Ahsan TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch4.m3u8
+
+#EXTINF:-114 group-title="[DS] Religi" tvg-logo="https://live.artvisi.or.id/logo/muadztv.png",MUADZ TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch5.m3u8
+
+#EXTINF:-103 group-title="[DS] Religi" tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2023/07/LOGO_RASYAAD_TV.png",Rasyad TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch6.m3u8
+
+#EXTINF:-103 group-title="[DS] Religi" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/a0/Logo_Naajiya_TV.png/1200px-Logo_Naajiya_TV.png",Naajiya TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch7.m3u8
+
+#EXTINF:-103 group-title="[DS] Religi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVwIgdwO5LE2GZhYozZa46Y4kxrQ5nd9b5h-Nq7JVqCzMBgQarqJ1Z_Fo8&s=10",Hijrah TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch8.m3u8
+
+#EXTINF:-105 group-title="[DS] Religi" tvg-logo="http://live.artvisi.or.id/logo/alimantv.png",AL IMAN TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch9.m3u8
+
+#EXTINF:-105 group-title="[DS] Religi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2OSkIj89iT_CKptndTyQ4POsWHXamTDZagQ&s",Niaga TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch10.m3u8
+
+#EXTINF:-105 group-title="[DS] Religi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2OSkIj89iT_CKptndTyQ4POsWHXamTDZagQ&s",Niaga TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/niagatv.m3u8
+
+#EXTINF:-105 group-title="[DS] Religi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR94XKnSINapLkeT2FX5dhf3iyeJZtOs5cwoQygUiRcr0exuyChz7JhVew&s=10",Salam TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch12.m3u8
 
+#EXTINF:-105 group-title="[DS] Religi" tvg-logo="https://www.binamasyarakat.com/wp-content/uploads/2023/10/puldapiitv-logo-360x144.png",Puldapii TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch15.m3u8
+
+#EXTINF:-105 group-title="[DS] Religi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKF9h0chKNixnl8HDkNfyWsu3oiN1cISH_NGd_6R8nBdZaOEm4lKa_bw2C&s=10",Sunnah TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch17.m3u8
+
+#EXTINF:-105 group-title="[DS] Religi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdj7yHn0meTnZmH6duWuk3pOrf7dF86Gt9KGk11NFgFt6jDr-zZAKy2hYV&s=10",BinBaz TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch22.m3u8
+
+#EXTINF:-105 group-title="[DS] Religi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6KNSE2YQjzTy9U7bxzGgFo46w9TBggmlZzg&s",Meds TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch23.m3u8
+
+#EXTINF:-105 group-title="[DS] Religi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdk-iCbFn6RSy6teJgNI0ztcxmabXcbSWSKF6wz846FHs4w_0w7leKELIq&s=10",Al furqon TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch24.m3u8
+
+#EXTINF:-113 group-title="[DS] Religi" tvg-logo="https://live.artvisi.or.id/logo/izzahtv.png",IZZAH TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch28.m3u8
+
+#EXTINF:-113 group-title="[DS] Religi" tvg-logo="https://live.artvisi.or.id/logo/izzahtv.png",IZZAH TV
+https://streaming.radiosalamjambi.com/izzahtv.m3u8
+
+#EXTINF:-114 group-title="[DS] Religi" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c5/Citra_Muslim_Scm.jpeg",Citra Muslim
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.mpd
+
+
+#EXTINF:-114 group-title="[DS] Religi" tvg-logo="https://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png",Makka Quran TV FHD
+http://m.live.net.sa:1935/live/quran/chunklist.m3u8
+
+#EXTINF:-114 group-title="[DS] Religi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHWqF6mO0OTLz6JM_LR0Rk-gGSvA1ExKa4pQ&usqp=CAU",BahrainQuran
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+
+#EXTINF:-114 group-title="[DS] Religi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOIJ9-tmTBBJYERBZkFlNQ7m356qqUwZpORw&usqp=CAU",SOZ QURAN
+http://85.237.89.6:9590/live/SOZQURAN/mono.m3u8
+
+#EXTINF:-114 group-title="[DS] Religi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsMvOc19d9xcIZtBnHMDuab_tvEJhOoFrQsA&usqp=CAU",Barn Quran HD
+http://baskhd.ddns.net:40/live/QURANHDTV/chunklist.m3u8
+
+#EXTINF:-114 group-title="[DS] Religi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRIMx26oqhduWuWfgOOXJWK3mIzy1mOTEoWvmS4JOJKUK6MYmdEI4iNg4&s=10",Kani Quran hd
+https://ncdn.telewebion.com/quran/live/playlist.m3u8
+
+#EXTINF:-114 group-title="[DS] Religi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT5-PCyCGliMSpw-XPZF6GravIoaUdt6BKTQ&usqp=CAU",Bangawaztv
+http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8
+
+#EXTINF:-114 group-title="[DS] Religi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ5fnLBVoEJJE_4W1CschbviVBr6aBkbMLCA&usqp=CAU",MihrabTV
+http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8
+
+#EXTINF:-114 group-title="[DS] Religi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjbtAFk2MpIi334Gs5AkJNGXJZXfzIaJBW_A&usqp=CAU",Sada Tv
+http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8
 
 
 =============================================================SPORT LOKAL===========================================================================================
