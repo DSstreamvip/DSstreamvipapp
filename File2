@@ -610,10 +610,7 @@ https://tvpull.careryun.com/live/ballbar_22200.m3u8
 
 #EXTINF:-1 tvg-id="18990" group-title="[DS] Sport Live 20Jan⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPgwwvW15xPHvzRG29AtDb6h74VUlTIIjlbg&amp;usqp=CAU", 19:00 WIB 20-01-2025 - PSIS Semarang VS Persis Solo FC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_18990.m3u8
-#EXTINF:-1 tvg-id="32000" group-title="[DS] Sport Live 20Jan⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPgwwvW15xPHvzRG29AtDb6h74VUlTIIjlbg&amp;usqp=CAU", 19:00 WIB 20-01-2025 - PSIS Semarang VS Persis Solo FC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_32000.m3u8
+https://wowowoiy.com/live/v1/hCTEYKhDNf8rUcUdACwSWrFx9r1JgSLq1P4pb7T60MaqSL5hx8nshkVnv0oJylWQ/master.m3u8
 
 #EXTINF:-1 tvg-id="33260" group-title="[DS] Sport Live 20Jan⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/n-1rvB5ajGG2e7Qjr3gHEVdwr_4=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4014398/e7cae0.jpg", FC Macarthur VS Wellington Phoenix - 15:00 WIB 20-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
