@@ -601,177 +601,33 @@ Tidak Ada File
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="10590" group-title="[DS] SPORT-EVENT-19-JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzH1TDjOQqn3zn4WLnYPn_ss82ncL1oWMR1QqJhU7aDpKUIVQ2EZuW2wg&amp;s=10", 15:30 WIB 19-01-2025 - Borneo FC VS Arema FC
+#EXTINF:-1 tvg-id="14830" group-title="[DS] Sport Live 20Jan⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMBk_YdJi5YeDab50yoeTGJad_mU3FCq8YJfNEU68QRB0ql1w9ldbW8wA&amp;s=10", 15:30 WIB 20-01-2025 - Semen Padang VS Bali United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_10590.m3u8
+https://tvpull.careryun.com/live/ballbar_14830.m3u8
+#EXTINF:-1 tvg-id="22200" group-title="[DS] Sport Live 20Jan⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMBk_YdJi5YeDab50yoeTGJad_mU3FCq8YJfNEU68QRB0ql1w9ldbW8wA&amp;s=10", 15:30 WIB 20-01-2025 - Semen Padang VS Bali United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_22200.m3u8
 
-#EXTINF:-1 tvg-id="32850" group-title="[DS] SPORT-EVENT-19-JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReIAzteDwp5IcbiAMrepZLV1eU1FqIY39L1nJkJZdgKY5RYPGpgPijogiS&amp;s=10", 15:30 WIB 19-01-2025 - Persik Kediri VS PSS Sleman
+#EXTINF:-1 tvg-id="18990" group-title="[DS] Sport Live 20Jan⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPgwwvW15xPHvzRG29AtDb6h74VUlTIIjlbg&amp;usqp=CAU", 19:00 WIB 20-01-2025 - PSIS Semarang VS Persis Solo FC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_32850.m3u8
-#EXTINF:-1 tvg-id="07750" group-title="[DS] SPORT-EVENT-19-JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReIAzteDwp5IcbiAMrepZLV1eU1FqIY39L1nJkJZdgKY5RYPGpgPijogiS&amp;s=10", 15:30 WIB 19-01-2025 - Persik Kediri VS PSS Sleman
+https://tvpull.careryun.com/live/ballbar_18990.m3u8
+#EXTINF:-1 tvg-id="32000" group-title="[DS] Sport Live 20Jan⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPgwwvW15xPHvzRG29AtDb6h74VUlTIIjlbg&amp;usqp=CAU", 19:00 WIB 20-01-2025 - PSIS Semarang VS Persis Solo FC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_07750.m3u8
+https://tvpull.careryun.com/live/ballbar_32000.m3u8
 
-#EXTINF:-1 tvg-id="10640" group-title="[DS] SPORT-EVENT-19-JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3RJuYC0BcbG9DtpZ3-7rf0k22w1cX2KThugERjUwBY_opMPYJiNt9lV0&amp;s=10", 19:00 WIB 19-01-2025 - Persija Jakarta VS Persita Tangerang
+#EXTINF:-1 tvg-id="33260" group-title="[DS] Sport Live 20Jan⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/n-1rvB5ajGG2e7Qjr3gHEVdwr_4=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4014398/e7cae0.jpg", FC Macarthur VS Wellington Phoenix - 15:00 WIB 20-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_10640.m3u8
-#EXTINF:-1 tvg-id="18220" group-title="[DS] SPORT-EVENT-19-JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3RJuYC0BcbG9DtpZ3-7rf0k22w1cX2KThugERjUwBY_opMPYJiNt9lV0&amp;s=10", 19:00 WIB 19-01-2025 - Persija Jakarta VS Persita Tangerang
+https://tvpull.careryun.com/live/ballbar_33260.m3u8
+#EXTINF:-1 tvg-id="10950" group-title="[DS] Sport Live 20Jan⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/n-1rvB5ajGG2e7Qjr3gHEVdwr_4=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4014398/e7cae0.jpg", FC Macarthur VS Wellington Phoenix - 15:00 WIB 20-01-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_18220.m3u8
+https://tvpull.careryun.com/live/ballbar_10950.m3u8
 
-#EXTINF:-1 tvg-id="24390" group-title="[DS] SPORT-EVENT-19-JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRghfjUgBK_9t_DjYpbRoH19n1uY-QVFHRlWuNlMxk8gB8X5qeRwcGY7AH4&amp;s=10", Everton VS Tottenham Hotspur - 21:00 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_24390.m3u8
-#EXTINF:-1 tvg-id="29570" group-title="[DS] SPORT-EVENT-19-JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRghfjUgBK_9t_DjYpbRoH19n1uY-QVFHRlWuNlMxk8gB8X5qeRwcGY7AH4&amp;s=10", Everton VS Tottenham Hotspur - 21:00 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_29570.m3u8
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo9fYc3vroJRix92ldBNBy_dBag9gp09jUoM7e-iAcB0B_RY2fudsgfl8&amp;s=10" group-title="[DS] Sport Live 20Jan🏐", Volleyball Turkey
+http://extraott.com:80/live/3969424152/3723991250/473330.m3u8
 
-#EXTINF:-1 tvg-id="16630" group-title="[DS] SPORT-EVENT-19-JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKUe7tUIwMdH8xS5LaqR93lOG7C3YX2DVsg5HSOR2dppa9LZFbcD5Mq98&amp;s=10", Manchester United VS Brighton Hove Albion - 21:00 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_16630.m3u8
-#EXTINF:-1 tvg-id="34720" group-title="[DS] SPORT-EVENT-19-JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKUe7tUIwMdH8xS5LaqR93lOG7C3YX2DVsg5HSOR2dppa9LZFbcD5Mq98&amp;s=10", Manchester United VS Brighton Hove Albion - 21:00 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_34720.m3u8
-#EXTINF:-1 tvg-id="40790" group-title="[DS] SPORT-EVENT-19-JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKUe7tUIwMdH8xS5LaqR93lOG7C3YX2DVsg5HSOR2dppa9LZFbcD5Mq98&amp;s=10", Manchester United VS Brighton Hove Albion - 21:00 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_40790.m3u8
-#EXTINF:-1 tvg-id="31060" group-title="[DS] SPORT-EVENT-19-JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKUe7tUIwMdH8xS5LaqR93lOG7C3YX2DVsg5HSOR2dppa9LZFbcD5Mq98&amp;s=10", Manchester United VS Brighton Hove Albion - 21:00 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_31060.m3u8
-#EXTINF:-1 tvg-id="31310" group-title="[DS] SPORT-EVENT-19-JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKUe7tUIwMdH8xS5LaqR93lOG7C3YX2DVsg5HSOR2dppa9LZFbcD5Mq98&amp;s=10", Manchester United VS Brighton Hove Albion - 21:00 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_31310.m3u8
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcLbnU-lV0L_SlIH3x9pq2nz7AwmtDZ8_vF3H09nCeXA8byw36dpQmIFs&amp;s=10" group-title="[DS] Sport Live 20Jan🏐", Volleyball Turkey
+http://extraott.com:80/live/3969424152/3723991250/473330.m3u8
 
-#EXTINF:-1 tvg-id="35260" group-title="[DS] SPORT-EVENT-19-JAN⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/MGsnLek5EsxELL3R28eANArTM-o=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28213/ipswich-vs-man-city-fe737d.jpg", Ipswich Town VS Manchester City - 23:30 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_35260.m3u8
-#EXTINF:-1 tvg-id="30030" group-title="[DS] SPORT-EVENT-19-JAN⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/MGsnLek5EsxELL3R28eANArTM-o=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28213/ipswich-vs-man-city-fe737d.jpg", Ipswich Town VS Manchester City - 23:30 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_30030.m3u8
-#EXTINF:-1 tvg-id="19660" group-title="[DS] SPORT-EVENT-19-JAN⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/MGsnLek5EsxELL3R28eANArTM-o=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28213/ipswich-vs-man-city-fe737d.jpg", Ipswich Town VS Manchester City - 23:30 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_19660.m3u8
-#EXTINF:-1 tvg-id="19680" group-title="[DS] SPORT-EVENT-19-JAN⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/MGsnLek5EsxELL3R28eANArTM-o=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28213/ipswich-vs-man-city-fe737d.jpg", Ipswich Town VS Manchester City - 23:30 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_19680.m3u8
-
-#EXTINF:-1 tvg-id="18160" group-title="[DS] SPORT-EVENT-19-JAN⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/pNhbvr1T1AKH2fIIOw3QlTq9LW0=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28195/celta-vigo-vs-athletic-club-623d9b.jpg", Celta Vigo VS Athletic Bilbao - 20:00 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_18160.m3u8
-#EXTINF:-1 tvg-id="31610" group-title="[DS] SPORT-EVENT-19-JAN⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/pNhbvr1T1AKH2fIIOw3QlTq9LW0=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28195/celta-vigo-vs-athletic-club-623d9b.jpg", Celta Vigo VS Athletic Bilbao - 20:00 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_31610.m3u8
-#EXTINF:-1 tvg-id="16030" group-title="[DS] SPORT-EVENT-19-JAN⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/pNhbvr1T1AKH2fIIOw3QlTq9LW0=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28195/celta-vigo-vs-athletic-club-623d9b.jpg", Celta Vigo VS Athletic Bilbao - 20:00 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_16030.m3u8
-#EXTINF:-1 tvg-id="37090" group-title="[DS] SPORT-EVENT-19-JAN⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/5CSN3ABFohf9bjlR96z5Y-M4HHE=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/27974/real-madrid-vs-las-palmas-0db32a.jpg", Celta Vigo VS Athletic Bilbao - 20:00 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_37090.m3u8
-
-#EXTINF:-1 tvg-id="24600" group-title="[DS] SPORT-EVENT-19-JAN⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/5CSN3ABFohf9bjlR96z5Y-M4HHE=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/27974/real-madrid-vs-las-palmas-0db32a.jpg", Real Madrid VS Las Palmas - 22:15 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_24600.m3u8
-#EXTINF:-1 tvg-id="10770" group-title="[DS] SPORT-EVENT-19-JAN⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/5CSN3ABFohf9bjlR96z5Y-M4HHE=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/27974/real-madrid-vs-las-palmas-0db32a.jpg", Real Madrid VS Las Palmas - 22:15 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_10770.m3u8
-#EXTINF:-1 tvg-id="23840" group-title="[DS] SPORT-EVENT-19-JAN⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/5CSN3ABFohf9bjlR96z5Y-M4HHE=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/27974/real-madrid-vs-las-palmas-0db32a.jpg", Real Madrid VS Las Palmas - 22:15 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_23840.m3u8
-#EXTINF:-1 tvg-id="24870" group-title="[DS] SPORT-EVENT-19-JAN⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/5CSN3ABFohf9bjlR96z5Y-M4HHE=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/27974/real-madrid-vs-las-palmas-0db32a.jpg", Real Madrid VS Las Palmas - 22:15 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_24870.m3u8
-
-#EXTINF:-1 tvg-id="18810" group-title="[DS] SPORT-EVENT-19-JAN⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/JdB-oOaErGexrMvB-Doi-bevbNA=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28219/fiorentina-vs-torino-ef3265.jpg", Fiorentina VS Torino - 18:30 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_18810.m3u8
-#EXTINF:-1 tvg-id="24820" group-title="[DS] SPORT-EVENT-19-JAN⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/JdB-oOaErGexrMvB-Doi-bevbNA=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28219/fiorentina-vs-torino-ef3265.jpg", Fiorentina VS Torino - 18:30 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_24820.m3u8
-#EXTINF:-1 tvg-id="37450" group-title="[DS] SPORT-EVENT-19-JAN⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/JdB-oOaErGexrMvB-Doi-bevbNA=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28219/fiorentina-vs-torino-ef3265.jpg", Fiorentina VS Torino - 18:30 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_37450.m3u8
-#EXTINF:-1 tvg-id="25650" group-title="[DS] SPORT-EVENT-19-JAN⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/JdB-oOaErGexrMvB-Doi-bevbNA=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28219/fiorentina-vs-torino-ef3265.jpg", Fiorentina VS Torino - 18:30 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_25650.m3u8
-
-#EXTINF:-1 tvg-id="19120" group-title="[DS] SPORT-EVENT-19-JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfvWQR04aCujcExbrMYTPJywAIeAJtPy5G61wJHbMLYRPmfT5qo7Ng6TVN&amp;s=10", Reims VS Le Havre - 23:15 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_19120.m3u8
-#EXTINF:-1 tvg-id="07240" group-title="[DS] SPORT-EVENT-19-JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfvWQR04aCujcExbrMYTPJywAIeAJtPy5G61wJHbMLYRPmfT5qo7Ng6TVN&amp;s=10", Reims VS Le Havre - 23:15 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_07240.m3u8
-#EXTINF:-1 tvg-id="27940" group-title="[DS] SPORT-EVENT-19-JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfvWQR04aCujcExbrMYTPJywAIeAJtPy5G61wJHbMLYRPmfT5qo7Ng6TVN&amp;s=10", Reims VS Le Havre - 23:15 WIB 19-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_27940.m3u8
-
-
-
-#EXTINF:-1 tvg-id="16590" group-title="[DS] SPORT-EVENT-20-JAN⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/EuCvh2Vcb5BG4D-8ClMFlBud_WU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4014377/2340e7.jpg", Osasuna VS Rayo Vallecano - 00:30 WIB 20-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_16590.m3u8
-#EXTINF:-1 tvg-id="14010" group-title="[DS] SPORT-EVENT-20-JAN⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/EuCvh2Vcb5BG4D-8ClMFlBud_WU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4014377/2340e7.jpg", Osasuna VS Rayo Vallecano - 00:30 WIB 20-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_14010.m3u8
-#EXTINF:-1 tvg-id="27660" group-title="[DS] SPORT-EVENT-20-JAN⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/EuCvh2Vcb5BG4D-8ClMFlBud_WU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4014377/2340e7.jpg", Osasuna VS Rayo Vallecano - 00:30 WIB 20-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_27660.m3u8
-
-#EXTINF:-1 tvg-id="29800" group-title="[DS] SPORT-EVENT-20-JAN⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/mQ6uVejMYYvA0efs9Fm14TJbt2g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4014428/82e594.jpg", Valencia VS Real Sociedad - 03:00 WIB 20-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_29800.m3u8
-#EXTINF:-1 tvg-id="18870" group-title="[DS] SPORT-EVENT-20-JAN⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/mQ6uVejMYYvA0efs9Fm14TJbt2g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4014428/82e594.jpg", Valencia VS Real Sociedad - 03:00 WIB 20-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_18870.m3u8
-#EXTINF:-1 tvg-id="19000" group-title="[DS] SPORT-EVENT-20-JAN⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/mQ6uVejMYYvA0efs9Fm14TJbt2g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4014428/82e594.jpg", Valencia VS Real Sociedad - 03:00 WIB 20-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_19000.m3u8
-
-EXTINF:-1 tvg-id="16870" group-title="[DS] SPORT-EVENT-20-JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlaDVffFzDylCn8_Nshih1EMmYIz55ZAkdhuhlnRDfBKsJ7P904DBySvA&amp;s=10", Verona VS Lazio - 00:00 WIB 20-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_16870.m3u8
-#EXTINF:-1 tvg-id="21520" group-title="[DS] SPORT-EVENT-20-JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlaDVffFzDylCn8_Nshih1EMmYIz55ZAkdhuhlnRDfBKsJ7P904DBySvA&amp;s=10", Verona VS Lazio - 00:00 WIB 20-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_21520.m3u8
-#EXTINF:-1 tvg-id="26540" group-title="[DS] SPORT-EVENT-20-JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlaDVffFzDylCn8_Nshih1EMmYIz55ZAkdhuhlnRDfBKsJ7P904DBySvA&amp;s=10", Verona VS Lazio - 00:00 WIB 20-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_26540.m3u8
-#EXTINF:-1 tvg-id="21870" group-title="[DS] SPORT-EVENT-20-JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlaDVffFzDylCn8_Nshih1EMmYIz55ZAkdhuhlnRDfBKsJ7P904DBySvA&amp;s=10", Verona VS Lazio - 00:00 WIB 20-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_21870.m3u8
-
-#EXTINF:-1 tvg-id="15500" group-title="[DS] SPORT-EVENT-20-JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHlb_mHRO6vIciFRA_F17brtIYG1Ah36TZ-hwpmfQ9RzMgqr6u1BQQdBA&amp;s=10", Inter Milan VS Empoli - 02:45 WIB 20-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_15500.m3u8
-#EXTINF:-1 tvg-id="33890" group-title="[DS] SPORT-EVENT-20-JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHlb_mHRO6vIciFRA_F17brtIYG1Ah36TZ-hwpmfQ9RzMgqr6u1BQQdBA&amp;s=10", Inter Milan VS Empoli - 02:45 WIB 20-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_33890.m3u8
-#EXTINF:-1 tvg-id="21740" group-title="[DS] SPORT-EVENT-20-JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHlb_mHRO6vIciFRA_F17brtIYG1Ah36TZ-hwpmfQ9RzMgqr6u1BQQdBA&amp;s=10", Inter Milan VS Empoli - 02:45 WIB 20-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_21740.m3u8
-
-#EXTINF:-1 tvg-id="28730" group-title="[DS] SPORT-EVENT-20-JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXVfySOYJBICZ2Dwm4qACRa2DBJGIp-sAAZ2mdroWAaG9pT7og3GEqUhfX&amp;s=10", Foggia VS Latina - 01:30 WIB 20-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_28730.m3u8
-
-#EXTINF:-1 tvg-id="36670" group-title="[DS] SPORT-EVENT-20-JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWWJoKlqEOPfDvEF-vqD5pMc9VAr8rnN2kTFx6nn4OlURFF7TaYpKZWmc&amp;s=10", Fiorentina (W) VS Sassuolo (W) - 00:00 WIB 20-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_36670.m3u8
-#EXTINF:-1 tvg-id="23150" group-title="[DS] SPORT-EVENT-20-JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWWJoKlqEOPfDvEF-vqD5pMc9VAr8rnN2kTFx6nn4OlURFF7TaYpKZWmc&amp;s=10", Fiorentina (W) VS Sassuolo (W) - 00:00 WIB 20-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_23150.m3u8
-
-#EXTINF:-1 tvg-id="19010" group-title="[DS] SPORT-EVENT-20-JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAXvQRwPiNYvBKa7w-3ZFkEIrHWq83Wv7VqCNNO2EWVtp9nQjE8YblhKM&amp;s=10", Gil Vicente VS FC Porto - 03:30 WIB 20-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_19010.m3u8
-#EXTINF:-1 tvg-id="23220" group-title="[DS] SPORT-EVENT-20-JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAXvQRwPiNYvBKa7w-3ZFkEIrHWq83Wv7VqCNNO2EWVtp9nQjE8YblhKM&amp;s=10", Gil Vicente VS FC Porto - 03:30 WIB 20-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_23220.m3u8
-#EXTINF:-1 tvg-id="25830" group-title="[DS] SPORT-EVENT-20-JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAXvQRwPiNYvBKa7w-3ZFkEIrHWq83Wv7VqCNNO2EWVtp9nQjE8YblhKM&amp;s=10", Gil Vicente VS FC Porto - 03:30 WIB 20-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_25830.m3u8
-#EXTINF:-1 tvg-id="37270" group-title="[DS] SPORT-EVENT-20-JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAXvQRwPiNYvBKa7w-3ZFkEIrHWq83Wv7VqCNNO2EWVtp9nQjE8YblhKM&amp;s=10", Gil Vicente VS FC Porto - 03:30 WIB 20-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_37270.m3u8
 
 
 
