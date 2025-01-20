@@ -5893,12 +5893,12 @@ http://zuvi6jfp.klaipedalt.org/iptv/9EEMQ96NEYM85HPTWGXHEBV7/31385/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0/537.36
-https://dcf-de-livedazn.daznedge.net/dashdrm/dazn-linear-033/stream.mpd
+http://pfsv.io:80/geferson9323/aadd9323w2/225963.ts
 #EXTINF:-1 group-title="[DS] Sports Premium" tvg-id="Milantv.it" tvg-logo="https://4.bp.blogspot.com/-6Z3p-lAeA8A/WUFyA4jO8LI/AAAAAAAAGnE/YHw4x1rT0bgYj_o_mAFs08ZxHep1t0egQCLcBGAs/s1600/milan_tv_it.png", Milan TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0/537.36
-https://dcf-de-livedazn.daznedge.net/dashdrm/dazn-linear-025/stream.mpd
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/326
 #EXTINF:-1 group-title="[DS] Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/1200px-Sport-Digital.svg.png", SportDigital Fussball
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
