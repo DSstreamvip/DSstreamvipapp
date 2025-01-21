@@ -233,6 +233,349 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu
 
 
 
+
+
+===========================================================================DS RELIGI=========================================================================
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:0 tvg-url="" group-title="DS CH RELIGI" tvg-logo="https://www.lyngsat.com/logo/tv/rr/reformed_21_id.png",Reformed 21
+https://cempedak-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:0 tvg-id="Khazanah.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI4r55BIHXyWylWiP8gERS8N05bJ5Q2u63s2Rkkbmk0wvtxGDpIhM8EHfb&s=10" group-title="DS CH RELIGI",Khazanah TV
+https://cdnjkt4.transvision.co.id:1001/live/master/2/4028c6856f08326c016f557be28131b9/manifest.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:0 tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" tvg-logo="https://www.lyngsat.com/logo/tv/ll/life_id.png" group-title="DS CH RELIGI",LIFE
+https://cempedak-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
+
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ee/ewtn_us.png" group-title="DS CH RELIGI",EWTN
+https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ee/ewtn_us.png" group-title="DS CH RELIGI",EWTN
+https://cempedak-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ee/ewtn_us.png" group-title="DS CH RELIGI",EWTN ES (SN)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
+#http://csc-nod-edge01.sensa.com.ar/live/eds/EWTN/live_dash_cld/EWTN.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/U-Channel_id.png" group-title="DS CH RELIGI",U Channel
+https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0gKy97clJrSGBIgrzMu45fXU6tjkbq_Dv5g&usqp=CAU" group-title="DS CH RELIGI",Kairos TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e59e1e60b92407c972178c7959ec340:cdfcef62ac2b749f3e0d95c135647bac
+https://atemecdnbalancer-voe.sysln.id/live/eds/Kairos/mpd/Kairos.mpd
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmmsXzo9Xqz-XYwUiTAcDlQzCZFUFrX6f8ra9cULnTElDNOBoWO9nTxCw&s=10" group-title="DS CH RELIGI",GMS FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=848dfd2cd72b42baad634ea61a3b0285:42e281d95bdd33b0f0f206a9ff393011
+https://atemeshield1-voe.sysln.id/live/eds/GMSChannelHD/mpd/GMSChannelHD.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYKESgsxl5Qr99OJIzhO5TLn0IS5EtA93S3kPHtdiyBVh4iuh1XzGjBFrP&s=10" group-title="DS CH RELIGI",Pijar TV
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685730a4243017321f355172d0c/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://reformed21.tv/images/logo.png" group-title="DS CH RELIGI",Reformed 21
+https://cempedak-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mVGk1-dnl_KcPcPtEkAVGfwasoYkZ8VFgXQwUAje7zFA=s900-c-k-c0x00ffffff-no-rj" group-title="DS CH RELIGI",Catholic TV
+https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/260px-Logo_tv2000_2015.svg.png" group-title="DS CH RELIGI",TV2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/hls_1_600/chunklist.m3u8
+
+#EXTINF:-1 group-title="DS CH RELIGI" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",Rodja TV
+#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+https://rodjatv.com/rodjatv/live.m3u8
+
+#EXTINF:-1 group-title="DS CH RELIGI" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",Rodja TV DZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RodjaTV
+
+#EXTINF:-1 group-title="DS CH RELIGI" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",Rodja TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+https://cdn09jtedge.indihometv.com/joss/130/rodjatv/index.m3u8?c
+
+#EXTINF:-1 group-title="DS CH RELIGI"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0d/TV_MUI.png",TV MUI 
+https://mui.siar.us/mui/live/playlist.m3u8
+
+#EXTINF:-1 group-title="DS CH RELIGI"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0d/TV_MUI.png",TV MUI ID
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+https://cdn09jtedge.indihometv.com/joss/130/muitv/index.m3u8?c
+
+#EXTINF:-1 group-title="DS CH RELIGI"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0d/TV_MUI.png",TV MUI ID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/muitv/manifest.mpd
+
+#EXTINF:0 group-title="DS CH RELIGI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Inspira_TV.png/400px-Inspira_TV.png",Inspira TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/DAAITV.png" group-title="DS CH RELIGI",DAAI TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/DAAITV.png" group-title="DS CH RELIGI",DAAI TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+https://cdn09jtedge.indihometv.com/joss/134/daaitv/index.m3u8?c
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="DS CH RELIGI" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-mu-id.png",TV Mu
+https://cempedak-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
+
+#EXTINF:-1 group-title="DS CH RELIGI" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-mu-id.png",TVMU
+https://e.siar.us/live/tvmu.m3u8
+
+#EXTINF:-1 tvg-id="MuslimTV.id" tvg-name="Muslim TV" group-title="DS CH RELIGI" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_92.png",Muslim TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+
+#EXTINF:-1 tvg-id="MuslimTV.id" tvg-name="Muslim TV" group-title="DS CH RELIGI" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_92.png",Muslim TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eefa1c34afba72f8fe902b061632528f:334cde07f6ebe092c0ae0521591d73cf
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+
+#EXTINF:-1 tvg-id="AlQuranKareem.id" tvg-name="AlQuran Kareem" group-title="DS CH RELIGI" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_93.png",AlQuran Kareem
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+
+#EXTINF:-1 tvg-id="AlQuranKareem.id" tvg-name="AlQuran Kareem" group-title="DS CH RELIGI" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_93.png",AlQuran Kareem
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=67fe3ac3ca111c9bdd6e8480091dc13c:7d05fb1ff7705c1e452ff7e1b841a1b8
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+
+#EXTINF:-1 group-title="DS CH RELIGI" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_93.png",AlQuran Kareem
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+https://cdn09jtedge.indihometv.com/joss/130/alquran/index.m3u8?c
+
+#EXTINF:-1 group-title="DS CH RELIGI" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_93.png",AlQuran Kareem DZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
+
+#EXTINF:-1 group-title="DS CH RELIGI" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_93.png",AlQuran Kareem FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2b87b73266741bc9e82b6296f732cd6:acc999bccde4bcdb93a00c5058a2def5
+https://atemeshield1-voe.sysln.id/live/eds/ALQuranAlKareem/mpd/ALQuranAlKareem.mpd
+
+#EXTINF:-1 tvg-id="88" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy6HkVCbffvJBQ0Yxsdor45vsqrrchk9nsMTgMOSpuquj_jWmuhDfhZcpf&s=10" group-title="DS CH RELIGI", Sunna TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="DS CH RELIGI" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_105.png",Tawaf TV
+https://cempedak-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+
+#EXTINF:-1 group-title="DS CH RELIGI" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_105.png",Tawaf TV
+https://sg1.agromegamedia.com/memfs/4715f8bf-19a0-4aea-ad0c-7b8ec8d5df43.m3u8
+
+#EXTINF:-1 group-title="DS CH RELIGI" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png",TV 9 Nusantara
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+https://cdn09jtedge.indihometv.com/joss/130/tv9/index.m3u8?c
+#EXTINF:-1 group-title="DS CH RELIGI" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png",TV 9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae21f8dbfe264f7ca52245ac5db9191d:5c7d955344f05e32f3c0899a3baacfaf
+https://atemecdnbalancer-voe.sysln.id/live/eds/TV9/mpd/TV9.mpd
+
+#EXTINF:-1 group-title="DS CH RELIGI" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png",TV 9 NU
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJx4X26mXdToQeu4oQFjz5325ybANcdmvEfMkg=s900-c-k-c0xffffffff-no-rj-mo" group-title="DS CH RELIGI",Saling Sapa TV
+https:/play.accolamedia.id/accola/salingsapatv-rtmp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="DS CH RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn96XMFHcAHXLJkBBYHyGWqWU7M_7EO5QSAg&usqp=CAU",Al Wafa Tarim
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
+
+#EXTINF:-1 group-title="DS CH RELIGI" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXWckSEKhmdQTtfZm4IOdAE6iv_tRN53p66jaa9=s900-c-k-c0x00ffffff-no-rj",Artvisi
+https://streaming.yufid.com/hls/artvisi.m3u8
+
+#EXTINF:-1 group-title="DS CH RELIGI" tvg-logo="https://wesaltv.id/wp-content/uploads/2019/08/Logo-Wesal-TV-Keluarga-2021-v1-768x278.png",Wesal TV 
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+
+#EXTINF:-115 group-title="DS CH RELIGI" tvg-logo="https://live.artvisi.or.id/logo/mgitv.png",MGI TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch25.m3u8
+
+#EXTINF:-101 group-title="DS CH RELIGI" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH TV
+http://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8
+
+#EXTINF:-101 group-title="DS CH RELIGI" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH TV
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+
+#EXTINF:-102 group-title="DS CH RELIGI" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medina.png",MADINAH TV
+https://op-group1-swiftservesd-1.dens.tv/s/s27/01.m3u8
+
+#EXTINF:-114 group-title="DS CH RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPcajU9iYgsbRrD2U0qCeZneIpyZaaEWAgmdn3ohNDQlRU9LXtPWFRLI4&s=10",Insan TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch1.m3u8
+
+#EXTINF:-114 group-title="DS CH RELIGI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Ashiil_TV.png/revision/latest?cb=20180922125304",Ashiil TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch2.m3u8
+
+#EXTINF:-114 group-title="DS CH RELIGI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Ashiil_TV.png/revision/latest?cb=20180922125304",Ashiil TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
+
+#EXTINF:-103 group-title="DS CH RELIGI" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
+
+#EXTINF:-103 group-title="DS CH RELIGI" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch3.m3u8
+
+#EXTINF:-103 group-title="DS CH RELIGI" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0c/Logo_Ahsan_TV.png",Ahsan TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch4.m3u8
+
+#EXTINF:-114 group-title="DS CH RELIGI" tvg-logo="https://live.artvisi.or.id/logo/muadztv.png",MUADZ TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch5.m3u8
+
+#EXTINF:-103 group-title="DS CH RELIGI" tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2023/07/LOGO_RASYAAD_TV.png",Rasyad TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch6.m3u8
+
+#EXTINF:-103 group-title="DS CH RELIGI" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/a0/Logo_Naajiya_TV.png/1200px-Logo_Naajiya_TV.png",Naajiya TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch7.m3u8
+
+#EXTINF:-103 group-title="DS CH RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVwIgdwO5LE2GZhYozZa46Y4kxrQ5nd9b5h-Nq7JVqCzMBgQarqJ1Z_Fo8&s=10",Hijrah TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch8.m3u8
+
+#EXTINF:-105 group-title="DS CH RELIGI" tvg-logo="http://live.artvisi.or.id/logo/alimantv.png",AL IMAN TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch9.m3u8
+
+#EXTINF:-105 group-title="DS CH RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2OSkIj89iT_CKptndTyQ4POsWHXamTDZagQ&s",Niaga TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch10.m3u8
+
+#EXTINF:-105 group-title="DS CH RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2OSkIj89iT_CKptndTyQ4POsWHXamTDZagQ&s",Niaga TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/niagatv.m3u8
+
+#EXTINF:-105 group-title="DS CH RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR94XKnSINapLkeT2FX5dhf3iyeJZtOs5cwoQygUiRcr0exuyChz7JhVew&s=10",Salam TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch12.m3u8
+
+#EXTINF:-105 group-title="DS CH RELIGI" tvg-logo="https://www.binamasyarakat.com/wp-content/uploads/2023/10/puldapiitv-logo-360x144.png",Puldapii TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch15.m3u8
+
+#EXTINF:-105 group-title="DS CH RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKF9h0chKNixnl8HDkNfyWsu3oiN1cISH_NGd_6R8nBdZaOEm4lKa_bw2C&s=10",Sunnah TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch17.m3u8
+
+#EXTINF:-105 group-title="DS CH RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdj7yHn0meTnZmH6duWuk3pOrf7dF86Gt9KGk11NFgFt6jDr-zZAKy2hYV&s=10",BinBaz TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch22.m3u8
+
+#EXTINF:-105 group-title="DS CH RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6KNSE2YQjzTy9U7bxzGgFo46w9TBggmlZzg&s",Meds TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch23.m3u8
+
+#EXTINF:-105 group-title="DS CH RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdk-iCbFn6RSy6teJgNI0ztcxmabXcbSWSKF6wz846FHs4w_0w7leKELIq&s=10",Al furqon TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch24.m3u8
+
+#EXTINF:-113 group-title="DS CH RELIGI" tvg-logo="https://live.artvisi.or.id/logo/izzahtv.png",IZZAH TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch28.m3u8
+
+#EXTINF:-113 group-title="DS CH RELIGI" tvg-logo="https://live.artvisi.or.id/logo/izzahtv.png",IZZAH TV
+https://streaming.radiosalamjambi.com/izzahtv.m3u8
+
+#EXTINF:-114 group-title="DS CH RELIGI" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c5/Citra_Muslim_Scm.jpeg",Citra Muslim
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.mpd
+
+
+#EXTINF:-114 group-title="DS CH RELIGI" tvg-logo="https://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png",Makka Quran TV FHD
+http://m.live.net.sa:1935/live/quran/chunklist.m3u8
+
+#EXTINF:-114 group-title="DS CH RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHWqF6mO0OTLz6JM_LR0Rk-gGSvA1ExKa4pQ&usqp=CAU",BahrainQuran
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+
+#EXTINF:-114 group-title="DS CH RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOIJ9-tmTBBJYERBZkFlNQ7m356qqUwZpORw&usqp=CAU",SOZ QURAN
+http://85.237.89.6:9590/live/SOZQURAN/mono.m3u8
+
+#EXTINF:-114 group-title="DS CH RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsMvOc19d9xcIZtBnHMDuab_tvEJhOoFrQsA&usqp=CAU",Barn Quran HD
+http://baskhd.ddns.net:40/live/QURANHDTV/chunklist.m3u8
+
+#EXTINF:-114 group-title="DS CH RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRIMx26oqhduWuWfgOOXJWK3mIzy1mOTEoWvmS4JOJKUK6MYmdEI4iNg4&s=10",Kani Quran hd
+https://ncdn.telewebion.com/quran/live/playlist.m3u8
+
+#EXTINF:-114 group-title="DS CH RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT5-PCyCGliMSpw-XPZF6GravIoaUdt6BKTQ&usqp=CAU",Bangawaztv
+http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8
+
+#EXTINF:-114 group-title="DS CH RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ5fnLBVoEJJE_4W1CschbviVBr6aBkbMLCA&usqp=CAU",MihrabTV
+http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8
+
+#EXTINF:-114 group-title="DS CH RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjbtAFk2MpIi334Gs5AkJNGXJZXfzIaJBW_A&usqp=CAU",Sada Tv
+http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ============================================================================DS ENTERTAINMENT============================================================================================
 #EXTINF:-1 tvg-id="Vision Prime HD - [Channel 1].id" tvg-logo="https://iili.io/JZInBLX.png" group-title="DS ENTERTAINMENT",Vision Prime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1230,45 +1573,87 @@ http://ktv.im:8080/kk56712/kk12345/49529
 #EXTINF:-1 group-title="DS SPORT PREM👑" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 9
 http://ktv.im:8080/kk56712/kk12345/49530
 
-#EXTINF:-1 group-title="DS SPORT PREM👑" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-my.png",ASTRO ARENA 1
-http://jmrk.xyz:3050/acastillo304@gmail.com/zHsdw46ZEN/605251
+#EXTINF:-1 tvg-id="AstroArena" tvg-logo="https://i.ibb.co.com/vdHCFhV/astroarena.png" group-title="DS SPORT PREM👑",Astro Arena
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMzI1MDk2MTQiLCJyZWZyZXNoX3Rva2VuIjoiQXBrYmxwVkJOTkVzQmRkYjRGUEQ4MTJDeVUyTm1kb3I5Vmh1RWtmZHlcL2E4Rkloa2VpVkQxTFJUcUVrcjhzd1phaEdEV3lKcWFTYTUrV1NZSU5kY01MVEw5bWkrZ3JiYmMyWm5wVGd3SEo5YUI4bU1NVzB1T0d0bjN6RUJGTTNsc0lINVBHNTlPREsyWlh2VjNYaDVMT0tBc0MwOG1tYWY3VENrV1wvR0JKWE53OUExQVVlUW5BZ0kyTEpBNGl6dU1sdHJ4dlJuRzRaU0w3SEhiR0t4eGMrbVpoTWIwU3NWRmdHWXpOUGRPaXN1NmN2MjBZSWtcL1wvSHNUNXFjallSajAwSmxsR0pWdHNHVU9nVkJVTElBditzb2d5c25HZkFBTG9vQWhmWUtSOFBwd0ZRbEZJVjBTajJMcUJhWlFpYmtPIn0=
+https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjkzMjg3NTEiLCJyZWZyZXNoX3Rva2VuIjoiQ0tCK1NUYjN2TUFkVzhKd1JSWHltc3dwMUtsWHdHSGZ4NTJBUFVjS0dkTTlXc0ZoWUd5M2xsSUlRZlRqeU5WeURqSU1qUXJXa09DRFVwZEt2bHlNUE54S2pENnFPRU8za002Y3duK1VXYnVVTlgwZTN4WUtkZEsxTTdoa2toeUJrVThhM3c1UmFXYjVqcnAzYmJ4KzUzRXJGWXBEUjFha0hHQnVNR0cxbmJIcmRcLzZqT0JpVzZCemhKYkNmYlVtT3YrMUcwdEROUkxHXC9GbVZua01ZYVREY29UQldSaktWRVQ2XC92ZEF5TGlueE4ydlFnVXFzb3VoYXZxSU5PTXJXYkExZHlOSnVHTUg3SU9GXC9HV3VRVkdTK21pREQyWVV3Z1NZeDQxOUVBc3gxalwvb0lFQlJRb0xTcUYwV0VTWGpmYXdvWHB3V25CQkdkczRlSHRldWNBWE9qSDlEdmZneWpOWTREVU1wSnROZm89In0=
 
-#EXTINF:-1 group-title="DS SPORT PREM👑" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-2-my.png",ASTRO ARENA 2
-http://jmrk.xyz:3050/acastillo304@gmail.com/zHsdw46ZEN/609331
+#EXTINF:-1 tvg-id="AstroArena2" tvg-logo="https://i.ibb.co.com/tMxxJZR/astroarena2.png" group-title="DS SPORT PREM👑",Astro Arena 2
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNDczMTY4NTIiLCJyZWZyZXNoX3Rva2VuIjoid3BSU1NYQWZsbUNwdlJnMFwvWk9JK3NpYW1jR2hLUTQrZkx2WHV3cVFvc0hvaWdQR2pPOXhxTkhUYW5wbE0xTzVmK1Y2RklZV2NSYkpcLytJVTZqVjBVMmpCT2JhOCs0QkVqVmFoYkdva01iVWRuamVOSHplbTdGcmp1bkp1eXpIRktBYThhUWRjeGdvdDdrYTVLVHVaYUo5K0lhZzlOdWRUSW5JMjlYSnJkK0NiVTZId0tSSVZaUzBvTFJzMGt6VnN2N1h2SmF1cVR3N0FBcUJ2dlFqcWZcL2JCOHM0c2p0VzNtR3EzRVdOUVQrMTVWOGxvS0I4bzd2ZEhycVJueFl1VjkrYTZqTG1mUWxLSGFwNVwvNzdmT3cxSWVlb0RvY0JBeDlzQlRDczNcL3hMVmx4WnEwQlBKYTJoSnVYaFFpQWRkWiJ9
+https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMTY0NzIzNTkiLCJyZWZyZXNoX3Rva2VuIjoiSlVpbnJWQ3I1NkFrOHFLV2hrdmdKNUxKTmNIRk1CaFdEUElGQXh0a24rVFFYUVJVQU8wM1h0a1ZZTFk2WjFzXC81amJTZkdiOHdhMXZ0eGZHbEptSFZLOElnYUxvcm1xK0UwMnhGNkVQWEZDR2pyQVh2dU1XKzI1dGVDVlFMTklUaHZobDdRVXhOSUh5UFZJMEtFTzg5NWtrWFFDUmZvZGxERklNeEs2dWQ3bTFiNE1WSmJQeEdBT3hHKzloSzQrMFZcL09oTzBud2tSc1VpV0phY3NnY1EyR2pkYTlCYXFiWE9ab25yalFpd3F5NFBFU1hndHpYMWJDckhVcFVScWRpb3VJNjlMXC9TSVwvQ1NNV3VaWTA0Z0NvZFR4clwvY1wvOXVEeTU1bVdNa01jRHRTTmlrWHd1RHRhWll0THErN2hKS0I3OEE2OWdZRG5jT015bGNJRFU2R1FiK1wvZFpTeTFVN21NQlF0OUhlVnVhMD0ifQ==
 
-#EXTINF:-1 xui-id="164" tvg-id="" tvg-name="Astro Supersport 2" tvg-logo="https://i.ibb.co.com/yhXNk2n/Astro-Premier-League-2-29.webp" group-title="DS SPORT PREM👑",Astro Premier League 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium124/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroArenaBola" tvg-logo="https://i.ibb.co.com/g78tkJP/astroarenabola.png" ch-status="vip" group-title="DS SPORT PREM👑",Astro Arena Bola
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }
+##https://sgn.kinoz.biz.id/sooka/arenabola/masterCH1.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNDMwOTg3MTUiLCJyZWZyZXNoX3Rva2VuIjoiWEJyWXlZTW5mRnlVUmdpbytXaTk1U0grUXlcL096b2t2S3NXaGpVeTVQWGxETEdxSHdIODVnOTQ5KzlucWlJZHhTUCtWOWRNbVJNTTFRXC9XVjNRNE5GeVdmM0JUdFRRdFVVbjJLOUxpdjBvdkNDcHZYTG9Sbk4zb0ZqT0l1TEJmNTFXNnF0NE9sWEdvV3dEeUxFNUxrTnA4ZzY3anJiYnpmcHNPNWE0dk9vU2FhaHJNeEVMNGxXQSt6NmtXaTVqaW9NRGhHZm5mK3h5TDBaczByb1NCSk9SMGRYQTkxTHFYQWFPWmlMZjJhamtIR0ZvV3o4aG41RXFLZHB1S1E1OG05QSsxN0ZsajdBWk96c1RMcEdUdjdZc0RDMm9PTW5FMWlIbkVJRFZMd21uSmxqRWN0eDBUSFJPOEVibElLWm9uazhhTGZoK0Nmck5ERXc5MlA3aFwvKzRwVEFPQVpwN2J5R1A3SzZEdFBDVEpGYlZOWDF1QWROS1wvUGl4ZkpvVGdDRXBrMXd5TzZwQzlHT1ZZVlh4M1Z4NlE9PSJ9
+https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiODM1MDE2NDciLCJyZWZyZXNoX3Rva2VuIjoieGY2aUNGWVVNOGJTQ2loVUdTWFdjM05iRlhOdXNBcGMxZk10NlpVRDdTd281VWhSMHpnM0QzbHdid05hdVVmRmZVNkR0XC8yU3pxa1wvYzVEa3BPbVZSd0lBWDJIaUJiNVwvNWd0eHpRdm1ESW5FWWlSZXBDZ1V3dEVWZ3NTalhPN3AxTTArWW01a0RUKzFsbFY5MjYzQjAzTVpZb2xtTmdZMmdocjQyM2p3ekVHRkJ3ZlFZMXl5OWtCeVRcL2ZtZ21qdjVlMVFPa1NcLytDQ2lsV1N4U3FmYU5NaVJ5ZG5HWnVHeGR1UmY3NU5ES3drQzVMbDhRUmxuZWhWUEJoWmltTHhzRVIyNlBlZDBhVkJKZjFlYWZ6Um1iK1BVZWpOeG9qWEFDXC8yQUhmVWUxbW14XC83TUYzNk9wQ1wvV3IrS1UybFlrbnR3cXhOdjFINTdKZEQ5dWJHbHZYTExYMkNMc0JjM2xJUXJJN091clgycHVHVEVNQU5mK0RmTFZNXC9TK2dDR1gzdEM4dExHWkRhMzUxZjVCbXc0SzZZZz09In0=
 
-#EXTINF:-1 xui-id="165" tvg-id="" tvg-name="Astro Supersport 3" tvg-logo="https://i.ibb.co.com/ZNJ83YL/Astro-Grandstand-29.webp" group-title="DS SPORT PREM👑",Astro Grandstand
+#EXTINF:-1 tvg-id="AstroArenaBola2" tvg-logo="https://i.ibb.co.com/tC3TQBz/astroarenabola2.png" ch-status="vip" group-title="DS SPORT PREM👑",Astro Arena Bola 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" }], "type":"temporary" }
+##https://sgn.kinoz.biz.id/sooka/arenabola2/masterCH5.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMTA2ODk0MzciLCJyZWZyZXNoX3Rva2VuIjoiMENaT0d1S0x5aG10bFZNb3VIVGV3TFwvNDlFYldmNjJJaG9SRFVxbTJwVzV4RXpLSzNxbGoySFh3dTBHQ3pNdVBUUEs4YkU4TTh3XC80cE8zaFlWVW12SHE2WXBZcXcxMFl6YWtcL1lMN0ZJMVdNajNITCtXUVRyMFlVVXhcLytPUTZ5eVBjRFwvZVl1OTRZRXhcL1c0SjVhaURWTkY5Z3ZSbjV3KzV3akdtd1ZSOTMwYVlHN0I2czI5bXJPem16SEY0eWVJSVoyXC9GbFVGNnNUNnMrNGcrQ0JBakc0aEwyd1lYMmlzOWJiNEJlcUJTZk9OVXpoM2VsSU5vYkdcLzlOXC90XC82TGtQMlNIckNCV1E3cHdsa0t1MXN2UU5XMkdFekVtTmZIVXN0T3BMU21GNlhSaWpKcWorSGVQVUgrdTBLclViTWl4OXZzbk1PNTY3T1wva1wvd3EwcXo1ZzZOVmlBdkNnVW9UaThCaHhzM1pEMVRHNlJyYUgxdTY0eERwNm1Jd0tlRjV2T1JpcWJEaDRWRjBHRW05R3lXa3NmQT09In0=
+https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDcwNjkyMTMiLCJyZWZyZXNoX3Rva2VuIjoiOXRkZE0xaHY3ZlZ0bnZiSXJcL1FxUzV0anB5YlB3cWxJMmNMcGs1SnBMQ1NndEE3bytJdFpxeEU2YnorckNnV3dzMXMwOVRRRFhwSXlcLytFNXlRV01idGllOURjTnJTc3RNbWJGTXJqTUEzdFIyQ3pRcXNSeTJJXC92SkZYM3ZVd1crQzJqT3hkd3puZkszd1NhZVVNSjVFaTBuNU1aQXVKa2NBXC9MdVhxTWRhTDhwckdNanlzVkFJWEpwYnJLbmtzWVlGZ29FVHZ1YkpITm9Yd1l3SGVDczVEUUlqa08wRk5vaWtWaGxUVjFLR1V0bktoSnFiNFJDejhJTG82VFVTOHBzdzR3ZDU0YmNVSEs1ZGh3MlZ1TnZHMXp4N1wvNTBITmRqQkFBaDRpdWVrT0ZVTUVFalJIekFicFwvclh5SGFwZ3l4eFZxa2h3ZVpIbVwvUys2MGZPTElocHFGVkJtNVNcLzVkeW9cL3pLck9xODJtTm1TTENXbUFDMThqY2tINktDaVRlRW1BdUR6aXhcL1ErbXBZUUtWV2hSaWc9PSJ9
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/KW7DGM4/20250121-230711.jpg" ch-status="vip" group-title="DS SPORT PREM👑",Astro Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium125/playlist.m3u8
 
-#EXTINF:-1 xui-id="166" tvg-id="" tvg-name="Astro Supersport 4" tvg-logo="https://i.ibb.co.com/fpRRhJ9/Astro-Football-29.webp" group-title="DS SPORT PREM👑",Astro Football
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pz2mcYj/20250121-230651.jpg" ch-status="vip" group-title="DS SPORT PREM👑",Astro Premier League 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium126/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="DS SPORT PREM👑" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",Astro Premier League 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/tcVMND2/astropl3.png" ch-status="vip" group-title="DS SPORT PREM👑",Astro Premier League 3
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiODY3MjM5NDAiLCJyZWZyZXNoX3Rva2VuIjoiNDBNRFVKYk5yTkFGVitJdnFUMjhnc2lvUlVNSzg2TW9KaEYwQUw0YkJpTXJZQ1dIV2pTaGxUVzhISzcrTDJcL2d5TVdwcm00MzlMRVlmVXB1WndJbnV3WlF0Qm5XUnZwQUlCQmVNSUpwNUFWcmhxdUxaMG1pd3Q4bXhqWkhScEdOV1NNcktVSUVCOGhqMG5PdURKVnFwYWhYbkNLTmRZSEpNWjNxMGJMOW85MDh0K29KclRqWTZjUUJKZXlpQmVvOCswNHJRZ1wvNVdDKzJsU3JUb0cxVG9ZeEpmdnNya0s3aWc5QmNCQTlyUmtxS2RPVVVzYnladXBxYW9tSjRaY0VPRkV5NmVTcDd1NFwvaXZoaVJTUUpQNzFYZ0JRKzJlRnE4NEs4TWhOd1wvUytiSjVnbURhVVwvNWhHK1pSWVhDenVcL3JcL1dEWklDVzlpclduQ2tSV2ZqNmJZeXdXZzlJTUV1NStCdVhSeUdNWjhnbUNnZVd0ODRPQ3VmM1VKR1JlMTEwVGFDYzhURTBEbUxGYTNKc1l1enJqcWc9PSJ9
 
-https://webhdrunns.mizhls.ru/lb/premium123/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 ch-status="vip" group-title="DS SPORT PREM👑" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/568_144.png" tvg-id="",Astro Premier League 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiOTU4NjcwNDEiLCJyZWZyZXNoX3Rva2VuIjoia1wvYmM1WW9hVEVtRk1FU0tsaHp2QzNiXC9wcGZHaFRJSmZlYlZOQ1UyQjNaM3R3UGgxdEl2N2ZkZ0ExVDRDQ0lwOVpKeXBPQUFHRU5sR1FZMVpWU0E2dEtJZjBPbHY2TDR6dUVjbnRuSWswR2d1c0FSK1wvek1YeDVzN1FhU0Z6aU5YUWVRYUc5d29VZG1PelVqYnBwRHAyK3BDa1BcL1VDaXdZZnVFVFlBcnlRUkROSHpGWjZYSU1FT1hZQWF5bkg2ZEY0Z25FWmg4K3plSjczQWMrbG1FMzUzb2NhT2ZHU0FUd0ZOZ1ZMXC80Q2pSaWVpRlROXC9iVnNjcEgrblZTbHo2YVwvSjBtWUppZGhaOWlPbk9wQmREWklQMnVHQ2lCaUxHNFhLcllvS0dUeVdKZWg1RE1oZnNtdHJ6ejlvRUM2NWtqIn0=
 
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="DS SPORT PREM👑" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYoldvZA2b7EAOQuwIVCHp53EH1eocLEJxEg&s",Astro Premier League 2
-https://webhdrunns.mizhls.ru/lb/premium124/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 ch-status="vip" group-title="DS SPORT PREM👑" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/570_144.png",Astro Premier League 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMDI3NDY1MTgiLCJyZWZyZXNoX3Rva2VuIjoieDNNUm5OSWQzcnBCV3VRb3RFbE9PRzh6KzhHMisrSWFISWdwZkVuWHY5MEpyM1R3TkJLTStDYTZmandQZHRCam1jUExMeWxMM1RCUGk5TUg5NDdydFNFZTloQ1h2QWRjYVdjM2F3WFBtUXpBajhZeFwvXC95c2ZHTWxwMWJQWWczZXBLS1BTTytlN3NVSzQ2anVKUFZGQm1xeU5vaHBsTXFITkZ1RVRBMzJQZ1A0VzFyTUxpOW0yaVd2MnIrdmVhT2Y5UWRCZ2poektGUnhhMm9yeSs1UTRXdjc0eEFycnpPUDFPU3djV09uaDhWVlc2eExYOTVhcURQZEJIMUIrUWZ5UERLWThUSHdrSXdXOW9CZ3ZHYlwvWENQZ0M5Z0xmNEd4YXF0OGNtSjMwTksxckYyeVwvVWRrWmRpQm56ZlZuQWtJIn0=
 
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="DS SPORT PREM👑" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",Astro GrandStand
-https://webhdrunns.mizhls.ru/lb/premium125/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dM74BPX/astrogrand.png" ch-status="vip" group-title="DS SPORT PREM👑",Astro Grandstand
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMTM2NTc0OTgiLCJyZWZyZXNoX3Rva2VuIjoiUm1BcHNRQis3dTUrSWMrT1laSExidnUweUtNUlZGSFdqMXoxaWF5V2d1UlVNU2RhajQxak5CRkxNbTB6Qk9KcktsYlFtNTdLcXRURG1hQU5LWmJYN0RkaTdYR3hUZ0wrajlhMHBFSmorcEh6ZUN6dWxyRzkwV1lIUllCU2JhaU5obGJwdkRaZGdGeWpjN3RZbzVoWXdJMXhxMEt6R0dxQWpXaWgwRkdlY3pIV1EyRVdGZXVtUitJT1NBOE03enlDOHJFc1l1WXZKdXkrNlNqOUJyZk1rTzRlMzdVOExiTWFHQXJxdzVSOWdiQ1dONU5aRU5QVlMxZDk1a0xPMUU0Q05IVWhPbDdkSVlZR2lMWEtOU3d2RFpwa3psSEJBdUFtOWR2NzEwQk1pd1gxUkhremdUUkc2VjVKUzNnSFpWbW9mUkJTOEs3aE9QOG5IbzVWREpLOHM1bG04OElkRGljS29zRmtDMFNla1h1ajd0bWpMV3h4MHVvb2FhT3JaMmliQ2dDd2hzMWpQQ280bnpcL2xaMDlnSHc9PSJ9
+https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNzk2MDI4NTMiLCJyZWZyZXNoX3Rva2VuIjoiNEpNMUc4bFhhOGN0dXQ2V3VRQ2ZoTmJKSEZvTnV4Q3VQNWlzSFI0YWd3WlJ0bTU1RUlwK2RrUEYxSzNSc3I2Q1wvd0NQOEdUK0dsblJTUHVMbDlRTnl2aE8zOTVBNjFmSlwvYkU3NXUzUUFVNzdaNG4zVUlSVVRnaHpJSk1GM29hZ3pHZFJ1cEVqVVA0T1BGZDdlT1E0V3V5V3FqSndqanQ4eHBcL2RFcVJWR3Z3VWpUVlRFZTM5MllpNDBsVlRDZDRyaVUrTSt5OXQ4MXdFem1lb3Z6cEJhZ0JmWTI0MFhPaXl5T3JBbE5oK0k4dVRMMnhVVWo3RDFoQzFBeU5oYWtHUTdnV0huWlRGMnJ1MkF3UjM3TkhYQXJRTkFmVXloaVdEMzFHWEErd2hVOFNEeG1qQU81SlVMd1wvbElDanBkT1NXQURMQ3QxdDI1WjRERHJRUjBMd0hGZz09In0=
+##KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Fo8/rfxzC6PfyTL3xDDifQ","kid":"W+Zqb4jv7j1uMPcqnFjjEA"}],"type":"temporary"}
+##http://cors.kinoz.biz.id/http://d14sysfrzu8fji.cloudfront.net/grand.mpd
 
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="DS SPORT PREM👑" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png",Astro Football
-https://webhdrunns.mizhls.ru/lb/premium126/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MZN7Gsw/astrofootball.png" ch-status="vip" group-title="DS SPORT PREM👑",Astro Football
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNDYzMjA5NzUiLCJyZWZyZXNoX3Rva2VuIjoibm1XekhwK0w5RU5ld0JQUTJYN2VRTEljd1FKclFzVHNRNlNEclA3eG5UUldoaEt5MEpvR2xHTGF5OVo5WTVxbnpQR093U1AyMVRhbDcxT2sxZXFLamh3a2ZSRit3UFp0TU90NlZTU0JsU0R6aU80UU5mUUlSZGZKTVluTzd5c0xhcTBsQWpuTnFWeDJTSDMyc3d6bW8xZmFKM3NYWlwvQlJjWFhudWJcL3VySmUzVE85eXY1TldieDhlTHpkcVJQN0xZY1lGR2kwczk3eWF1UFRoeENJOFwvblwvaFpTd1lxNVhzWlltWDlhNmN6cmt2a0pENGpsTzBtOUlTSmo1ZUxERXBxMjh1c2NhY2s5TzJPa25xUFVUcUlrTU9ZSTFzZmd1d05XZlp6QTRnTDJzU0RXTEdZV1JSMHNvMFBMSGt4Z1ErIn0=
+https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNzUzMTk2MDIiLCJyZWZyZXNoX3Rva2VuIjoiZmZLN0NBdVJ4WmdaeldqOXBBbXFyVUJqOHh5Y09DbVlxYlRxVzE5SDZiaFQ3NXhCYUxhcnhSYmdkOEFWODRzZjJtcStyempnWWhGbnkxNUNqcFdOUEh0NmdmYzN6eWFIN0FxNjZIN0NBdjBSNVREeFwvalZybTVjeWdwZXRyR0xlaTFFVytQWWNBcmpcL3ZETUJudGRjMmx4U0gyc2oyQ1duVlV5V2FrQUp1TjZzem1YdnR5MHlkdTRUdGRNQURqdExIUDMySlBRdjR4d1JMbkVycVNvNzJGNjVNR1BNdWFnZTZvVUhmamRiYVE0Q2JSQ0FXdVlqTXozWWNIcVh5bkV2U09KcXdoTFRTeGdibGJGWlF6TmtBSkkrZVVnRHE5dlRcLytXcmFsV29cL3dWZ1NtMzR0NGNGUUhHVVNXXC84QXA4czV4RzZuTExcL2FrWjVNaEdPYmcxUTcrV1ZDYmc3RFVGZnc4SG1qRjVFZ3Y0PSJ9
 
-#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="DS SPORT PREM👑" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png" tvg-id="817.astro",Astro Sports Plus
-http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/71146.m3u8
+#EXTINF:-1 tvg-id="AstroSupersportUHD" ch-status="vip" group-title="DS SPORT PREM👑" tvg-logo="https://i.ibb.co.com/Nn049fJ/astrouhd.png",Astro Sport UHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMDYzNDkxODIiLCJyZWZyZXNoX3Rva2VuIjoiYTd2QWFqRHNwWjBsS0xXVzdzb2RFUTVMajFTOEQ3XC9sRXNBbnBDYkc1OTZidVkxT3FYUk5vaHVzSG04WTUyOHVkWmdMTThFandZSVpWSVwvM3VcL25ZZ3Y2eEVlaUZcL0hRYUtjXC9ORnh5c0xTT3o4TEFpQU9qXC9XcjI1cXFDWVFFN3ZYdXVPdmdmSHJkSGpvdlJ6K1VMd3A2eXViN0VxWFRXeENZRlpLTGhPOUtMeUh6QnI1Tm5aUjdkclFSejVRR1BRQjJrcjJOTngxNmtBRFNHOTdKNUo1TjByK2plZ0s1STNFYkRxWFZkNE1ESmpMa0Q4a0hLT1pyVjFJeTJxODFyTzV6eFZJRjM1bUt4eWpLOEtIOWszMVhtVENwM1wvZlh0VnZVR0ZHVnVudUVwUWo1UWFjSXhPZFdWWHBXK09VNzdTVUtUd3VxYldWZk5zV3R0N3plVFJrMVNtS3hZYkNzekU2YktDUllXQkJVdlV4WE83OGltN1E2a1dPZ3pTRzhITGtheVdqVVIxSmdyV1wvUW9paW1hZzF3PT0ifQ==
+https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiOTc0ODEwNjIiLCJyZWZyZXNoX3Rva2VuIjoiMWpVTWpWNDhza1FRQ3ZKM01LeDltV3lPcmpTSkRFVFlhazlwbjdna0ttK3pkV1NcL0paTUFDVTMwNmZYdFRuelJSUklseTdCZm8xOFJBMDFEc0g1eUo2TWszXC9yNk5tRmpcL09TeDRcL0VTNDhMam84OU1rc3NBamNla1lkRGpCbHp0XC83bDNOXC9ZS0thRUxHOTNDSEZCYzBkNXlGNXdhMzl3emZVSWNWWm9EeTRXbkxTSFFOUmR4ckcwQXBXM3hsTlhjaTZ3MUpJdExZU2ZPNmZnT0pZVGE2cEtiWWk3TXV1VnZNZ244NTdsSEQ3VHRZcEVEZWVZM0dsenZEbW44WW0wckFVNHdcL2VyejVSWFdFaHJJUWlGcjJ5R0JZVHFkajh4cUh5NmoxVFdHUjF0dmxnRGV4RG1ld204Y2JXdk1jSHRnUGM0RjhRSWdJVWY0WlE2cXNJQmgrZ2dMM1FpR29TNm9ndUZNNHdnTXowST0ifQ==
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/cctr7qN/astro-badminton.png"  group-title="DS SPORT PREM👑", Astro Badminton
-http://31.42.187.37:25461/watchpad13158/1234/19047
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7jsvjQZ/astrobad.png" ch-status="vip" group-title="DS SPORT PREM👑",Astro Badminton
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMjU3MTQwOTgiLCJyZWZyZXNoX3Rva2VuIjoiVmk2NzBiWUc0K21XQTBWYktnQmg0Q1NIT2JJdkIxdnBnMHRyQTFYVDZuV1VockQzUFwvZ0hMQ3RPczcyQTIwN2IzSWZXSk14WXloMVJ0eGhDS3MrOVwvOXRmaktsWlR3ZURxaE5lSUs4UDJkMDVCUnlnTG9KcTRhekt6bnBwYm5VbUxGQllaQ3Z0MGVLc0IxMDdBZzR5WmV0VzBhQmV6SldnaDNiT3E1T29YaXMxN0tucXBTcEcrTGQxWEJ5YTlxUkd2WncyTW9aNXpMbk9wWDJhSE9MOVJJMjk4OWc0RHhBWStZb2s2b1VkTXRvMVwvQ1VlV2t4OThYcUZkOFEzelIxdnpCdW4zZGtCSHNnS1Y0ZVkwaHhTS2YzSnc5clVTUDBFU0tpeHI1VnBudGI1RWJVdXp5MjFJZ1BYZnNmbnE5bHdtbVB0ekZ4YWJJQkk4K2FDM2VIWHFBS1F4aG9uZnRva1wvaTlGK08xRWFcL3MydGFTd21rWkx1UFpwZEY0clBGQmtKQ0RoTjBEVXh3VVJHakxHNDFISzJRPT0ifQ==
+https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMDI5NTQ3MTMiLCJyZWZyZXNoX3Rva2VuIjoiWGtUUEduVmNTdHZjUGFZUWoyNXRMOERvcUVyVGpJR2E0XC9GZVJGME9XY0p6dWNKY2txM1wvKzdEUmd4dU1HUFA4QjFcL3k2WjlQanlcL3J6b3ZLejJjZVJZc0tYQUwyaEs4NUl4elYzbUlOSjNcL2ZoM1I2TWNxTWhpalVEQVl0WE5GOEJDQVwvTmVFcVFNYTBpSTU5Ukp2Zm92THpMelhmdlBrNW8zaW1rZ2tsZWNjN2RnSHVOSUoyOEpUSDJQVnNZb2NWZVZtMXdHUldGZU4xVXNRSlwvRFk3NUhRWHQzTkZOaytDYk9MRE1XXC9zSmo2RG1rVEgyQzRLMTNRTnBWTjU5TW1wZFZNWmZQRVAwam8reTBZNEVaaW41NjZESlpzNGh5Qlg2d0hBdXVlbnRwYTBCSWlodFhsNkNoQU1BRWlROFZvWVRub2dXWG1CTnp1VVhhVE1VQ1JlUTlLdGZVVnl3S3Bva2ZcLzNaQWZVREFjPSJ9
+
+#EXTINF:-1 ch-status="vip" group-title="DS SPORT PREM👑" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/b3297b2df1d24a8f814ae82388fc7083/version/0/width/500/height/280",Astro Badminton 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMTM4NzA5MjQiLCJyZWZyZXNoX3Rva2VuIjoiOTJwVkxVbkdkWGhZSWFuUk5OeVpPN0RvaVZKangrTGpyVm4rZEh0c3VTYzZidUpEMGp6V25TVXdGQlZ0S3dVK0VNcmd6dWJhQzcwY2h5WXhxNnZvUlo3V2xqNXJVOGVXdUZ4ZlwvdFE3MmtmVjBsNlVcLzM3c1dWdFlqS2pDVWxYVmlXK3dZOTJuTHBXY0VHN0hCTFNVSmtjRERXVEpJNklTMjJlT2gxYUx5N3lDTnhCVU5zTVc4UkwzdStrUCt1VElMTFo3Vkl5RXJuK2ZkZ1wvbjFMTHNnODRLdnAweWJXMGoySk81WlwvV3NLeVJueU1vYkJDZFA4elJnRm5SOU5hblpIWmNFXC93aUFYYXZSKzFNR3BEZkg0eWZ4eG5zTjVhRnlNM2VXVWlPUExPeENcL2xnZU9BNG5ETzNHckgxSmpMUlwvN1c1YjRRWVdBU1lnQm9xaXptYUdrdjM5STlVUUgyY3g5Q29mRmZLYXlsM0NiSWtiTHpjNDRLNGh0aGpNVDlCWlZEazhXYWlLaWx6bFZaRDJFZUpBWEE9PSJ9
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mR6BTd7/astrosportplus.png" ch-status="vip" group-title="DS SPORT PREM👑",Astro Sports Plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMTQzODYyMDciLCJyZWZyZXNoX3Rva2VuIjoiNGVHMU1objdHS29rZjdyT1dzR09aazhjeWZkZFVHc25Uc1grdjJSVENnXC95d2FncTVUMkc2RWVwdG4zb1wvbXFlaENGekRPMjBBXC9hekE5emNpY0d2ajFQclwvSUE0Ynl6Vm56SHVMVTRFUDFaRzVsZk1XNkgyYnZUWkdTMUNhSXYzMmJFMXd2TmRqdk5GREY1Y1BqOUtubDZBdVpyOUxUbDFiblJxNjdORTliaWZ0MnRaOXdpcjFTRUdEMmF4Q1NlTGM3dVl1d2JPWnRzRWpWb1lZd25jaG5BXC9TUDU4XC9GM2lpdlFROTdpeldKSWN0TDZJR3QwRDlDY09ma0d6YnFDOGlMM1BcL3F0WitnRjF5a0pSc2xKelVLXC8wT2FYMUR5T1BcL2F1UEVzTFwvZEgwNlN0VmgrdmwxYTNXVGdCT3hzK0ZrTTFoRnZ3TlNMNEZcL1A3d3ZQTzZ2bFpLeDJJd1wvdEZIRGNRSEdOZFM4aTVyb2NQT1Y2d1hsNGNvZXhBdldCQTI2T0JGemtWZmxlbUFIQ0QxMHB3Q0o0dz09In0=
+https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNTAzMjY5NDEiLCJyZWZyZXNoX3Rva2VuIjoiU2ozVjlycmlWS1Eyd1VLY0prM09cL3NoQjU3bThXbUg0RGZFcmh5MVdFM2pJNlFcL2FpZGRXREE0YjRhczRiUVlPXC8ySlRhcEtNcnYwWkVSVDVmaUdMeWFGRTdVZDBVcmhwOUJKZzdvSVowMjd3ZjIrbTBKckJyYXN6YzV3cUhzeVhFSVVNMmY2N1M3UGRtallJWjZGZnh0SDN0TjRVSFg0bGNlQmZEQW5yMlIwdllEU0JnZ0ViYjE5emYxbmhwTUdLd1BDU0FwYnpVWkt3bWdNTHBwblMrU3hidjRhYzZJdlwvS3duU1dUS0NYcXpkaDExNjJvZFdcL29aNmR0WDdoNHR5M0hwaTVJZU1CUzZKTkJpM1hXY2d6ZnFrSVwvcFR3NXI5XC9zTlRsZUtQZkdVV2IzN01tVjZkb2FLNnF3MG5QejBRYm8xUHR4XC9cLzBkZXBJUHFaVyt5Z0tVZysyYTJ6TWo1eVY3OWR2blJLV1VBPSJ9
+
 
 #EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-name="Fox Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="DS SPORT PREM👑" ,Fox Sports 1
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
