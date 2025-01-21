@@ -602,80 +602,6 @@ Tidak Ada File
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/L5NvDk7/Screenshot-2025-0121-002114.png" group-title="🔴LIVE HARI INI", ANWAR ZAHID
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737415354/ei/WoaOZ8SZMPjHi9oPkcCU6Qk/ip/36.79.218.193/id/l8qAoBtzJog.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51379623/txs/51379623%2C51379624%2C51379625%2C51379626/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-PpajPTasVOZE8C8e1YRe0Re46brN3E-lLj89p6TZyHjt7IbnS20Pl_fTAvemC1FktAVpsgtzcP/spc/9kzgDaY3PqRKg4-Yw3hRdnml_DfMiZ-6p6I8wFtNUHbTRCVUFfqstb-RNpdnzQk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294%2C51384461/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgCtmII8eIJnT4pGhr5NDIktms9Z5iHF8Wn1QYZ2RzsTMCIDL1xMAeEg30y8WyJHEdDEXo7fiwzc1bOOWcZD5d3v19/file/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="32580" group-title="DS SPORT EVENT 21 JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGjlTwYhzJQT1w6ljvhTRCbEGHLNj3I_YTlzYzKWKj3txPxfJ5PT56Id4g&amp;s=10", Chelsea VS Wolves - 03:00 WIB 21-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_32580.m3u8
-#EXTINF:-1 tvg-id="39670" group-title="DS SPORT EVENT 21 JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGjlTwYhzJQT1w6ljvhTRCbEGHLNj3I_YTlzYzKWKj3txPxfJ5PT56Id4g&amp;s=10", Chelsea VS Wolves - 03:00 WIB 21-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_39670.m3u8
-#EXTINF:-1 tvg-id="36400" group-title="DS SPORT EVENT 21 JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGjlTwYhzJQT1w6ljvhTRCbEGHLNj3I_YTlzYzKWKj3txPxfJ5PT56Id4g&amp;s=10", Chelsea VS Wolves - 03:00 WIB 21-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_36400.m3u8
-#EXTINF:-1 tvg-id="06740" group-title="DS SPORT EVENT 21 JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGjlTwYhzJQT1w6ljvhTRCbEGHLNj3I_YTlzYzKWKj3txPxfJ5PT56Id4g&amp;s=10", Chelsea VS Wolves - 03:00 WIB 21-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_06740.m3u8
-
-#EXTINF:-1 tvg-id="33400" group-title="DS SPORT EVENT 21 JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_bxHS22yKU3GRk4G8jGVDdEamf3l2Bs8kLWnr9aOadBJ4alPl2BfKh3gj&amp;s=10", Galatasaray VS Dynamo Kyiv - 22:30 WIB 21-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_33400.m3u8
-#EXTINF:-1 tvg-id="33820" group-title="DS SPORT EVENT 21 JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_bxHS22yKU3GRk4G8jGVDdEamf3l2Bs8kLWnr9aOadBJ4alPl2BfKh3gj&amp;s=10", Galatasaray VS Dynamo Kyiv - 22:30 WIB 21-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_33820.m3u8
-
-#EXTINF:-1 tvg-id="20790" group-title="DS SPORT EVENT 21 JAN⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/Ihgqxjq9lZdcRatYTq2fmQYookY=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/27978/villarreal-vs-mallorca-857f21.jpg", Villarreal VS Mallorca - 03:00 WIB 21-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_20790.m3u8
-#EXTINF:-1 tvg-id="06870" group-title="DS SPORT EVENT 21 JAN⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/Ihgqxjq9lZdcRatYTq2fmQYookY=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/27978/villarreal-vs-mallorca-857f21.jpg", Villarreal VS Mallorca - 03:00 WIB 21-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_06870.m3u8
-#EXTINF:-1 tvg-id="07220" group-title="DS SPORT EVENT 21 JAN⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/Ihgqxjq9lZdcRatYTq2fmQYookY=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/27978/villarreal-vs-mallorca-857f21.jpg", Villarreal VS Mallorca - 03:00 WIB 21-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_07220.m3u8
-
-
-#EXTINF:-1 tvg-id="20560" group-title="DS SPORT EVENT 21 JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPHORjTnlBsQ_4eZ9QbFBMQXmU-pwH4YjssoHCACsjnlHMOU-ntLXkmc5g&amp;s=10", Como VS Udinese - 02:45 WIB 21-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_20560.m3u8
-#EXTINF:-1 tvg-id="22210" group-title="DS SPORT EVENT 21 JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPHORjTnlBsQ_4eZ9QbFBMQXmU-pwH4YjssoHCACsjnlHMOU-ntLXkmc5g&amp;s=10", Como VS Udinese - 02:45 WIB 21-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_22210.m3u8
-
-#EXTINF:-1 tvg-id="35620" group-title="DS SPORT EVENT 21 JAN⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/tJpJuA7jwG-n3aMt_cRR3mol4Ag=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28264/al-khaleej-vs-al-nassr-aeaf9b.jpg", Al-Khaleej VS Al-Nassr - 21:50 WIB 21-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_35620.m3u8
-#EXTINF:-1 tvg-id="37610" group-title="DS SPORT EVENT 21 JAN⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/tJpJuA7jwG-n3aMt_cRR3mol4Ag=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28264/al-khaleej-vs-al-nassr-aeaf9b.jpg", Al-Khaleej VS Al-Nassr - 21:50 WIB 21-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_37610.m3u8
-
-
-#EXTINF:-1 tvg-id="22100" group-title="DS SPORT EVENT 21 JAN⚽" tvg-logo="https://img.sofascore.com/api/v1/event/12444950/share-image/16x9", Jong Ajax (Youth) VS Jong PSV Eindhoven (Youth) - 02:00 WIB 21-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_22100.m3u8
-
-
-#EXTINF:-1 tvg-id="27190" group-title="DS SPORT EVENT 21 JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaIU9HGnOv_hfIEIcnIP0dsg5GBKmCHxnhDasXzLtA0kIjmxlqvD0pF44&amp;s=10", FC Utrecht (Youth) VS De Graafschap - 02:00 WIB 21-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_27190.m3u8
-
-#EXTINF:-1 tvg-id="33720" group-title="DS SPORT EVENT 21 JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXEW87jhhBjM8E3NaYes8GFAcXBt5y98HJZctM4GzbTGe5SnHpA-H8a8dS&amp;s=10", Gubbio VS Perugia - 02:30 WIB 21-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_33720.m3u8
-
-#EXTINF:-1 tvg-id="32800" group-title="DS SPORT EVENT 21 JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm_IN32YiW_kuJ1sI5F0hfRPzq-JdHGSzdJzBfIyOOXcme-65OGre4InoY&amp;s=10", Messina VS Crotone - 02:30 WIB 21-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_32800.m3u8
-
-
-#EXTINF:-1 tvg-id="25130" group-title="DS SPORT EVENT 21 JAN⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVHWgpyCjM8U7AOL5TyeehxKo-KXuBJs4aNzEOpAW3Gz-gE9VtXXH7Dak&amp;s=10", Turris Neapolis VS US Casertana 1908 - 02:30 WIB 21-01-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_25130.m3u8
-
 
 
 
@@ -4718,6 +4644,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1734551375/ei/7
 
 
 
+
+
 ============================================================DS VISION+============================================================
 
 
@@ -5292,467 +5220,282 @@ http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/7kzd01H/peacock.png" group-title="Test", Peacock PL TV
+#EXTINF:-1 tvg-id="Arena Sport 1 HD.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="DS SPORTS", ARENA SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNzIxMzA0OTUiLCJyZWZyZXNoX3Rva2VuIjoiNVN2RmIyREpaUlVMYytrVEd0ajJYU3FcL1VFR0tWREhcLzV0MEtyMmRUV0hlZ0xnMk5BejM2MXUzeVhScGx1Y1hjVXM1SDB5MWpnSkZTTmYwS1ErZmR4SWl3a2VHTmZkalk2ZndodktCMisrY1hsWXluMGY1d2ZBT0tIeWJiazFhQ3NqekM2VXAreXZWaEtvZWV2VkFiN0xFZzdaTkkrVGhtckx0NDlmdkpkcDBBNFRcL1p0UGNoeXR4RUxUelAzcFFhckpCZUtGV1dhNE93UnBXZEFURzNSTVpkQ2hFK1pUUnhoQTBFM21uckl6NG1RMVBCOXJuVVJ3dnNSc21XWk1Dc0NFYzRzMTZ1M3hGQTRqbFl0bVM1bFI5TVJBcjdybnlsSDNCQU1NTHFPUnNjcDltaSsxOEdiSCtMSGVJeGh5d3kifQ==
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/7kzd01H/peacock.png" group-title="Test", Peacock PL TV 2
+#EXTINF:-1 tvg-id="Arena Sport 2.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="DS SPORTS", ARENA SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiOTYzODQxNTAiLCJyZWZyZXNoX3Rva2VuIjoiV2prVUhhQnFMT2Nwb052OXlMRFJXejRwVU5qY0grdVwvMis2OUhpTU9jNzUweThJdDBoem1XVnI1YWVjamtDMSt4YjlIOStES0M1NTJxeHpjdkR0ZkJSdllON0xLaDhJSUF0M0NxUWFlY1dlbzlZdWFXejZBbHJyVTAwMzBXa1kzSThYaWpyZWFyZkFuTFFVeFJqMHZNNm82N1FGaVwveTY5cmpsVEx0Vll6YXFZRjRuTUlEWDNSb0RNZkt0Z1hNOXRNMTlpNTlYdHpycjdESzFnRmVWcjNvVDg3WlB5eDJlTmc3QlZNTG5idWFheUMzcHl5Z2l2TFp5V3I3RndNR0ExZ3U1TUpidnltbzdFWVk5UW1FYXZSbzhOaUJOMGVRUU42UGViNWZaS1h4MG1WcXNkdk1wNjJtZHJReEV4YThibiJ9
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T12xcgg/canal.png" group-title="[DS] SPORTS EXTRA",CANAL+ SPORT 1
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T12xcgg/canal.png" group-title="[DS] SPORTS EXTRA",CANAL+ SPORT 2
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T12xcgg/canal.png" group-title="[DS] SPORTS EXTRA",CANAL+ SPORT 3
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T12xcgg/canal.png" group-title="[DS] SPORTS EXTRA",CANAL+ SPORT 4
-
-#EXTINF:-1 tvg-id="DAZN 1" group-title="[DS] SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/p00YbqW/dazn1.png",DAZN 1 ES
+#EXTINF:-1 tvg-id="Arena Sport 3.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="DS SPORTS", ARENA SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMjY5NDUzNzgiLCJyZWZyZXNoX3Rva2VuIjoiSWJSQlVVTEJoUUwzaXRISXFFWTFlbTlab2JPRlNGRktFZ2hJdDFuOGRzRWI3dzg3WVk4RVdRUUE5R0pcL1BEUU9YYVZJUkMxa2xPUUluMGY4ZW5GUWlDcjlTZnYzTGM5ang3QVZ1UUdFUVRyZjRPcWpheE9SMStOSjBxWHBjN1djR1wvWE5qRHFWNDZWQTRvekhhXC95eXUwRnQ3Nlc4QmhqRjNub1pVU2V3N2dlOG9CQTQxZjZQdTJXWk5US2ZlZ0VnVERBdVlyc3p5SkVkXC9LQnljSDBSZWxTdVJoNVdjTDVQbFwvbFU3UzNBZCsxVGdyVDdkc3MyNUpHdkYyUlF2d2JBZU41RkcxSzhlU2NEYjJhQkdkNVRwOFJjc29RZUFqVUFSTU9rZ29sckZSY0sycnVrQkVSSlJqTjJ3OEFNcHREYSJ9
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMzU4Mjk0MDEiLCJyZWZyZXNoX3Rva2VuIjoiakI4NnQ0Y1hDMW8rbklzYWx5ZVczdlVaQlJKN3VRYWpvcHRGUkdMZ3hZNitjOVdkVWFUMCs1VXNQVlVlcXlhdHR5SFFxSHUycWZabFFtMlhvYTFOeDFLNG9jek4xMWh3bWdcL0I0MlZcL0xJYkZ1SkJRV1dlT3p0eTd6cmJGZG1CdnZUXC9nZjg2ajZEZ1N1N1FvUmxLM3FlTEZRSHZrRXF5VzFcL25USTFlWldvelBqRHRYaExGTzJUMnBvd1wvXC9zdFlRWWh5Rlo3YTlhTVhEWmU2dDNkWEtSNTRpWE1EVlVyQlV5aUx2bCtZamZ1aDdmVUhiM2tSWTJxaEhPZXpYYmN5XC9wSVFVZ2NReUYwVVwvQ3g5Mk5pZWpyOUVvajJ6QWdFdk9kWStPR29qOXNGeUkrK2NCSUlSN0JNbTRRUExDWkZ3NnM2dXhEMVl0aXphSk95Z2dDMmNhamc9PSJ9
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
 
-#EXTINF:-1 tvg-id="DAZN 2" group-title="[DS] SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/vV4hDkC/dazn2.png",DAZN 2 ES
+#EXTINF:-1 group-title="[LIVE EVENT | LIGA INGGRIS]" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport3.bh.png",ARENASPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMzA1NDI2NzgiLCJyZWZyZXNoX3Rva2VuIjoidkZ1S1o4cG5nWnc0M0hqb3hodlBIOGQrUEI5QjdOSGRaUlZXQXd1Nng0Q3FJMnVmbE9qNFVKMVdBc0tUczBRYm80QVwvZ3d6MmY3VEhwakhIQUhaeUFISlpFNWxYM0RPTWFzRmJcL0FUdzYxbXpaS3hNa3p5R3c1elB2WGN3SHdZSkZGMU9OUEQ5cURhVmxkbzVCUWtGTGR6RXozeHVnakNxUDJtUzRzYXBaOGxwQXVzeE42bTFMOGg0cURlOEVSTU9QRHpzcWo4MkxpeTJlOE4xSVpxZ3lNZUk3dHF4ZVVTc0lhSnRNQytONHZpaTRIM1wvbmM2anJyTzJjS0tlSUZ1MXd3a2xkR2tjSjNPaUU2MnFHa3NVZk5BQTNsTkFUcGJ6YjRURWNaZkZPbXNJQzM1UVBTZVl1QldGclhxTGRtek0ifQ==
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNzg1NDkxNjAiLCJyZWZyZXNoX3Rva2VuIjoiR1EweFZqTjFqSUhkTE9zV2cyQWtLR0xQMHJvcWFLUlRqT3ZnRmc2MXhzcVNBXC9FUVFvVTFkdXhhV3k1bFpPMTByZG9KWFgzZWtEaldpd2JrK3dXRDY1czFzemtjOUQzUGt6Ykd5UjVSYkdnM1RGcTdJNnhLNmFnWHhQSFBTdVwvWW9CQnlMQ25xTFlMN3E4YzB4TXRpRHJhTWxDVHcrVFl5cFVqcFwvekt1OGc0ZjVWSW9sZUNndE9yYXFtblNLZGVQd3ZcL1BvYzNEZmlrdldHUmNOYU5UUjFYd3NCSm5VNHVmSUI2eVlpNDY5WGtsc3FmaTRaaVY5S3pDVkdcL3k5cFFMYU5QS2NVN2FcLzFSejFJS1VTT0IwTkVHT0Nvbzh6QkNJSis0RllERVU1WGcxRlNRTWVNelJDZFFjZlhmQ0FIbDlQb3pMbHZvSTJTXC9cL1J2MkFVNnpzS0E9PSJ9
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
 
-#EXTINF:-1 tvg-id="DAZN 1 DE" group-title="[DS] SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/p00YbqW/dazn1.png",DAZN 1 DE
+
+
+#EXTINF:-1 tvg-id="Arena Sport 4.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="DS SPORTS", ARENA SPORT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMDYzODkyNzQiLCJyZWZyZXNoX3Rva2VuIjoic1BIcCtQMmc4R2lkcXZ5bnREck5uWE1aYWs1T2VzcFRwbGpRQTh0SFF1SnBFV0dSRFJLR1FrWmRNS1hSNFo0RnRqQ0JuM2pMMXY1NGVUXC9oeHFrdmk0VFpGV2pRdmsxUHVGSkhlQzFDR1lXN0NNbUZ0NEh5V0FmU1ZuRzhzWVhoQzJtUng3UnpIVFBjdWFaSkJrNVVUalBQM284cnNcL25uWXhGbkFNQnF1OVwvQmQ5bG1jRE9palZXSFRSRytaSEM3MFR5cFF5ZDdxNG1GdVpTTFE4aVwvQ0g0b214bzhPXC9CT3NNRGNQMFhINVNaakFvckRSUXhQanlBM1JkamxxakdIXC8zRkd2N1dYc3NkdVJoUFJFMFBYdTJ6VHFpYzhOQjhoUkgyTHYrSlgxa3FrMFk1d2huQ3hvUExqc1BuUjZ6cHQifQ==
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNzY1MjQ5MzEiLCJyZWZyZXNoX3Rva2VuIjoiSUw2cm9PbGlnRmE4NDRIaXc5d3NHcEQ1M0YzU212UCs3RjBWR2FNb1RvV0lcL1NXZG9OTjFnb05jMkVCUjh6ZURaT1YrZDc1V1RVd1ZlYjk2YTY1V2ZHNlNcL1hXRnlVQmpmcVB0UVlCQWo5WnFQSHhReG04aHVCeUg2NXRIa01NOVZHbVAzVmpaeWs4VzJtRGtYWUx4RStybElaTGhqNHlwR1Mrc1haSXZaeWVqcTdsRlpXZGhBYkM3eVBvVFwvc1wvck9cL2lnMzNiTVRlaUFTdGVJWGhheStEVmZkSk83UHhjZmNaR2pwZEtoaUZSMVwvQmF5RjNYRURLVVk1MnZDbmRLZ2dcL1ZBWkxWbGNXbTg1QVhOdEtROVBQTHlNbFpadkozSDNnTWpwMFJSTEFFUFFueEZWRWRKV3dHakZEMmIzVFFMZmE5bDFDXC9JeUhmbk9XMWJBeXcxc1E9PSJ9
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
 
-#EXTINF:-1 tvg-id="DAZN 2 DE" group-title="[DS] SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/vV4hDkC/dazn2.png",DAZN 2 DE
+#EXTINF:-1 tvg-id="Arena Sport 5.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="DS SPORTS", ARENA SPORT 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiOTU2MjczNDEiLCJyZWZyZXNoX3Rva2VuIjoiRDZ4aEtZN2JBQ2YzNHlHaERvR2hucWcxWEVJeDRQM1pwXC9qZWJremdIanhNUDJvNnRxbkduc3plelpjR2tMYzFjMHdHRmxaUXdXUm5WMlh0eDNHM05JR3NaT3VxaXJkODd4UzBHOGZKeXBLSFFHMHlSalZ3Ync5ZGdRc0xVK0xYQWdGNkVSRk9ocDV3Z0xmVzN5TGloZHdub29FT0ZnQ1NUamU0OGkweFNYcVlFT0EwT2NpbHN0NzBtczNxMWkrREpHY3l0Y2hXNUhwUndVNlwvNnlEVjUwWFlJbmhTbHRKSk9mSVR6SnF4WnRUczBFazl5ZVFmbkhuVytuNk5EN0FjbnA5bmsxblNUaHRmMGtHVW93dFR5XC9rN1NBdUZpK1Z6blNEZ1ZzcU5Md1ZrM0M2NkdQT3o3dmk5Rkl0Qjl5ZFwvIn0=
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMjUzNjE0MDkiLCJyZWZyZXNoX3Rva2VuIjoiYzRmSEhqdlwvSVZzVG40SWdpK0pwaEVTSmU1em9KbWJuc0V5aE1NK2YxMzdQZkluNDg4MU5BNm44a1JTV1F0QkNRZlVkNzIxSjVpa3RZbE9NbHVnQ3hWMlhKSE5aWE1Wb2Uxdnd0bkErN1M1ZEE1dHFsOVFxaTh4eVJPUWlqNnVWa1wvXC9qb3NmbDR2MjY2Z3lEcEtQNUN1RWRiczg3XC9za3NhOUFoeUFIZjZlaXFzNHBBQ0FuNFl0aWJsQ1FOTmhpcmJRQlA3eDFybVN6UXY3c25ZTkpvTzJRZHNnXC8rbXFTRUJCNUxqcEFyMzUrcVFORWxINmhoYlhDems4UWRJNldwZTBIalJZT0FmK3JhN2M5NDVTOWoyUEdGM3JQNzJISXNJblV6SjAzSGFoTzQ2eiszWWhKOVFUeXJkdWNVVlFOb0EzK0htdExaMDFZSzZXaWtiOGVOQnc9PSJ9
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
 
-#EXTINF:-1 tvg-id="Eurosport 2 DE" tvg-logo="https://i.ibb.co.com/tJNCsNk/eurosport2.png" group-title="[DS] SPORTS EXTRA",Eurosports 2 DE
+#EXTINF:-1 tvg-id="Arena Sport 6.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-6-rs.png" group-title="DS SPORTS", ARENA SPORT 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNTA2MjkzODciLCJyZWZyZXNoX3Rva2VuIjoiXC9FRjE4S2dFczgxYjV1aGlUTDR5VDNnYjkrUEJLakxrcGpzRUQyeUxackpjdzRMUGl0Z2krb29heUkwMkZ1aGNDbTY0dlBlQlcxdlM0WTc5eXVURjh4akhzeDY3Z25CT0R0YnlZdGxhQUJSK3JnWm5HSm9ROTZxSG1pbkwxVVFRRTRnUWpLbTdkaHpERzgrT1k4WnFXYnNXNlRJVXgxdXFmdkhxZHQ5Uk5FenRITkQ2Y25KQUlVNnNcL1pDME1vQ05nb3VwajhOSkFVYm1HUTZrSjIyS2p0cGt4bXpibG9hXC9WN05XWWRmckQ2V0I0YlNnZTI4bGpIaDlJbkUyUkN4MjBQNGJyM0FSTU1sNDM1eldsRFh1anFSXC9ZMGJHMXE4UFpHZWdaZUU5bUZlck5SXC9CeDVmUjBDNVA5TnFEeWVXZyJ9
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMjA2MzU3NDgiLCJyZWZyZXNoX3Rva2VuIjoiMGdublpoY0hLNVdrdW1lc2N4bytJNEVibHRyc1N5ekMyVWdNTnJGQ3paWnRBNzNHWkVBTGpxNmhQcGE2R0g3cHRqbWpEWHJZdUNyMHRQMHc1ZGxlQU54K0pIRXNUK2JmU0JyUkhMVEgycnBUS3VRVUplWkdhZ29TN0VrK1drcUl0Q3RuWFlyU01zSThzanVUVllMcnBKUG9cLzlBWDNVOFo4UVd4bGhpbnNWWWdWUzhWbXlodWxNOUZLSVlIdE5ZSTAzOVwvR0FaQ052eW1tZUlRYkk1WjBMcVdISHBZaGszMkxZUkFGSFk0ejJPRmgyaWFYTDhqNVkxNlV6UmRvMElNVzRcL1g2azFwekJ1ZkFmSUd4TVg4UzBJWnB3aHpVZitxTDdsdkNvNFpkT0k4dGpkeWl0SmFvNGtDY3VCbmRpd3BuVmRlTUJ2SkRoSGJPbVwvc094MHZXdz09In0=
-
-#EXTINF:-1 tvg-id="Eurosport 1 DE" tvg-logo="https://i.ibb.co.com/HBbVRm5/eurosport1.png" group-title="[DS] SPORTS EXTRA",Eurosports 1 DE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMDcxNDUzNjkiLCJyZWZyZXNoX3Rva2VuIjoiQjY5dWNpTjMyZHhzM1Qrbkw3c2ljSzkzRUFUbEx1OGhMa0pnWHV5TTNOdWt0QldPWUtYVVFmM2s1Q2NCZ2l5RXVVOUV3UDg1RklSNGxZRGFVOG9sXC9xb2NZaWRPMERvVkQ3TUFEZlVcLzl1ejVvWXA4bXVnVkJkRkcrcktqbUhadk1uSW8walYzNWcrdnZZb25VK0NcL0xMRTNOQVJTNkFKVWptdmVGc0tHRjNiNWFGVDVNcWVTVTRGWUJlZUFEcG91TGxkR1h1c3hnXC80bDExem5UcXNxM2NCUVBjUGIxQXh3SUVraGlBXC84WlJQQUx2RHJ6UUw5NEVDMldPY2dwbjZENEtaZ3RGZU1xQnBWQkZNZGkyelBJbWFpRlptV0dndkNtTHhFRnhtNGV0RGhRWkdyR2RFMkJUOUtmU282QXM4XC8ifQ==
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDk4MjA2NzUiLCJyZWZyZXNoX3Rva2VuIjoiNUd1QXd1VE5veUM2Nm03a1ZJV0FnQ3d0V09qKzBNT1N1elRvQklTZ1FBOXdTS1wvNmNCVnU5MXZQdHVyQXd3U0VhYnphajNxRkFSREFyUk44V2VLTW1FbnNnTHRqYXgrQVlPMVRYbnNpdmU3S3AwRThBMjFwNlQ0aWVBdGRUUHN2c2JaU3h2SjVwcU5FU0g2TmJtczVsSGhSeE9mK1JnYWtcL1NxdEJQdkx1VW5GaXNpTTZoTWFSTHNDaktGT3RhV0FUMnZ1QXFkTEdYZjVSZ3lPN200QUduZkpyZm52NDNrbEUyQ3Q0R1NYbHpPQWI3alhYRnpsMExRZW93dWQ0S0F1bnRoVVk0dHFjWVluNzB4ZmVsVVF5VG5lUUNlWjZBdW5HcnNveEExU2hBQzgwM2UzU0plOGRad2ZPdWhaQ1BrN0NmZEU0VFAxdTZVaE1GT3JYZk5WN3c9PSJ9
-
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 1" tvg-logo="https://i.ibb.co.com/dgJYY9h/ad1.png" group-title="[DS] SPORTS EXTRA",Ad sport 1
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMzg5MjQwMTYiLCJyZWZyZXNoX3Rva2VuIjoiOXZPOE45c3NCZ2hhSFRmQXF6TWtEOE9Nd2s5Nk9cL1JDSW95SzdOVUhqZHR2TTMxOFdKV2lJRGtBemxSZHcwNkh5OTQ3ZzRqVGM4c1JVWEJSeTNBNzNrcGJnRjVMb0JndFdUQ0JNU3RCUzJBY256ZFBJZ1wvYlJCVW5OUWVpa0Z4RkpKUWNQZE1KZXp3Qyt2a3hWWmpDOFdIeWFnYzFVTkZWYXNyc1dVdE5aSXV5YjYzUjlOdU1jbHlJVFZDeXg1VWVnVTl3djAxYlwvY1FicnpZS3BkdGR3dU1uR0IwZmNjZlpabUtoREFQTUtcL0ZDS0dTUktET2ZzZVVpZ3ZuK1k4OGJXRmtIa2dZNGxwa29USnkyRzhRSEpIWFlLWlV5QlAydHFGcTFCUWtEWHoxbG5vRDBXMlVkZTlaMWFKTWFYQ1VCMk93dXNDV0J2YWZTdG9DNUN4UE1MRmkxdE9qelJNZmN0YTFwUFpackFIVE01SktEa0R3YTR4alRZRFZcL0p4NUUifQ==
-
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 2" tvg-logo="https://i.ibb.co.com/ZK2fr38/ad2.png" group-title="[DS] SPORTS EXTRA",Ad sport 2
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjc5MTIzNDgiLCJyZWZyZXNoX3Rva2VuIjoiWUlubEpheThuc1RFcjNrQTc3S1RNWThUY0pvUWIwOUJhZzJUdmZtRkNRWERFa2hTOURXaHhQNUNJRTZkVE85d2JKc0tuMDVVNVNHMVRYTUpkNlwvTTh3M2V2SlwvS0I3VkJwT0FtS1wveVVjXC9PRU4raHpQME9odlVTMGVnMUpqN2ZISXFvaStBcmtOT3ZrcHVKNHQ2c21kVCtWeFNwRTBYUU1SZDRQaUlSWmJpZlV5XC9OeG1KaFN1b3p1YVIrb0xlSFptSU1UY0VjckxVdENkQ0hzVHBmWk9ySSt5SUJSb2sxVFI2ZUZUSTRrdGJNTXFkT0F6cjJhQzZ6dlRNbFlCdWs1clBNaDUzUCtFN3pcL2RXNUVVVGE2TXMxdmNGZDY1Z2pwakNMTGJFYXdOWVJ6clFiMG1wQ2VPQ09VeUZCeVo1U1VNVDlZZFIydEc3clN6anRiXC93XC9cL1wvWUFDZzFJRHJBRDhVT2c5UmtsQ2w4VE5iQU9cLzJrdTJBb0xNVDZIcXVRaFAifQ==
-
-
-#EXTINF:-1 tvg-id="Dubai Sports 1.ar" tvg-logo="https://i.ibb.co.com/jT1bJQs/dubaisp.png" group-title="[DS] SPORTS EXTRA",Dubai Sport 1
-https://free.biz.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiODYwNDIzMTciLCJyZWZyZXNoX3Rva2VuIjoiVXRHanBpZWpuMlVHeWtORG1PSHR3ZlZnNDJyQnM1Z3p0RWxxak9vQlRJTGZUbU8yaDJJcFFFRlRJUHh5aWREaVVsTlNpNGpRN0tjWFZmK0l3VHBBcjZsVlZRV1lJV2ViZzBkaHN0R0sxOGk4NlZxd2wzUTgzRWZCenM1dVM2ZVV1dytcL0dadkRwQThcLzQ0eE4ycHJqNTRSZHJKVE5sK3NhZUdUTmNjVkRmV25GNFpVMHZcLzgraVNsaTNsRnV5MWxQKzVia0VDYUpZVEhOWWV0c1kyR09xZmU2ak42V1pCb2NPM001S0xNb0hDbE9NRzQ5OElPc29RV1d6UFJoOEdNNUtwTGVhQlJhajU1R2lSbUlMZmdsMWkwT1U1citcL0tNemtjTmc3NUxxUDBZbzI1dE9cL3NwM3pTYXJWdU1SQzlSUWdNSFBGc3hVUEZaaWpjVmpETzdTWTVCcHZVdzFaWHNpS3NIR3paXC94bWFoODJVT042NVwvZFFtVWhhOVpkM0hTU2VqQ3AwSTk1RGhGYmo4eVdEZDlqYlE9PSJ9
-
-#EXTINF:-1 tvg-id="Dubai Sports 2.ar" tvg-logo="https://i.ibb.co.com/jT1bJQs/dubaisp.png" group-title="[DS] SPORTS EXTRA",Dubai Sport 2
-https://free.biz.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiMTg2NTA0OTIiLCJyZWZyZXNoX3Rva2VuIjoiVDBnNVgxMGh6Tm9cL1NaeTR2UjdQNVJPdG45WlRnRVNqdis4VUZTSVNMY0xYcXBHNGtIcnpGM1RxT2pxU0hZWEtTcVwvcFpkckZlaVc4SGNjV1g0Y0tPdWlDUXpSbzllYURQREY4Ym5GTTNjMVhrNGZPK3dLTXhjcGlLUlwvTG5SWjQ5cjdxdHFhdG96VFZHcTQrNWxZWFNBTHVSTnpwZFpCU3VPOGxDNnhBTDhKd0hHVzR5blcwV3pLbzJEb0g4WnlYNnlneFc5bUtRTDBMTE5kV1hPMU5VQkdRanBZam1GM2pCWjFJZ283bDR3VjVuMlVtNDMydGxMajJTbnVSamp1SkNJNExXRzZZdlhxZmd1Y2lJTTNaVkVSMkVmSWpBSnZiRVNtdHREZlpwRFo5SzFEdytwMldDTEtYZTlBa3hBRHlzclpHazJSMHhvYWlZQjVVejRpTWpCQ0tINGUwVWdXWWJxc1JxcThDRzlKODR2WGN5YXFDK3JkZmJmenlLelFIalNVMWRMK1V3OHplQlZkM2VOb1pWUT09In0=
-
-#EXTINF:-1 tvg-id="Dubai Sports 3.ar" tvg-logo="https://i.ibb.co.com/jT1bJQs/dubaisp.png" group-title="[DS] SPORTS EXTRA",Dubai Sport 3
-https://free.biz.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiMzY4MTc1NDAiLCJyZWZyZXNoX3Rva2VuIjoibGRvMWY3XC9vaWQxMTBNUWcraUdha2g4SW1QRHVTZHBnTXZSS0tqdmRLNmdhUlwvQjgwWTBlWVVmUVRZdHBZWkZKU0phaENLMnRDQU95eGNhTXZyYStBQ2hQZWtvcTNzXC9sM0N6SENzRnY3Y2h5TEtpbHdXZExaRnNOd0FcLytLTFFiaCtYMHlCc05sczlpUkFZZmt0dWh0YmpDcldaY0dyNnRzQTVJamZUcVNhc1FrYnBzcmdTc0M5d2hhaUF4YXF0VkJxN0xXRkRSQ3RhenFlcWNxWE1zNTNjQUtQV2I3XC9XR1ZwT1lCMWhndW9tVHpBUnZ2TWpzcTZQQmNpQmZSa0tIK3NiMVhjZFE5d2NTXC9VaGdicXRZSSsrR2d0aCs0QXpxRzJKUkdVQnFQTCtzXC9YYjFqajJBMGIzWWdweXJORmpqVGJXTHlHR05CZmhIREorbEFiU3Brc1puUTNPYkRjUkdvbEUwMTNRQW1jUXg1bkFkSnRyeGE5aU8yMDV0a2pxbmtMZmxqMnVSS2QzcW15QlRBVTN4U2c9PSJ9
-
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://i.ibb.co.com/tJNCsNk/eurosport2.png" group-title="[DS] SPORTS EXTRA",Eurosports 2 IT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNDk2MzAxMjgiLCJyZWZyZXNoX3Rva2VuIjoiWU1lOHBOZFlvV1wvUmVUekhrVHl3aXhkczlGMjE3aTdyS3N1VXVsSnVxbTVJV1gydHBXYVUzOUpjZ1I2aklyK3EyUmFBdG9qMWhzblErYjhWZENhSklMSlRKSFJienAzUzBMQjU5VExwZTJzdnIxZVN2NGxlSGdXbnpJSWpRSXEyc0dwaXpYSUMrOGRuTXd1NXVhc0JQdnB3VFhwVGo0NFZRSHcrUTRaQWp6czBJV1ZBOGo3UUoyMDVnTkUremQwTjJZMEhpdVNUbDQ2R1RKdDA1NFwvSW9nVXVyeXgxU3JGY1FWYStUZCs3QXZucDVqZ1pqc3V3ZktPR3k1TXdzXC9BTVlrb05UeG9TdmdnXC9jc3VWQWJhT1hoUUtvOVJTM2tDb2RZaDlWMkR5SGIrbTJcLzlOVXBUanU4bFQ1dFZoSEZYdyJ9
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiOTY1ODEzNzAiLCJyZWZyZXNoX3Rva2VuIjoiekNBZ2RIN1NITVR2d2x5NGhRWFFKTHlITjk5NUFuYXFjbHlRUFpEVkZBbk93TWJzQmJhRHNESWxDcWZNUXJUXC9QazFzdHIxeFFLa2pkZHUyYjA4V0Nrb2x5a1ZXVFkrSDhtOFhpMVBmMTNcL2RHS21CTVVFN2ZpVVdQS0lZaVwvUTFmYVNoZGRQQ1FxY2pXREZ0OXBESzFaZmpsbWswclNhcFFtaE1LQ3hFTWY4Q0RcL3Q1c0I0RjRQVDdVeDhGNkxaOXNGNVVcLzRFZVVXckYwcDJcL0NLQnFXXC9rdGd6VVV0VWY4UkRZRDhsRWpFQ3pzTVoyU3NtMzhzU2RvSHdweGt5SUpXMUdHQjl4ckJ0YU4wQ2h3UTdaOU1cL3RBS2VtSENrU0ZpeXJhVll1V2xLYzlcL2Q1d24zT2VwcEFIWlBcL3ZEQnJzUk5FSjlwMDh2VXczVURDd3RsMjRRUT09In0=
-
-#EXTINF:-1 tvg-id="Eurosport" tvg-logo="https://i.ibb.co.com/HBbVRm5/eurosport1.png" group-title="[DS] SPORTS EXTRA",Eurosports 1 IT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMjYzMDc1ODQiLCJyZWZyZXNoX3Rva2VuIjoidERQQjRUU0pkcmQrNmFJb2h4WFNpblZiaDArS0dFMFQyN2lMOG9jOEpGd3BCTzJkWndFYWVJUU03UnpqUXo2Kzg4Q29KMU43V0dicmlHcHFCa0lkSE5oZ3RmdjdcL2phRjV4N0F6RU1xdDRSWHpPTzNvZVYxVWlLS1ArdmNkQTUwVmF3bCtPd0JlSk5zWThrVWlPTmJ5UmM4VHRcLzVpR1FIYUxleFF3MGcrRHBSK05LQmtOK01QNDlIVllJUUcxVzNaN1RiQ3htVDV0N1M3K2ZReEJUcFlPXC9GdmF2V2ZsbHVtMnp2aXRBVUpvZVZoK0dTNDJKSHdpU1NtUEVZQU1RREx3Y1pkZ2JoMlZvWkpxdjdlK0Z0bVl1ZEx1aXJOcHg0SndtZWc4QjNlT2EyNmZORUw1Vm1sa2VjZnZDOFl6bEIifQ==
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMDkxMzUyODYiLCJyZWZyZXNoX3Rva2VuIjoiWmVZWlJqTWs0bVwvYTd3Qmg3dUJuRUhBUGNlejJ6NkhIVEJ6YzJRZkx6NGZpaXFLVnBcL2hnRWpYck9UUitWdk8rRXZDVUpCYlpEXC9cL2dyNkFqZFAxYlBOUTJza1psdmFUM0laMUVwWXJOTk9mY3BHMWpsaWdIdVU4QTg5XC9EeGhpKytwWGpXUW5RNzJpTjE5NktpUlJTczNZZWx0bXMycHlOYVBIRHJlc282QVNMMmNGUGI5RTdodnVCTmxzNm1WUUpBTzdNTGdxUlpWWFRUTXdrcUFnQ0hzcGwxTlRibXZuRFwvWllZcEJ3MThDS2dTWElQS3BKa0JaczBUekhkTjFqZ1p4aVwvT0w5U3U4SVNOelpnXC9ma3JlZzdJOHBaOTlxQWhcL3d1OVNKQXFMODlvU3kxaGp1YVhMOVpUOFN6Q1BWaFwvUCsyZGhpUVRkMFdLQjd1NEtWTEc4dz09In0=
-
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://i.ibb.co.com/tJNCsNk/eurosport2.png" group-title="[DS] SPORTS EXTRA",Eurosports 2 ES
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNjc0ODEyMDMiLCJyZWZyZXNoX3Rva2VuIjoiUjFnR01Xa1kyUXVCT0lhTFBZYllhMXZqMnFYd0ozdjZzUVFicTRpZHpxQVFwdWFRVWdEbnlqOXlyekhiSXlJY3RabFpGY29MMlFtM0xtRFV0VDJncDdLU0tTOTlveFRrWmtUUVpkWGFNelZyUzNncTVldFE0NFRlaG1DcFBDTE5ielFJdzdSTE1xZWdBOTNLeFhqZlByTDJ3SVRaQUZ6NDRzSGpoa0dtUzk0cklySUlnT214WFRhUHhwaCtoWHBvWTlxaTQ3ZE0zQmRiQ251dTJ2bWJpYzZwd2xHYVgrcm5JWEQ5ZGc3Sk9OclhSa3RuTTNNWEZVck5lZWFCNk5ablFMU3NjVnpZdkVhRWFSQWVoQnU4cTNJZDVLdVpaYXVQR20wVkhlU0xpdEtmRFM5VVV5ZGZpd2YxSmhNTzM3NlcifQ==
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMTM2NzQ4MDkiLCJyZWZyZXNoX3Rva2VuIjoidjdNSk1LTmRvXC9rMHFYZ2VaNjdvSFwvTjJzdUo3UlZFRlBtNE56Nk8zdHlFQjJqaHRRalVtazM1ajBERTFLU2dKSDRtQUxsZ2lBN2hRQ2JjWURuZFdWVytYSGJoXC90SlhiNlwveW5ObFA2UWxcL2dXQ1VNTVdYaWw0U0o1eXRSY25GS0pwQzFWTG9WM2Uxd3hzN1pXUzBUOUhhQ0hxK0N5T0ZGMWpYXC9YTUtmWnhpcXRyemlQUzREN0wyd1VlOGNWSTdHZ1JRSlFpcFpBQ3FrSUNxejhTVmpnRWRtV2d3T3JCUEgzb2tcL2g0ZmhMYzZaeXF0bGJacStHOHF0c2RLVG9rOTh1RFN2VjlRUU9hc1lLbHhzU3JtdXVsN3J2MVdWRDlOb0NKTXJkR05aM3k5UnROY1wvUkF2dDVicWRSVmJ4cjdXbUJSTzBMYzBwUGJUSlBmdDdcLzhMM09RPT0ifQ==
-
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://i.ibb.co.com/HBbVRm5/eurosport1.png" group-title="[DS] SPORTS EXTRA",Eurosports 1 ES
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMjE4NDk2MzciLCJyZWZyZXNoX3Rva2VuIjoiWTBnXC8wMDdXQ0NGaUs0UmhLS0VvRWRDWnNiNGdXdEErXC90Sm1RRlBYTmFzYWpxYkpwQXlWNWI0Qk03RlpRZG5uVlYza0pHSW0rN0VmcEpqVXlxTlYzeTVMVkFWS3kwWUdicm1sd1pTc1A4ajA3K0FncUJrQlhXRVZsTzduYnY0U2E4N21weHVZRGtsejEySGRPS0xDR1U4T1NoNVE5NVB1YitwTEJPWmVma0lEeDFkd0lcL20rMTVOWFhwSjE0SFZlRzcxOGRkR0RUclBteDZpVm84Z0VNU21hYXlGVU9VVFhrRCtZTEhvWExDTXZVSnU0bXNDQmpZXC9ZXC83Rzl1emZRb1hXUkZYZ0JVZ0FidEFXd2hIcFhBVHJ6ZTlvejN5S0V5T2RDN1dOMWd0V3E0b0tlZk1rZEFEOG9kdU9OSFhLbCJ9
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNTIwODk3NjQiLCJyZWZyZXNoX3Rva2VuIjoiZ09CSk1KUm01WUxLa05aVWZaM25UVVlwcWh4TUN5TFdGaWIzUEk2VVlyaDRxMGh5Y3haZkFcL283enNwK0NNWXFTV3laRUVsbmsxcU1OaE5tOUhvZTVTcDN6WEhMUXNHK1hJQkVnbjhMcXVTWVpsZzJrRmtHcEVTRDNcL2xock1PSmREdmtLVDdieEJ1VjVtZUs0QURvOVFIREhxeFBla0ZXcUI4d01OUklcL2ZtYW9JYXZ0eVA4c095bTdpQnJGRHY4K20yekU3bUNJbjlEdEk4VW12ODhBNjd5UjM0bEkyVXdoZDRZT2xkTlhBTHZBTmw5SnRjcThWMkxENVpscFlXUno4bUJ0V1VXSlR3U08ycVRuWnVWYjlMRm1LUXZSU1BmN1p3a3h0NlpXeTUrNHRqVFR1QytrcmRsdXgrRzRPWUM5Sk9mQ2MyeFFNRGpxcXRUK0pUVStBPT0ifQ==
-
-#EXTINF:-1 tvg-id="Setanta18_HD_HVC" tvg-logo="https://i.ibb.co.com/w6PYcx3/stnt.png" group-title="[DS] SPORTS EXTRA",Setanta Sport 2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiODU3MDYzMjQiLCJyZWZyZXNoX3Rva2VuIjoibm85ZFlXNWVwU290V0hPNW5BY1JITzRpVnlhRW5zYlVYMjNSVXhKR0NINUVyQ3lXSXdiMVZibEx1MHlabFFDVzdFRklNeHVsYUN5Zk5uZHk5TlNvbEttRnlmNmVzWCtSdnYwa213R0RxTkV3NVV2T0FGSnhWalQ5SGw2bTlFNlNRK0o4ZjZEZWtQbnZzQ00xZTZIdUUrMVl1WnVVQmVoYnRcL2RpVEphYlp2MktCaU1jY3ZlQWNIbm0yV25nenB0Sm5uaXVqN245TUhYM1lNN043STd2eVFaazR5Rk1aN0VCWFduenJGSlFMTjA2VTFaRFlaSDRpcmZ3QkZBdGhxdFdxd2tIT0pldzJJaHY3Uzlqb2VIWjZxdTFDK2dHcDd1b204SXVuSEpCZ0NiWGJuYzlyeGNWckRpVkJNcm1Od3pEIn0=
-
-#EXTINF:-1 tvg-id="#" group-title="[DS] SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/nrPP7d9/playsports.png",Play Sports 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMjg5NDE3NjUiLCJyZWZyZXNoX3Rva2VuIjoibW1RV2hoQTk0U1dpd0dMaGRLeUNXUnlKVG9udklWTDVHUFBob08rcE1yQldRM0lPRk5vNEl1bWFuUEhrbjd5OFkrczh5anh5WDZiZlZtRlRId1JBZW40TmZURVJieHBHZzVDYitsQktWMm5DUnR1K2l5ZWVUYWFPdGh5UEhHaDlFNmh4T2l2c1FyeFFHcWFuWHRzeVdVOWM1TEJ0Y2Rkb2d2OVl5SkUrYVVvMjcwQU90Y3FZZHpOcmxQNVZpMUlEcHduV1BKdExhbVRTUWpTVWFXc1k5T0VWRXY5M2gwUWx1dnRHUzdXVVBVMEFTb2xZRkRQQnNZSnJqdkd0ZDBDdms0c2ZEZ0MxUGlQXC9veEwrbkE4T1hrQUlXbHoxXC8yaExOdWZQeHppM1E5U1QxRUpObjBoY0ZVbmtDOXZkRUp6UyJ9
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMjAzNzE2NDUiLCJyZWZyZXNoX3Rva2VuIjoicExiS1JVQWwzb2NyWkVGOVwvNW96YmlnWmg2cUUyWExzZGxDYWJraHc0SlwvZHVNbFNscXJkT1ZZTUExSythNjlscGcyd3M4QUszRDduRE9kMDdNV24wdkJhSHhxamhVeHhrUnVcLzNYMEE3eTFVc3ZtUnEyd1h2amtqMGcyd2NNVzJYWXNiOEM2TFE1VEZTeUlyMU5cLzluSDhTckZZY084UWpscDErSzIrcXVWZjhpOTZac0l0cGlWWmNGanE4SXdPRmZyMk85TGd5OVFRRUtub2tzTjV1c0Z6RHJreERrMzdFUllDdHp6aU9ST3FtUlJCc1wvZlI0MU5mZmI1aUcwOWdUMDQxXC8yQndIb1VUQTVvRVdJWXNsRmV1aXlOTnY4QVRYcytSbWxUODNaQjI4OU1WZXVFUTZXNXh1UzZTemZqNkdCZ0F0UHZ5NkZKMXl6cUpOTkdwYWJRPT0ifQ==
-
-#EXTINF:-1 group-title="[DS] SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/nrPP7d9/playsports.png",Play Sports 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMDY0ODEyNzUiLCJyZWZyZXNoX3Rva2VuIjoiNExTcDU0WExiRHNORlZLcTBhRHFMNjF6WlYzdytBNEJQeFZOUmIwVnBwVmFsZmpCc3B5Nno1RWEzTERJMFk1M2RaazJBSm4xaVJuNzF3b0xMcUJBckczbHkrU1ZVb2p3MUNIeXpsYXRqNmplZW0wWDJJcllRY3pORlNFY2VzV3NyeER3S2JqK1NlZndaZ2ZNWlhvU3ZGOTBVU3NXT1hxOFwvcWZVbnZ5T0xwNHpENnlKY3J3bTBTd3lJN0J2OWdaU2RWUFlLMlZ2YnJQNWcxV0VVbG83dEVvUUdzelRaalJobFlPRW5hNE92T09DeFpwQndmdDJDVWJwVDc1aWNJUndHXC9kdDlFd1wvV21ra0djT2YzSitLaVNuMFFIaXY4T2o2Rk1qSndcL3J5b0FEbEhBcW9WSUdxU0VheTlDMHdydzVqIn0=
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMjE5NTc0MDYiLCJyZWZyZXNoX3Rva2VuIjoiVGR5T1NDa2t0MWUrVnNYa21JSENBa3NmTDdkREtTU0I2WG9hRk0yNFpIdUVMMmhKdldtYlwvR2Rlb2JxemM2VzAySm55bGxNbDhFckJEWGR1NTNDdUhVQ29pbDVYcTNhWnRodHBqZ0E3aDd4VEVkY25uWlpLNWl2VCtKN3B0cWtsVFNWSnJSSjRVNldkMDh6aU1cLzdYc3IyeVNOMEVoVlUwQU9lQlwvSExlMDBldG9lQ001NFdHMjA1UFFTZjFwMEVnam5Wd2hZVzM0MEpXajJmaXBkOGNrS3pSNG12bnB4d3BXNE1HRitIQStLOCs3NUozRUR6bGY1OXZYdzVpVUhBaktOUkRZWm5PSVJwZjYydTJ5U1JWR3dacmV1SkRISWRiM1RwbXZ1S3dnV3ZTR0hkalNiWXhxdFF6Z2xnQ290NkdSdnh1M0pkNzJKN1k4VGJhc3FwOFh3PT0ifQ==
-
-#EXTINF:-1 group-title="[DS] SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/nrPP7d9/playsports.png",Play Sports 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiODkyNDE2MDciLCJyZWZyZXNoX3Rva2VuIjoiUm5UblNUNXVSMHc2TTBwUENRd0V0alozdFVqUFhBOWhmNTFoeldqcGVYVm84WWcrdG5oUzNpbThrTUNTdFNObWZ4QUI0VGMwbFJ4UU5rZldrNUZzVHlpMTlIZVRpYWpPRUZvbEtYTDM2TE80cU1PTUVSXC91aGNYaWx2ZGkxR0ZWY1RDem03MGRkbGRvVWtIeVZCZWNub210VytLSDJyTVc2emxwSFR2YVFGZHlzU05SS0JPdUhmeXdvZ2pUN0NTRDlXaFpIek9pWkhVMVUyQVdPYmdyQUFldzJGaEFtSWpmc2NGbW9yR0ZNdEtCVm9HaWVsODVFOEZYMDhRaDFhbXNKU1Q1eDFDY1wvUmJsZnBTeUY2ZXhOTUZmY1hRZGpLSDR4WjRzRDBJMndBXC9YZmRWY09JRnNZQXRWdlNKSDg5MmsifQ==
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiOTI0ODA3NTYiLCJyZWZyZXNoX3Rva2VuIjoiYkVmXC9CdG9pTGZmZjdZc2taeG83MFwvQ0FBM1Jwa1YrWDlUbHd1MXpPVWpkY0R0Z01FWTZvYkxVeENVNnJiMGt2bXpoZHZtUUtIcU9Qbk9PNjZIZUJpeFg3ZlpkeDZkYVJDWlVoR1A2eStPR2VHblZFTDZjM0lrd2NQKzlZTytWYXAzNGV3cTZTVUhBVHRQMWV2blVtWDBJRlBYeUJXRkdEdktTM2I2dHZhSDRkM2lQSkJFXC9DZ1U5NDVtVU9hWllMVlJWM2pDcnQ0cThwYzN0VHlFTngrWkw5YUlpZFcyOGhKalBoT1RuNXFJV0dEckVjMXRsck5QVlhiYk5udHpPTFwvQ2lhZktCMHk0WUxcL3BWTG5MRjVFUW9MODdtanluYTdiS2VqWGlhYXM2dEtpR1ZrM1NWNVJlallHaDg0bEliZVdXV3VDaDUyVkpFdGU3ZjI0NytXRVE9PSJ9
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GnJf4QM/sscextra3.png" group-title="[DS] SPORTS EXTRA",SSC Extra 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMTg1MDk3NjQiLCJyZWZyZXNoX3Rva2VuIjoiakNRS3MyQmFkcXRrVmNLbUYxa2dzZ0VsSWJTOVAxYXFSQkVBM00xTjF5Q2hGY1JkeStlNkIrNnV0bmI1MThhbW9QbCtaR2xncWZoVlZhUkI4bzd4ZjZDaHkyUHVaWTRaZm45YlNaU0NGS3VreWo0dWZpZStpeitKV0FMNXU5bUtmck45M2FiU0VuN3BhWWxEb3hCZllBT3dHbmVEODQxa1h1OXJWYzN6cUh1d0pxUkQ5aFA1RDNSVkdVVWdiMnhsREJoK2xWcDFkNDlRelpLVDNtZ3RkRFJna2k1Y09rVWx1b1FxRjBocnV5YnBDT0FVd1prXC9BbDcwZ1pVUGNzazVzcThuaWRqRTVVb0ZYRjVcL3dDS2VYUTI0MWZ1UHZMdGtwTVUycGJlT0dZWWNaZHZidzZTTmw5bVR6Z0ZWVzZCRCJ9
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNTk3ODYwMjQiLCJyZWZyZXNoX3Rva2VuIjoiU1ZpMUVSWDJoSmdBa09aT1crUVZUOUg0dFZaT2FGYWpqRlI0WXBOUWswRkJ1Q01xQ0p3citJTHI1RW9LTkcwRG1vN1J4dnhBQ2RzcG5Jb212TWI1dmtWSkxhWlUwaFd4VndPYWNuV1ZxdHdZcnpiYldBRGVRUlpCdFJybXdjdnM3VnhTcGdvTkZHbkJcL2wyZjdqU2F5RDNLd2ZyeDFOUmtHc0NxVE15MmJqR2dFU0VzU1h4aFFGQTg2TURHWVluSU00T2JxVXg1MVV2M0NEVVpqa0VqcXo4WkpLUzNUY3pZYjc3UTkwM2lJY0k4aGdaOGVXZStmNDZ4d3NYUGRLVjZOM2dPNklNbkE0UU5oYVJOS0VmMldSaU5IZUpuK3RYTW1QYWhqR3ZcL3dzekxmMXB2VWZ1Q1RpNlNWNFFcL2hlMzcrdHRiaVMyNE5cL1lYSUpUTVJmXC82MXRuTmY0MExMXC8yZVpMeCs1aUttTDlPWjFzQTRRZGpZTmxaMlhFVEVOZUNSOVRWcWkzOWNKZStlemRcLzgyclRTQmc9PSJ9
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8Dt5Pv/sscextra2.png" group-title="[DS] SPORTS EXTRA",SSC Extra 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMTY4NTcwOTMiLCJyZWZyZXNoX3Rva2VuIjoiTmR1XC9Sb2diSTMzOUJPNFBNRUU3MVJQM2tMd0JyYXppZ0VzeEdkT2pvbUtpdXRTeVRWZU5OQ0IxU3NwZjl5OUdYXC94VllQbEEwTWw2Qng1cm94Qkl4NU1CVUZBeTZURUdYTWdMZ1N2WTE4SU5xS3pzUXA1bkoyejVONExhODNaVnF3Y3Q3b2RxRm41b2NVUG80M2ViV3V2Qm9uQ0hUWDQ1NlRlUk5iaVhFOWl3TnhBR1wvMkNnV1dzdStIb2tqbGZIVU5Vc1VUaHpzelR2WGZZZVhSYlwvNXdoVHUwR0lFcXFDS0FZdmF0NjVnUmtrS2k1V2VxZW1peWFDQUxGenJWVnVJclZadVZ4bWhsb3J2d1JjWDZEck01cFlHUzZ3d3llRzRnVkhhdjZoZms5Nkk5c0ZUdlJxQUJpemJWVmZVWVNhIn0=
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMTg2Mzk0MjUiLCJyZWZyZXNoX3Rva2VuIjoiNGRqbEszK2pVWk9OXC9wMCsycTJPUXZ2TnArWGtKb3VcL3Vsb25zSUF0ZVhlWTJOZGZ2VTRPSmx2N2dqbEFFRFFYSmZKV2ZqV1ExOW11ZFo3VU9aQVpmOTJ4R21FcllxdlhcLzZnYXpscmJPdFBMNDdoalpsUWtZSVlmcTdmaUNWQ1FzM0dEYUxwMDN1NVU0R042VXVPVlh0aDZ0SDBIUkgrYVVsWlBDb3pLWll3THZVcGk0YW9EUE95eUtlb3g0bmxtaFNBRmhYdVBFMjJRQmxnYlJUZmFrbEU4U3pEMDlDV21JWThLdWVQYWliakdyZHRQc3VlSk84WHBPRWRUbHBwZW5LanhiZ1M4aTg0XC9ZaEhVOVhrZ2lXUkFDSXg5cUx2RVwvTTAzS1wvVzIxQlRhVUJcL29MNUt0SUVFR2FJTWxTbjVnUVl4NHJrNEd3bDdaRFIxazhoR2RDQ3o4YVplYUxKNWljQWNNV2RCbjZJS2hqYm5XeVBhSDhkOCtjVUlNY0JMVFdkUzlGQis0VVRBb2pNcWFlSXo2T2c9PSJ9
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Tbb4ZmK/sscextra1.png" group-title="[DS] SPORTS EXTRA",SSC Extra 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNDM2MTc5NTgiLCJyZWZyZXNoX3Rva2VuIjoid1JZME9aNkJxT28yaEJ2NjU2elwveklFeHp2QmlnOTFUY2NZakUxSkRCXC9NRXdpeVBBRUFmM1pMT3RhUUxSS0RjS1ZNVnFxenU1U2laSEZcL1g5VVJlWUdsTzRmcll4dDhaUzkybzZTU2pqWlJxOHg4WTFLMzNNV0ZibGZaWTl1M3Z2UUF0TFdwbE9CZlJIbm1wSW44bXdqRjBZZkhLbk5mXC94UWN4OW85dlk5MnNZbFJaOVFSMlNyeDhlUENjaVppNTRQelwvOWZnanpUcmhMb05oVFR5MW01Y0VjNHVreEFCblBmU3BEUUFJZWQ5RjNsNVZKQVJJYlVINEppXC9MUnFPMGZlY2lJUFJVNXphdmlCS3NCQUJzSDJ2S3pjVndcL3QzYVUyaDhUZGJHcmZQNkFhY2wyVE01SXV1aVBUM2xySkxKIn0=
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNzEwMzU5NjIiLCJyZWZyZXNoX3Rva2VuIjoiYWpuR1U4VjNjWkpEaktKcFQ5K2ZBUXkxbXlOeitaeTdlZ0xmRlpURE1ESklTNUw0dU1yYnhYTUZFMFY5SlJ3OHhsbVwvb3FQbndwcDBvY1h4M1FFS2xTWU8rd1F2cisrdEhUNkh1VXdFQmZtbXZKa1NHSkxVNEtDb2gybWlKQ2ZFaVBqTU5oSXNLWGtDaU5tdmhTK0czVGQ5V2toYUxzVVRSeGFMaUtcL1kwNTJyWmpUTG55VUR6YURCZGhXS3pkdGl0QUxxUHdCQ0VWN3hucTZra1oxSW9wdm5yNlJaeWJ5cm1abkFOXC9qYVNvZE9XZWFncU5FRnp5R3VHa1wvM2xtNUFWUkxQMXV4OGVUNlZhRWNMTW1nNGNYYWFkY0k4Zk1mbkFMdFFNcUFlbVJPemJ5d21hcGptaVU2czR5VHBTRjBMdlQ2aSsycUFBWERuY2FuRzlwMjV3eVFTc0FCMWN4a0FkRkpvTkNidjYyRklnVjFGcU14c01oa0ZcL0ZSbXlEaGR5U1ltbUlFeEJiNnYwYld4aFBKUEV3PT0ifQ==
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/CV36VyY/ssc.png" group-title="[DS] SPORTS EXTRA",SSC 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMzI2NzU5ODQiLCJyZWZyZXNoX3Rva2VuIjoiNnl0NHY2UVBIaEJKWVwvcUhCeVBGNmpYZlUxR1VUNUFsSWNcL0tnRkV2VTNUbVNuOVdDcUhwdHUzU1BRanJqVUp4NFdSZlhFdXRVRm9hMTg4QWE5c1wvWlhBSnUwN05sbjRRbEE0TyticlEwalZ2bXlqVkZ0WWdlcFJ5aXBocVwvaDZQaDFyVWlESWt1Z2M0UklVVGl1M2dDNUdmSFNwUmJzNWJ3NmpkcGZmU2tcL0dtcEN3dXlMZXFDSTJFN0E1czZqWkUwUklMVWVKRnRcL1RPQmZCMUdVVG9ZU0pubnQ0aW91TjhtNUNsS2J5TFd1YjlwR29KKzNqZXpiODVNdjc1VENQZ1N3bmRjeTJhajdjZ3lYOVZVbjFFQzVmcUNLaThKWCsrY3YxYUNlNzh2NlZHK3pUcEpkRGJLcTNVRjUwblBCWk8ifQ==
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMjc1MTkwMzYiLCJyZWZyZXNoX3Rva2VuIjoiQzczSlAxclA3XC9aa2tJNzRkN1IweGNHbFhJUHlpVlFPMjkxQ0FjamZzUmpYTTN4OStXVSs5OExYRVdYeEdEbXUxMzg0aFRHbmQzWlBWWXhrWll2d1lya05JN2M1XC9YRTM1bFE4Ym9tMW4wV0o3MXExZ2RhMkhTXC9RSUFWalV3VDNPSlhmUmRPdkhrTkowemNRNWdGTWVsVERiN3RVTG05NGNTZHp4RThSb040MEk2dUk5dHhFZHl5azd1SkZMVWlaRzFYQmgzRWNwTjdGV0JFT2diQ3ZxTmh0RHp3MGg2elYzeXFXaWNvMnJyV1Ywcm5YT1ptYm4zamRJa1VTMWlVKzhZakJBcnFidndFMExtSnM4MzdhU1hpanJudFpFQmdqU1dkanBueG5PV3pRXC9GbGVaV0luYlVPNEVxNjY0UFY0Mm10QWZOQTNMRG40eUlTbzd2elhGcXdvaDFtUVVNTGZ5SUdydUNMQTlmSHJidE8zQ013MGZPVE9CVndrZmZOayJ9
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/CV36VyY/ssc.png" group-title="[DS] SPORTS EXTRA",SSC 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMDQyNTkxODciLCJyZWZyZXNoX3Rva2VuIjoidG1OaUExNndZTFp1Z1lLMkRRV1lsSnJmVGhQcVVGb3pGQ1RkN096SENMa2RPK0JiaGJnNkZmVUdJbXB6RHpjRWZNcURDR1wvK1BuWkZkNW0xcFlsRFNKR2pUOTI5Q3VuRmxPZ1M3NHY1OVloK2RQTkRVcjdhSmJvTFBJXC8zME9NSkJKTEhUUFdBcmFidXRXeENUdDViYUc3QVdsRTJQOUFZOEJmVm92aFpPaXV3bFBKK1ZHU05uVjZ4MGs0V2xqNG9FY2xUb1dUakQrZk9jQkVNMFpXclRSZVdWcmJuM25nWkJJbGNlWEltM3dyQ2NUMG1kODJ4ZHVNRnUrYzVGcHNwUUtOU1ZTNXFEUkl6cFlFVTlWYmJ6bTEzZUlvWnk2WUZUais1YzdrSTdmYzVkdFBGWTlXREhzalNFXC9kWDl6MzgifQ==
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMDg1MTYyMzciLCJyZWZyZXNoX3Rva2VuIjoiVWNCRWhLMk82dkNBNFhtOFZMS1BoaE9XV0I5ZzhRc0pWdlwvTHQ5b0NaVk5QdnU5VXcwOWJNMW0zaHczeE9iXC8rOHZzaUJaOTJkRHFNYWhwSGNWQXpWUzdPUWFaME03ZmNSZ2hcLzhub0JkbTlGZVpjdjJLeEVTUitCNXZXVnBmd094SmVwaHJMOUNLVEZXXC93azF3eEN0SW5mVjIwM0pKZVg4MXBvNnhicnlTRG4zOUZQbnoxRjZya2xNTEtxRTVDRlBpY3dkdmhhbWNXdUdJdW5UNit6YVNwS0p1RWduREo5ZWFNU3ZDdXFZZlI0TVFINDBqdXBoUjlld2xyejJ4RlwvUmF3MGx1bzI5TnJzemxPaDNobHZcLzNzMmRJK2czZXJ6eG9KcXdrRVFmcDgrNlFXdHlkOWl2NHg1S3JDK3ZnSWpsU3doUTI3czZKdU5IUkhoTnVaWXV1MmdtYk1BNXRDejFcLzArTVdLSFhDdXd0NDczeGpXbGNFZTRXYnZKUmRTdCJ9
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/CV36VyY/ssc.png" group-title="[DS] SPORTS EXTRA",SSC 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMjQ3MDk4NjMiLCJyZWZyZXNoX3Rva2VuIjoiWld0cTlyN3hzc2pETjZtZHpoOWJSdWs1MHQ3RmVKbWFFMnZMZmJZMzlGV0gydjdNVEU1MHhTUFVGWHhQbkZ3MUlHc2hoais0UzBIZm9YbE5URExVR2gwTGdnNytPaWo5XC9iakd2bnI2Z2NkdHhXdyt5ajRCVWdHeTJGdTR0VVQ4TjRkd2s1TE9aWE80U3ZKRjV2aGdIbktLTkwrU1wvU2tGTGE2aFFnT3htOTNJMm96MmViRk1HTktuT1VcL3YyUkl2V3lQK3BwWERpaFBVdFJJaDJFWUFreUJGQTFMZmx2b3RVRm83XC9EUnR3UGZTWkV1ZDhMNnFKcFwveGhJSkFPcUk5Z0dhbjFOYWpxalFYdG8ydzNsOHRcL205OUZwNXpIRUtIWTFiS25MNXdwQ1J4NE5uUzcwRDc3VmhVd0U2ZGtKWDAifQ==
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiOTg0MDcyNjMiLCJyZWZyZXNoX3Rva2VuIjoidmthQWlFRnh0UXhLaGRlTDF2bnNhUCtSOXhYYjBQTzZpTG00VlZPKzM2T0tQNkg3emdzeFZCWXNcL2tsNTZaNThnNzh1Szh5SmhjeGlCVkYzUVJ6RFljdk5heWJxVWtlRmlFVnRKc2JsTkllWXdLZHAxNGJYOVFid2piVk1tV2tLU1Vrd2JzZGlaVFwvWTM3V2F6WDY5XC94cUd1WGxLTFVHR3VKVjBqeDloMDZmYTlzN1k2SU1cL0s0bXh4Vmc0VDMzTnV2R205Y3VMYzRMbmhJS1FCdVNXWHJuc0FUdUgyS3cwNytlODNaZll5aGdQS296XC93VlN2OTZyckg2K3JBYWZ0anhxelhramRZUHloc3JuVURCTlcyeHQyMGtjaGp1SzlNWFo3YnJZTW0raGhwTThxZHpmZ2VFZ1FJOVg2aFgxRlhVS0tFQ2xRdVltREMrSkg1UDVWTTdIS2hWZFlqbXBrUVJuYnREMUFwMDVka29LRVBVS29VMjhiaDVhMUtNbXoifQ==
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/CV36VyY/ssc.png" group-title="[DS] SPORTS EXTRA",SSC 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMDE3ODkyNDMiLCJyZWZyZXNoX3Rva2VuIjoiK21YcUxMUVB1Q1prTjJ1dVRBRE5lekpYc0E2S2RXbW90cGE3S2tIbVFCUFhRZXpRSGxHT2xXb1A4cEx2eXBjTFEwZjFJS1VaOVdFZ3lja3hZbDVNM3k2Y1RtbnMwYzRPczc1cjVEbmR6Q3dcL25rWGJsZHdFeUtYUnl2QVpJc3pNT0c0djN1MjUzUE81Z09FMGYxUVZBSVV3Q0RpcVZOM05vSXhLM2U1OWRranFzSDVJVXljanROZVRkZlwvdmNiazVRTWxkNkplM1k1eFZkNVlqMFdrVlpqZEFLc3pCT1puY0tnZFdyU1hRTEJvQjI4SWVBcXdVeEJNbnc3bkltTUphbm9YXC9XdlBPTGdvWjR2bHdJU0kxMVBzRW54TFwveUxmU2Y1OHFhM1M2WXo2NnYxQU42RU9mcmI5VFdOWWJVaFpnIn0=
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDE5ODYwNzIiLCJyZWZyZXNoX3Rva2VuIjoiQ0FnQlpwc2lxcDFYWGJ2K1JjVTNMZUF5TWdTa2trWXZwQ2w3XC9BZnRRWWc1R0w3UUlUaEFMdVJNb3lKYllPTDZrb1k5NFwvb0k1RmFRZTRSRVdKbVQrWUZRdGVVTXBTRXBvMktKdEljOVQrTzhWVEF1RGRBUTNkVzRLY25pSnN0Q1d6RUc0MW9ET1wvY0ZiQlpJMVVFN1QwcmpoanQ0TnFCdTM4WVwvRkV3QkRtRDhGM2lSY2FoYkdDRXQ0amxIZmVKTmR3OUFpcVJISGdYQlJoRldoU0J4XC9ZRDkyQU13OU16RGRySzFtaUFZeFwvRXQxOHBVcExURTNHVGlpSlBLUHpEWk1hVEVEa1lUTjFqSVIraEdxVmRYNm9aOUk2d3R2TVJaVm1jYmhOVjZCUTNuRnRGXC9WdGlMUEdEY29NVjFMeU45TG05dGNzVUwxTlE1dUZmQWFTUEpiY3lyWHJJZGJucWFGWFp6VmM5ZlJURDV6TWtFanBLam9hSUlzVlhUekVaSSJ9
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/CV36VyY/ssc.png" group-title="[DS] SPORTS EXTRA",SSC 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMjEwNzg0NjUiLCJyZWZyZXNoX3Rva2VuIjoiYkdcL1wvMzFUelBSMExIXC9XRDlGM09yVXlnTW9URmZBWFNEcCtub2tmTDFFYXZKZHhLM05qTkZDTVJyTUp2TXFGNDQ1QTE2d1hTK01FSGg4WGJ4OWNMNWVlVHY1VWpmMFwvK3YxM2JjaGlEMHZLMFVkN1pEUTJsR200MmVSczRoYzRDWkJIQk5Ld2d3RExQaXdGNlJCN3Q0S0w4dEpFbU94dXZjSWtLVTRcL3IxUU1COGxvZjVjYmlWZG9RaTRHZXZ5aTJZc3hRdFg4YXNwdFBzbDVHb3Yxb0VQdnNORm5mQXY4cnVzMkVWbjVyMlpaa1dtQzlNMEZMK2w1WmpWSzlXU01HY25xb2RvaFNLeE1CUWR0eGt5Y0FSUU83azNcL2J5QU1xR2JKejFqNm80eUxcL2lDbkhnXC9CQ0k5a3VMUXBHQWdJUSJ9
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDAxODI1OTYiLCJyZWZyZXNoX3Rva2VuIjoiRThTUkFBSlhBclFZK09tTEdoR3BySEYrdzhSZVpzTXJyREExMktHZDU1dWNlazBcL2VCOGpIclhJRklBcXpidXBSbFI5NEhJTTZJWTFMc3FEZXZ0eWhKUVZETzJhNFhtS1BzeWo1OG1pMVdEckE2d0tLbEYrNEhnOTA1MW16ZWh4NGtzV3dtdEJEWmRcL0M2V2c4XC9POHRqdDFMaDhhekxnODZmWHQ1bFdQTnVTSjN0VnhpeHh4SDdNQTJjaEhWeXVLMEtqbFl5WkZyaERNVWJ6bXBKSWtSVTBhZnRcL2hPdWF2QVVBRkxsZG4xR0FNQjRiWXV6NlFqeGlYWmFuNWlYWDFyMXA1ZEZTcyt0dXNsbnRyYnpMdEFBYUUwQ0NiR216V2lwemxUdXhRa0trM1lGVCtUWHg3N0ZhNnd0N0FhRUQ3VFh1R2x4cXVTXC9aZWg0b2tid2ZWMlpWbTJlZFg4M29SZHpTeGh2bGZjSHVHb05EMUVhVVlrcGV5cjN6dXhLc0MifQ==
-
-#EXTINF:-1 tvg-id="#" tvg-logo="https://i.ibb.co.com/ysFz63s/tv8.png" group-title="[DS] SPORTS EXTRA",TV 8 Sport
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMjY5NTAxNzgiLCJyZWZyZXNoX3Rva2VuIjoiYmd2SXd0WFdqXC9XV2VHQVYxUGk5bjlMQnNjXC9OYzBVZkR6XC94VFwvWnhCc1RjK2pOa0l0ck9na1p4QllFMFdPbms4Tm1weGQ1WldRUXhueGR3dTNPYUlScm9MU051bnlMN2loaDVTSFZXVmdCUjJZdHdiWnljVjBrMWZQdFhcL1MrWVBPNXZhN0F1SHlyR29LdDZvckZTektMOEM2NlhKYzY5WUZtd0ZhSUZ3aVBVanRIZWNYVkRBdDJpeDRxdVdZcDdEZ1lvUlhCYU1YRkpNMXQxbHJmXC9oSVJjck9MVnM2dittQlR0RWR5QUllVG9ZRUY0SzQxdEx3Qjc3R21qQUx5bmdHMUtyMG9tMnlXRkZEcm90aVwvUUVwbFZPZzQ3ZXdnU2IwV00zdjVVUkU5VEJjMWppM0N1djFBNVRldWJMMkVXIn0=
-
-#EXTINF:-1 tvg-id="#" tvg-logo="https://i.ibb.co.com/W5GFPXc/tv3s.png" group-title="[DS] SPORTS EXTRA",TV 3 Sport
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMzI5NzU2MDEiLCJyZWZyZXNoX3Rva2VuIjoiRFF3OTJqbFpWUDVVY2FORmZrUEN6S2MycDRGQWQxTk9uWkhiaXhCQllEUG1DWmlCd2ZpeXZMbHliREtNY2tjQkkreHFHTDNWZmhMMkJzamtrdEVxSG1wd0Joa09WMWk0K29wVU8yTEwwdlkxc1RYWlwvbklvZGdwdW1oSGI3cEplSGdqYTVSMGdvT2ozbDFTaGdRODlSUkg5Y05iSkVubVE2Yk5UQmpVMkJDcWlWWmRITWFcL1wvaEdNdGFBY3BZK1lkTFhJMlRwMURCMHFLNE5LNVE0ZDE3WldHREt5b3NHNllYbkRudWZhVktiUUE3WmZBR0JsWGNiNnhMY3ZIYVhjRnRLYmdveUZnRU9EVzFwOVBBNlBkMHNPOGJcL1BJWVptSE1RdHlDSmI3Y09Kc3pSZVBjSEp4aE5UcVJ4WTMwWXpaIn0=
-
-#EXTINF:-1 tvg-id="#" tvg-logo="https://i.ibb.co.com/qjfBkWY/tv6s.png" group-title="[DS] SPORTS EXTRA",TV 6 Sport
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNzY4MTMyOTQiLCJyZWZyZXNoX3Rva2VuIjoiWHV3YkhUenE3czA5Zm1QTWVFT1VpWGtjTW92cUxWMnh2NWxcL0s1VlBzY0xDdVBMQlwvem94SUlHMEM5ZjU3REI0XC9MeGRGXC9VdGx0WXp2YndLbnRvU1wvdWdyQW9nOGN4YWRMK3JNUG1EZ25NVUVuWlZzeGZFNFpERjlicnNLYndRMFJBSXphd0pXWjJDcGJZWHR4cnBHaTJcL1wvckRGNW42aUZCRFlNTlpOV2MrN0psVmpUU0t4b1hcLzJDcTNNRlZZQ25CditSMFwvVnVFMGg4Nmgxa216VUpzU0dmNnFseXgwM28wMXBFTng4NHB6eVI5WUpOMlBORWRKcFRZaWJyVTVPUEVjSnAxUzlzS0dYSU1oam5yUVI4elFLYzBlS0RrWXRZTFR3WTRkSElXRzNxRGZRc0lEb2tnKzQ4TWl5OUJxcmMifQ==
-
-#EXTINF:-1 tvg-id="#" tvg-logo="https://i.ibb.co.com/g7WmSwW/pb.png" group-title="[DS] SPORTS EXTRA",Premier Brazil 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMTY5ODczMDUiLCJyZWZyZXNoX3Rva2VuIjoiRHg4SGRxRTU2Zmc2ZmJCQmhSMk9mSjF0RTBHbnBXTWJaRkJzREpKSStHczdMSkpZRHZ3QzBTYmhRTm95YXZSN1l3SW01aENVd2V2UnNSUVc0bVpaWVE3R2kwQm9MRktXVHVxaEMyajlkYjA2aWd3and4dThjeXdHbzgrenNzZEZqa3NmMFY3UUpPRkhVNDJSbG9ObE5PcnJNOStqSVJBZno4UjVHRElyMjk4TTZMN2VFcHZob25ZcUdyYlREZFBmRzVcL3hSUFwvT3NyOTVBTTBUMGRVelc4bHVrVEtseTBqVitNSm1XdkFkKzY5Mklaem1KRGdVbDBZOGVxVzNVUE4wblBWK0tialZUVFg3MlM0NytBXC8wRGZKTE1QR0JYN25XXC9OYjVablVaXC9oNjZGMXk4dXdoMm9UczdXbHJWcmdPVSJ9
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNzEwNjQyNTkiLCJyZWZyZXNoX3Rva2VuIjoiXC82a1VQeUxaSWN6cXEyMEJjM3dFS1VHektqVytWMlZoeXB2dWRzMHVBOGdtSkpqaDhWUWNFQWRGXC84b29yN3FzSEhyd1wvTVljWHpHNUJzcFwvXC80OVVGN2pQU3VDMk4wWWlpVnNqenJFc0dqK2xRTkZxUmErQUs4eGdRNEExcXZ0bVZDUHhuSzBaVzg0WUNEN3hteEg0RWFiYW94dW1VeWhaWDNxM2o1NzhadGh1aDNOWG1nVktmZTkyXC92YW5xVkJaNWN4aE5lYVh1XC9RalhCSDhVUkxTMEtiM2NXNzZwUUhLYTBSWUI4VWR0VUNzaWQ1Ylwva2JcL0h3MnIyOU1samtLQllNOGtKd0toTENHU0VDYmd4Y2FcL2tCRzBmZVlVaDdQa3dYSjd5S2JWTXBKOUZuMGpyS1pEUnhmcHV5djdNNUx6YTVrOVk5dnh0YVREK0J1czFyaWhTd21MQVdVYmxIUkU0cUd0d240RWtPVFVZS2dLeUVEMTlYSXc4QW5xaUY4QVwvRjZEbFFiejRrNUdQWWJ0b2prOHBQVmIwQWVyeENyZE9SdlJPVkRuclBja1dORjN4MTN6b2M2NVhXdGZrZml5cmZ6a0pMdU12Y09VSnNrbVBkM3ZSQT09In0=
-
-#EXTINF:-1 tvg-id="#" tvg-logo="https://i.ibb.co.com/g7WmSwW/pb.png" group-title="[DS] SPORTS EXTRA",Premier Brazil 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNTAxOTMyNzYiLCJyZWZyZXNoX3Rva2VuIjoiY1l6ZWxCWFQ5OXlBZ1VOQlhWRjI0Um1TSGhOQzUxUGpjOGlcL3B6VFB5OG5wWXVTZ2NHYWRSTjdhZzVkaXhFblpJODBVdzN4VERwSVNyZGZ1UHU5NHkzSlNMeFlXT0dtYmYra0l2NXdIUzQ5UmJcL2JhSzZVN2M3eVVpaHZweXZNcCs4THJBWHRcL0YzNGZ0dVNaVEtTWkZKQlFrb01NSkU1S0VnTEF3UDk1aW5WXC9ybDNPUWZsWjZRa052TlFmZnVDMlRNZ1wvRHZrb1VmSlo0QU0zd09nNHhETkhYbzBRc1NCTHhPSXNEWHdDZUZyZ0Z3MGlNTXdETUtUS1Q5bUdhWlNPbG54VFVEN0lvWkVqalk3cnlaUEc5bUlvYmhQbHpwc0FtU3FLenpUWTlmRFwvS3haZXlKa2dNc2dTdkJoMEdSSGMifQ==
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiOTIxNjg0NTAiLCJyZWZyZXNoX3Rva2VuIjoiVjZvNFwvd0pFZk1Dak45SDJpNUNhRDMreGpmNmVpY2MybmVJdE5MXC9oNzVXS1QyaEZIODBuMWplRFlBUHpwZHpjSVZuU3phYmU2dFJpNjhqQUJFZm85Mzc4RTEwek4wZWc5VlJ2M0hYeVNJcDFTNlhLeTFzWGdNVkJqZUxqcjJoYm01QVpHZTFidms3UGJjT0JkYkdiTUU5ZXRXVUdBZVVMQWIrNTVqMjRMSXBISkZPRTBCTXNmaGlWSGgzampXRjdaQmhBTDJaQ3htdWtyYUFTSFBOQVE1U1FVc1FxV05XYjlxQ21UaldLckV3SkpRS05nVFVUaFhaSVlxa0t2cEV0Z3Z2QTc5RTZDbVY5ZmVEUW9BRzBcL3JrSnpueVBVT1hIWlFqMmhtV09HN0QzM0RFalh6cHRqcGtkU29JZks5Mk9KckVTSWMxWnFvUU15MjdtcUZUbVkycUVZblFjcjhqNnRRRDQ3SHV0UnRKMXRBUHoycDJ4b3d1SitIMVJPS2hmc1pFY0p2NVEzOEU2VXJVTSs3TFwvcFhoSE0wcXk2K0lZWm5qNHpyNno2XC9Od0FIemxaSllub3J5Vmh0NTlHbklGQTFyNWFKbGllYmlWXC8rTEVjekFXMFE9PSJ9
-
-#EXTINF:-1 tvg-id="#" tvg-logo="https://i.ibb.co.com/g7WmSwW/pb.png" group-title="[DS] SPORTS EXTRA",Premier Brazil 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMjQzNjA5ODciLCJyZWZyZXNoX3Rva2VuIjoiOHZJSktyYnlTb3hSSkFXWVNDWDlCZVJpc3E0RW1LaHFTbFwvNUdKUEdCelNpSytJZXdKelwvV2I0dmFQczJHbE9zTGIyRUdzbW9cL3VVaXU4YUQxOTVsM3QwMTZHdGhVOXpvVXdtb1pqXC9IYmg3Vm5RTUI0dnFSUDJIdjhYMlFDbTJIbFplSGJYaUFmT3ViM1V6K1pBUlZpNmlrXC82MEF6RHNFcW5mUDA5ZHROdlFTUEdEUVVFTUFKXC9oYkFsQUtvTzloU010T0tPZWtLc29tcnNWT05KMW5raGExME5jTGRuQ0dPQkVTSzFteE80d09ITHhCU0VmcHYrYTFoNnRNeGZxTEhETFl5dTRPMm9hTzhkdTBUSjZVZ2lXazl0NGZGYjVsZjJSdHBsRmQ3OGljbVJSaUdQZlVGd1Y5dXpmaEs1WmMifQ==
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiOTE2MDUzODciLCJyZWZyZXNoX3Rva2VuIjoiNGUyOHB4NlRucmFyZUZnZW8reU9aWFl5bEZMZFJSWWRqK1ZmcSt2dndtc0gzR2ZMbUJEekhtcWI5allNSmdybFNVWUN6a3A1eDBBRWl6YU1DWGxZdzlobWNBSWNDNGtrMkFpZ2VVOTZkXC84NFZoYzBZRU95UzJjSGt2TFwvOG1VcUN6ZzhrcVBBZjgwSHJDejJaMVdHQTRTZ1M2Z0xMcnhISGxodWV2eEsxdjRlTnlOblwvWmY5VUNLM0hQaVhMdGtnbld5ZVRxb3o5K0JaQlRveEFnK1hkUWpna2FybDNmNWlXUW5PNHR1dEc0YXZIcjFKeWdLTzd6R2Y0SGk0OFN4cHduQ1UzXC9lcTFqSzRHWHFFSnIxY2hJMExGdTNqMnJ2TGUwTzkybEtcLzlQRmN2bWZVQjd3TVRsM3FjWDFwVnlqTjU2NTZaRjdRR2RKTVNiWWcrYTlSb0NQNERLZG9VQUExa3lhdWJjaTJ0MFpqXC9iMlpab0dNbkJxSTVkVkJuTUVPXC9zYVhhSUZwYUw1NjdIbnM2dDBGUzRYYm1zams0R21tcVQ4RlRqeHh0dzdodGV0cVwvbGIwZnhHN1BmVnlPODNueENRdU5tV3lTZGlJZ0xxcERSQzEwdz09In0=
-
-#EXTINF:-1 tvg-id="#" tvg-logo="https://i.ibb.co.com/g7WmSwW/pb.png" group-title="[DS] SPORTS EXTRA",Premier Brazil 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNzM1NjQ5MTIiLCJyZWZyZXNoX3Rva2VuIjoiV3luVXJcL0hFREdTRlBqeGg0RmduVE85bzNmSWtEMTArenFBTVdLQjdwSEZFRGtrdU9cL29ySEMrMnNnY3pzOUc0TCtEY2RsdysyWFhLRUt5Tlg3SmZnTWNZbGM2U3draExydEZyUUMwdlF6NmdaWFZcLzlFdm9nT1JHdVFcL1c2TENmWXIrcHltak9UbnJEUUpDMDhNM1oyVTQrNHNIbzZORVJta1hGRWdQbk42XC90SW00dW5GbzRhN1FjM2FnZ1hHZEVZSWRZNU5JTnBuSXk4cGVhM1c5VzUreDhLK3NrVXkxZURGWU5sRGswZ05iNnI1MHB6a3BoeVlLRWNKZjdBSURrd0xib0oxejluWldsbFljcGtMaW93Zkw2RHl5eFwvYzJKNVYyNHoxeHhrMERibTg1cXpKRUk4ZXV6QkhsWmxaV0QifQ==
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMzQ2MTkwNzgiLCJyZWZyZXNoX3Rva2VuIjoiS2tjR3lnS2pkY25MaDFDY0M5Mk14eWdDcFNvQkF4ejljUUlmWUExR2ZzN2RuY085aVZpMjV3RExDVjlMUTNMcFVUNVJHbWh4RXBRXC9EWGpHWnppK3pqMW1DUGdBSHBOcGxtcis3WkdMaU5LeWp1TytJZzY2ZWtWWlU1UldsUStoa2NvaXg4RWtNYzJyS0llVDJMNTJCOXFtc2NKN3pqRWwxak56aE1LdUZyS2N5VzdcL3FBTmpaK2FvSThDOHZZbUVZbUI4anFuOEFxMFJ0eGowcXdxK1R0dlhuZUN6bTJzNG41VzFoNE9aa2owTTVHUXdFclRseThPZ1l2MXJ6dWE0UHhqblFuK2pQcnpmU1M2OUJMempjVERnalwvWU14TG1wNGxhRWdCV3lcL0xUazdTdWxQRzgxSUdPSXhkbTBxbFk1ZnpTY3RaV0dKUnlacUFsbnRhWVlvdFo4K1NWMU1oMnZQYTB2N29EbjkyckhoUldUNnNKNGxvaEttY0RHSXk1eUVkUGt3ekRBeGRTUDgxaUI0d3pOeERDaGpuMHZ4QlwvdUk5RmpTN0F4VXhhNkhLeUU3QjZhUUFxdllqbTUwWjVmQ2xIcEdDNEtTUWFFcUlpSytTUkFFQT09In0=
-
-#EXTINF:-1 tvg-id="#" tvg-logo="https://i.ibb.co.com/g7WmSwW/pb.png" group-title="[DS] SPORTS EXTRA",Premier Brazil 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMTgyNjMwNDciLCJyZWZyZXNoX3Rva2VuIjoiRTJuUjBPUWp4WjVKem00bGpubUE4UHZpeDZvXC9lQVwvbGdSdlFDZ1ZsVFZMcnBrbW5kNTJiV1Z1NnViaHlSN2M1eTZFWUNCNytTOUQ0b0NcL2ZFOFAweHZ2WHdjdGxlUzRoZXcxRVZkcDVYUzRFaDlvNmQ2VDVKMUpTOHNqMFV0VkhkejdXXC9HaDN3OEdXaFh1MTEwanorQkRxblA2YkxZSzhTSFA3a2NqMzNoQXhObmpTR043OENJQTFPRUQzNjUzOTJ2eDFKbVNEamg1ZkhYT1NsbkdNU2tvbDVKUVwvTFpHaFZzV1dCQzcwc05Kd2Yrelo1V1U1c3RoQ0Y1TWVCaVQ3clczVXlPcEJQQ0FDc2NQZW41d2xIYjRDaTVnT3pqbFpPZWVDWEtQaTNnSFQrM1dPVUtTQlZFXC9cL2ErQ3J1TmhBIn0=
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMDg2NTI5NDciLCJyZWZyZXNoX3Rva2VuIjoia3JHdFB0U1wvZmdPc3dRd0lPdkZEdXd1VENiQndKaUdcLzBOZHBBUHF3T202SERFTmlOOUNJcXN6aU55cGpoYnBsZHNFR0prZWlSU0NRR0t3Mks3dnQrVDN0SmxHb3dYNlZpbU0xbWV0ZFd3anpWSGlFVEJjaWZoT0trVldCRmhzVmhsVjQxSDRcL3JKaVhZVkZiT1NhS0VZcDhGd1JtNTJ2QTFuR2oxTjgwYVVpeTBRSGx1N1R5V096YTVWWis1TEdhTVBjc1dDQVAzZ2hGTFJuXC9vaW1yakFVSWlidHVZektCd2xXOVZCMHd1cGNleTNrd1lmTVRCTGVIK1R0cERVaXoyczhnSTFUUkplMmNsdmFYazlRYXByXC8xb1NVQ1VsZlRaVFdnSGNGeExcL3k0eHBXcVJXU1FXM2NmRjYweFpxbFhtUklzYzExcEd0dWZsbytRVjBuKzF1bUFpUmVKanZZVEdDSFM2bEZcL3cxd29xYVNySlJjbFh1QVhZS2RoQVY3eVBqbVZScnZodGFFdlA4NEh3OGd5OFY4UVVFbUZCbFcxaEhEMGErQnJ4WExNUUV4VXpqcVB5SmRGOHBHdDRMR2ZKRGZha3pIcXE4cGlGWGNjZ2ZQVnNBPT0ifQ==
-
-#EXTINF:-1 tvg-id="#" tvg-logo="https://i.ibb.co.com/g7WmSwW/pb.png" group-title="[DS] SPORTS EXTRA",Premier Brazil 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiOTQ3NjMyMTUiLCJyZWZyZXNoX3Rva2VuIjoiZG82Um1WVlBOVzRrTUNRZlwvN1g2MDRGUEdiTExENVN1b1BcL2hqYzlTRnVLalZHS1ByRFNFb1ZtQ2xwTGpYQnQ2TWJyTEJwSW9aVkRnS3JMaUI0dHRGbHZPMnpScHNzVVNZaFVCUFZlcTNDUnptb2ZRRlliS2xyRlFkQ3FKd2NEZXRuUXJZOVlZTG1hWVwvQ0lETVJNSldXbzR2ZDlGSExxME5SZURUdVVSTW5LQmNSXC92WW1vaXI2ZjJ4Nm1sYStpbnlEbkpiSW83U1BwXC9na3h1U0tIY2JpWHo3cEtGZkx4SnpPSGwxZTlxd2hZMENWTk5CeVlmZ2x6UUV1NFlSN0FnaisyT1VwR1VCYjZVSnFkaUpBRm0yZllxRXdESXl5bzZTam9YenRHYkNNUm1XNVhPUHl4RzJkajhLUmo5c3dqTSJ9
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMDM3MjE1ODkiLCJyZWZyZXNoX3Rva2VuIjoiVFNZa0h5MVwvMGVzOEMrSjlmWTZCczN3Z0E5U2UyckY5ZVB3c2M0aytKS1FiUWI5TlFjOWFwUW5PdzRvXC80MGM5NldGRVlETUowTlZJS1ErSXlOYnowQVAwOUlnTm4xS2dNRmJKa2hSaEU4TW9iZ0oxRTRxWEVrelpkNldCUVFtTzV4Q0x0WWxWKzV4S0hQb2EwUTZhd1Y1MTRcL0VIdjlkVDhQcjZrSXZtN3JKVWxTUVl3MUJBR0dBRWhwS1FwOHZ4V3ZYeGpUK1Z2dTQrR1Y4RHBKaEVQM25cL2ViMGIxMUhHNXFFaWd5TnpzZ3FSNmgxU2hPMVRpTnJXcTc5NjJFWjZKTHVrcDdSdzlUd09IV2VTZllZSUYyWkdCNGhzVzdHMVR6bmNiNEhrcDZzeUJNVEpIenZHcGY2STcwTVdLdEw5N0dKZkRFM1ZkV1l6UEN6NTNKTHd2V3lrN0NVNUNBeHlCSWxzdlRxdWVWOXhTQmUxWk9HN1dYOGJNdTlteFR6ZUZFY0NTWE16Z2p1bCtFUWJuVmJITmdDOHJzQzVDME5IRkh1dUpYdTg3ZjMyWjY2cFFLSmpKdm9RTm1ScUNJSmRNeUZzRnBZTmUrSUFQZVFkaUEzXC9qdz09In0=
-
-#EXTINF:-1 tvg-id="#" tvg-logo="https://i.ibb.co.com/g7WmSwW/pb.png" group-title="[DS] SPORTS EXTRA",Premier Brazil 7
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiODAxOTczMjYiLCJyZWZyZXNoX3Rva2VuIjoiVjJEWUhLWkxKUmFIR1wvaE5KOHlRM2tSVUlsZk1XNzdnNnd1R1FwVnc3NFBlSWpxSHdZTW5kV3FPbVltUGpNZGl6cm9lVmRtMFVNRG5JKzdTd1lHbGxRMEEydXpWSnVENkpWcjlZR1wvQzVIdHBQanI3RHRcL0VoUmxFKzVJYlF5NVM5OGIrSUM0aTZCMmRcL3FPWkE0d0JkTk1iZnJXd3JuaXRGaVhGYnZxalwvR3ZpeW54XC82QmtTYnpHd04xNnJVRnBVckFmczZlMllXR2E1dUg5NXJRWThUOVpUdXAxTHROS1BNemhBRFRSQ2RtUythclozcWJab2l4dEU5XC82WTBhcjl6OEFFV2MxRXlyUHV0aGIxbWJacWFOU2I1XC9hRWVURitMazlRYWtjdlVNcWlQSkF1b3RYckVrd2xjbDBUaTV2eiJ9
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiODkzMjA2NTEiLCJyZWZyZXNoX3Rva2VuIjoiUnpzb21VRE84alwvaFwvYmFKTGtqNGZvM1FBOWpjZ21nYWxTWTZ1YnNzdWNaVjZtU28xRklUbkt0Sk0zbjNIS1JFaHh4TlVFT2xXc1RvY01cL1dBQXFNbks1cGJsUjVMSFk1WVZhU2xYZGw1UTlPYURxUnVtNjNmVVVoMVpzTWVwUDNOcGNPVUZ3VTlHM0gzSCtYOUZpZHFUTFREbVNFOUl0c3VZQXArNGxxSGFDWkZoUTg3TTQ0Vk95YzJCaFVBZVRnK01QMUlCcmR0TmhlYVBmVjBPbWI1K2lLeWRVVzMzb1llWVdCQjdET3Nuck4wTGtiTExcL3Z2NkFsR2FDZmNGUytXOE1mRTk1ZHJXeStISG53Yk9YSEdyMGJzTDE5VERTQU5uOUlPVXA1R0RKb2JMNVFNd1NUcTdyOFp5ODE3QjlsOUZxK3NVZGVKdVhGUUVidGlrd2hvd1ozSFJBNmlicUZFeENOTXpDUDBaT2ErNkNhYXhuM1hXbHptbFp1ZXhtZ1RQVHcrSlV5eElSSDlDZEc0WU11bWlMMDZCZG02YVZFa3pvK0dEeUF2UWRycU0yeWc5anZsZElRXC8zdTV5K3hLMVBwREg3SVlDUU0wVXlUeWo1N05QUT09In0=
-
-#EXTINF:-1 tvg-id="#" tvg-logo="https://i.ibb.co.com/g7WmSwW/pb.png" group-title="[DS] SPORTS EXTRA",Premier Brazil 8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMDUxMzQ5NzgiLCJyZWZyZXNoX3Rva2VuIjoiNE9VSGduN3p3ZEtwYlhhZmRsUXRpQUVBTWpZZ3JlV3p4WThUUHRiYTF6RWdyYnVRbEtzUHM0MGtvS3F4RlJmR0dFazZwc3k2RDB0NVhqdVV6MUdTMmJrQ0JyUW9JNnAzRjJkdzhmZmR5SGFYUGNhTzhXaU42emE4UFhiY3JhM2ozTURhdVJKYkJ4VUNhaGNONHpjTW5YQ3JYVk5taWtQY2t5Z05qQUxDaWdDdUNTYVU4aVBxY3hqOFd6MmFvSDVCempxclVUTmgycHZac3ZYU3crT2RsMGVNZmJMdkZCNUNCWktISEdyR2w3TlRvSHdcL014a0lacGo0V2MzR21sd2NVUHp6cHhcL2FpdHp4akNVdmVKR2dGK015QTBWXC9hWDlEZXdqMHI3SmQrOW9DXC8wajJpa2k2SmdOSVZOWjRyNkJYIn0=
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDUxNzI4MzAiLCJyZWZyZXNoX3Rva2VuIjoiSDBcL0FGeFVNSENaSElaODFVM1JiTFwvZDRxVGtGY1dmTGpTTzRTeFwveXFZdVpIU2xmNzAraVRtQ0dXN0t0blVJRDRzUlFiOVBpQkZtMTJqYzRKZTI4M1ZEZ3o2OTkwZWVEOUpQcE1NOFlLOUE2b3pGNWl3emVMZ0hUbERiVUwyVnF5eWlaa0lYVGoyQTlnWE0raUdTXC9rTXNCODV1NzFMajlIOGhsM3ZiOFwvUHRqRDZZU0hrbWNQaHV3eis5V2RqWTNKQ2xjMmtYMk9xcjlsMHJiUXVEQXYraFVCYU5oNG9qSUZZRjlhWnlvYllNempxdURQOExcL1JmUEhGVm5oXC94dFYxR1RqUXpSXC9HOVFYNDB4dU1YSVFFVHNOWE0yZ3hvZkwxMGdseTk2R1daK1dVbVFhK3VhU2c3WWszUlhueDQ4aGR6NlVwd2ZoVTFZTUhSVWZWMitHcVVUMytUMW5Va25Wc0ErWGVcL1g3WURzT1NhRDU1TDl3NG01K0ZidnlqZ3Z5Y0I5MVwvbmFIS1ZsK3cwYXp2U09pM24ySWhCc2RoYnJ1aXQwWkk3M1pxOFN2eSs4eUVDNzlTSmp6RkM4SXg0Z2xZaUJvcjlyMkFQb3FMeXlScE1ZVU5BPT0ifQ==
-
-#EXTINF:-1 tvg-id="Go3 Sport 1" tvg-logo="https://i.ibb.co.com/dB8hnwr/gs1.png" group-title="[DS] SPORTS EXTRA",GO3 Sports 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNTI3MDg2MzEiLCJyZWZyZXNoX3Rva2VuIjoiOGZoK2dXS1U0dUcwbThORE51SzZwTnNGTGEzTnhxT0VwMnpPb2ZoSVp1d2FyOWVzMXFhMk9MK2FSb0pCY3JUYng1aW0reEpDWDZJRWNcL0F4Q1lpUVVpZ3d0T1FxK3o1ZSs0XC9TMWZpcGdHck1aKzFoTGs0NVVcL1IwWlNlcXJVbjB0bDV2dldjYThCc29ualhDS2FGaEZUYkg0ZTlvd09ickIySEFFeW9WcVwvZjJVUlJWYkFmRGlzRHU4cUxVQ3MyTkZrTFg4WVVyc2ZRMGI5STVTSFkzZmQ0RHJ3SDJjZFJZWXdaakZNZm91SjQxOEluaFl6bzByY1R5YmhpK21GT2lValY5WDV4VG1DTXpjaUUrM1paUGZ6Zk5ITkNaS29YN3FjelwvdHFkVlR0MmpORmZ5RTBlUjhxeTdETXFnUXNqQSJ9
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMjE0NzU4NjAiLCJyZWZyZXNoX3Rva2VuIjoiYlpudXhcL3VwMTZxK1BXYmUwa0ZKXC9BNHFUWEJ3MnNmV1lKU0pSZXc3K1FPZ1lDOU5LVW5FdTBqSFhmTWZ3Rzg4bUlyc3pDZEJkSmdSOFk5RzZvMjFTN1Y4a3NuZVNwVjI5NFdVVURCZWtKanZUbUdXaTByRWZxTzk1U3JxUjd0TTBIa2FtZ2hZb1pZRktzZVhZTGNvZ0hwUGRaNm41ZGROVlUzQUZvTXlGSnhoK3NXRGhhenJ2aWFXNmxIS3hSYmtvenpmOFpodVlKTEZ5dFVNZEFGbFd0Y28rNTZmcENTbXlDRkN1MVQwalZxUWt3UTByV3FYV09mSklXN04wM00zcEF4a1lIdGg5VnJIS2RkVkh0Y2ZUOVwvc01FMHFLR3JPYmR4SVwvZG9qQnlFRmpZK01lNkhHbU85UlZpNnZvUnlyZlwvbHFoTmk1dFhNMndTak02QkhFcXhRXC95VWtYRWRzNXlCWWxmbU9hY1p0ekhMWHRKbDNaN1BXQnA1dm1rYmpENTdXalRYZWg1WjZNcFFrYnBHVEV1UT09In0=
-
-#EXTINF:-1 tvg-id="Go3 Sport 1" tvg-logo="https://i.ibb.co.com/w467cM8/gs2.png" group-title="[DS] SPORTS EXTRA",GO3 Sports 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMjg1MDc0MTkiLCJyZWZyZXNoX3Rva2VuIjoiUko2OVJJZWlmMzdcL1o5eFpudTdGWGRaUW5ZZ0M4MXUrTzZKc2xaMEdKcXVKRjc2SG5FYjJzMWpiWmFseUZqUDA3N0dJVVN0SzhabGl4akJwd1wvNWhrbEZrS0Y3V1VER05IREM3OG94Q0hvenhqK3VJNXRVTkhoXC9pSnRCWnYwcGFkME5CMFltUzVqVnpHOCtvdXpZbWFWWVRjK3dvYlpNenFRWjNjcUpTVVJobDVTOFdoaW5QM3FjSjRHVjRXcEc5MmhIbnpaVDNJRzhia2xJZnZsbjRmNnFZSVhvNmFwMHBEOVJxcEhnT1VNSkgwd3NYRW9GNTJiMWV6SWxwNHJTckxMeUdGUlwvTlp0R0tQR1wvZDlUNmM2QUI3NGlLU2lCREk3XC9oYjRcL2VSeVVGaDdyWENcL2U0b1FzdmV1TzVVSk5ZOSJ9
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMDY0ODE3MjMiLCJyZWZyZXNoX3Rva2VuIjoidExwSExHYVpsalwvK3ZIeWhldmwraVNZTE93blFFcGJiOUg0dVhQMDN5eGNkSzV0TzdUS2E0Y3JRTnRZVERjbHU2VmlMVERVTGZ4c3VvQ2xRRkxJWXdaYnZPZVg4UUF1VGZ1Y1VcL2ZuU0VGZDMxUDRxY2hrdTEzRXpBTlpoSzVoQUtnSFowNVwvaTlnUjRvcHRiU2tLV2dsRWZLVjlOazVBeFlGOVJESnB6a2FOUlZ5Z1MwZ0d5VWMxMDNhMEZXNmF2VWo4cnlnNElBNUhxOFptQ3BnYXRodVVOZ25ZaHA3ZXhYQkc2SlJSS1YzM2tQZFN0eTlwZzVNR1BmT09rMVwvZUh5Nmh3RzV1RTQ5OVJqNmg1NHZySmk5QTZQTE1MZERuSXVacjJoUlwvWTBzYjR4VFBjS2tkcjAydFwvcGdNWFZPSU92aU9nQ3ZQV3pcL25vaTFNMFBwY1BHU2taeUlvOVUzSFwvVXlzYWRaMmtaS3drbVV1bCtaTXdHOCtZb1U1dVhzZ3JCMWlreVFKM1U2amFDMThxQlhZWUVnPT0ifQ==
-
-#EXTINF:-1 tvg-id="Go3 Sport 3" tvg-logo="https://i.ibb.co.com/4TzB0YW/gs3.png" group-title="[DS] SPORTS EXTRA",GO3 Sports 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMzYxNTQ3MjkiLCJyZWZyZXNoX3Rva2VuIjoiWkJ5anp1eEhNc1F5QlZmSVNPUXY4WGxYdGd3S2ZjTTJCVjVoMXpxZFplRWp2aWN6Q0RDb0hyeDlLeldsQnZjcVhJMGxiOTdsSGpPMTF4UWIwazJ3MEJaMmZ2RkNDUVlCbmp3Wkg5ZmZIOTBSOE5hYk9VSTdiOVQxcVwvTjR0aEpybXFiaG5lU3czQk5LOGhrTXVvQ3Q5NkFKS1wvXC9SWHFVQ0hXSWkrRkpXamxqeUswQU1PajRIZDZmMmFKU0txTWdCOWhBZ1JyNzB1SWt0SmNSU09pUUJwTld1RElqaG8xM0pwOGNuUGU5cUxHa0JcL3REWVVmNzRNU2JIeDk1ZkJpMWhZWlwveTVYRGRnZ0xpTWxnc1VLc0pvRGFINVh3MXExa1wvaGtjVThYb3BDRW40WkQ1cTVaaHZRQU1NWGhMU003YmQifQ==
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMDMyNzE2ODkiLCJyZWZyZXNoX3Rva2VuIjoiWTlXUGZUbnFkMDZmWjNTNmFncHY3R2dHaE1HMXJQXC9SWUN4S01FV3dcL1lrZzBKbmZqbHp6bmxQVnJcL2lmd0RBY0p6SmI0K0RiVE1ldjdWaUFwcUJqNFRnV2JoSXdmU01NNXNQU1o0OThCblRzTVYrd1NEeFNYaFlsNTdnQlJhbzI2M3VLaVNORXF6Y3hkbFwveHFIbnQrdWVvNGZpYXlLT2twazJqY3Z1SUZTM2xBXC9DbitUbHJNUG12eFwva3phWm5HcHBtZExqQm5JT0Z1ZFk5REpvUlFNTUU4NGVzSFVraXBtTzk2dkNoeW5iYWZPZ3R2NDFOc2RvWXFxQnREQ2lRakRUNktjZmZGK3J4U0pVUis0T1wvWFJUM2o2dlVJV3NvMDFkelJiV1RYYk45MVFCaUk0b0R0Nm9aR0RDUDRFU2tURUdWdTc5bVZFdXZ1d2N0VkdERDFRMlZZRmFqNHpwYTBjc0xNb253VlhkSEt3SFlIU1Z2XC9JSEhDQUl0anVxMDFsaVd1YVRLNDF3RklEWXVcL1JiUmg4Zz09In0=
-
-#EXTINF:-1 group-title="[DS] SPORTS EXTRA" tvg-id=" ch-status="vip" tvg-logo="https://i.ibb.co.com/nLX9QQn/go3open.png",GO3 Sports Open
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMTU2NDkwNzMiLCJyZWZyZXNoX3Rva2VuIjoiTGQyYXhtelRMbFEyVGZ1RHFJMVRcL0RWQmxBMFU5Y1FGXC9zZFBLbE5Fb0drSmlFUW5WYkN1cFBQdEgxb1Y1UUJVTURTVWUrUEFPbVN4VGlveEc4OUhXc0hNWXRrXC81NjF0akZZOGZDUjNSb2JxZlVYVGRKaTFkR2k3d0tud0M4Mno4VUV1RmNGNWZ3Y2g3VzVwTDU4TVJCendURUY3QTMyWVowNmRFaGFqaVVHZ0h1b285cVpqcWZMdVVDUlNtWWRnKzVoZU1Fd1d1dXZkZWhNZzhpa0xEOXJzZkhlejdpdGs3RkloczRkbHprSzFCZ1pBcThiTDNSNlRGcE9CNkRhR2Z0NTVodTJtVTM5MVBLOFpmQkFFZUFNOUNZS0ZzVlYwNXhHaTJhRm5ZR3RxdE42TXlaNFdwbTd4NjdyUWE1ZEYifQ==
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMzk1ODYyMDEiLCJyZWZyZXNoX3Rva2VuIjoiZVRcL1llMk9SWFdnSEJaSEk2NHFuVjZ5ZEluY2RpUlh5cnJ0aERNV3Y1ZW1OOW9nVHVEMjZHRTk5blhBVk1qcjZUekRxXC9TVmdra2R0UUtxNDVYbDVVVzhPYWNINGl2RldFMHozK3dlVjk0WjI3dG9DWjRBZ1JrRmx3ZGMyWVpLVEhOdXo0RDRlMUZPTjBTb0tWU2d2WDU1YThBaEswNzF5VlVHQkhsT1FTQngzS0FhSHFWRTZ0SlI2T1hxSmk1Q2dpSzFSM1ZYUXFDb0FQVGpWQWpmRDJsS3RjZjRsVlNrWnVqWjVCOG5vaGt2MG9zWmljMk1mZ01rWFoyS2NcL0wzbEgyTEwrRVwvMDFBMm9Td1ZKSUtzTTJka1V1OGlXU1VBOWo1eXBFdnpNNGtxVGZzRmd0XC9jQzFmVnV1YlhHS3FqYnRVQ2pKd1Q0aGoxdkYxMVFFbmVsYnBLMGJsNGIweVRITXp2UlpseHJcL2tzPSJ9
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JjLcJL4/alkas1.png" group-title="[DS] SPORTS EXTRA",Alkass 1
-https://free.biz.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiNzQxODkyMzUiLCJyZWZyZXNoX3Rva2VuIjoiT2NuamMwOFhibUxIMkRsYVdLYWdBRlM4YmtLM3FXUUp4cDZvNUxrWHZ0a2I4cjFkNmpYcVVuK3ljVVAzRFFNb1VRK1VSczVzS0VJdkhjMjVnenE4UHc5WHBhcnF5VHFCWWpcL0VCMWJxdlpxTEJFbENHSDNzU3JtMVwvdSsxTXZwQkp6TFNPK3pEVUV2S0VLQmNMUVFldWcwN1hSbzlyY0o3UitDNHlaWE1FRmtnVTVvQnVXeHUxc3hjdXkyNCtqWnQybUlCdWo3eTBzVHRPZ1d6Skd5bHVOOVpYSk1SZG5WdjZjYjlYUlwvUjBSbDY5OExySHp2WjZwbFdBV0l2dHduamhLcHluZzNIeUhuQmhXQ3dEcVpvVko1YU9UOVBYRDRKNnBWaHVURUNOSUgyWERlOGk4aTEzRExFdENQUjJxTFVGb2pmaVJGaEtlU3VEVFpRZWlKUGsrTnJVWFNPUHFVUXNkcDd1ckNDWWUxSkRVMlRXMXk4R3dwRTZxeDA0XC9BUCJ9
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HVm3RTr/alkas2.png" group-title="[DS] SPORTS EXTRA",Alkass 2
-https://free.biz.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiNzUwMTQ5ODIiLCJyZWZyZXNoX3Rva2VuIjoiMmN2RlB0WWRsaDRKRkxBRDMwdzlDMjR2cjh6MFwvTWQwWlZ1VjZEeTZYcDBVSTBMWjhlbnBzUmxFbTRLcldTUlpZeG5cL0p1c0lQOW9FTEw5ZnFIRXRFdVZBWmNob3BcL3VVNUlyeGg5MTdkWkxGM0lpbU43d2JMOWdXSURocTlTUlRkNkwzQ2N3WWpLZXhHK2pkd3Bibk5jSjUxT0VEc1JyY0ZnTGQ1TmJ2blJObUhYOEdkd0NwSGZ3TFdkekVlanBLK1hSSGtIeUtnOURnRlc5UUJqa2hnMG1YWFwvVmVmekR4WTZOa3pKKzQ1cjl6TVIxTU43TWdVSnFDUHJuU1FJWDRMWERkOGNPZEdINkZMWnpXN0YyRGZUaU1KMFY2czNnbUk2a2dQSE10YUw5WWtqbzRwbnh4SWgySkZ4Qm9zdjd0Z0NEMElDcWJxQkYyUWtLdUd3dlNGTDVZNmNwRTlDZTNmOXRQY1IwckMzRVlqbW5nekt5SEhMME5ldTdiXC9odXEifQ==
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Cb4qYj8/alkas3.png" group-title="[DS] SPORTS EXTRA",Alkass 3
-https://free.biz.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiNzYwNDEyMzgiLCJyZWZyZXNoX3Rva2VuIjoiKzVFdjI0K3puNUVsOU5HTjJOOUhXQ1NuMTRPaVVwdk5lVnVSbjA3UkZLZUxNdHFqdjRiVm10dkFZcjFrQlpQTEU5d0hlbWw2eU5rZFk2eWI0MDJCOUpkKzFBTllWaHNZVWo2Y0F4ZExTTlwvMzBmZWs2VVdyMjVOZ055VjhEazQyQ2hZTFVzM3hmRzFETmpsWE9uTUdyY1VSYUJVOFd5eFBDXC84Umhna0ttYVA0RVBaVTBJWWg5Q1Z5YkVRMXFKa0lleUdWYlBGdlE0SEIxdnRcL0owcnlqVVNYb0JWdmZjMDZNRmdBNHdhWFZ5NU1tK09qcFBFZlU2WTVSVlVhR3pidXN5ZVJyQVhiMldXMVBtTWpSOHcxdm52UjBNaVJoT3hcLzZcL1IxOTVHeEpydnJtMXNwaUdLM0ZWQ0U2bDAxMmFyNDZzckdMelVjUFlIQnZMVE5Ga2VJNldXTDY3eExmTlMxeDlmc1RtaldOWlg4eGkxamZQNVFBZGpqbll1aGJyMmMifQ==
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/s3p5shy/alkas4.png" group-title="[DS] SPORTS EXTRA",Alkass 4
-https://free.biz.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiMTYwOTg1MzQiLCJyZWZyZXNoX3Rva2VuIjoiN1FuQTJEVmpCVVM3MTVTVlNkQWczOThOektLU3pBdW51Syt3UFRiVXlZeEJFSHVxODZwOGZnTEdzZjFlc3dZeit6TUVzUUY5WW5UYmFzVkNiNGRibXg4MGNQSENTeHpMcnVVM3ZTZFduTWxqTUZJcTBWalwvUFIzXC9oeWF3YVFpYUN6b2tsTE52VGM2aUpRS1pFR01HVXdNVzg0a0c1QVFcL05lYVhVRUNualRwSkQ0dUJ2czNxdm12dDJLbTBtMlhIaXhna0R4V3dXMm9QcndDVlFsNWM2Y0daTzA1enhuNEdOU0M2ODQ4ek8xaW5rRXhHb09nNnBMMXl3SWlheWpWbnNId2RpVFNrZDhYZDlzTDNkYnVuTmUrZjdrMWhNR1ZqM3Boa3ZJSmhpR1RzSkxQQXREMWUzYWlLd3ZweEY1ZnBTWGNIeHlDV1c5Y2lRV1FjTzZnb0lpcDJBN1ROXC9YaWJKaWVLT1wvZVp0bjAxK2NxdERIaWNTaTBrbkswekVZS2UifQ==
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LNx4LQT/alkas5.png" group-title="[DS] SPORTS EXTRA",Alkass 5
-https://free.biz.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiODEwMjY0NzUiLCJyZWZyZXNoX3Rva2VuIjoidWVYMDl3N1lIdURuaktxbWdkUmt4MDF0TGJHb1RwNEF3Z3k4akFWMndUWlI4UzJlYVhjQTBNajFvVmlrS3JtelBvZlpoUitseEdXVDdOVExESHZIa25cL2x6WmpLNjhnY2I3blVTdU1WRCtKcytwb3k4VkM2V0NwS1N0dnhhOWdVR3RTQ01zR3BIelJjNVdBSUpNU0dFRDFUSDVIN1UzT3IrK3R5UnRFeDZodmF0TmZsXC9BZitvWUpYUW8wNVNDcGdXSE0xcng3WDh3aXE1MExLbnBBQkxHYWFrUHNhakhSWUd6U0pXWmpaUGtsclhnakNyMEw4bUFhK0laZFpDRlwvS0F2OVBQTjBNb3djVTZ5OTdmRnZhWnA0XC81NEltMzdRMm9ORUQ1cDltazRETEI4K2RMcjRLU2tOaENuU3hQK240TTdXS3VKQnFNVTBMcHo1UTlxbmRvTWhPT295ZE5sR0VcL1FkNVwvdmtaVTM3XC9kWVl5R1IwTU9BODJTU2c1c09FTyJ9
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BC2zYG7/alkas6.png" group-title="[DS] SPORTS EXTRA",Alkass 5
-
-#EXTINF:-1 tvg-id="#" tvg-logo="https://i.ibb.co.com/DDyqYrx/eleven.png" group-title="[DS] SPORTS EXTRA",Eleven 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMTg3NjI1MzAiLCJyZWZyZXNoX3Rva2VuIjoicDhmYzJiNTVVbllyNW1uclhDQ1BxcXlaNmMrTE1aTCszZ2ZjSkhEQURiZkxESktxTERKaUFpNzJhZHdweklcL0RFT0xadnJpUzUrV1IyTVpUZzd6VHM0QUkwUHBScUtvQm02NTFGblhtanRDSTIzaFJhV0M3d3BpRkZvbWlEb2gyMTJrR05CZEVMRXpiUWlNVVwvdWZrZm9TZ3Zwa0tYQTlrelwvNHMrYUZXUVpFMlNyNUxuWWNhc21OQ3p6WnUrRVRZZ3k2eHlcL0dkc25kSXpXVFFCaEF3aytIeGNVZTBkU0FSRE1IKzFtRXQ0ZDE2dDdxZnp3YUl4N1wvR3JQa0JZSEh6RjJcL1hFV29yaGZEYkRWcGtGUE1oVUFReDdmd3JnSzdRUVl2MndCZnRsdGxzUGtsUUk5Sm1OZHpVSUxndlFZUlIifQ==
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMTk0NTA2ODIiLCJyZWZyZXNoX3Rva2VuIjoiRGdRMlRWY2xlSWJDTTRlZVhzWmpxczZyXC9kMU5Va21BbUk2RldKNXFKMytxc0ZnTWgrRGFrMGpacHVLY1dhMzFzenhlenFic09Nd0o5a1hcL1RVME11NVhTS0FoQ2c2eWNtdnlidjNScmE5Q0FqM3dHc01abkx1XC9aWjRxdkh5aVc0VFAxM083Z3BVUHR3Ym9SdzZOemhEVHc0QTNEQnQrYWJRY2V6dm5MRFdmYXVzd0Z6WWt6cTdSVzdoOWZBREpsdVErS3N5bnNlNFhFTW15K2twZGxrTUxBcVI1eW4xUjdZSTBVRVA5bm1UQ2RvNDBWU1RzNUtJYXVVS2pUUisrXC9WOHVEdTFvTEl0YmI3amVuNjM1OVphekl6Nyt4dDF3aEdyY1RpWDVZVmdNTzd6azBiZnBBT1pEVlBMZnVBazRKVlE3NlIwNjA2UnNJUmlYa1wvUzNxVkE9PSJ9
-
-#EXTINF:-1 tvg-id="#" tvg-logo="https://i.ibb.co.com/DDyqYrx/eleven.png" group-title="[DS] SPORTS EXTRA",Eleven 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNzA4NDE5NjUiLCJyZWZyZXNoX3Rva2VuIjoiMFpSSkxhQkZUU2NsN1N2T09oMnMrQUpsXC9xZ01SVEZ0cUJveFlvMEhySGxJMnlUXC9tMStUMkVKaU5IRStJK3A2Wngya0RHd2Z6ZEROU1JsSXc3N21ndjYzcEhzSlV1dlk5bHlTSWYzK0FlYzVcL29ZNDc4cm45Nlwvd2N3S094RTRYcDZNb3BKZnFFU2R4RkxHNEhqb1ZkQXhuQThIR0plZnVuUFVDMXFYazZXYWd2YkdwTnRkY1ZGRjRDMER4TlZxa0hYbytxUktYK2hFZnlLTWJHM3U4MllMOEhwMGJOQm14YU5MYno4V3ZsaXVWWlVIRUpqdTZ0VkJjQXRmWFprV2x3MEJMT05jNzBNTmY4UklNK3R5Tm9RbmpYSzIzZmZhSU45SXRZbGhYZlhPQ1EwbkdTckp0MCttaWRLanJtSVczIn0=
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMjQ3OTM2ODUiLCJyZWZyZXNoX3Rva2VuIjoicXQ1N0tPTzd1N0I2MW4zVmJFYW1VT0xrUG5Yb0FCXC9nTzF5ZExlNWI0WVZVQUtCZnpXVjF6ZlNxd3pPQ2Q2VW9lbFBcL012S0hvZzlXWDhnXC9na1hyQVNjVXk3UU4xOE1FOFBvbWJoMjZOYmc3K25pbDB1RXFtNnZ5endsRURPYUlVcVJyZUQwV3BNVWlUMmR3eG1wcEMyTkp2dkc3QkNUcmFHVVVmN1ZQSTNcL1BQTkhUMk8yaHkyaHIwbkpxWnh1VXE1c2VQRDJpWWlQR1A3Mm1NZ2JSYlBXbkhBbWJhME1lWlhiVnNFMlh6ZWEzMk15V3hPOWxPYnQ2N2g1S00yeUM2ZDROWVp0UDdiZDkyNGNMSDhWODlGZVloSlRIRFBxd1d5RDFNWTVGMmpDZXZvQUtXK2MydHpGK29hQk5SQUJ5bUtpbUF6c2xlUDVkR1U3bEJQeUU0dz09In0=
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DDyqYrx/eleven.png" group-title="[DS] SPORTS EXTRA",Eleven 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMjM1NDkwODciLCJyZWZyZXNoX3Rva2VuIjoiVGtsSnZXc2JUeFRSMFV3M1QrYzV0dXY3N1llUHQwdnAxNUpueHFwRWNNckQ0NmFsQVdDaWs3SGZVeEU5RGZpOFlRZzFXWCs2RDY0a1BEU25yRTRsYjdxMndoV204VGdtOFhiOVlzdVVxK2V6NWRMNWxIM1lPNHlxRUh5Q28wRWhTalplYXQ3dlFpbW56VjNuQVp4K0lNTGxTK3JyTTV5UnJYMUNNK1ZTY1Y3WG5SWERyUDQzckxWc1ltR29oUU03Uzh5YjRtWU1CQzdZMVVpWHYwcGFJY01SQWs4QVUwcVQ3cyt0akNJUVFGK0Rlc2t6SDlhZENYY0p1ZDNnUzFNQ3ZvMDk0QmhtMUpGOUxtV2U0TFpMZ0Rtc3M3ZEttaUMwSE1QMitVSXl6MlwvcDFucWJsRm4ybm83Zk94cFhMbEowIn0=
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDkxODY3MjAiLCJyZWZyZXNoX3Rva2VuIjoiWFZpVVNiZytMdERaTzREZEwycUYxMGpcL1NOMG5GVjl6NkNNbVwvSXF2XC82MUVKZUdwWUNOVkNHajQxRjdXaE5MamQrMFlSVVoxenFDN2UzaXVhNjM1dEt4REU5N2R1WlFWZ1B1aUQycmpjUFwvM1wvbFZ2dmtnb3pQWDZvaGEwRHZoNzJ0Z3RGVW9ldVJUdkZUNkRST0xRY1FCempSZ0FoZGlYUkpcL2xlMXptOE5BM21sckkzRnlqYXBcL3V0V0llUTF3bDAzWnJkemxQWEN5WHlDZjd0UkkydXB6NlZmNm9NSHlTTXNEVkFNYlVIMEpuTlRla0xqZ3p6dE90dUlUakt1TFZ3bFwvaUw0blRqb25cL25JSHZyZHVIZlA4QjhrSlpScmZDNktEM091OGd4VFNkTVZlZkVkcTkwK2pzeHFOZXgwQzl5VDV2RTJtN25iQjcyUDEwTnVjMzBRPT0ifQ==
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DDyqYrx/eleven.png" group-title="[DS] SPORTS EXTRA" ,Eleven 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNzkxMzIwNTgiLCJyZWZyZXNoX3Rva2VuIjoiUDdOc1RFTmhSdERCT05rNHRsdVpnTFVDdkRNSExLTEVPdlpQWjBcL1c1QmF4UHFBamRPN2JLM2lXXC9jQmE5bzhOQzFDZU5cL1JWeElnZ1ljWFdtVjBJYnVYQk1GZ3FsUGdGYXQzZnVzU1ZEbkgwY3gxcWQ2RHdlYUhSdDZSbVRwWXh5UHRIXC80NUNZSlJONm1CRWd6TXZIQ1dHWVVcL00wcTJJMEM2XC9Ba2dmaUxEVERBTFJpNnZscEw0UXFvMlc0WUdPSUR5TndOWXhxMVpHdmg4NUhaMTJWNzhkTjY3bFwvSkxkR21LTlwvcGhsNlN0cEw3bjQrQVhDSEFjSkpRcTZGSzdvenBlcE1GWFFlSnJYTzRnZzlxMmhrdkRkaGFWQjhoR0FDdlJ2Z0h0SEFMM1ljaDJHbGtDcHo0ZFVOTHVIVUNndSJ9
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMDI4OTY1NzQiLCJyZWZyZXNoX3Rva2VuIjoidzE3VDF4TDE5Q2t5QlpYRlI0T3Q5TlczajRHNnVMMEJpcU5JMWZ2VWZlbW1sczVFZFJPdm1qaHhRdjVEYmVZQW9VNXN6Z0pWNStcL1VNN0pTaXVzZFJPMEh6Nkozb1wvckRLTmZndGdYRmMwMmxveU1uQ1VaZG56S0hRaDFOTnNRNm9FMWNZT2NmdmZydzZYTzYrYXM2YjBqTkJ4dTM5Z3R0clE2TlFITUhIZTZyR3NKZ3NMNVh0cTlqbjZBbFo4TmliU1wvS0FHV3RFZ1hrcWJnZ0lydnBaZXNSTDRCMjB5VFUwY1BqU2Y3d1IweXhBZ1hDZHJWMHhzR28yWlBOXC9rTldZYWEwS2dGWlBzMG16c3IybzgyTzBlODk0aGxFODR0VXNsZEtxbFhoQjFHdHNuYUkyMENuNUZZWUpra0xpZ1ArNW9WYkZSdFgydTBDOWVXdjF0dTd1dz09In0=
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DDyqYrx/eleven.png" group-title="[DS] SPORTS EXTRA",Eleven 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNTY5MTA4NDIiLCJyZWZyZXNoX3Rva2VuIjoia1RLNkpwbGN3XC81dkR4UHNPNHVTNHB0XC9RUHE4blBLTlwvdTFWZ0h2cWp5MTRMd2xqUHVKN0lJbUFWOTBcL2NCWnBrelwvbms2T2szSlpFazAxXC9sTGUzUzZwZ2V3WE56YVo2YWFOUzFcL3NoaWorSW9pUldqdFZOdGhxUFloeEJFbnZYWGpjd1dYOUxOQmw0UGVreEQ3WHNxbzlcLytSXC90bmZRSjlwQzJOU3Y0bVdKRTNiMWNITWVCXC9EOVFXZ1Q1ZHpadDhcL3F4ZVJCdVprV2h6U3pVNTdiQzF6XC9Jdzd0czFXbE04S3NEa3Z4N3V5MHJQaEJScmtLVDlKZWlVSzlOaW5sSGdFcndFaVQ2TnRuTzBqSnVQc2tmTDJxM21nRFo4bVQwTFk0T05mMWVNRVBSaVF5MXI5dXlSazlxTjlpbWwxVWgifQ==
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNTI4NDYwOTEiLCJyZWZyZXNoX3Rva2VuIjoiR2JvSExcL3JaYmdTeWZGN0JwWnBNOFg2Z3U2YlV5UkxCdUtibVdsU3RPRlNoZElFOTNTUWNFcWM4MXpscEE0czNHZGpGN0dmOUZLRUpsaHdzSmpnWVpvcTFtQWdcL3ZCa2hWOEZ1a2pZcFBEZHNka0JRVWdlaERqc1Q0V0JHekZhcHFXcFhJQW5KRlU2NFhSQzJWd0JjaW5VMFBoUll0Y1VSekREQkx5cGFGTCtBYVZrUzRnV1c4WUk1VlVjY2ZPK0ZBOHBscnpQd0EyTnBiOHdJaEtPQ21NclJybmxDRlNZazBnY3B5ZWNjQVFtcHN1WnNGMlA4TzFuaUtxK2ZydkZ3OHdyQk5SSWhiZkp6STdYQWYralVLM3BBUUpXXC85dWFsNWdqcWZ4Q2VQbDNHM3Z4RHY4TWdLOVJBODlTQjV4Nkg2Z01yWmt5U0VHUGFaV1ZNMW80ZEtBPT0ifQ==
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DDyqYrx/eleven.png" group-title="[DS] SPORTS EXTRA",Eleven 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiODA0MzYyOTEiLCJyZWZyZXNoX3Rva2VuIjoiMWxLZGdRWmJ3UnJ1R0orejVJS1M2NnZpb2pkRVVaTTJTV3FzTXBsdzZ5XC9KelFQeE44SENuS09nblNxMU02a3ZvUkFxeXZ0MWN2c3NuZTFjRG1UR01YYnlpTmdBU1dTSXV2TW1yWmE2RmdxTkFpeVk2WjdBN0JIUnloclwvbjNTVUpVcFwvcW1hcTBSWHFPN285WjM4NUh6YlRYa0RnY0x6SjJcL2JuRWgxTHZkakZNY3Z6QUFyYVlqRUE0Q2JkNlFOOG5VOHI0RzkxNTJLcjRwc0lHMk9XMU0yUElEU3dBT1hRVXExRFJmNDBJRXBXRmhnZ1V1Vnh5WEM2bDZZRzV4TDQzdlVNbndjeW03bGZUVDAyNE0xWTJ6UUFhaExiK1VGN3FuenZHT05PaHhDYkwzTit6NFR6SVRjbEJabmtINXhiIn0=
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjA5NDgyMTUiLCJyZWZyZXNoX3Rva2VuIjoieG5wb2xHVVcrR0xaWnZ4eGY1Z1A1MVdtRU94WDRhT3kyOG9tcG1zNXNVdDBuVm5nSGw5c0x5NURMajRINTVNcEF2aDUyemFsemZIREM0Y1gwU1U3Um1TU0U4Y2tvUGcxZ2R5MmZnQTdNR1wvXC81SHhCOFliU3hYbDFhOXRUa0tHMGRqXC9JUlRjdFwvYlVuZkFSZkhCYVkxWW9CdTlncWI3cmRWSFpXc1RQXC9vZVpEN2tCTURRRUZhckxPaXNTcHhqaW1KdmllNkJRdEJ4aVFQWFRaUjVDQnZCVkdzekttVmJjVVdYc1J4M1BLQ21FV0FjellyOThGYVgwOG5UTHlVMW9RZzJUb0lpVkt2cGJTZTRNRlN0TnVvVzlHT3JJS2pVck0ycUxVdnVDQllxS0xUZ096OUJqVTFGWGI4UU03XC8xaVBtZGUzRHhIaVZoTEc3NkczWDJrZnpBPT0ifQ==
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2YrHXp7/fspre.png" ch-status="vip" group-title="[DS] SPORTS EXTRA",Fox Sports Premium
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiODkyNzYwMTQiLCJyZWZyZXNoX3Rva2VuIjoidjluTjJvMlhvWVdqaG9kclhQQUtxWWs3cTgwYldGM1NuVWpTbVdTaHVPN2xJbWNpYWVmZ2xFZmtGYVwvRnYyVW1HSTdtXC9reVBWTTI1VitcL3A3UjJoZFQ2bXEwR01sOWxhOU9XT2dwXC9MUGhSdThcLzhzMTJuNjk3VjlaQ1RWWnExeTlaTHhvcGV3NDNqSWRFV1dpaGxNUDhOS3U4WVM4VndZckhPS3poSDdDXC9OVHphQjB6RUZYZWdlMUIwSFZBK2ladE1cL0tNOUZaUHlWR0dLNFwvZnNxc1BYOWZZTVRTQkk4WjhqYlJTaXpla25ScEk5V1J4bmxVeWpLR2R4VER4XC9wV1VReDkzaHpPTTRJNHJ6MWdqMFYxOEZDd01Pc1FVSHhITlwvZlFVbkxGU2JVRE1YeTZkV3ROV0diZ1NLN3ZOalhoIn0=
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDIzNjk4NTciLCJyZWZyZXNoX3Rva2VuIjoib2FwUDhkd2JOKzEzY21hWDhlWURIVk1GMG1EUFhFODc2RmUxVmUwUk11SkswaFwvdFJCQ3BLTXNaZ3BQXC92U3NuU0pTak1nQjcyUTl6OEpWMDFYM1BtYjBOWW5LQUhDbjRCUGUzZWYzWVMzeDVCOUJLaFVHbnFLUDdqTVh0dEtTOTlrS3RvWFYraE9maWF1RFdVQkpCTlRBZGtMYmVrajM0ZEx4YWpBR0UyVUZlWUxlNktoM1dzSDZrbm5XVVpTVGhWK3daZEN5b2ZjK3lQRXVXbzlRN2lcLzVVOHB1SU1waXBcL1Rya2dMbVZ3M0RFT2hXXC9UYlVHYmFDajZTZ1wvXC9tbENcL3E4TTZRdTFBXC9hXC9cL1wvdVN5b2Y3Y0JvYU8zWmhWR253UWJcL2ZRdUZNMU5KT29BakdsWG4ybjRPTklQSFZxS21VVDNZZ2NaXC95b1hCOVFvODVEazVrZlBlREp6SWREdUN6YVV2dnhWd0ExYTZMNmlmSDlEN0RhWVNIUE9nc1NUUGJ5MFl2R2VKN0pEQzdhOWNxS1VERkJoUmI2MVl2QUY1TnRFYVJtYmQzUmduUHJxVlFZZHNiOWFDejhHZ2JwSlc1ZHdYMEtUaEdSelpreXZsaFBQbVBEUT09In0=
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1nsj2F4/fs1.png" ch-status="vip" group-title="[DS] SPORTS EXTRA",Fox Sports 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNjEyNzU0ODkiLCJyZWZyZXNoX3Rva2VuIjoiV2ZcL0NlcjR4bGpOSWlZSFNBblVjbjk3ckt3TkVmd3NDb3dBVWtuZFdUanhFNVlOY29MaDZYZUJkRzVBZngyMWZCQkJwYStVQXprejdSaHJVYXZscUdSTXZHcTJjbmRlRTJjUSswRWdvQmVTb0Y3K1FsV29BWCtSbHYwdTVpZUw0Q1ZBWUlWS25ZZTVmTEh1RDkyekRQZHpIamFrZHF3Rzc5azY1WXVUQ21lY3F6d2RSbmh4Q3hQN3ZoTCtlRG00aU1KTGZCSmp5RmkydmxIeGpKTUQyUXhveUpqUXJPRGY4MVN0YXpvM0pRSDFFUHRNTlhxd2NlUnNjd0g3eUpqRGUyc2NWMXIxUDRcL2U1dUFZa0l1MG5Zd01jRzM0ZkdPMmJ2K0hicnJMNUJBXC92Nm16M3FlXC9XZlc2d2xtT2xwSVdXIn0=
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMzg0MDI3OTYiLCJyZWZyZXNoX3Rva2VuIjoiVnFHUDNhdkJHVWVGaVBESVdiaVdrcWJ3bGZlY3lpcGh0dzVoM0t3bCttTUNGVUh0c2FDUnBVN3l2NE5pb3d3ZVd1b3ZPb2MwQ3NVNTJ6ZmRlVkJlZWdIc00rZldZVk1KNHUreXZvM3VwbTFmUU11VmI2ekhmUjg2c0M2T1hKOTZLZGZRUHBGU1RBUVEwYlRUaU1lNksyc3VWTEVvQzFrU2NJWHJuMTNHTjYrQm1VRUxBXC9FN2RSdndlRkc0VzlneVl6ekZCZXpDTWhLXC9YSFpNWjRBU3lcL3FcL21UYnRUc2R3eVZBTnEyQVZIRWh2a3J5VlAwcHVRMmo5NVNhdTRZZWhyV1NIN2xRZ1NmOTFGRTJyRkNrYjFqMDNQaks2TWk4bFwvbGZtVHlleEdhOUZLZjNCVndsZExXOXpIdG1kRVdtSjgzYVkwS3RSS2FwbmdcL2R2dXhJK043UllVQVpHdklBSm53VktsZURzTUdsOXB3TmpRUjNJb3ZZYWdyTFhsY0Z6MmpOWlY3djNXTmQ3cEFCQlRvb2k0V3dEWDQ2UzVvQ3J4NWVBK1RKWkJOOU4wRk8zVW0yMXl3a05NTDVMSFgxUmZYU1FGdlROemtjQ1wvWWhpMlRDSzV3PT0ifQ==
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h9QZKQd/fs2.png" ch-status="vip" group-title="[DS] SPORTS EXTRA",Fox Sports 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNzg0MTIwNjUiLCJyZWZyZXNoX3Rva2VuIjoiMU90XC9MVnZDSitraUFOWjFrM3pPWHNEUlhZYmVud3hIQndDcCtqeDRrUXlzTmU0aXNJMm8zM2x0bWQzMGc4K24ySWF2Y1RSR2I2VjRhdVhhVCtRcjRFcmFuZ3dKXC9FZHFpdTBRclZweWRJbko2bmtDaHlnb2s3c2I4OG1KWVlQcUNlSXpsSVwvRDN0dXpReEd4N0ZSMlRHQ0FzM1Q3UUdDRkNnMExDcjFxd0xrVzRpSTlVajQ5cm0zZVJUVm9EbGwzS1ErbURRdm1GXC9lbGw1S2w3anFOMWlsZHIraStmUEdHWHhmYVE2UVJZSkR3ZkJTc0VBbG1vd2wyN1VZaEw0VTdRQWlEU09BT0Z6bmFMN2FzeE5wekx5SEErSzZXRVBLYnRzTnhVZWdcL04wSyt0bVBQdnRreVA0V092VG9Ra2hLNiJ9
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMDcyNjg0MzkiLCJyZWZyZXNoX3Rva2VuIjoiMnB2XC9PS0FqWEZlN2xqamViK3o4RU9CMzMrK1lQNm15Mit3dUQ4VE0zUm9kRDVHZXd0TVV1dmk3OTZjOUR0Skh6bVJIK28wOWRqdUIyVEdUZmJ4d1NwSjdcL0ZKcE1sV3AydmlhWjVZVGpjMWdzMitVb2JjVENxSldRaTc2b08wdmlDb0I1Z28wVlljYXhVR2tpRW83U2R4UzIzZDlwRFVhYSs0SGpsNXk1aW5RblRoT2dJTFNiOVwvNTN0K0FJSWV2NXFRdVJtWkZha2E4M2l0NnFxZE9neGhZMWs5UTdEcDBiZE1SRTQ2NnVqMjZGc1FzekF3YlNnMUQxXC9BVnZTS3ArdVwveUdEQmpSdHE2ckU2Z0lqeVJScTRIUlYwbDFRSk9UUHdxQ3dGZUJ3eFltajFpSDBpVXNqeWxwK01ESjBvWG15MDYrbkpHYkFrMFhIbngwTU10cXYrd3dOalwvcktEMjA1UzhoMWF6XC9aK2FFQ2cxNXZZemtNM3BaelE4cTQzYUhQbmdXakR1UnZLdDV3OTM4VWJ3S2sxaXZzZHI4NnVpT24zNUI2azgwXC9Vd0pGYVhzOEFDc1RQcVI1MCtKRCszaTBKTURrbDFFeEg5Y0dhUXIxQlVcL1E9PSJ9
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PCMpTTp/fs3.png" ch-status="vip" group-title="[DS] SPORTS EXTRA",Fox Sports 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMDU4NzIzNDEiLCJyZWZyZXNoX3Rva2VuIjoiUFhBaXMyNWQycExZQ3BDeHpsN2RkTFBCbjBBNUE5VXB3NGt0eXFkXC9mNjN1OUowMFBiemZ2YWJYODRPSDcxWDZxR0VRRU41RVFkSFBwZzBNbms5WU9kRUU1cjBmOFZcL3dIbys5QmNKTzNwM0R4K2JvVVorbEhoN0VLN3ZYVUFWTXAyYTZjaVFFY3Izb0F3XC9nOG5CN0lvT2RcL29xVG1DV2hVUDhNeDVuUkFSb0FPYkduenYzREdtK0JoK0ozR2ZjRUU3YjZ5elwva09KTjFNRWlpSW1xV1VHNUFHdkt1QlZyTXhVVWI4cWxWcmxhaUx6cWl2SlwveHBvRmViQ2xrME1ZbitWc0R3MmVFUGlNZ1NnNm1MQTRXWWRJQnpDTm5VSFpDdVVBTlwvdllGK0srUUVMaUtmaUdGV1piYkNsVDJuUlpkIn0=
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDI4MTc1NjMiLCJyZWZyZXNoX3Rva2VuIjoicTZpWWw2SStsbG1vQ1RQY3VrbEFZRGdnZjZ3Qk0wUUw0YUpRR1ZlQUlabTAyMWJRRGxFQ3c2alYrTGtJQ1NPb0pOQUg1UVwvbW9oUnNmVWI1d0hjMW9WRjY4QkMwcEoyT25RQW4rYnRtbnEyTkZ1eXIzbkJmU0hYRE1DNnZnWnZJVVVcL0JsU0hFeWNpUkhTbVZtZmJwSUM1OUdScnVZR2hQMU10SnRcL1pGOFZxY2VqcDRcL05rVmtEYkhldE9XQnhWWWhpXC9XU20rUWNFeHMzM2FKMjIrSU4zXC81dkFIbTRzK20yT3JXWWlTNGtWV0RzTDJcL1VmUlh0QnJQdFBlZzBublVCclVZRVUwQ0NHdUhWME96YlJFRUl5WEpQUlwvTVJacm1GNU5HWURiSkZmbng3TjdUYitGQmlRMDFJRFV3TjFPQWFcL1JtdWR0OFE2eVRiZVIyYUJkdzU3RFF6TDhoSWhEUlwvRDUreE5Dd0l4VXM1UXg2OEhPU1RwOVo3TTN1cEFCOUdLRHUwOW9OTFNYNnpsSWoyWWVyZHdnSDVubVgxYWpiYzN4UUFHRkVsKzB0bjQ4SzNZMlBVZytzZDJONHhVaFpMRThzZml1cUFpdlpob2RuWHhIcU93PT0ifQ==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/pdZSHB4/vspre.png" ch-status="vip" group-title="[DS] SPORTS EXTRA",V Sport Premium
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNzg5NjAzMTQiLCJyZWZyZXNoX3Rva2VuIjoiYmtvanJEWjdKWDg4NXdDa1RCM3VnZkRneU04V0xwVEhpckI1ZGNRTWJsdTRIcExYYXRKU2doTjdpMWhBc2M0UldcL2NOK2hDUW1DcXZwQ0FcL0Q2M3RIY1wvQ2hoV2E4ckY1UW9XZG15R1lvSWU4eTEwN3EwMHRSdGVOXC9MXC95NVY2bmhwUVZzU1RERGtvdkMxbDlnaFhtOXJ4SUNvajd3Tlp1NDFTc3V5ZkxFZzg5aHJTZzVIamkrK3FPZWpJQVNIVUtOeGt3ZG9cL3lOViswcnJJU2xDRXhCVytuYlQyQnZKM0hxeUpVXC9VK3dzTXZYalR2WmtQRXBRb1h0clV5Z0VLc1ltK1J1ejdNSGQxaE4wRTFTeFFKSkJaaUxvNGtpem5rMWExeVpDS1E2MEZOZlg1VDE4c01uRHNpcU1ZMVJwTjR3In0=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/dWHMptG/fsfoot.png" ch-status="vip" group-title="[DS] SPORTS EXTRA",V Sport Football
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiOTEwNzYyNTgiLCJyZWZyZXNoX3Rva2VuIjoiUk1yNVVlQ3N6N09zNkF2UXNpa2NWTzA4STNoMXJcL040S3RUT3JNMzArQkxaT1p2aG1CUllpc0NKTzFJUEsrZm1wUkJnbEJWaFdXUnFXeVZyUVFVS0xwTFwvbmVSVk5vclZQbUx0N29OSG9cL0dWNFlXUStYZ3dDdW9qMnE5YVAwR3prTFI4bVNvQnM2emgxVklFQ1lFUlNuQ3ZpR2pMU2NTTVhKbUxBU1VUdmJJUjBPVHVHRStROTY4QjkrdTVLMHVacnlMTjRTcVQxdnNMM0FUUk02S05zNEZ3YXJ5bHZyVWRRdHFyWUJCeTFtMDdmZVwvRk9FYlZUcG5PVFFLR3lFcUM0bTlJWU5aWUNObCtJWVhUT1o3aE00bjBDbG9VaVZ5YkxOQ1ByaHg5aWgrZ1hkd09CYnBCdldcL3pzajZTcVFteiJ9
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/gRpRQky/vs1.png" ch-status="vip" group-title="[DS] SPORTS EXTRA",V Sport 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiOTIwNDgzNzYiLCJyZWZyZXNoX3Rva2VuIjoiXC85RHUrREtQMUVTQmFLQm5peE1OUVRwSzZKRmloVFRYeVplaFBzeUFVRHNcL05FdVVSME00NzY5WTJnYmpMdTFIeG8rUWdZbnAwbEFLbWxIZjhXNnlFSmk0Y1RDbG5SZkZObERjb3dZZzlIeWFpY0pqRlwvUDdPdzhYandzSnJOdDlPckVGbHhuemd4TzBwN3N4RmYzdWxIYk9YRldRRlBIbWxVa3lJUXBTRXdrbGd6TCsxMVduUEd0bVNaM0pSeHU3WjhWdmtKM1RGVVk4bmQxQ0owY2ZcLzJwUVlNNnRLelhiR2lFaFVGUHdVeWFNM2VpelVxM3cwUm9YdWQ2V2FwR3BxSHlMNzFsQkpvR3hcL2lRWHROS001Sk0xSElOckcydkoyUk05ektcL1RXSTdzVHlGRm41clZyNUZ0Q0tYSnBmTmYifQ==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/6mhKXmT/vsult.png" ch-status="vip" group-title="[DS] SPORTS EXTRA",V Sport Ultra 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMTg3Mjk1MDMiLCJyZWZyZXNoX3Rva2VuIjoibkxuNGVpSHF6bXRJVnd2XC9EQ0JYcHJ4Z1NFK2x3cFhtWjNzb1c4aHR0eUpKQkkwTVppWWNqWkM0QThQMEJyTjBQMWptUHNqTERKSDdEVTNJRGZaTFlIdGRSQmhYRmhvaEM2ZWpjMG1HbEZUam9ZTDRyYUp2WW9seFB6bU9INlNYMEFZVWNIZHR4NzdXK0JJMzY1YUIyd3pIZHlUTzY3VEF2WXFOdHAzd0Q2RVVPUkYwTk5PVGRPUE5pTmp1YmV0U2xmK1V6Y2VcLzRLeW1ZdHRobzFHN0J2SnMrRWxGK1ZYSGhDMXZ5QnJcLzNhdWVNRzJvcTFBSVFwNkp0MnRBRG5wUkllRUVmRnRNMWptT254K3g2UzVqYjFpYXhDR2pJQVRqZ3VJYXBPUFNhVWRwaUk3QjVUUzBIWlwvR0wxTm1BaTZuIn0=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/QPcWZP1/vsex.png" ch-status="vip" group-title="[DS] SPORTS EXTRA",V Sport Extra
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNzgwMjU0OTEiLCJyZWZyZXNoX3Rva2VuIjoiYnZJK0M2U2xMSVZiaWMxcXpQYVVhZEtHT1lqM210WGxsWjdvbVRJK0l6a2grVTMrdEdmaldEMFZzcmRKa2ZueXpXWWEzcW9LeXZkMjNvWjNtc1ZHZ0I1bFErRzcySkRrUnBCRkdQeSt1aVd5Y2I3Q2tGYzBINU5wcGkrSmZWTVU4OVwvMlp0NlJQKzNidHJBRUVFWFA2UGgrU1oxcGgrcUZZWFRTQ0FZbjEzTXU2N2NpaVRiYUZRZHFHWCtpQm9pRmx6T0lSNVpjVmJoT0crOW9LTTJjSWxYUTlMOEhFK1hnZFwvUUQ4bVlEWmFGWFJDSlwvMXY5SGhlMGhWYUU5bWdkQ093NnJIRURONXBsV0NQcllWSTBWMDZ0T09RYTB0SDQzXC9sWlFpNUFtT1dZNmpteFBiUlJLS3VWSnppNVRUUHIzIn0=
-
-#EXTINF:-1 ch-status="vip" group-title="[DS] SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/GdLxDPn/ziggosp.png",Ziggo Sport 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNDI4OTY1MTAiLCJyZWZyZXNoX3Rva2VuIjoic0VcLzBMdlZvYjNLMWUwUEIyc2tjU01PaitOaUwxTndMN1VuQ2lsbHlSMUV2d1Z0S1M1RzZMVEk5Z2dlK0VYb09YbUNUdW0zTWU1V25WejJvZWVjR0RtSmNZMERGaDdWTU1xRVhBa1VOSnBNM3Fma3c0ZE54elo3ZHFBZmhkaklcL213ckdoZkVkZ0dEd2ZaeVVWTXZzUU1lbVJrUHlFdDBIVDgyTEVwSzkzT2pwQnVHT3JOUEdCMk5HZWhwTUY1YkZpN29jSE94bGpTVGhzUE5LUjRCUFwvM2tVVFljUHJ5Q1B3TXpcL0lFbkw1Zk4wbWt3SVQrc045Q2crWkEyeDY4cVluVnRtckxPVzN2ZUVWdW9BaTRKb2I5TzhmUzJyeGxRZ1VJM2pBMUR6ZU56Z0RKdXl5SU90RDYxMjhyQkVNN0t6In0=
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiODk2MDcxNTMiLCJyZWZyZXNoX3Rva2VuIjoiM0J6bXJqUTZTNUhnR00zdnRXcmRHRG5kSWVkQ3E2ZGFIWUtUdUlJV21tVFk5bTFoUkZzbFJQcGdNd0NaN2VBTXV4WmpQQUdYeDFTTWNaZGJMdGN4anFTTGE0RUtwOGhIY2RyckgxcE1OaEt2R1UzWkhHRyt1eFJvMnBxZEp3VnpBM0Mrb1lvcTM3SWFqS2Jnb2dReTlmWnpNOXhvMXpLTGFuV3lhbWJ5WVFCZ0xITEd5ekpJR0RqcW1WcE80c1BnXC81WEdONENmQ3pudXErVElOS25PQk9JRW9CUFR3a29VcmxnQ1wvWjYwN0crYXNUa0dtWThUUFZ6MmxHWG9cL1o3UkoyMVBsTExYa2o5VSt2Zjlaczd0UW1cL2ZBdnd6WVNiaHZZTU0rd3dURzNwUXpUVjBIUXNMY1BSRTdLSngxUTd0MmJBUUFGSlhYTm5jVWNjRXBJTFF5ZHE0cng4dWtHNFwvZ1E4RmZMK0g5c0Flc2Z6aTdzQVV5VERlU09OS0diNFg5RkJIaXdQSXRoakRmVmhUQnNiK1I1NEptZ2RYbWFOYUZUeGt3ZkRaQU1tV2F6czlSVEEyV1NMSmhiMUczY0Qwd1dzUndnVVZcL1dGYUhielRKNjhRd2xXUHZSbEx2NW1FeWZVRkd6dlB2XC9LS1dYc3RrK0RcL1BrdGVGSEJxUWZ4SUVUNDZpTHBIRlZUN3pRN0EzdlN3UjZ1eGN1M3RsS09KYXpadDBJUmVrMlU9In0=
-
-#EXTINF:-1 ch-status="vip" group-title="[DS] SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/GdLxDPn/ziggosp.png",Ziggo Sport 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNDkwMjU4NzMiLCJyZWZyZXNoX3Rva2VuIjoiYXhDd0c3MWZybTRcL0NiTzJnNkY2RTFINm5yM21OWitBblE5VnpmYThtVXNxaU5sSDc2d1c0KzNVYnFuYlVCdnZhT2l1bHkwTEdJM0l6eUxDOFV6VlFucXdhcjNDZlprc2ZjUUxcL3kxMlliVW1pZFpJRmk4N1piYjNiWkNWZVcrajBjcW9DU1BmSlFoSHFtcFkraWZPcUNGRzlFcU1XZzFtM3B6VlB2dzZlMUU4UUJ0UFBZRHZMcmJZY0dreEVsOHhJTGc2M2plajFId1V5QzgyMlwvS1Vyek5JYWhuRk8zXC9PY1RZcE1QN1hxRW9hZXU1MlkxZEpWaWc5c3VqMmxPRFpGTlVpNkY0RFpsQXpydUdiaVBwbVQ4SkVpeitxYzZRdnhtNFJoUVVtOE93MmpUc2ppVEJ2K3hybzdaQUp5ZThiIn0=
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiOTg0MTUzMjciLCJyZWZyZXNoX3Rva2VuIjoic3pTOXhJUG9DdDlLVFMycmpXRld1ZXhubnVuM1BwaE9TTk1xaVljVDhtNnlqN3A2Sk9YYmRCZkNkY2tRdm1pQWV6Q0NHSno2ak1PWFNHVGFkZEpjSDFVWDZaSTVZSXhlYTViWFBXcitcL3YrVnFDSVFPQWJ3RFR4NDdRTFhqSWxyU2tWM0dROFJSNDVMUkRLY20ralFhcmtiUnp2MVBCTmFuOWdEUjU5RHpMOGdvUCtTZUh3Q1JzRVwvT3g2QnVEWEd3SUdSV1E1VlRKeGVQNDEweGhna1VwWkVqOEZzdDBmSVJMZEY0MWdCMmdhWXZBXC9HZEtWclRDRnJ5XC9ZUlwvdHk3VitaZkF2dmpLZFNHMVRaZ3BBK2tJYVBYcVpVd1JZN01HYk4wVkVYakFiZDlBUVJ0NXYzc090SzZDYm9yWFpoTEdIUkVcL21ER29Vb3RuUVRMbFpOYXNOcDZjMkg1eGZMMXFCbjNCZURvZGpNU00ra0ZFd3FPOStmU0JLcHBVVFJ2dm9acXY1dEJJTWw0V3BkeUh1Z1wvTGdJTlMwWTZ4dlVtMnpCMlRndmtZRFZUWGE5amhPa1V3SU5BWTkzODhwMW5kZmJNYytcL3ZZN1Y5Q3ZHSTF4M3NCR3BIdkhXXC91alRncTEyUVlzcGpWbVFTZXFcL0czSjNwTHljTUJLN1ZBeVhJQm9QOTh3ZWh4U0ltU2VESGtUUVVxUzJpeGVPdEU5eFlXdERnd1wvUG1JVlk9In0=
-
-#EXTINF:-1 tvg-id="" ch-status="vip" group-title="[DS] SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/GdLxDPn/ziggosp.png",Ziggo Sport 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNzE0NTg5MzAiLCJyZWZyZXNoX3Rva2VuIjoiOHlmV0pPMWl1aGYxaCtLV2d6UlJrclQzS0laUHZcL0w4NVwvTWRyZU9oOURMdXBaTzZ4YVFKTGdGd1J6Y0RSWnAxTEtqVXplMWJ0NW1vTXN1dXQ3bW9GSDdiTmhHcWcrc09jdWp1SXlRWEtzS05QYzRSSEhmM3RETkVVTXNBK2dMdEVkNCtmZHN5K3ByWkhVZXJBeGlLcFFJeloyeUUzVVpaemFYcUpoWHF4ZlwvWitHYmNYSHdxZWJNTGtNUFRIZUhabk5pSjZLUUJ0VGhrSjJ4c2UxQTlEVldiUVZLSTMrK2s5MURXK2gxSXR1eGtCZVV6WVM2bVhaMVd6ZVh5VGkxMDJLQ3JSTUJRTnc5bjRKdUhCa3ZrdXpJYTJGaUJiejl1Tkx6N3BsVndCczFrV2cwOExBMzNBTlNXdlRKOXVqXC9uIn0=
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNTA3NDY5MTgiLCJyZWZyZXNoX3Rva2VuIjoiMHlTK3B1WlhrUU1YMFJ5aEowVlwvcVdWN1c4bmg4aVdnOHBhVEx5RVprOGRLY1RYcngzeWh6MWl6dWlhbTJSMlBtNFp1amJlRVd3QjZzZm82azN4Y3NscWhvaU5tZkVIeUhHOTExcVZaOUIyUzh4akp5TkZ1TU9TYTNmVCtKNXQybk10RHNkK2J4S3NcL0JWUU9ubG84aUllS09uSlZydFBuWndFbHVUdzJpN256d1RwckttQmErbGhSUU1DZEJMOW4zeTlPM0trTmZ6TWRRU2pSaFEzZkRDS29tNncrbnNtY1JkTHNCNVJDU3JkN2toSlNiM2RJc1Fqak9XaVJOWVNUanFjM0M4dWk0N21taEN6UjQ2Qnh6WXR6VXFCTXNoNWxxbk1SV3hlYnJVTFgreGtENG5sTmViNDRyUXJ5NlRzY09RNlNcLzZLanRZekVRTDA1ZHZzZWVqV3FlSFdrbFN0T0tMM0p3cDdXQkFRMGxSbEF0VU5VMlBVblF5YXlpME8rWTdlQ1NheitaZkJTWUVTQ3Fpc01BengzXC9LeDNObEs0RGtCR1duVFk0WEtBbnBQNnkxbzNCUjdDdHNuNGlBOGdtUnZNWG40STQ5TExjbkczeUVkVFlNeUVnelZJSUZZMHRRRTJFVEY4NkEyVzkyRjVKd3NVenJqbEJZSURcL252M01BN2kzdFlzdm1rNVN5RFpTQktMOXFqK0x1UUwwVzdLSkdPXC9xMW91ajNFPSJ9
-
-#EXTINF:-1 ch-status="vip" group-title="[DS] SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/GdLxDPn/ziggosp.png",Ziggo Sport 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMTY0ODkzNTciLCJyZWZyZXNoX3Rva2VuIjoiQXRCSGl5M2djcmRtWWV1eHdGakpPZmlLZFpoVUdHRUVRMlFFTFhJTHBJRTR3eUVzN0V6elhTMUVQNzZxekN0bUNuYk5MRlBIcWdMMUJrSnZDaUhORnBFRWdcL2VtSUZpR1FQamNBRU9jbnBVRnQ3Znl6b2lMNUZzaElCNEVmaFlicjhOUVV5VFwvUUxKdlpJSlhJMEZ2b1wvVHV0RWdRMmczTHlPcXRxSGNrUDZVM0JKV2s2bkRXQ3hqZU9pYVA0T1ZCb2dZcktBakdkZklyazBkUFBPNEtSUFwvVHlXa2FrM1dVQTFMUmJWdzVBVHRyd1FkQ3NNVkJCVllQdzFTVE9aQjE4WWR5TG9tUCtJYk9PSXBGTEVBTG9mU0N5ejJ6a1o5OXhUbGNVM2hYT281cHlIUVlrcGg2Rk9kZHpIdDRRY2paIn0=
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDU4MTk3MDIiLCJyZWZyZXNoX3Rva2VuIjoiSTc0NkdKT05lemI3a1RHbHZJNGpNY0xuMlFBdTN1ZElyYW5WeGQ0R1hoaUxoc1wvcDRXT0pGeUNBTU5xaVBORVZcL2hmUmF5N0g4RUtYUVZMUUhNcUZJSGpqdGhzWFRpaXBHTVhVbDFmTWlFRSttNWNIc3BkQ01KUmtCRGRQT25tK1wveUl6RjJIM2tob1NVS2NYbmpkNU1NaTZ5ZEJTZXFDcnJHZjh6QityekVxMnJPNFAzcXM3U25xZmVMdkJaVWc4Tnh2TFFaRjFGcHZ4VGlmU25VQnNSYXpCMzg2ZFNWd0pocFRCS2xmU3hNK3BHTFBYbVo2V0RleWRuNWh3blZwVWlUbnBmS2xxMHltMGF0N2xVQmY2b3JlQm5lWXhOM1dzNGR0NjRNN2pqRld0c29hMW1ydkpLMnVrTFBtSmZrY0lOU05VZTZtZzl6blNuM0VwdktVbk1GbFBselwvY0hYeXdydUhoVEVpTmtQK21SbTA2XC84N2ZUOGN5XC9YaE5oejg2WmJNcWxINGt4OWNLXC9FNVB6N1BQdlZIbkc5d0JGUkRBeDZ3MEdLKzJYQUJQdjJ5bHhTN2I5dWpYVG0weGpwcWVlOTFTb0lLTktacFRDZ3pGd09HblptYmdBWElCbWN3WHVMZ1dJQVZmb3ZXUkZiMm9WRUtLWDQ4VFZWWWdTU1pYRXZWekFxc2tCVTN2T3J1YlF3Ris3cHhvMm1nTzFmV2hDd1RzUlwvMUtkckE9In0=
-
-#EXTINF:-1 ch-status="vip" group-title="[DS] SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/GdLxDPn/ziggosp.png",Ziggo Sport 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNTQ3OTYxMzgiLCJyZWZyZXNoX3Rva2VuIjoib1wvbEoySVRwY1ZaZHhFd0hCQ2dYTGVFQnJVYURyUkJwWjhWekdvN1d1XC84RVdyamtBYVplZ1I4dWFwVDZueW9sWlBQUzdjMlRMdXhLYkZ2NEx3emUzUEhFVEp4U3hlRFwvazdzMW9vbmM5STZcLzZxNWVmSG1BdFdTNlFLcnFwMGRaKzZtSm11MVN6MWx6azhneFlzMFM3UnJxVFQxUU1rckRPcnoycTQxb3A3c09Qb1hZYzQ5QUVuZHRUWjhwXC9nU0ltZW5McXNmanRmaEtxSUhFR0hSdnhTSkgyNWlOMmVkdnhQcExVSkRXb0tjTWxmVHVYeEJlRm9DZzVsWCtmN0xwSGZQaFdUTktnQlg2Y3V1ZlVpb2FSeWhzeFowZ1Z5MlpYV010SlwvdHZ5V0ZYS3JQdTZDZndUWkVLc1JKUHU4cWMifQ==
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDYzNzA5MjEiLCJyZWZyZXNoX3Rva2VuIjoicHFZNzNhYTBaNzd3UWhJb3h1dWIxbXFBTTQrNmUwcXIyVXhVYWQ0R3p6Z1kzakdkcTkyVjRjY1BRb1pNbFk5YlFORnRNM3hOa0t6M2FwcTM4cDhJVDNCYUU0XC9Kditic0Vydk1kSXd5MTJRTzM1QzRFclpYODAxK1MzYlc4TWtHRDRDQ2hwdDJJS21XWmtZbkpyc3p6NEpuTGpENkNGais4TVJHeVwvdStHVGhFTVZyeGpydFAxNVJBeUszVFVLTFFJNG54eVJsWndScldkUWlVQ3N1SUxLVHEyUSt4WXQwd0FKMThwRnJyRWlpR0loVEdNWFFWeWRaRHBNcXdDMGx6QW5naVhSbk8xUG1qVDFvMXdrWmhMSDVPXC9xOGlcLzZEUWx3bVhRN1ZKY2JDemN2ZE9wcW1LbVBqUFh2YWkxbDZlaDNNempTWDF3YW84TjlLUWo1UnFhdmNMWmVqSzRpZkFYWG5mTWY3djd0V3lBS0JvK2NmM1hxV3Nmc1JSU2N3cGo5d3doQ3lqN250VXhaREZ3Skp1TlRieHNWU0N2OU5ldWhPUUdrekxcL0ZmdWJSNlwvTmdvUXAzOXBiSmljd3BHMU94alIxVEhIR29cLzc2bGxEQW1lcDFzTldMZW16MFRvSk9sRTc5Z1MwRVZodXFDY3BxNndmMGd2TTRLcU84T1wvSHNlVDBnTnZ3a0tzc0RsWDZuYml6R0d1ZmpONGVGUXpkSnJNTEttNmN5VFk9In0=
-
-#EXTINF:-1 ch-status="vip" group-title="[DS] SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/GdLxDPn/ziggosp.png",Ziggo Sport 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiODM5NTI0NjciLCJyZWZyZXNoX3Rva2VuIjoiVzBpTm9HN0xKbHF6SVdFMXNxTHBRbmd1TFlHK0xNQWNnUzhmSko0bzVzTUZ4djZFMUNwOENRRUZWWXRYVFBXRDF5M211enVOT0x2TUwyRlBuVkpsZUhLbFN1XC9RcFRmYkRKME9qWG1aMXh0MWFpYnRMWnFPVlwvUXE5Z0VLc0JhM09Va3pzU0V3TzdMNUo2aUx5bzZ3MVpBUVFYMHphMnd4Smt0SGlkZVNmMzVJamR5NTFVMmNGVDl0cXlZUkozZjNYeGE4MmN1MnNmOFJDMmdRd2MrV05LZHA1T09GUDBOQ1FyTm82R3pEeWhcL1N5TE14Ylp6Y3RaZU5WNXpkVWNKY3JGXC9YempFQk1qS0JyV0FiN0tcL0Q0Mlh1clY1NXBBSkNhS2x4eTJwb09MTjBycEh5UEVKcllHVGVESEhXWHhcLzkifQ==
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjE1ODczOTAiLCJyZWZyZXNoX3Rva2VuIjoiNlo3enkzSDZkMHlQMVNldEwyYXVCV09DSDN6YUxpUXAyZURvN093a1duOTdjOTNFelFCYk9QTitRWHNSVFwvTFErRThoRzI4Q1wvOTFhSE91SDhIbzZ3U0ZnT3RFNE5EYzIxNjdJVmJNdURKV1A1Q0o2RTlSeDJ5ZFZlUUtQV094bzlxUGVpTWNDMG90WjJSRGVXcVpXUWVrVFFQR09xWkFHQ3NrWW1ocjJ3ZEo2N0Q1N2ZCSk1JUjlKVFV5Vmkyb0pySk9xRDl3MkNtMWJsV1NTa2ZBTzZoUUJ2ZVlyTG04S2htd0d6cmpHeFFlMzdLZ0VLUE5OeXZkMHpTSkhlNThZN0l3YkVPbndwRlJSSmpuK3RPYitvK1RWRzczdE5Sam0yNEVYOGFkRUhcL1lhSWtwTWRSMWZScURoUkYxeVwvU1FkR0J1RCsxVGVjQytvQkNhbTl6ODJ1TDZiWDdFdXJ3WitjWm9JU0l1SEtVcjJ2SVNEZ1lqc0hubFliQ3JPcERWMGpFWUoxRXo3QWE2TytJSTRjWlpydWZrbjZIMnFoRGp4KzNSRGhCbFJLZXZTNmZ0QUdDWUYzV0pTMUlKTmlhbDA1VnpcLzZwUkF0TlVSV3ZNeUhKdGdwdHNtZFA1NVpjZmpQOGFPZDAxbWZjS3p2S3dTY29Fdk9rZVg2RmFvalArXC9SUXA0WTVCZ3FaNDhHQjNTaDhhXC8rQjQ3d3FVN3o1TDhxTTlaQ3craTA2Zz0ifQ==
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN | Milan TV" tvg-logo="https://docdog.top/logo/countries/italy/Milan_TV.png" group-title="[DS] SPORTS EXTRA",Milan TV
-http://pfsv.io:80/geferson9323/aadd9323w2/226028.ts
-
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2gsVc9F/20250120-200551.jpg" group-title="[DS] SPORTS EXTRA",AYM.SPORTS 
-https://aym-as.otteravision.com/aym/as/as.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2gsVc9F/20250120-200551.jpg" group-title="[DS] SPORTS EXTRA",INTERNETV.DEPORTES 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2gsVc9F/20250120-200551.jpg" group-title="[DS] SPORTS EXTRA",CANAL.ONCE 
-https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2gsVc9F/20250120-200551.jpg" group-title="[DS] SPORTS EXTRA",CBS.SPORTS
-http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2gsVc9F/20250120-200551.jpg" group-title="[DS] SPORTS EXTRA",US:FS 1
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2gsVc9F/20250120-200551.jpg" group-title="[DS] SPORTS EXTRA",US:FS 2
-http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2gsVc9F/20250120-200551.jpg" group-title="[DS] SPORTS EXTRA",TUDN:US
-http://tvmate.icu:8080/Alan/Alan1234/82241
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2gsVc9F/20250120-200551.jpg" group-title="[DS] SPORTS EXTRA",CANAL+SPORT HD
-http://185.236.229.62:9981/play/a04c
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2gsVc9F/20250120-200551.jpg" group-title="[DS] SPORTS EXTRA",CANAL+1 HD
-http://185.236.229.62:9981/play/a05s
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2gsVc9F/20250120-200551.jpg" group-title="[DS] SPORTS EXTRA",CANAL+SPORT 2 HD
-http://185.236.229.62:9981/play/a05t
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2gsVc9F/20250120-200551.jpg" group-title="[DS] SPORTS EXTRA",CANAL+SPORT 3 HD
-http://185.236.229.62:9981/play/a05e
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2gsVc9F/20250120-200551.jpg" group-title="[DS] SPORTS EXTRA",CANAL+SPORT 4 HD
-http://185.236.229.62:9981/play/a05r
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2gsVc9F/20250120-200551.jpg" group-title="[DS] SPORTS EXTRA",CANAL+SPORT 5 HD
-http://185.236.229.62:9981/play/a05h
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2gsVc9F/20250120-200551.jpg" group-title="[DS] SPORTS EXTRA",Eleven Sports 1 HD
-http://185.236.229.62:9981/play/a05w
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2gsVc9F/20250120-200551.jpg" group-title="[DS] SPORTS EXTRA",Eleven Sports 2 HD
-http://185.236.229.62:9981/play/a05y
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2gsVc9F/20250120-200551.jpg" group-title="[DS] SPORTS EXTRA",Eleven Sports 3 HD
-http://185.236.229.62:9981/play/a061
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2gsVc9F/20250120-200551.jpg" group-title="[DS] SPORTS EXTRA",ELEVEN SPORTS 4 HD
-http://185.236.229.62:9981/play/a046
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2gsVc9F/20250120-200551.jpg" group-title="[DS] SPORTS EXTRA",Extreme Sports HD
-http://185.236.229.62:9981/play/a06h
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2gsVc9F/20250120-200551.jpg" group-title="[DS] SPORTS EXTRA",Fightbox HD
-http://185.236.229.62:9981/play/a03n
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2gsVc9F/20250120-200551.jpg" group-title="[DS] SPORTS EXTRA",Fightklub HD
-http://185.236.229.62:9981/play/a02l
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2gsVc9F/20250120-200551.jpg" group-title="[DS] SPORTS EXTRA",Horse TV HD
-http://185.236.229.62:9981/play/a04r
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2gsVc9F/20250120-200551.jpg" group-title="[DS] SPORTS EXTRA",Polsat Sport Extra HD
-http://185.236.229.62:9981/play/a07q
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2gsVc9F/20250120-200551.jpg" group-title="[DS] SPORTS EXTRA",Polsat Sport Fight HD
-http://185.236.229.62:9981/play/a06l
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2gsVc9F/20250120-200551.jpg" group-title="[DS] SPORTS EXTRA",Polsat Sport HD
-http://185.236.229.62:9981/play/a07n
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2gsVc9F/20250120-200551.jpg" group-title="[DS] SPORTS EXTRA",Polsat Sport News HD
-http://185.236.229.62:9981/play/a06m
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2gsVc9F/20250120-200551.jpg" group-title="[DS] SPORTS EXTRA",Polsat Sport Premium 1
-http://185.236.229.62:9981/play/a03r
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2gsVc9F/20250120-200551.jpg" group-title="[DS] SPORTS EXTRA",Polsat Sport Premium 2
-http://185.236.229.62:9981/play/a03s
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2gsVc9F/20250120-200551.jpg" group-title="[DS] SPORTS EXTRA",Sportklub HD
-http://185.236.229.62:9981/play/a02k
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/2gsVc9F/20250120-200551.jpg" group-title="[DS] SPORTS EXTRA",TVP Sport HD
-http://185.236.229.62:9981/play/a05l
-#EXTINF:-1 tvg-id="EsporteBrasilia.br" tvg-name="Esportes Brasília" tvg-chno="023" tvg-logo="https://pbs.twimg.com/profile_images/1631301541452718080/Zx60yrrT_400x400.jpg" group-title="[DS] SPORTS EXTRA", Esportes Brasília HD
-https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
-#EXTINF:-1 tvg-id="RedBullTV.de" tvg-chno="109" tvg-logo="https://m.media-amazon.com/images/I/51OvgIyfLDL.png" group-title="[DS] SPORTS EXTRA", Red Bull TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-
-#EXTINF:-1 ch-status="vip" group-title="[DS] SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/7YBXfqc/beinindo.png",Bein Sports 1 ID
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/widevine/?key=eyJ1c2VyX3Rva2VuIjoiOTA1NjcxMjMiLCJyZWZyZXNoX3Rva2VuIjoiYk15T0U1Z3J1eVdYMTMwNThENEtnNVdlNUNNUXVHSDc4emdHY2dtY0ZnQWN5SjduenZjMEhyTHdSeUJPeXpnbGF2TUxFOE5lbnpDRFh2VnpCSEVHVTVDZUtwT1ZlTU1nRGRjaXlsOW9ZUDk5c3lyXC9NbWNWQ2JXcU5LdWxQaHorUGxNTFBHTW9RZWNqaVdhbEx6aVhnTW8wSTFHWVRHSEtRdG05d2R5cDFVWDN3Yit2QVQ2N1U1UEdENFZ3SVZYbHNvYnVsZjRpTVwvRlE2a2NoQlRxSGZ6ZjFPQ2FGdGJjemVjTVdsU0JaRlVKbHZnck03cVVJcFpHUHZXQU93YWZyNXpaRnlmMVA0QTJXRnlvTlQwVVR6M0tFMWlTV2hrZkFveDdMREc3RUtjcz0ifQ==
-
-#EXTINF:-1 ch-status="vip" group-title="[DS] SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/7YBXfqc/beinindo.png",Bein Sports 3 ID
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/widevine/?key=eyJ1c2VyX3Rva2VuIjoiMjkzMTc0ODUiLCJyZWZyZXNoX3Rva2VuIjoiaWNcL2hBWE5aMVkrK013aTNrMnFIaDR5aE0ycnNwU2x5dEJLRFQzWlwvaWRQSHE4aFBHM3ZXaEllN1kyMkk2N3hoMDA5NlRwQXJnc1lST3NWUGRMcjBRdFJJanZWNHdVajVRNmR1ajNDejNoMW56TnNOZ2x6clo1aWJ3WFpaaVQ5M1pyK0EzZXA5WjdhYnZoXC9uN20xOHl6c0FaQVwvK0t2RXJocTVnNG04dno4MDF2ZmNTbFVCYk5EdmRcL25ONVNpeFdXSlBcL1NwaG84RnRjZVFYeEVLZk9vSWdLcmNla1JHTmt5bUNBc1FxTk9TdXF4VnU3djBlM3ZZVm1lXC9YWW0wRVZrWENMalwvR2srUUFubU1KRUdnY1ZGOUZsZTg0WTVtYVpyUVBsaWE4VFNodz0ifQ==
-
-#EXTINF:-1 tvg-id="beINSports" group-title="[DS] SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/7YBXfqc/beinindo.png",Bein Sports 1 ID
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMjc4NTM2MDEiLCJyZWZyZXNoX3Rva2VuIjoicG1DWmZBSjZ4TEJpVkV1MjMzekUwSktJWnFyYkk0VUZtT05HOEZUNWk3K1FHaUJMbGN5cGRLZ3pseUxMck9WTWtMRFA4RG1tenZuYzkwWG9BMUpDS0JYc0xHUVJrOEJuXC8rUTE2SDc0eDJzUkRjXC9JWDNNWmFpVlJZZVpjZVp4WmxWN3JTYnpIdEJ6UmJJNGJjM3N5dXMwRHFEVlZ2RGMrY3RmTTlEUUVCaGpNUEpkTG5pN2JvRHgwZEx0QnVcL1JIUzMxdEdrektlSlAxTW1QZStWV2YwRWU5ajZrbUptYkhiQnJkaUZiS3o2Z0IwZVZYWDlZeWdDdnh2V21pS1ZobXR6YU0wUVBRUFdaYVdhcUY1MzNvSWxiaVRqMXNNa3RTNlBQVkl4SUdkeDl5bDB2YVBQV3JNXC9pcFFlSlBOQTB5In0=
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMDI3ODYzNDkiLCJyZWZyZXNoX3Rva2VuIjoiZ0tqdVh3U2g1NENJeE9IdW5EVlwvdlNcL09nVGdqeTh1djNpT2RGdlZkVlVJbGNJWkF2ckJBUzJRN3FNbDhQTzdJVFU3VlwvMWVSZVQ2cjVHRHY4UlwvMUVybjN5NDhvVlBxY2pLRzNnVTVTV0o5eGtcL1UwaTNqanhhXC9yb1htMks3dGlDeVhBdm5UckpoN0dZMUNoV202K0xieXBxY3Q4SE00RXAweE9GS21NQzV4MFQwNm42cURtRWpzWkUzRldzWk96eEZoYjF6Ulp2bFVCY1BQM2NjREk5cFVad2s1Yjlsd2hTXC9vUHhhaGdsbnJOZGIwclpoR2JrTHNcL0hGMzFkRjliOE04NXVtM0FDVXkzaGhOcmZiWEFEalprTHhISHNxWXluXC9JSXRIcHVvcjJKQ1dFUE11NU5lR0k2b1lFXC9ONElhTFpGYThSb3QwRmZRUjlUWkVwdmRUYzBBYUdYMHhGK1VPQkczOG5iTkVXRHZGdHlQcGdoWGtkbjQ5NmtrNTRXSyJ9
-
-#EXTINF:-1 tvg-id="beINSports2" group-title="[DS] SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/7YBXfqc/beinindo.png",Bein Sports 2 ID
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiODk3NTYyMzAiLCJyZWZyZXNoX3Rva2VuIjoiaGdCcDJ6RnNYRTBpTlQyaktUMU9SeXdJc3dPbEduRHRVdFNvdnRyUzdGNzN6MXoxR0Y5S3d3cWR1T2RzaXZmbWUwR3ZsMXB6OUhINVRXNTdVZ1VMWG9PTVVNUzZLc1l4RTNYcWJmeFwvRXdSTFNpeldKY0ZuU3puQzh1VFpQczNtaktiRUljZFwvWTl3aWZod0JZZmJOS1hJYzVSbTcrT21UaDA0Q1wvZTlLYUJlOVhrZ1hEZmlXVXZ1Vm1WT0ducVRuUTdcL25zSnVzQlpybkhGNnpFYXFmYVdFNmVFTHdaVmdlRXBOb2VvWEdXWXJ0dWRVbXczZlJYSE9YZExlVWJzSldjUEFQZ3c5SHArYm9lSjZuMkkyaWNcLzN3OGlyd1BaMDl1MXZBRFdJZ1hcL0tjc3BKMkpCZFNESzZwNXZyWENYbTQifQ==
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMzgwNzI2NTQiLCJyZWZyZXNoX3Rva2VuIjoiakhCVE50dkFvQjBHVGRRWUgxYWNPMkM3T2JweDhGcWozTHVkYjJzTmFSMFVKeDRcLzI4MmJLbXFTU2poNzJVd0RUcHdmaHpxUDI2XC92SDNXZVZhUzlEZ2QyRWUxZ1dqUUhZcTJZc3hiQkpDK0FUdWZsSlJKWmx1RHJ3b1dXKzZrR1VEb2I5d3Fxc2VJYVZuckg3UHB6MEFBVUp5Wkx5cnQwNmw5VEdNa1Brb05kS0x4VzJVcllXUjdmNnQwQVwvT05jNnJnaTc0N3JkajNpVFBkTDFMcGc1VUsrc2xwMVpWS3M5dzJPTGJzYlJWZWkxZVlYWlhIY1JlZEsrSEFqWktFOGJDZXJaOUsyTzNOajVaeHhCZ29obnJLemRnZDhJUHNGWG53QU92R1FtMXBIQ2R1ZVdIV3p5NWtWbzBaTlZzazZTZzdRSkl1dWxOTWltUEpzNCt6endseVNZWlhQTEFMcTdkNUhLUE9STjNTOUFIYjVuUytoRDNvMnJhSXVEZ0QrIn0=
-
-#EXTINF:-1 tvg-id="beINSports3" group-title="[DS] SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/7YBXfqc/beinindo.png",Bein Sports 3 ID
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiOTc2MTAyMzUiLCJyZWZyZXNoX3Rva2VuIjoiR05rU1djNld0b293XC9Wc28xYWJCbERxTkN2ZU1pR3FVWkdYUTFZRWVJNWQrb3liczd1ZUg2dkR1d1M2TU9RanduekdvWVlIVVRkUHptTE8yVjhmYnNlV3VZb2R4MlwvQXlwSVZUUmtIXC9LUnZOc1wvckdpVUVVRGxiVm16VzM3TGdxTHNzWHhZUktDWXNXdENTNWc2Yld6ZWswK3FPSFJYcjZzY0JCcE5HaFZUZFB4M3NWWlp2Y3Z0XC82V25aT2ZSc2hzcE5ZRkNsM3kyRVduVHZSY2MxK0NyamxQNXFDb1ZMNUtkaXhENnRRRnVQU241dENBYm91bVFoVGhJUG9mMWFBYXZMVnNUOXhsa0p1MTEzazJjN3c5N2VwR1g3QjBzbDZUdWtJaHQ2WWNEYmZEODhZVzBic2paRE96Q0xBeU9JSSJ9
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiOTcxNTMwMjgiLCJyZWZyZXNoX3Rva2VuIjoiTFFpdldjN0poM1VRZ0NwSSs1cHE0VkpFcWw5ZGNUUTA5aGJXYXZYaEdTTmF6TVhWRXdLTHgydzUzdEsxc0hcL1o0OE1NQm9Ic0szeUd0YmQwOHZEbXdqbWw1XC9mdVwvamFyS0NwS0pVU01uUDlaNlZoYjBTNEVSZUh6dG5cL25hcFExXC9nOFRjQ0c1cEtpVlwvSHBmb0g4M0hsVFUzMzdWR1dCc1wvbnZDZFFIQldIZVhMOFZyWWplZTA4a0JOT01YUVhQc1ZsSVdwMlFjUExjYnFUeTVDT2htUk5DdGErMFwvSlNmekErOFU4ZVhEdTUrSDZ2TVZiQ2xYUFFOZnZBdnJYa2JsMk9qMHFPbGFRT1ZOTFRvbkJXRWNrQWFjQllCV1BvY1pzNW1vWkFTMlljZmNCckk3RkFjXC9mVXEzNWJCWFVvRXFaXC9kdzNHTUNGTnRDWDBLenJIUUp2WFY5SUFuMnVkRjkyeGRIU2t5aFRxTnAxSHFKM0Q1NWoyZmhcL2VZajd1USsifQ==
-
-#EXTINF:-1 tvg-id="beINSports4" group-title="[DS] SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/7YBXfqc/beinindo.png",Bein Sports 4 ID
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNDAzOTEyNjciLCJyZWZyZXNoX3Rva2VuIjoiVXlTWUFkeXB1bm9WY25ZQ0hqd1pqa3JIMW02SjZ0Z2hjamdnZ2lKMWVncW4yVHFMbFo1UXJUaVl1ekZ3eSsxTFR2cytBS1lBNnl6dHpIUHdoVVdyRDlnekRPVU5rcVVYdjkyMHVzc0xCTkVoMlwvSUhIRU1TSCtiK1JQaWJCNElZNUpGdVUrYzZ0U0JDamxTMGJQRThnaWtKdEY2c25XUEJHYlJMZGw4TisrK3kxZU9JUjByU25WZ1ZGZExQRjZpM252TFBGSVVYZG1PUUtFSjlUb3F2bjVVSmtUUWw3aXcxRmczS0FwajVhb1ZVN1BkRFhGMk5aZFBlZzl4ekNrbWJEa0paK3I5T1h2UEV2bXFwVHZNWVNVQitLQ0ZLYXB2dEt0SmFxNDJBTDJPSldnSlFBMWpcL054NlBBVVlSYmN4SyJ9
-
-#EXTINF:-1 tvg-id="beINSports5" group-title="[DS] SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/7YBXfqc/beinindo.png",Bein Sports 5 ID
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNTkzMDcyNDgiLCJyZWZyZXNoX3Rva2VuIjoiYU9vQ2dsaksrRmpTVEJtdkNUVzhWcUljamRcL1piYkpxMTc5TE95Q0lrRVJPN1lGdVRvT056RWFQcVZnMkNzSkVKM2FDR3F0ZzlDbG4ybVZnRjI3bDc4UDhnWURWQnFwUFZcL0QrMnlnWlpxSkFGVzMrQTFGWThud1JHS0RYVFRJeWJpdDEzTkJ2WWpZMzllQTZ1NndlcmVlNXBKWEtyNk5WcU9xWXI5TWI5b2M0eFBcL0ZRTFQzTURLd1pPc3VVS2FUMWQ4OWFJNVZVOUlHeUl4QXB3VzQ4dXNiNnpjWTA4ckt2WEc0dkF3b2VSbnA4VlVLSmpXWVpCckFabFwvK1JQSmZmdUtOWGlSRGxCRGpHVlZhMHdlNThndUhIblpIaVZ0OE8wZG44Z0RvSm1kY1R6U0tjRytzZlVENE9CRjFweXVSIn0=
-
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 5" tvg-logo="https://i.ibb.co.com/yVDZLLN/sonyten.png" ch-status="vip" group-title="[DS] SPORTS EXTRA",Sony Sports Ten 5
-https://free.biz.id/play.ts?ch=eyJ1c2VyX3Rva2VuIjoiMDU3MTg2MjMiLCJyZWZyZXNoX3Rva2VuIjoiZGkyTEhycklMYzB3K0V6eFJjM0tYbnRJTDFnV0ZuTkgwUmFaMnIyNU9ZRW8yK21rY1YxMCtHTHJCVm4zR0MwTmdtZ2l4aUZWUUFSQTdjbGVmYTV2N2ZTcVlOTDNFUlwvTEtMNlBPVllsWXBzNDE0YVdVXC9OTUQwXC9KS0lCQzdjekx1SFY2UW9QMDFiZXVOQ1hqcm1RUTI0ejI3bmE4YkZ2eUZrbjhCUXR0bUZBSEMwckc1dXlyREhjaGZ5NXMzMm5jU3I4RXhQOFFUN2lhMGY4MjhSWXh0YWwwMStOOXZGRFpRaU5cLzJFUXRrZU4wTlJrOWl6amIwVVdZK2NmQXA4MXkzNVZhQXdweDNpWlpvTDVma0MzdHZCRStmVExKUnNLVXI5MEI0a2hTVEU4UnJMRzl4bzI1cTZObUhDS2czeU9waERcL3JYZGR5QTlKMFpsZzREY3JDaFNQcFdlR2tLdDNmZVZcL2cxd01wcms4SjNuVjZuRVM4TjlnYU5VOGlqcEcrIn0=
-
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 4" tvg-logo="https://i.ibb.co.com/yVDZLLN/sonyten.png" ch-status="vip" group-title="[DS] SPORTS EXTRA",Sony Sports Ten 4
-https://free.biz.id/play.ts?ch=eyJ1c2VyX3Rva2VuIjoiNTE4NzA2MzIiLCJyZWZyZXNoX3Rva2VuIjoiWFhjRlMxZk9oZ3RPR2RtVWlaaXRiaUhCZ25oNEdBSVIxYU5VWjJHYmt4R3BjeTZTNk5ReEMwZ2MreHp5bW9xRVUrV21NbVpMSzlUcExFQ29ONExzU3F6UTZ0ZG05OHVxcWo4anB2OTVoXC9qOEc0N0VaOW50OXk5MDRWRWpkU0lDREJFN1F1T1ArK2hrNG1NaXRQXC9LN3U2UWlOSnI5SkIzcmN0emZBTTl4WEE4cDlKK0dGazNGV3g2N2ZNaDRsZmcxRE14bEQxMHo0ZFwvYVE1SU5xcmM4RFhhUHB5bGJjSVdtMkUrbjlVdlVWYnVYUVZKeUhETUVyWHVWd0JORjZCYk5TT1hYZ3NYamNKeHJIb1hvXC8xMFNSaDRzY0dCcGRPbWpRM2xwNXFJS0F6WGhwemJwaThcLzBsMkV2YXhLNzBYWWtIQk9mVVhFUmd4bEVkQ0dwQ3RqWWdjRnBqVHhlTTBiNmFXS1ViaFk5V0pqV3J6b0FIeWlCYWpYaEFpak4rM1gifQ==
-
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 3" tvg-logo="https://i.ibb.co.com/yVDZLLN/sonyten.png" ch-status="vip" group-title="[DS] SPORTS EXTRA",Sony Sports Ten 3
-https://free.biz.id/play.ts?ch=eyJ1c2VyX3Rva2VuIjoiNjQyMDU3MzgiLCJyZWZyZXNoX3Rva2VuIjoiWU0wK29GUHF0cm9RZE1HT2tjVXVWeHA1SUNBRThWczlWRklpMll1dVwvZ1ZzcGF5WGEyM1BUMGl1WDZXdTFDZUFxbmJEOHh3RG5RTlhZUklheGZRK2ZYdjN1QmVuK2NCUDNoRktUMDlCWHFHQU5BdXQxUUp3dlwvQTJxcXA5c0NqOXE0SG5IbVlVSWRsVXYxNitiQnlDckNqSTNFU3hCSGloZjB4eEt5anhjSDgyTURkXC9DOEd3dUdxSVFYMTM4R2xEVkc4TU9oZUJZRnV2OXhTVWtOZjBTVEg0eHZ0MjVVajNFTkJIeUc5YmxiNUZUMU1uRkhmejZvdjBjdFFIeDRUWWhOZ0tYa2tNb0I5eDJBczg0SXZMWlkraTVab1NoUEp2a3c2QU5JRDZXNDI5K1FKdkdYYUxUVDlDdWFmQzNOTlNoYWRuTTMxZ08zYUhGbVpKTGp4VkpZaXJwQjF0b0lGSDVsVXRtOFE1c2pzeFJIYXlYMlwvUFhnSFIreFBDZHYwRiJ9
-
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 2" tvg-logo="https://i.ibb.co.com/yVDZLLN/sonyten.png" ch-status="vip" group-title="[DS] SPORTS EXTRA",Sony Sports Ten 2
-https://free.biz.id/play.ts?ch=eyJ1c2VyX3Rva2VuIjoiMjA0NzM4NjkiLCJyZWZyZXNoX3Rva2VuIjoiRmJQYkxURUpwR2VhcnhobGtSRjZxRDFCMVpMUDNReTRZaUpvcUNrYnNCYjlPdVMzXC9SXC9xcHRrZ3ByZ0o1bmx6elMrVXo3ZWhyQ2xJZWFoWmM0Sng0bklaQTdKTHJ6QldjaGk3MWRpdm1COW5ieUxZbXZqU1VNaTlWWnRaak5DVlBiQ0xMMGYxdmgyelwvd2JRZGZZUzRPZ3JEVlV5NlBDaCtTRE9JNXFyc0t0SXRQMUZVSkJka2NZc2xHVlZWbnh2NStZbGJ5VEZHQjhoeUtVd2Q5YWxSZzAyQisyWUtDTWdZcXZSeXBjbXIxS0NFYU5heXEzaGpUVjdFaCtmWTJLRmhWSE9ZaklFR1RjS1hzZG9mdXpqOXpnVmVVVUJLZXNsYkh1ZzN6S3VXWGJ0TGNGaGhmQnI0SXpFTDErZ1BkYzRXdlQ1VUpyVzEzcWdWVVZQbmlRbzY0V3NEcDNsTGZlSGw2XC9TQ2I2SjJyM2Y1a1ZuQThRcWZ6RTRMbVJVc0F2MCJ9
-
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 1" tvg-logo="https://i.ibb.co.com/yVDZLLN/sonyten.png" ch-status="vip" group-title="[DS] SPORTS EXTRA",Sony Sports Ten 1
-https://free.biz.id/play.ts?ch=eyJ1c2VyX3Rva2VuIjoiNDcwODM5MTYiLCJyZWZyZXNoX3Rva2VuIjoiKytpeTB2OW1DcXlocXdmYkpJK21uSDlnS3lkc1lIS0RidEVrVEMyM2crQzhVSVRWdGJYVDN1dHNqaTlvTkc1alN0NktjZjJFajZOcHJzSFRLQ3BuajAwaWRwamFcL0FUVDh4MlNWYUlZbnE3SGt4XC96blhnaWR5bFdBa1M5SVFlcktwZ2FRNkVTaHdOMmNDVFhIb3l2UzNrUDR3NGd5NUJ1RHZNMGEwT2UwRVdUbnhIWWx1RjBZaVdMalpQekNGdzU3bExUTTlIK1RFb1hPNzFLTUM4MnMyWXRIaU4yZjZHRFdSa1puZTlvN0sySERZSVNFZHlrNEtSZkg5bkpJUWlGU09RZENxMmlLRDRvczBDQkY0RVZkWUZ0QlR5VGh0dW5NK0NQSEtEK3RrYTFEckd2cnBWdmZWcWpmOHhMeGpza201TmQzOTRqU0NNbTJTVStQUzJNMzlHVDU4SHVudHZ1SG1LaXpIeDNsa20yK3VvRnRsSm85T1l4RUZVTndnUkcifQ==
-
-#EXTINF:-1 tvg-id="64c3af96e4391c0008e16d17" group-title="[DS] SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/mRYXCQG/ubeatenn.png",Unbeaten
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNjQ4MjEwMzkiLCJyZWZyZXNoX3Rva2VuIjoiNXZyNVVOc0VJQmViOVlVTmt5QXZqa2Z0WUFmUnpVaEJuZjZwRTBleWp1Z3drVFZ3Wmd2XC9rUnN4WFF5M0VKcXhmcHVaWVwvelRuVHJLVGJleDRFa21CZHJHeVVuVWpaTjU4NTNQRkdpcVpxKzFSTmY3TExjNTc5NGlyZDM1M0l4QW9EWjlxY3p6QlNlVjNOT1BCdE90RlNLMFNhZmVYRnd0UEJFeG8xaWxTWld0YVlqR2FDREd2ZTRSbU5JOFwvbHZPdEp4TEs1Y3BubTVVeTVJM2dpVXE1aXM3STdqVXJFeVJ1cjFLWGFCeHRVbTRZS0xNTmgza2lQUXlcL3VWcFNrMThCZFppSGNtUUt0bmFYZmp1eTdaSDVSYkY5QmZVRUJvQTJFYW9YNmNzUFwvR3ptZmxqNGdZUnc4czlJbEUzbGFTNyJ9
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMDk4NzI1NjEiLCJyZWZyZXNoX3Rva2VuIjoidmxoRGt6MDRlenI1eWxsZW9DaGJwSFk2YVdQTGtPWGNLMUZkelwvMW8rcVp3YlNZcndmMkR1WWRCdWo4bTdtS3ZaNTRjaFN3UVNwUzR1Z3d4VHNcL2t4dkNPYWFwNU0wWUYzTTlWblkzaFwvVVNSRmlZdklHeVA5dzNuODVZYkpIWDZUWU9hcmNEMmczMGM2MUhrbmY5SFBOa0VlaGp0eG1vQmZuYk5IOEROakxBa0h3K0JIRmtaa0J0bWZ5XC9Ia2RSSStxYkxUbUwyVUd2ZitHTjVhYlpyeXoxcHVyVDA0ZnhJTW5jOUttWnVXOHZsdjRLQTV4TzNwVW5TTFc5UlpzdStVRDRJa2V3OHFHTHVsS2t1WTNqS1g0eVpXTUVJQ3dXcEdOUnBRKzU0b1hkeUozVmhLZmJcL0RZWEJMdGFwMDVtMUs3c3h2aFJpSm1DcFp1aG1wM05wVXc9PSJ9
-
-#EXTINF:-1 group-title="[DS] SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/p00YbqW/eprol.png",DAZN 1 FR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMzY0MTAyNzkiLCJyZWZyZXNoX3Rva2VuIjoiRHNWR0dsU0dYa1ErbGdUK0FPWVRGUTBhVGF2ZDNRcGdySVY2RWtzODdCd1Y4dWxQSFptTVFkS0VidU9YNW9aaWtmZnUrazd3TFl5VHNzOVVVN3ZcL0JVVmwwbWtiak5FT0UyU294QUdUaWhENWJWM0ROeXgrUjhhd2tjZGFBUEtvV1REREdtaWx4VEUyXC82K2k3Wkl0cTNRSU1iVlRBNHNsOXNFT0t2TnVXXC8rc3p6UWZhaHRyR29Md0doNVNRQ1F2M0VQSzViMjkwMjFnUnhPNXhjbE5yb3RJc0pxUjhaRU9aTzVwcmdYa0VCa3JaRU1uS2M2aEFmcWpLN0NMMzRSWGJCVTNWRGNwS3c2dU1BNkdQN3M5RGdwdXpmWFJSS3BmdjV6T05oTGgrV3lxKzlGTTVlY085NEc4UmxvYytcL1RkIn0=
-https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDIzMDg2OTciLCJyZWZyZXNoX3Rva2VuIjoiTHViNmlzbjFiVGlUNmd2NDZ6VjY1UktKSFFFeXZSMmcraHZkeUFyYUtTSHJncHI2T3RiK2ZBN3lHNHgxNUcrMzlvNE94WFpwMFREMTVwS250K1wvRFBIOFRRWEo4MTVNbE1YV3pMckhoRDF4XC9LWHR0RlR6MFQ3SENNVGpcL2VYMjNNZlI3Mko1OGllOGdmYThxa2ZUS3NSTHV3eHErMGoyT0tJMWNSMzdBMmQzRDNEXC9OS1VPaWRsQWw5ZWtFV21OTmNRMVcxeDlLcGkzRnhna2tzZmF
-
-
-
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
+
+#EXTINF:-1 tvg-id="Arena Premium 1.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-1-rs.png" group-title="DS SPORTS", ARENA SPORT PREMIUM 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.webhd.ru/lb/premium134/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Arena Premium 2.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-2-rs.png" group-title="DS SPORTS", ARENA SPORT PREMIUM 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.webhd.ru/lb/premium135/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Arena Premium 3.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-3-rs.png" group-title="DS SPORTS", ARENA SPORT PREMIUM 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.webhd.ru/lb/premium139/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="DiemaSport.bg" tvg-name="Diema Sport" tvg-logo="https://i.postimg.cc/6Q4k0dsq/Diema-Sport.png" group-title="DS SPORTS",DIEMA SPORT 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.onlinehdhls.ru/lb/premium465/index.m3u8|Origin=https://lewblivehdplay.ru
+
+#EXTINF:-1 tvg-id="DiemaSport3.bg" tvg-name="Diema Sport 3" tvg-logo="https://i.postimg.cc/NMTdy438/Diema-Sport3.png" group-title="DS SPORTS",DIEMA SPORT 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.onlinehdhls.ru/lb/premium467/index.m3u8|Origin=https://lewblivehdplay.ru
+
+#EXTINF:-1 tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="DS SPORTS" ,ESPN 1
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium44/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" group-title="DS SPORTS" ,ESPN 2
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium45/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" group-title="DS SPORTS" ,ESPN 2
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium45/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-name="EuroSport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-1-uk.png" group-title="DS SPORTS" ,EuroSport 1
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium41/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="http://103.176.90.118/picons/logos/BELGIUM-HICHAM/EUROSPORT-1.png" group-title="DS SPORTS",EUROSPORT 1 HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=811930&extension=ts&play_token=5qpGnIUcGQ
+
+#EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-name="EuroSport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-2-uk.png" group-title="DS SPORTS" ,EuroSport 2
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium42/index.m3u8
+
+#EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-name="Fox Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="DS SPORTS" ,Fox Sports 1
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium39/index.m3u8
+#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-name="Fox Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="DS SPORTS" ,Fox Sports 2
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium758/index.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="novasports1.gr" tvg-name="novasport.gr" tvg-logo="https://i.postimg.cc/XvBrvCp0/20240114-104445.png" group-title="DS SPORTS",Nova Sport 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.onlinehdhls.ru/lb/premium631/index.m3u8|Origin=https://lewblivehdplay.ru
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="novasports2.gr" tvg-name="novasport.gr" tvg-logo="https://i.postimg.cc/qqwRFcZ2/20240114-104721.png" group-title="DS SPORTS",Nova Sport 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.onlinehdhls.ru/lb/premium632/index.m3u8|Origin=https://lewblivehdplay.ru
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="novasports3.gr" tvg-name="novasport.gr" tvg-logo="https://i.postimg.cc/6qW6C25q/20240114-104838.png" group-title="DS SPORTS",Nova Sport 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.onlinehdhls.ru/lb/premium633/index.m3u8|Origin=https://lewblivehdplay.ru
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="novasports4.gr" tvg-name="novasport.gr" tvg-logo="https://i.postimg.cc/fyRZJGB0/20240114-105038.png" group-title="DS SPORTS",Nova Sport 4 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.onlinehdhls.ru/lb/premium634/index.m3u8|Origin=https://lewblivehdplay.ru
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="novasports5.gr" tvg-name="novasport.gr" tvg-logo="https://i.postimg.cc/0NKCqrvz/20240114-105205.png" group-title="DS SPORTS",Nova Sport 5 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.onlinehdhls.ru/lb/premium635/index.m3u8|Origin=https://lewblivehdplay.ru
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="FR: Amazon Prime 1" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="DS SPORTS",FR: Amazon Prime 1
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298718
+#EXTINF:-1 tvg-id="" tvg-name="FR: Amazon Prime 2" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="DS SPORTS",FR: Amazon Prime 2
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298719
+#EXTINF:-1 tvg-id="" tvg-name="FR: Amazon Prime 3" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="DS SPORTS",FR: Amazon Prime 3
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298720
+#EXTINF:-1 tvg-id="" tvg-name="FR: Amazon Prime 4" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="DS SPORTS",FR: Amazon Prime 4
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298721
+#EXTINF:-1 tvg-id="" tvg-name="FR: Amazon Prime 5" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="DS SPORTS",FR: Amazon Prime 5
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298722
+#EXTINF:-1 tvg-id="" tvg-name="FR: Amazon Prime 6" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="DS SPORTS",FR: Amazon Prime 6
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298723
+#EXTINF:-1 tvg-id="" tvg-name="FR: Amazon Prime 7" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="DS SPORTS",FR: Amazon Prime 7
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298724
+#EXTINF:-1 tvg-id="" tvg-name="FR: Amazon Prime 8" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="DS SPORTS",FR: Amazon Prime 8
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/299259
+#EXTINF:-1 tvg-id="" tvg-name="FR: Amazon Prime Multiplex" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="DS SPORTS",FR: Amazon Prime Multiplex
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/302775
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d40f4a64bc712ca477fcb4e7412b5ccc.png" group-title="DS SPORTS",FR: beIN Sports 1
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/144
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/0546311aed22a274b1e87d23c33dd475.png" group-title="DS SPORTS",FR: beIN Sports 2
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/145
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e36554e2468737a5a1e4a41112d673a5.png" group-title="DS SPORTS",FR: beIN Sports 3
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/146
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports Max 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d1e2a161fa7650f78d827bb7e8cd3c21.png" group-title="DS SPORTS",FR: beIN Sports Max 4
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/3599
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports Max 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c8cadfdb308ce51abcaac8220528833e.png" group-title="DS SPORTS",FR: beIN Sports Max 5
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/6083
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports Max 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/6250ce9aa48d84200378db8e1c293ecb.png" group-title="DS SPORTS",FR: beIN Sports Max 6
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/4368
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports Max 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b2834f48777b3cd3bd463f5f88a80a2d.png" group-title="DS SPORTS",FR: beIN Sports Max 7
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/4369
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports Max 8" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7b8e9459b28777e8b6123dd030b7b88d.png" group-title="DS SPORTS",FR: beIN Sports Max 8
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/4370
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports Max 9" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/6373a7564fe06eaffa6429200895b1ab.png" group-title="DS SPORTS",FR: beIN Sports Max 9
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/4371
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports Max 10" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/188bf35c841af13de45c2cf86e7438b5.png" group-title="DS SPORTS",FR: beIN Sports Max 10
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/6088
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Premier League" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/7818fcb393391e3a63a512f8a92f0b7e.png" group-title="DS SPORTS",FR: CANAL+ Premier League
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/286794
+#EXTINF:-1 tvg-id="" tvg-name="FR: DAZN 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/7aefbb0cf5cf2dd8bfc55516e278cb6f.png" group-title="DS SPORTS",FR: DAZN 1
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/54437
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Foot" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/d49d78f77d93aa02508cbc68083a7be2.png" group-title="DS SPORTS",FR: CANAL+ Foot
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/297371
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Sport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/567fa14e0c1befb33fd593795f63452b.png" group-title="DS SPORTS",FR: CANAL+ Sport
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/143
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Sport 360" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/c5e0963b89951b3efa29b9cda6103926.png" group-title="DS SPORTS",FR: CANAL+ Sport 360
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/297378
+#EXTINF:-1 tvg-id="" tvg-name="FR: Equidia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/1ddef849a00352201b3b798d282e198d.png" group-title="DS SPORTS",FR: Equidia
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/276130
+#EXTINF:-1 tvg-id="" tvg-name="FR: Equidia Pro" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/55d057e54d3083b43b4239162e04e567.png" group-title="DS SPORTS",FR: Equidia Pro
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/297555
+#EXTINF:-1 tvg-id="" tvg-name="FR: Eurosport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3d2dd1a15808bb3cd6e42748df2357b3.png" group-title="DS SPORTS",FR: Eurosport 1
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/151
+#EXTINF:-1 tvg-id="" tvg-name="FR: Eurosport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/bcd6a910facfc361db274a32e5207ffd.png" group-title="DS SPORTS",FR: Eurosport 2
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1195
+#EXTINF:-1 tvg-id="" tvg-name="FR: Golf Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/004c3db0072c16475396c8bc5757637e.png" group-title="DS SPORTS",FR: Golf Channel
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/279613
+#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF+" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3d5b56071d971d8a599b10a1899d5d3a.png" group-title="DS SPORTS",FR: GOLF+
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1934
+#EXTINF:-1 tvg-id="" tvg-name="FR: InfoSport+" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7df8da393b3d045034a8e69b0d696339.png" group-title="DS SPORTS",FR: InfoSport+
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1190
+#EXTINF:-1 tvg-id="" tvg-name="FR: Journal Du Golf" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="DS SPORTS",FR: Journal Du Golf
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306160
+#EXTINF:-1 tvg-id="" tvg-name="FR: L Equipe" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/178f928a62f52d799267bd28e414af94.png" group-title="DS SPORTS",FR: L Equipe
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/147
+#EXTINF:-1 tvg-id="" tvg-name="FR: L Equipe Live 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c8a7d8ddd3f46b97a03e3327b9765f98.png" group-title="DS SPORTS",FR: L Equipe Live 1
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298757
+#EXTINF:-1 tvg-id="" tvg-name="FR: L Equipe Live 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/4019d9f13f12d69759aea165bc2892a0.png" group-title="DS SPORTS",FR: L Equipe Live 2
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298758
+#EXTINF:-1 tvg-id="" tvg-name="FR: OLPLAY" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/7604f43eca40782f93d0cc41a62ac4a6.jpg" group-title="DS SPORTS",FR: OLPLAY
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/304147
+#EXTINF:-1 tvg-id="" tvg-name="FR: Olympia TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-10/294ed601157952e90910e317ad5d1d9e.png" group-title="DS SPORTS",FR: Olympia TV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/281599
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/1cad6854257abb1574eb6e54efcdc7d5.png" group-title="DS SPORTS",FR: RMC SPORT 1
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1937
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a543a1274e30e7a0225d06882c0a5f5c.png" group-title="DS SPORTS",FR: RMC SPORT 2
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1938
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/ed9835d693546034bdf25efb8b3a7064.png" group-title="DS SPORTS",FR: RMC SPORT 3
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/279991
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/73cffa5f211ea7a500efc57624d1085b.png" group-title="DS SPORTS",FR: RMC SPORT 4
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/279752
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/78b9cea6671e86c0d7e66912be2d5d75.png" group-title="DS SPORTS",FR: RMC SPORT 5
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1940
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE Sport Stars" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8fc45d7ab0d5401b97b5485e558e0fa3.png" group-title="DS SPORTS",FR: TRACE Sport Stars
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/12002
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB Xplore" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/fef181fcf655d5402f0a116694ff7afc.png" group-title="DS SPORTS",FR: AB Xplore
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/23418
+#EXTINF:-1 tvg-id="" tvg-name="FR: Automoto" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a996bc01a1c1e18fcc91262b948ef99c.png" group-title="DS SPORTS",FR: Automoto
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/148
+#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE+ A&E" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/caa81ae909cf98ec95ec633cdda8c6eb.png" group-title="DS SPORTS",FR: PLANETE+ A&E
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1181
+#EXTINF:-1 tvg-id="" tvg-name="FR: Sport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/f032bce66929c88ac54c58647b741189.png" group-title="DS SPORTS",FR: Sport
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/187484
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="DS SPORTS",BEIN SPORT 1 
+http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/127016
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="DS SPORTS",BEIN SPORT 2 
+http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/127017
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="DS SPORTS",BEIN SPORT 3 
+http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/127018
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="DS SPORTS",EUROSPORT 1 
+http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/127026
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="DS SPORTS",EUROSPORT 2 
+http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/127027
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="DS SPORTS",INFOSPORT+ 
+http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/127029
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="DS SPORTS",L EQUIPE 21 
+http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/127030
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="DS SPORTS",EQUIDIA LIVE 
+http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/127031
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="DS SPORTS",AUTOMOTO
+http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/127032
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="DS SPORTS",GOLF+
+http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/127033
+#EXTINF:-1 tvg-chno="300" tvg-logo="https://i.imgur.com/tM9y14c.png" tvg-country="FR" group-title="DS SPORTS",LE GRAND DIRECT
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
+#EXTINF:-1 tvg-chno="301" tvg-logo="https://i.imgur.com/97ZUGVj.png" tvg-country="FR" group-title="DS SPORTS",RACING GALOP
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racinggalop.m3u8
+#EXTINF:-1 tvg-chno="302" tvg-logo="https://i.imgur.com/pvVTk1r.png" tvg-country="FR" group-title="DS SPORTS",RACING MAG
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8
+#EXTINF:-1 tvg-chno="303" tvg-logo="https://i.imgur.com/KiZp1nY.png" tvg-country="FR" group-title="DS SPORTS",RACING TROT
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingtrot.m3u8
+#EXTINF:-1 tvg-chno="311" tvg-logo="https://i.imgur.com/slLJJXj.png" tvg-country="FR" group-title="DS SPORTS",RACING 1 [NOT 24/7]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing1.m3u8
+#EXTINF:-1 tvg-chno="312" tvg-logo="https://i.imgur.com/DZXeQKu.png" tvg-country="FR" group-title="DS SPORTS",RACING 2 [NOT 24/7]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing2.m3u8
+#EXTINF:-1 tvg-chno="313" tvg-logo="https://i.imgur.com/c8wlnCf.png" tvg-country="FR" group-title="DS SPORTS",RACING 3 [NOT 24/7]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing3.m3u8
+#EXTINF:-1 tvg-chno="314" tvg-logo="https://i.imgur.com/u6j80kx.png" tvg-country="FR" group-title="DS SPORTS",RACING 4 [NOT 24/7]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing4.m3u8
+#EXTINF:-1 tvg-chno="315" tvg-logo="https://i.imgur.com/YU1cMYO.png" tvg-country="FR" group-title="DS SPORTS",RACING 5 [NOT 24/7]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing5.m3u8
+#EXTINF:-1 tvg-chno="316" tvg-logo="https://i.imgur.com/4xO7aRX.png" tvg-country="FR" group-title="DS SPORTS",RACING 6 [NOT 24/7]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing6.m3u8
 
 
 
